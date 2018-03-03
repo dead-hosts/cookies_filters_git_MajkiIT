@@ -1,7 +1,6 @@
 {
     "/home/travis/build/dead-hosts/cookies_filters_git_MajkiIT/cookies_filters.list": {
-        "1519748946": [
-            "kinomix.pl",
+        "1520094645": [
             "olsztyn.pl",
             "pecetowiec.pl",
             "siemianowice.pl",
@@ -9,6 +8,9 @@
             "waw.pl",
             "wios.gov.pl",
             "zs1zos.pl"
+        ],
+        "to_test": [
+            "kinomix.pl"
         ]
     }
 }
