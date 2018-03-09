@@ -1,16 +1,12 @@
 {
     "/home/travis/build/dead-hosts/cookies_filters_git_MajkiIT/cookies_filters.list": {
-        "1520440327": [
-            "olsztyn.pl",
-            "pecetowiec.pl",
-            "siemianowice.pl",
+        "1520613287": [
             "stypendia.sejmik.kielce.pl",
             "waw.pl",
-            "wios.gov.pl",
-            "zs1zos.pl"
+            "wios.gov.pl"
         ],
         "to_test": [
-            "kinomix.pl"
+            "olsztyn.pl"
         ]
     }
 }
