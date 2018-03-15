@@ -1,13 +1,22 @@
 {
     "/home/travis/build/dead-hosts/cookies_filters_git_MajkiIT/cookies_filters.list": {
-        "1520958990": [
+        "1521131777": [
+            "forum.mcwiki.pl",
+            "iom.pl",
+            "kalisz.pl",
+            "kartuzy.pl",
+            "kinofilmyonline.pl",
+            "legnica.pl",
+            "lomza.pl",
+            "mazury.pl"
+        ],
+        "to_test": [
+            "olsztyn.pl",
             "siemianowice.pl",
             "stypendia.sejmik.kielce.pl",
             "waw.pl",
-            "wios.gov.pl"
-        ],
-        "to_test": [
-            "olsztyn.pl"
+            "wios.gov.pl",
+            "feuvert.pl"
         ]
     }
 }
