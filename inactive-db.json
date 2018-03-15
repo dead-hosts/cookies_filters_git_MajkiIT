@@ -8,14 +8,20 @@
             "kinofilmyonline.pl",
             "legnica.pl",
             "lomza.pl",
-            "mazury.pl"
-        ],
-        "to_test": [
+            "mazury.pl",
             "olsztyn.pl",
+            "pl",
+            "santander24.pl",
             "siemianowice.pl",
+            "slupsk.pl",
+            "sosnowiec.pl",
             "stypendia.sejmik.kielce.pl",
+            "tenajlepsze.pl",
             "waw.pl",
             "wios.gov.pl",
+            "wszechpolska.pl"
+        ],
+        "to_test": [
             "feuvert.pl"
         ]
     }
