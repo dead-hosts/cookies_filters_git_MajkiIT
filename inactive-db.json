@@ -10,9 +10,7 @@
             "lomza.pl",
             "mazury.pl",
             "olsztyn.pl",
-            "pl"
-        ],
-        "to_test": [
+            "pl",
             "santander24.pl",
             "siemianowice.pl",
             "slupsk.pl",
@@ -21,7 +19,9 @@
             "tenajlepsze.pl",
             "waw.pl",
             "wios.gov.pl",
-            "wszechpolska.pl",
+            "wszechpolska.pl"
+        ],
+        "to_test": [
             "feuvert.pl"
         ]
     }
