@@ -10,7 +10,8 @@
             "mazury.pl",
             "olsztyn.pl",
             "feuvert.pl",
-            "pl"
+            "pl",
+            "iom.pl"
         ],
         "to_test": [
             "santander24.pl",
