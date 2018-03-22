@@ -11,10 +11,10 @@
             "olsztyn.pl",
             "feuvert.pl",
             "pl",
-            "iom.pl"
+            "iom.pl",
+            "santander24.pl"
         ],
         "to_test": [
-            "santander24.pl",
             "siemianowice.pl",
             "slupsk.pl",
             "sosnowiec.pl",
