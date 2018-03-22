@@ -12,10 +12,10 @@
             "feuvert.pl",
             "pl",
             "iom.pl",
-            "santander24.pl"
+            "santander24.pl",
+            "siemianowice.pl"
         ],
         "to_test": [
-            "siemianowice.pl",
             "slupsk.pl",
             "sosnowiec.pl",
             "stypendia.sejmik.kielce.pl",
