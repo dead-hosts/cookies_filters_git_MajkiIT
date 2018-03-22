@@ -13,8 +13,7 @@
             "pl",
             "iom.pl",
             "santander24.pl",
-            "siemianowice.pl",
-            "ammoffice.pl"
+            "siemianowice.pl"
         ],
         "to_test": [
             "slupsk.pl",
