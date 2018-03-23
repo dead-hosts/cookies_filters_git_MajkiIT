@@ -14,7 +14,8 @@
             "iom.pl",
             "santander24.pl",
             "siemianowice.pl",
-            "abt-s.pl"
+            "abt-s.pl",
+            "kinoteka.pl"
         ],
         "to_test": [
             "slupsk.pl",
