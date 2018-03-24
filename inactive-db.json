@@ -14,7 +14,8 @@
             "santander24.pl",
             "siemianowice.pl",
             "slupsk.pl",
-            "abt-s.pl"
+            "abt-s.pl",
+            "feuvert.pl"
         ],
         "to_test": [
             "sosnowiec.pl",
