@@ -6,13 +6,12 @@
             "iom.pl",
             "kalisz.pl",
             "kartuzy.pl",
-            "kinofilmyonline.pl",
             "legnica.pl",
             "lomza.pl",
             "mazury.pl",
             "olsztyn.pl",
             "pl",
-            "jak-ksiegowac.pl"
+            "abt-s.pl"
         ],
         "to_test": [
             "sosnowiec.pl",
