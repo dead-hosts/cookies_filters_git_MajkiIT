@@ -14,10 +14,10 @@
             "olsztyn.pl",
             "santander24.pl",
             "siemianowice.pl",
-            "abt-s.pl"
+            "abt-s.pl",
+            "slupsk.pl"
         ],
         "to_test": [
-            "slupsk.pl",
             "sosnowiec.pl",
             "stypendia.sejmik.kielce.pl",
             "tenajlepsze.pl",
