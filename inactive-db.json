@@ -11,8 +11,8 @@
             "lomza.pl",
             "mazury.pl",
             "olsztyn.pl",
-            "abt-s.pl",
-            "pl"
+            "pl",
+            "jak-ksiegowac.pl"
         ],
         "to_test": [
             "sosnowiec.pl",
