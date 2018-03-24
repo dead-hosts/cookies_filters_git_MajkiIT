@@ -11,7 +11,8 @@
             "mazury.pl",
             "olsztyn.pl",
             "pl",
-            "kinofilmyonline.pl"
+            "kinofilmyonline.pl",
+            "abt-s.pl"
         ],
         "to_test": [
             "sosnowiec.pl",
