@@ -1,6 +1,7 @@
 {
     "/home/travis/build/dead-hosts/cookies_filters_git_MajkiIT/cookies_filters.list": {
-        "1521823190": [
+        "1521909867": [
+            "feuvert.pl",
             "forum.mcwiki.pl",
             "iom.pl",
             "kalisz.pl",
@@ -9,13 +10,7 @@
             "legnica.pl",
             "lomza.pl",
             "mazury.pl",
-            "pl",
-            "olsztyn.pl",
-            "santander24.pl",
-            "siemianowice.pl",
-            "slupsk.pl",
-            "abt-s.pl",
-            "feuvert.pl"
+            "olsztyn.pl"
         ],
         "to_test": [
             "sosnowiec.pl",
@@ -23,7 +18,12 @@
             "tenajlepsze.pl",
             "waw.pl",
             "wios.gov.pl",
-            "wszechpolska.pl"
+            "wszechpolska.pl",
+            "pl",
+            "santander24.pl",
+            "siemianowice.pl",
+            "slupsk.pl",
+            "abt-s.pl"
         ]
     }
 }
