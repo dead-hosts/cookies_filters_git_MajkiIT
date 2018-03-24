@@ -15,8 +15,7 @@
             "santander24.pl",
             "siemianowice.pl",
             "slupsk.pl",
-            "abt-s.pl",
-            "info24.rzeszow.pl"
+            "abt-s.pl"
         ],
         "to_test": [
             "sosnowiec.pl",
