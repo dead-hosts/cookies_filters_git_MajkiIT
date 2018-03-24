@@ -10,7 +10,9 @@
             "legnica.pl",
             "lomza.pl",
             "mazury.pl",
-            "olsztyn.pl"
+            "olsztyn.pl",
+            "abt-s.pl",
+            "pl"
         ],
         "to_test": [
             "sosnowiec.pl",
@@ -19,11 +21,9 @@
             "waw.pl",
             "wios.gov.pl",
             "wszechpolska.pl",
-            "pl",
             "santander24.pl",
             "siemianowice.pl",
-            "slupsk.pl",
-            "abt-s.pl"
+            "slupsk.pl"
         ]
     }
 }
