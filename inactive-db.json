@@ -1,18 +1,17 @@
 {
     "/home/travis/build/dead-hosts/cookies_filters_git_MajkiIT/cookies_filters.list": {
-        "1521909867": [
+        "1521997195": [
             "feuvert.pl",
             "forum.mcwiki.pl",
             "iom.pl",
             "kalisz.pl",
             "kartuzy.pl",
+            "kinofilmyonline.pl",
             "legnica.pl",
             "lomza.pl",
             "mazury.pl",
             "olsztyn.pl",
-            "pl",
-            "kinofilmyonline.pl",
-            "abt-s.pl"
+            "pl"
         ],
         "to_test": [
             "sosnowiec.pl",
@@ -23,7 +22,8 @@
             "wszechpolska.pl",
             "santander24.pl",
             "siemianowice.pl",
-            "slupsk.pl"
+            "slupsk.pl",
+            "abt-s.pl"
         ]
     }
 }
