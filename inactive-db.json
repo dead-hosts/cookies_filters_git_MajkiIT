@@ -11,7 +11,8 @@
             "lomza.pl",
             "mazury.pl",
             "olsztyn.pl",
-            "pl"
+            "pl",
+            "abt-s.pl"
         ],
         "to_test": [
             "sosnowiec.pl",
@@ -22,8 +23,7 @@
             "wszechpolska.pl",
             "santander24.pl",
             "siemianowice.pl",
-            "slupsk.pl",
-            "abt-s.pl"
+            "slupsk.pl"
         ]
     }
 }
