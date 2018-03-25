@@ -12,7 +12,8 @@
             "mazury.pl",
             "olsztyn.pl",
             "pl",
-            "abt-s.pl"
+            "abt-s.pl",
+            "chceauto.pl"
         ],
         "to_test": [
             "sosnowiec.pl",
