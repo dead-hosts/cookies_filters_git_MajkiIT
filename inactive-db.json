@@ -12,7 +12,8 @@
             "legnica.pl",
             "lomza.pl",
             "olsztyn.pl",
-            "abt-s.pl"
+            "abt-s.pl",
+            "santander24.pl"
         ],
         "to_test": [
             "sosnowiec.pl",
@@ -21,7 +22,6 @@
             "waw.pl",
             "wios.gov.pl",
             "wszechpolska.pl",
-            "santander24.pl",
             "siemianowice.pl",
             "slupsk.pl"
         ]
