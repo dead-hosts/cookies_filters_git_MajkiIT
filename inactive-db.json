@@ -11,8 +11,7 @@
             "kinofilmyonline.pl",
             "legnica.pl",
             "lomza.pl",
-            "olsztyn.pl",
-            "abt-s.pl"
+            "olsztyn.pl"
         ],
         "to_test": [
             "sosnowiec.pl",
