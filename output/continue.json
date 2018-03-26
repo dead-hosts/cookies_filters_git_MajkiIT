@@ -1,8 +1,8 @@
 {
     "/home/travis/build/dead-hosts/cookies_filters_git_MajkiIT/cookies_filters.list": {
-        "number_of_down": 19,
-        "number_of_invalid": 1,
-        "number_of_tested": 1333,
-        "number_of_up": 1313
+        "number_of_down": 10,
+        "number_of_invalid": 0,
+        "number_of_tested": 645,
+        "number_of_up": 635
     }
 }
