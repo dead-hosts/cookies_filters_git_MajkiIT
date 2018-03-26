@@ -2,7 +2,16 @@
     "/home/travis/build/dead-hosts/cookies_filters_git_MajkiIT/cookies_filters.list": {
         "1522083623": [
             "mazury.pl",
-            "pl"
+            "pl",
+            "feuvert.pl",
+            "forum.mcwiki.pl",
+            "iom.pl",
+            "kalisz.pl",
+            "kartuzy.pl",
+            "kinofilmyonline.pl",
+            "legnica.pl",
+            "lomza.pl",
+            "olsztyn.pl"
         ],
         "to_test": [
             "sosnowiec.pl",
@@ -13,17 +22,7 @@
             "wszechpolska.pl",
             "santander24.pl",
             "siemianowice.pl",
-            "slupsk.pl",
-            "forum.mcwiki.pl",
-            "kalisz.pl",
-            "kartuzy.pl",
-            "legnica.pl",
-            "lomza.pl",
-            "olsztyn.pl",
-            "kinofilmyonline.pl",
-            "iom.pl",
-            "feuvert.pl",
-            "abt-s.pl"
+            "slupsk.pl"
         ]
     }
 }
