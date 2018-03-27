@@ -12,7 +12,8 @@
             "legnica.pl",
             "lomza.pl",
             "olsztyn.pl",
-            "santander24.pl"
+            "santander24.pl",
+            "abt-s.pl"
         ],
         "to_test": [
             "sosnowiec.pl",
