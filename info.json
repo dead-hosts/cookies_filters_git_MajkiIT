@@ -1,21 +1,13 @@
 {
-    "arguments": [
-        "--travis",
-        "-a",
-        "-ad",
-        "-ex",
-        "--plain",
-        "--split",
-        "-t 2",
-        "--share-logs"
-    ],
-    "autosave_minutes": "10",
+    "arguments": ["-ad"],
     "commit_autosave_message": "Test of cookies_filters",
-    "currently_under_test": "1",
-    "days_until_next_test": "2",
+    "currently_under_test": "0",
+    "days_until_next_test": "1",
     "last_test": "1522165111",
     "list_name": "cookies_filters.list",
     "name": "cookies_filters",
     "raw_link": "https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/cookies_filters/adblock_cookies.txt",
-    "stable": "0"
+    "stable": "0",
+    "clean_original": "1",
+    "clean_list_file": "clean.list"
 }
