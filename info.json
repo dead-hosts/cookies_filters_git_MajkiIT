@@ -10,6 +10,8 @@
         "--commit-autosave-message \"[Autosave] Test of cookies_filters\"",
         "--commit-results-message \"[Results] Test of cookies_filters\"",
         "--commit-autosave-message \"[Autosave] Test of cookies_filters\"",
+        "--commit-results-message \"[Results] Test of cookies_filters\"",
+        "--commit-autosave-message \"[Autosave] Test of cookies_filters\"",
         "--commit-results-message \"[Results] Test of cookies_filters\""
     ],
     "clean_list_file": "clean.list",
@@ -17,7 +19,7 @@
     "commit_autosave_message": "Test of cookies_filters",
     "currently_under_test": "0",
     "days_until_next_test": "1",
-    "last_test": "1523465089",
+    "last_test": "1523637941",
     "list_name": "cookies_filters.list",
     "name": "cookies_filters",
     "raw_link": "https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/cookies_filters/adblock_cookies.txt",
