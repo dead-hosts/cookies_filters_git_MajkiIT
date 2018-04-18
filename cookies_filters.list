@@ -16,7 +16,7 @@ Discord
 License:
 Copyright
 Najnowsza
-v.201804111822
+v.201804162124
 !
 !
 Dołączenie
@@ -346,6 +346,7 @@ in4.pl
 info.wiara.pl
 info24.rzeszow.pl
 infoludek.pl
+inksystem.pl
 instytutksiazki.pl
 instytutlogopedyczny.pl
 interhandler.pl
@@ -404,7 +405,7 @@ kinoteka.pl
 kinoteka.pl
 kkm.krakow.pl
 klockolandia.pl
-klodzko24.eu
+klodzko24.eu,nowaruda24.pl,amrest.eu
 klopsztanga.eu
 klublifestyle.pl
 kobieta.byc.pl
@@ -518,6 +519,7 @@ mggp.com.pl
 mggp.com.pl
 miastograf.pl
 miastons.pl
+michalgrabarski.eu
 mikos.com.pl
 mini-itx.com.pl
 ministerstworeklamy.pl
@@ -586,7 +588,6 @@ noclegi24h.pl
 nomi.pl
 nowaostroleka.pl
 nowapapiernia.pl
-nowaruda24.pl
 nowehoryzonty.pl
 noweprzetargi.pl
 noweprzetargi.pl
@@ -892,6 +893,7 @@ tylkotorebki.pl
 tysiagotuje.pl
 ubuntu.pl
 uk.ign.com
+um.jaslo.pl
 uni-tech.pl
 unitour.pl
 upc.pl
@@ -1028,6 +1030,7 @@ cookie-law-popup.js$script
 ||ciasteczkowapolityka.pl/getscript$script
 ||consent.truste.com/get?name=notice.js$script
 ||cookie.bortos.pl/*cookie*.js$script
+||cookiebanner.eu/js/cookiebanner.min.js
 ||cookieq.com^$third-party
 ||cookies.komputerswiat.pl/checkCookie$script
 ||eurocookie.galilcloud.wixapps.net/pages/widget/views/widget.html
