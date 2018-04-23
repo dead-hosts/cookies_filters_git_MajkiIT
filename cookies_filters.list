@@ -16,7 +16,7 @@ Discord
 License:
 Copyright
 Najnowsza
-v.201804211426
+v.201804222250
 !
 !
 Dołączenie
@@ -389,6 +389,7 @@ kabam.com
 kabar.pl
 kalendarzswiat.pl
 kalisz.pl
+kalkulator.wakacyjnapolisa.pl
 kamilianie.eu
 kappahl.com
 karmimypsiaki.pl
@@ -1115,8 +1116,6 @@ pl
 Whitelist
 foxnews.com
 iculture.nl
-iculture.nl
-interhotel.pl
 letsplej.pl,telepizza.pl
 lomza.pl
 lycos.de,lycos.com
@@ -1124,14 +1123,13 @@ opencraft.pl
 orange.pl
 orange.pl
 orange.pl
-orange.pl,taat.pl,bskrasnosielc.pl
+orange.pl,taat.pl,bskrasnosielc.pl,iculture.nl,interhotel.pl,puma.com,bestcena.pl
 pokemon.com
-puma.com
 redbullmobilecollect.pl
 tchibo.de
 topics.nl
 tychy.geminipark.pl
-@@/plugins/uk-cookie-consent/assets/js/uk-cookie-consent-js.js$script,domain=escaperooms.pl|xboxarcade.pl|naziemna.info|3dwpraktyce.pl|tvs.pl|przegladbaltycki.pl
+@@/plugins/uk-cookie-consent/assets/js/uk-cookie-consent-js.js$script,domain=escaperooms.pl|xboxarcade.pl|naziemna.info|3dwpraktyce.pl|tvs.pl|przegladbaltycki.pl|wypowiadamoc.pl
 @@/wp-content/plugins/cookie-law-info/js/cookielawinfo.js$script
 @@/_js/lib/cookie.js$script,domain=e.dorzeczy.pl|e.wprost.pl
 @@||arimr.gov.pl/fileadmin/templates/js/cookie.js$script
