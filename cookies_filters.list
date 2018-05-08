@@ -16,7 +16,7 @@ Discord
 License:
 Copyright
 Najnowsza
-v.201805061404
+v.201805072304
 !
 !
 Dołączenie
@@ -704,6 +704,7 @@ powietrze.katowice.wios.gov.pl
 poxilina.com.pl
 pozegnania.net
 poznan.lasy.gov.pl
+pracatobie.pl
 praktiker.pl
 praktiker.pl
 prawdaobiektywna.pl
@@ -1146,6 +1147,7 @@ tychy.geminipark.pl
 @@/plugins/uk-cookie-consent/assets/js/uk-cookie-consent-js.js$script,domain=escaperooms.pl|xboxarcade.pl|naziemna.info|3dwpraktyce.pl|tvs.pl|przegladbaltycki.pl|wypowiadamoc.pl
 @@/wp-content/plugins/cookie-law-info/js/cookielawinfo.js$script
 @@||coinroom.com/Modules/UI/Cookie/Cookie.js$script
+@@||pracatobie.pl/jscripts/cookieLaws.js
 !
 !
 Blocking
