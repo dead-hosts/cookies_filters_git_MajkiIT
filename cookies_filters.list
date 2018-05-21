@@ -16,7 +16,7 @@ Discord
 License:
 Copyright
 Najnowsza
-v.201805162336
+v.201805201847
 !
 !
 Dołączenie
@@ -73,6 +73,7 @@ bartix.pl
 baza-krs.pl
 bbcpolska.com
 bcc.com.pl
+bdl.lasy.gov.pl
 beskidzkapilka.pl
 betsson.com
 bibliotekaleczyca.pl
@@ -1076,9 +1077,11 @@ cookie-law-popup.js$script
 !
 !
 Privacy
-komputerswiat.pl,onet.pl,newsweek.pl,fakt.pl,literia.pl,verdykt.pl,plejada.pl,forbes.pl,onetontour.pl,przegladsportowy.pl,auto-swiat.pl,ofeminin.pl,nk.pl,noizz.pl,skapiec.pl,zumi.pl,opineo.pl
+interia.pl
+komputerswiat.pl,onet.pl,newsweek.pl,fakt.pl,literia.pl,verdykt.pl,plejada.pl,forbes.pl,onetontour.pl,przegladsportowy.pl,auto-swiat.pl,ofeminin.pl,nk.pl,noizz.pl,skapiec.pl,zumi.pl,opineo.pl,medonet.pl,softonet.pl,pclab.pl,businessinsider.com.pl
 ||a.wpimg.pl/a/i/stg/wpjslib-chunk-consent-form.js
-||std.wpcdn.pl/wpjslib/wpjslib-chunk-consent-form.js
+||cdn.rp.pl/rodo-agreement-popup/rodo-agreement-popup.min.js
+||std.wpcdn.pl/wpjslib/*wpjslib-chunk-consent-form.js
 !
 !
 General
