@@ -16,7 +16,7 @@ Discord
 License:
 Copyright
 Najnowsza
-v.201806101247
+v.201806121353
 !
 !
 Dołączenie
@@ -200,6 +200,7 @@ epuap.gov.pl
 erboristeriamagentina.it
 ergokantor.pl
 eservice.pl
+eskago.pl
 esklep-sbs.pl
 eteacher.pl
 eternityproject.pl
@@ -1124,6 +1125,7 @@ filmlab.com.pl,wtkplay.pl,lech.tv,obiezyswiat.org
 filmweb.pl
 firmy.lu
 foreca.pl
+fotosik.pl
 funduszpomerania.pl
 gazetalubuska.pl,dziennikbaltycki.pl,gs24.pl,echodnia.eu,pomorska.pl,nto.pl,gazetakrakowska.pl,sportowy24.pl,dzienniklodzki.pl,dziennikpolski24.pl,gloswielkopolski.pl,gol24.pl,nowiny24.pl,warszawa.naszemiasto.pl,kurierlubelski.pl,expressilustrowany.pl,gazetawroclawska.pl,poranny.pl,dziennikzachodni.pl,nowosci.com.pl,gk24.pl,to.com.pl,polskatimes.pl,expressbydgoski.pl,telemagazyn.pl,naszemiasto.pl,gp24.pl
 gb.pl
@@ -1151,6 +1153,7 @@ mall.pl
 meble.com.pl,archiconnect.pl,lazienka.pl,najlepszedomy.pl,mamkuchnie.pl
 medme.pl
 medpolonia.pl
+moviesroom.pl
 m.benchmark.pl
 naekranie.pl
 natemat.pl,aszdziennik.pl,mamadu.pl,innpoland.pl,warszawawpigulce.pl
@@ -1167,17 +1170,19 @@ pl
 pl,ki24.info,ciechocinek.biz,gniewkowo.eu,pluznica.info,nizanskie.info
 pogodynka.pl
 polskieradio.pl
+pomagam.pl
 portel.pl
+queer.pl
 radiogol.pl
 radiowroclaw.pl,radioram.pl,radiogdansk.pl
 radiozet.pl,antyradio.pl,radiostacja.pl,meloradio.pl,azorek.pl,planeta.fm,chillizet.pl
 razemztoba.pl
 rmf.fm
 salesmanago.pl
+serialowa.pl
 speedtest.net
 store.playstation.com
 szlot.pl
-tabletowo.pl
 telegazeta.pl
 telewizjarepublika.pl
 tesco.pl
@@ -1195,6 +1200,7 @@ zywiec.com.pl,heineken.com.pl
 !interia.pl,pcformat.pl,esporter.pl,rmf24.pl,cdaction.pl,pokazywarka.pl,edufinanse.pl
 !komputerswiat.pl,onet.pl,newsweek.pl,fakt.pl,literia.pl,verdykt.pl,plejada.pl,forbes.pl,onetontour.pl,przegladsportowy.pl,auto-swiat.pl,ofeminin.pl,nk.pl,noizz.pl,skapiec.pl,zumi.pl,opineo.pl,medonet.pl,softonet.pl,pclab.pl,businessinsider.com.pl,targsmaku.pl,agdlab.pl,jakdojade.pl,vod.pl,dreamlab.pl
 /rhododendron/css/rhododendron-popup.css$domain=wpolityce.pl|wgospodarce.pl|wpolsce.pl
+/rodo/*$xmlhttprequest,domain=polsat.pl|polsat1.pl|polsatfilm.pl|polsatplay.pl|polsatcafe.pl|tv4.pl|tv6.com.pl|discopolomusic.pl
 /_sess/rodo.js
 ||assets.allegrostatic.com/opbox-rodo-consent-modal/index*.css$domain=allegro.pl
 ||assets.goldenline.io/assets/user/profilingAgreement.*.js
@@ -1208,6 +1214,7 @@ zywiec.com.pl,heineken.com.pl
 ||rodo.agora.pl^$script
 ||std.wpcdn.pl/wpjslib/*wpjslib-chunk-consent-form.js
 ||whitepress.pl/common/pltk/pltk.js
+||www.serialowa.pl/wpr/wp-content/plugins/popup-maker/assets/css/site.min.css
 ||www.swiatksiazki.pl/customer/account/infoAgreement/*$xmlhttprequest
 ||www.twojapogoda.pl/rodo/*$xmlhttprequest
 ||www.wroclaw.pl/portal/themes/js/script-rodo.min.js
@@ -1311,7 +1318,7 @@ tychy.geminipark.pl
 wsensie.pl,wsensie.tv
 @@/cookie.js$domain=socialblade.com|infoplus.com.pl|arimr.gov.pl|promedica24.com.pl|emigrantpl.com|wirtualnemedia.pl|e.dorzeczy.pl|e.wprost.pl|intel.com|cdaction.pl|katowice-airport.com|myshows.me|rze.pl|nba.com
 @@/js/jquery.cookie.min.js$domain=rozklad.pkp.pl|ubi.com
-@@/plugins/uk-cookie-consent/assets/js/uk-cookie-consent-js.js$script,domain=escaperooms.pl|xboxarcade.pl|naziemna.info|3dwpraktyce.pl|tvs.pl|przegladbaltycki.pl|wypowiadamoc.pl|gazetabilgoraj.pl
+@@/plugins/uk-cookie-consent/assets/js/uk-cookie-consent-js.js$script,domain=escaperooms.pl|xboxarcade.pl|naziemna.info|3dwpraktyce.pl|tvs.pl|przegladbaltycki.pl|wypowiadamoc.pl|gazetabilgoraj.pl|serialowy.info
 @@/wp-content/plugins/cookie-law-info/js/cookielawinfo.js$script
 @@||coinroom.com/Modules/UI/Cookie/Cookie.js$script
 @@||pracatobie.pl/jscripts/cookieLaws.js
