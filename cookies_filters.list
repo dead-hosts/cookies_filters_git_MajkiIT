@@ -16,7 +16,7 @@ Discord
 License:
 Copyright
 Najnowsza
-v.201806121353
+v.201806142011
 !
 !
 Dołączenie
@@ -74,7 +74,7 @@ bardotti.pl
 bartix.pl
 baza-krs.pl
 bbcpolska.com
-bcc.com.pl
+bcc.com.pl,feuvert.pl,galeriamalta.pl,pbg-sa.pl,eurocash.pl,payup.pl
 bdl.lasy.gov.pl
 beskidzkapilka.pl
 betsson.com
@@ -231,7 +231,6 @@ fantastyka.pl
 farmacja.edu.pl
 feb.net.pl
 felgdent.com
-feuvert.pl
 fiatklubpolska.pl
 fiatklubpolska.pl
 filmweb.pl
@@ -265,7 +264,6 @@ fotojoker.pl
 futu.pl
 gaj-stal.com
 galerialimonka.pl
-galeriamalta.pl
 gamedot.pl
 gameplay.pl
 gaming.youtube.com
@@ -353,6 +351,7 @@ hurtowniateleinformatyczna.pl
 iab.org.pl,iabpolska.pl
 ibm.com
 ibm.com
+icppc.pl
 ideanord.com.pl
 id.sonyentertainmentnetwork.com
 ign.org.pl
@@ -524,6 +523,7 @@ mcksokol.pl,muzeum.sacz.pl
 mc-2.pl
 mediamarkt.pl
 mediasystems.pl
+medpytania.pl,mymedic.pl
 megawrzuta.pl
 mega-com.eu
 memoinfo.pl
@@ -661,7 +661,6 @@ pap.pl
 parkhandlowylomza.pl
 parkhotel.bydgoszcz.pl
 parp.gov.pl
-pbg-sa.pl
 pccentre.pl
 pcoutlet.pl
 pebx.pl
@@ -890,6 +889,7 @@ tesco.pl
 tesco.pl
 testhub.pl
 testigo.pl
+testujemy.biedronka.pl
 tge.com.pl
 thebestmp3.pl
 theregister.co.uk
@@ -1106,6 +1106,7 @@ automo.pl,autobaza.pl
 auto-swiat.pl
 bryk.pl,interia.pl,pokazywarka.pl
 certum.pl
+chomikuj.pl
 cos.pl
 demotywatory.pl,fabrykamemow.pl,faktopedia.pl,piekielni.pl,mklr.pl,rebelianci.org,kotburger.pl,mistrzowie.org,joemonster.org,komixxy.pl,retro.pewex.pl,stylowi.pl,memy.pl
 diver.net.pl
@@ -1120,14 +1121,16 @@ elka.pl,elka.tv
 emt-systems.pl
 epoznan.pl
 epuap.gov.pl
-fantasy.ekstraklasa.tv
+fantasy.ekstraklasa.tv,trojmiasto.pl
 filmlab.com.pl,wtkplay.pl,lech.tv,obiezyswiat.org
 filmweb.pl
+finansowysupermarket.pl
 firmy.lu
 foreca.pl
 fotosik.pl
 funduszpomerania.pl
-gazetalubuska.pl,dziennikbaltycki.pl,gs24.pl,echodnia.eu,pomorska.pl,nto.pl,gazetakrakowska.pl,sportowy24.pl,dzienniklodzki.pl,dziennikpolski24.pl,gloswielkopolski.pl,gol24.pl,nowiny24.pl,warszawa.naszemiasto.pl,kurierlubelski.pl,expressilustrowany.pl,gazetawroclawska.pl,poranny.pl,dziennikzachodni.pl,nowosci.com.pl,gk24.pl,to.com.pl,polskatimes.pl,expressbydgoski.pl,telemagazyn.pl,naszemiasto.pl,gp24.pl
+garwolin.spolem.org.pl
+gazetalubuska.pl,dziennikbaltycki.pl,gs24.pl,echodnia.eu,pomorska.pl,nto.pl,gazetakrakowska.pl,sportowy24.pl,dzienniklodzki.pl,dziennikpolski24.pl,gloswielkopolski.pl,gol24.pl,nowiny24.pl,warszawa.naszemiasto.pl,kurierlubelski.pl,expressilustrowany.pl,gazetawroclawska.pl,poranny.pl,dziennikzachodni.pl,nowosci.com.pl,gk24.pl,to.com.pl,polskatimes.pl,expressbydgoski.pl,telemagazyn.pl,naszemiasto.pl,gp24.pl,gratka.pl
 gb.pl
 gieldarolna.pl
 gofin.pl
@@ -1156,7 +1159,7 @@ medpolonia.pl
 moviesroom.pl
 m.benchmark.pl
 naekranie.pl
-natemat.pl,aszdziennik.pl,mamadu.pl,innpoland.pl,warszawawpigulce.pl
+natemat.pl,aszdziennik.pl,mamadu.pl,innpoland.pl,warszawawpigulce.pl,joemonster.org
 neonet.pl
 neosite.pl,ppe.pl,terazmuzyka.pl
 niezalezna.pl,gpcodziennie.pl
@@ -1171,7 +1174,9 @@ pl,ki24.info,ciechocinek.biz,gniewkowo.eu,pluznica.info,nizanskie.info
 pogodynka.pl
 polskieradio.pl
 pomagam.pl
+portaltatrzanski.pl
 portel.pl
+pz.gov.pl
 queer.pl
 radiogol.pl
 radiowroclaw.pl,radioram.pl,radiogdansk.pl
@@ -1180,6 +1185,7 @@ razemztoba.pl
 rmf.fm
 salesmanago.pl
 serialowa.pl
+sklepyabc.pl
 speedtest.net
 store.playstation.com
 szlot.pl
@@ -1190,7 +1196,8 @@ tvp.info,tvp.pl
 tygodnikpowszechny.pl
 virustotal.com
 weather.com
-wio.waw.pl,ciechanowinaczej.pl,lowicz24.eu
+weekendfm.pl
+wio.waw.pl,ciechanowinaczej.pl,lowicz24.eu,szczecinek.com
 wm.pl,przyszloscdladzieci.org,familie.pl,naszolsztyniak.pl,gazetaolsztynska.pl
 wpolityce.pl,wgospodarce.pl,wpolsce.pl
 wunderground.com,weather.com
@@ -1205,6 +1212,7 @@ zywiec.com.pl,heineken.com.pl
 ||assets.allegrostatic.com/opbox-rodo-consent-modal/index*.css$domain=allegro.pl
 ||assets.goldenline.io/assets/user/profilingAgreement.*.js
 ||a.wpimg.pl/a/i/stg/wpjslib-chunk-consent-form.js
+||a.wpimg.pl/a/i/stg/wpjslib-chunk-notification.js
 ||cdn.rp.pl/rodo-agreement-popup/rodo-agreement-popup.min.js
 ||cookie.avt.pl/cookie-noscript
 ||kochamwroclaw.pl/wp-content/plugins/surbma-yes-no-popup/css/styles.css
@@ -1213,6 +1221,7 @@ zywiec.com.pl,heineken.com.pl
 ||player.pl/playerapi/document/rodo-short/content$xmlhttprequest
 ||rodo.agora.pl^$script
 ||std.wpcdn.pl/wpjslib/*wpjslib-chunk-consent-form.js
+||std.wpcdn.pl/wpjslib/*/wpjslib-chunk-notification.js
 ||whitepress.pl/common/pltk/pltk.js
 ||www.serialowa.pl/wpr/wp-content/plugins/popup-maker/assets/css/site.min.css
 ||www.swiatksiazki.pl/customer/account/infoAgreement/*$xmlhttprequest
@@ -1306,6 +1315,11 @@ iculture.nl
 letsplej.pl,telepizza.pl,orange.pl,google.pl,topics.nl,przenosne.pl
 lomza.pl
 lycos.de,lycos.com
+naekranie.pl
+naekranie.pl
+naekranie.pl
+naekranie.pl
+naekranie.pl
 norauto.pl,orange.pl,orteil.dashnet.org
 opencraft.pl
 orange.pl
@@ -1316,7 +1330,7 @@ redbullmobilecollect.pl
 tchibo.de
 tychy.geminipark.pl
 wsensie.pl,wsensie.tv
-@@/cookie.js$domain=socialblade.com|infoplus.com.pl|arimr.gov.pl|promedica24.com.pl|emigrantpl.com|wirtualnemedia.pl|e.dorzeczy.pl|e.wprost.pl|intel.com|cdaction.pl|katowice-airport.com|myshows.me|rze.pl|nba.com
+@@/cookie.js$domain=socialblade.com|infoplus.com.pl|arimr.gov.pl|promedica24.com.pl|emigrantpl.com|wirtualnemedia.pl|e.dorzeczy.pl|e.wprost.pl|intel.com|cdaction.pl|katowice-airport.com|myshows.me|rze.pl|nba.com|bitbucket.org
 @@/js/jquery.cookie.min.js$domain=rozklad.pkp.pl|ubi.com
 @@/plugins/uk-cookie-consent/assets/js/uk-cookie-consent-js.js$script,domain=escaperooms.pl|xboxarcade.pl|naziemna.info|3dwpraktyce.pl|tvs.pl|przegladbaltycki.pl|wypowiadamoc.pl|gazetabilgoraj.pl|serialowy.info
 @@/wp-content/plugins/cookie-law-info/js/cookielawinfo.js$script
