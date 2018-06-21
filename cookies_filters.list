@@ -16,7 +16,7 @@ Discord
 License:
 Copyright
 Najnowsza
-v.201806182218
+v.201806192014
 !
 !
 Dołączenie
@@ -347,6 +347,7 @@ hotele.pl
 hotelpanorama.pl
 hotelratuszowy.com.pl
 hotmag.pl
+hotpay.pl
 hotpoint.pl
 hpe.com
 hurtowniateleinformatyczna.pl
@@ -1169,6 +1170,7 @@ natemat.pl,aszdziennik.pl,mamadu.pl,innpoland.pl,warszawawpigulce.pl,joemonster.
 neonet.pl
 neosite.pl,ppe.pl,terazmuzyka.pl
 niezalezna.pl,gpcodziennie.pl
+nj24.pl
 nokaut.pl
 odo24.pl
 optyczne.pl
@@ -1199,6 +1201,7 @@ szlot.pl
 telegazeta.pl
 telewizjarepublika.pl
 tesco.pl
+trakt.tv
 tvp.info,tvp.pl
 tygodnikpowszechny.pl
 virustotal.com
@@ -1213,6 +1216,7 @@ zywiec.com.pl,heineken.com.pl
 !helion.pl,ebookpoint.pl,onepress.pl,sensus.pl,septem.pl,editio.pl,dlabystrzakow.pl,videopoint.pl
 !interia.pl,pcformat.pl,esporter.pl,rmf24.pl,cdaction.pl,pokazywarka.pl,edufinanse.pl
 !komputerswiat.pl,onet.pl,newsweek.pl,fakt.pl,literia.pl,verdykt.pl,plejada.pl,forbes.pl,onetontour.pl,przegladsportowy.pl,auto-swiat.pl,ofeminin.pl,nk.pl,noizz.pl,skapiec.pl,zumi.pl,opineo.pl,medonet.pl,softonet.pl,pclab.pl,businessinsider.com.pl,targsmaku.pl,agdlab.pl,jakdojade.pl,vod.pl,dreamlab.pl
+/pltk/pltk.js$domain=whitepress.pl|aplikuj.pl|bielsko.biala.pl
 /rhododendron/css/rhododendron-popup.css$domain=wpolityce.pl|wgospodarce.pl|wpolsce.pl
 /templates/rodo/rodo.js$domain=polsat.pl|polsat1.pl|polsatfilm.pl|polsatplay.pl|polsatcafe.pl|tv4.pl|tv6.com.pl|discopolomusic.pl|polsat2.pl|polsatnews.pl
 /_sess/rodo.js
@@ -1228,9 +1232,10 @@ zywiec.com.pl,heineken.com.pl
 ||newonce.net/wp-content/plugins/popup-builder/javascript/jquery.sgcolorbox-min.js
 ||player.pl/playerapi/document/rodo-short/content$xmlhttprequest
 ||rodo.agora.pl^$script
+||static.fabrykasily.pl/fs-tac/pp-t-a-c.js
 ||std.wpcdn.pl/wpjslib/*wpjslib-chunk-consent-form.js
 ||std.wpcdn.pl/wpjslib/*/wpjslib-chunk-notification.js
-||whitepress.pl/common/pltk/pltk.js
+||www.forumsamochodowe.pl/js/jquery.cookie.js
 ||www.korsosanockie.pl/ajax/privacy_popup$xmlhttprequest
 ||www.serialowa.pl/wpr/wp-content/plugins/popup-maker/assets/css/site.min.css
 ||www.swiatksiazki.pl/customer/account/infoAgreement/*$xmlhttprequest
