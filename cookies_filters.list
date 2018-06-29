@@ -16,7 +16,7 @@ Discord
 License:
 Copyright
 Najnowsza
-v.201806262021
+v.201806282056
 !
 !
 Dołączenie
@@ -774,6 +774,7 @@ reactor.pl,yamo.pl
 recepcja.visionexpress.pl
 redbullmobile.pl
 reedukacja.pl,sklepbiegowy.com,sklepkoszykarza.pl,zgodafc.pl
+refunder.pl
 relpol.pl
 renault.pl
 repostuj.pl
@@ -1133,7 +1134,6 @@ domzdrowia.pl
 downdetector.pl,patronite.pl
 durszlak.pl
 dziennikwschodni.pl
-ekstraklasa.tv
 elka.pl,elka.tv
 emt-systems.pl
 epiotrkow.pl
@@ -1191,7 +1191,6 @@ optyczne.pl
 panoramafirm.pl
 pl
 pl
-pl
 pl,ki24.info,ciechocinek.biz,gniewkowo.eu,pluznica.info,nizanskie.info
 pogodynka.pl
 polskieradio.pl,dziennikwschodni.pl
@@ -1231,7 +1230,6 @@ wzp.pl
 zywiec.com.pl,heineken.com.pl
 !helion.pl,ebookpoint.pl,onepress.pl,sensus.pl,septem.pl,editio.pl,dlabystrzakow.pl,videopoint.pl
 !interia.pl,pcformat.pl,esporter.pl,rmf24.pl,cdaction.pl,pokazywarka.pl,edufinanse.pl
-!komputerswiat.pl,onet.pl,newsweek.pl,fakt.pl,literia.pl,verdykt.pl,plejada.pl,forbes.pl,onetontour.pl,przegladsportowy.pl,auto-swiat.pl,ofeminin.pl,nk.pl,noizz.pl,skapiec.pl,zumi.pl,opineo.pl,medonet.pl,softonet.pl,pclab.pl,businessinsider.com.pl,targsmaku.pl,agdlab.pl,jakdojade.pl,vod.pl,dreamlab.pl
 /pltk/pltk.js$domain=whitepress.pl|aplikuj.pl|bielsko.biala.pl
 /rhododendron/css/rhododendron-popup.css$domain=wpolityce.pl|wgospodarce.pl|wpolsce.pl
 /templates/rodo/rodo.js$domain=polsat.pl|polsat1.pl|polsatfilm.pl|polsatplay.pl|polsatcafe.pl|tv4.pl|tv6.com.pl|discopolomusic.pl|polsat2.pl|polsatnews.pl
@@ -1241,6 +1239,7 @@ zywiec.com.pl,heineken.com.pl
 ||a.wpimg.pl/a/i/stg/wpjslib-chunk-consent-form.js
 ||a.wpimg.pl/a/i/stg/wpjslib-chunk-notification.js
 ||cdn.rp.pl/rodo-agreement-popup/rodo-agreement-popup.min.js
+||cmp.dreamlab.pl/static/cmp.complete.bundle.js
 ||cookie.avt.pl/cookie-noscript
 ||frazpc.pl/scripts/default/rodo.js
 ||kochamwroclaw.pl/wp-content/plugins/surbma-yes-no-popup/css/styles.css
@@ -1358,7 +1357,7 @@ redbullmobilecollect.pl
 tchibo.de
 tychy.geminipark.pl
 wsensie.pl,wsensie.tv
-@@/cookie.js$domain=socialblade.com|infoplus.com.pl|arimr.gov.pl|promedica24.com.pl|emigrantpl.com|wirtualnemedia.pl|e.dorzeczy.pl|e.wprost.pl|intel.com|cdaction.pl|katowice-airport.com|myshows.me|rze.pl|nba.com|bitbucket.org
+@@/cookie.js$domain=socialblade.com|infoplus.com.pl|arimr.gov.pl|promedica24.com.pl|emigrantpl.com|wirtualnemedia.pl|e.dorzeczy.pl|e.wprost.pl|intel.com|cdaction.pl|katowice-airport.com|myshows.me|rze.pl|nba.com|bitbucket.org|invado.pl
 @@/js/jquery.cookie.min.js$domain=rozklad.pkp.pl|ubi.com
 @@/plugins/uk-cookie-consent/assets/js/uk-cookie-consent-js.js$script,domain=escaperooms.pl|xboxarcade.pl|naziemna.info|3dwpraktyce.pl|tvs.pl|przegladbaltycki.pl|wypowiadamoc.pl|gazetabilgoraj.pl|serialowy.info
 @@/wp-content/plugins/cookie-law-info/js/cookielawinfo.js$script
