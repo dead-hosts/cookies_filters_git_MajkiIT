@@ -1,8 +1,11 @@
 {
     "/home/travis/build/dead-hosts/cookies_filters_git_MajkiIT/cookies_filters.list": {
-        "0": [
+        "1530379613": [
+            "jak-zablokowac-cookies.pl",
             "pl"
         ],
-        "to_test": []
+        "to_test": [
+            "assets.goldenline.io"
+        ]
     }
 }
