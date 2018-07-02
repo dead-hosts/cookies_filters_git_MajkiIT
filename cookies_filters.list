@@ -16,7 +16,7 @@ Discord
 License:
 Copyright
 Najnowsza
-v.201806282056
+v.201807012029
 !
 !
 Dołączenie
@@ -165,6 +165,7 @@ dodrukarki.pl
 dogizycka.pl,dojaroslawca.pl,domragowa.pl,helskipolwysep.pl,kursnamikolajki.pl,kursnaruciane.pl,nadnarie.pl,visiton.pl
 dolce-gusto.pl
 domena.pl
+domisad.pl
 dpd.com.pl
 drabex.com
 drony.net
@@ -507,6 +508,7 @@ mactronic.pl
 madreklama.com
 magazynpracy.pl
 magazynpracy.pl
+magboss.pl
 mall.pl
 malygosc.pl
 mammografia.elblag.pl
@@ -700,6 +702,7 @@ pmi24.info,ddwlkp.pl,pch24.info,pnt24.info,pob24.info,pzl24.info
 pobieralnia.org
 pochlaniaczwilgoci.com.pl,wielkopolska.travel
 poczesna.com.pl
+podhale-sport.pl
 poki.pl
 polandtrade.pl
 polcar.com
@@ -890,6 +893,7 @@ targeo.pl
 tchibo.pl
 teatrateneum.pl
 teb-akademia.pl
+techpedia.pl
 tekstowo.pl
 teletrade-dj.pl
 teltab.pl
@@ -1157,15 +1161,19 @@ gofin.pl
 goldenline.pl
 gomez.pl
 gospodarkamorska.pl,synonim.net,speedtest.pl,nj24.pl
+gothaer.pl
 haloursynow.pl
 hebe.pl
 iiyama.com
-imagazine.pl
+imagazine.pl,moviesroom.pl
 infostrefa.com,pap.pl
 instagram.com
 jarocinska.pl,gostynska.pl,zpleszewa.pl,rawicz24.pl,zwielkopolski24.pl
 jelonka.com
+kalendarzrolnikow.pl
+kiep.pl
 kochamwroclaw.pl
+koleje-wielkopolskie.com.pl
 kreskoweczki.pl
 londynek.net
 lotto.pl
@@ -1176,7 +1184,7 @@ malwarebytes.com
 meble.com.pl,archiconnect.pl,lazienka.pl,najlepszedomy.pl,mamkuchnie.pl
 medme.pl
 medpolonia.pl
-moviesroom.pl
+miedziowe.pl
 m.benchmark.pl
 naekranie.pl
 natemat.pl,aszdziennik.pl,mamadu.pl,innpoland.pl,warszawawpigulce.pl,joemonster.org,eskago.pl
@@ -1203,8 +1211,10 @@ radiogol.pl
 radiowroclaw.pl,radioram.pl,radiogdansk.pl
 radiozet.pl,antyradio.pl,radiostacja.pl,meloradio.pl,azorek.pl,planeta.fm,chillizet.pl
 razemztoba.pl
+rc.fm
 rmf.fm
 salesmanago.pl
+sawataxi.pl
 serialowa.pl
 skionline.pl
 sklepyabc.pl
@@ -1215,13 +1225,16 @@ szlot.pl
 telegazeta.pl
 telewizjarepublika.pl
 tesco.pl
+tophifi.pl
 trakt.tv
 tvp.info,tvp.pl
 tygodnikpowszechny.pl
 tygodnikzamojski.pl
+umowycywilnoprawne.pl
 virustotal.com
 weather.com
 weekendfm.pl
+weranda.pl
 wio.waw.pl,ciechanowinaczej.pl,lowicz24.eu,szczecinek.com,ototorun.pl
 wm.pl,przyszloscdladzieci.org,familie.pl,naszolsztyniak.pl,gazetaolsztynska.pl
 wpolityce.pl,wgospodarce.pl,wpolsce.pl
@@ -1238,6 +1251,7 @@ zywiec.com.pl,heineken.com.pl
 ||assets.goldenline.io/assets/user/profilingAgreement.*.js
 ||a.wpimg.pl/a/i/stg/wpjslib-chunk-consent-form.js
 ||a.wpimg.pl/a/i/stg/wpjslib-chunk-notification.js
+||cdn.digitrust.mgr.consensu.org/1/cmp.complete.bundle.js$domain=m.demotywatory.pl
 ||cdn.rp.pl/rodo-agreement-popup/rodo-agreement-popup.min.js
 ||cmp.dreamlab.pl/static/cmp.complete.bundle.js
 ||cookie.avt.pl/cookie-noscript
@@ -1246,10 +1260,12 @@ zywiec.com.pl,heineken.com.pl
 ||kochamwroclaw.pl/wp-content/plugins/wp-terms-popup/assets/popup-style.css
 ||newonce.net/wp-content/plugins/popup-builder/javascript/jquery.sgcolorbox-min.js
 ||player.pl/playerapi/document/rodo-short/content$xmlhttprequest
+||quantcast.mgr.consensu.org/cmp.js$domain=memy.pl
 ||rodo.agora.pl^$script
 ||static.fabrykasily.pl/fs-tac/pp-t-a-c.js
 ||std.wpcdn.pl/wpjslib/*wpjslib-chunk-consent-form.js
 ||std.wpcdn.pl/wpjslib/*/wpjslib-chunk-notification.js
+||tygodnik-krapkowicki.info/media/plg_system_eprivacy/js/eprivacy.js
 ||www.forumsamochodowe.pl/js/jquery.cookie.js
 ||www.granice.pl/api/Agreements/AgreementsCheck?RodoCookie=$xmlhttprequest
 ||www.korsosanockie.pl/ajax/privacy_popup$xmlhttprequest
@@ -1257,6 +1273,7 @@ zywiec.com.pl,heineken.com.pl
 ||www.swiatksiazki.pl/customer/account/infoAgreement/*$xmlhttprequest
 ||www.twojapogoda.pl/rodo/*$xmlhttprequest
 ||www.wroclaw.pl/portal/themes/js/script-rodo.min.js
+||zgody.infor.pl/build/assets/js/main.js
 !
 !
 Ogólne
