@@ -16,7 +16,7 @@ Discord
 License:
 Copyright
 Najnowsza
-v.201807041726
+v.201807061951
 !
 !
 Dołączenie
@@ -1117,6 +1117,7 @@ cookie-law-popup.js$script
 !
 Popupy
 4lomza.pl
+adm-media.pl,kociadolina.pl
 agencjagazeta.pl
 agropolska.pl
 alerabat.com
@@ -1201,6 +1202,7 @@ nj24.pl
 nokaut.pl
 odo24.pl
 optyczne.pl
+otolaryngolodzy24.pl,prow.lubelskie.pl
 pakolorente.com
 panoramafirm.pl
 pl
@@ -1212,6 +1214,7 @@ polskieradio.pl,dziennikwschodni.pl
 pomagam.pl
 portaltatrzanski.pl
 portel.pl
+programatory.com
 proszynski.pl
 pz.gov.pl
 queer.pl
@@ -1257,7 +1260,7 @@ zywiec.com.pl,heineken.com.pl
 !interia.pl,pcformat.pl,esporter.pl,rmf24.pl,cdaction.pl,pokazywarka.pl,edufinanse.pl
 /pltk/pltk.js$domain=whitepress.pl|aplikuj.pl|bielsko.biala.pl
 /rhododendron/css/rhododendron-popup.css$domain=wpolityce.pl|wgospodarce.pl|wpolsce.pl
-/templates/rodo/rodo.js$domain=polsat.pl|polsat1.pl|polsatfilm.pl|polsatplay.pl|polsatcafe.pl|tv4.pl|tv6.com.pl|discopolomusic.pl|polsat2.pl|polsatnews.pl|geekweek.pl
+/rodo.js$domain=polsat.pl|polsat1.pl|polsatfilm.pl|polsatplay.pl|polsatcafe.pl|tv4.pl|tv6.com.pl|discopolomusic.pl|polsat2.pl|polsatnews.pl|geekweek.pl|frazpc.pl|reklamowy-sklep.pl|mowianamiescie.pl
 /_sess/rodo.js
 ||assets.allegrostatic.com/opbox-rodo-consent-modal/index*.css$domain=allegro.pl
 ||assets.goldenline.io/assets/user/profilingAgreement.*.js
@@ -1268,14 +1271,13 @@ zywiec.com.pl,heineken.com.pl
 ||cmp.dreamlab.pl/static/cmp.complete.bundle.js
 ||cookie.avt.pl/cookie-noscript
 ||ctm.gdynia.pl/js/alertbox.js
-||frazpc.pl/scripts/default/rodo.js
 ||kochamwroclaw.pl/wp-content/plugins/surbma-yes-no-popup/css/styles.css
 ||kochamwroclaw.pl/wp-content/plugins/wp-terms-popup/assets/popup-style.css
 ||newonce.net/wp-content/plugins/popup-builder/javascript/jquery.sgcolorbox-min.js
 ||player.pl/playerapi/document/rodo-short/content$xmlhttprequest
 ||quantcast.mgr.consensu.org/cmp.js$domain=memy.pl
-||reklamowy-sklep.pl/js/rodo.js
 ||rodo.agora.pl^$script
+||rodo.rawlplug.com/wp-content/themes/rodo/popup/markups/modal-koelner.html$xmlhttprequest
 ||static.fabrykasily.pl/fs-tac/pp-t-a-c.js
 ||std.wpcdn.pl/wpjslib/*wpjslib-chunk-consent-form.js
 ||std.wpcdn.pl/wpjslib/*/wpjslib-chunk-notification.js
