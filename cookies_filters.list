@@ -16,7 +16,7 @@ Discord
 License:
 Copyright
 Najnowsza
-v.201807092203
+v.201807141709
 !
 !
 Dołączenie
@@ -131,6 +131,7 @@ cire.pl
 cke.edu.pl
 ckiw-dobieszkow.ohp.pl
 ckmir.com.pl
+clarias.pl
 codziennikfeministyczny.pl
 cookielaw.org
 costacoffee.pl
@@ -339,6 +340,7 @@ hemp.pl
 herbaciani.pl
 hillsvet.pl
 himountain.pl
+hipcio.sklep.pl,e-torro.pl
 hi-tec.com.pl
 hoga.pl
 holidaycheck.pl
@@ -941,7 +943,7 @@ tylkotorebki.pl
 tysiagotuje.pl
 ubuntu.pl
 uk.ign.com
-um.jaslo.pl
+um.jaslo.pl,adeste.eu
 unitour.pl
 uni-tech.pl
 upc.pl
@@ -1043,6 +1045,7 @@ www.tem.com.pl
 www.tupperware.pl
 www.wiedzakontrowersyjna.pl
 www.youtube.com
+wycena.otodom.pl
 wydruki-wroclaw.pl
 wykopoczta.pl
 wzory-cv.com
@@ -1070,6 +1073,7 @@ zkmgdynia.pl
 zmienimyswiat.pl
 zoover.pl
 zosiaikevin.pl
+zrzutka.pl
 zs1mm.edu.pl
 zyciekalisza.pl
 zysk.com.pl
@@ -1137,8 +1141,10 @@ bryk.pl,interia.pl,pokazywarka.pl
 certum.pl
 chomikuj.pl
 cinema3d.pl
+copernicusfestival.com,naukaireligia.pl,filozofiawnauce.pl,copernicuscenter.edu.pl
 cos.pl
 danepubliczne.gov.pl
+darlowo.pl
 demotywatory.pl,fabrykamemow.pl,faktopedia.pl,piekielni.pl,mklr.pl,rebelianci.org,kotburger.pl,mistrzowie.org,joemonster.org,komixxy.pl,retro.pewex.pl,stylowi.pl,memy.pl
 dobreprogramy.pl
 dobrymechanik.pl
@@ -1148,6 +1154,7 @@ downdetector.pl,patronite.pl
 durszlak.pl
 dziennikwschodni.pl
 elka.pl,elka.tv,miedziowe.pl
+elk.gmina.pl
 emt-systems.pl
 epiotrkow.pl
 epoznan.pl
@@ -1181,10 +1188,11 @@ instagram.com
 jarocinska.pl,gostynska.pl,zpleszewa.pl,rawicz24.pl,zwielkopolski24.pl
 jelonka.com
 kalendarzrolnikow.pl
-kiep.pl
+kiep.pl,milanos.pl
 kochamwroclaw.pl
 koleje-wielkopolskie.com.pl
 kreskoweczki.pl
+lokalna24.pl
 londynek.net
 lotto.pl
 lubimyczytac.pl
@@ -1211,6 +1219,7 @@ panoramafirm.pl
 pl
 pl
 pl,ki24.info,ciechocinek.biz,gniewkowo.eu,pluznica.info,nizanskie.info
+podrozezmamaitata.com
 pogodynka.pl
 polopiryna.pl
 polskieradio.pl,dziennikwschodni.pl
@@ -1247,7 +1256,7 @@ trakt.tv
 tvp.info,tvp.pl
 tvs.pl
 tygodnikpowszechny.pl
-tygodnikzamojski.pl
+tygodnikzamojski.pl,starachowice-net.pl
 ulub.pl
 umowycywilnoprawne.pl
 virustotal.com
@@ -1255,12 +1264,13 @@ wakacyjnipiraci.pl
 weather.com
 weekendfm.pl
 weranda.pl
-wio.waw.pl,ciechanowinaczej.pl,lowicz24.eu,szczecinek.com,ototorun.pl,ddb24.pl
+wio.waw.pl,ciechanowinaczej.pl,lowicz24.eu,szczecinek.com,ototorun.pl,ddb24.pl,lipno-cli.pl,brodnica-cbr.pl,golub-cgd.pl,rypin-cry.pl,wabrzezno-cwa.pl
 wm.pl,przyszloscdladzieci.org,familie.pl,naszolsztyniak.pl,gazetaolsztynska.pl
 wpolityce.pl,wgospodarce.pl,wpolsce.pl
 wunderground.com,weather.com
 wzp.pl
 yes.pl
+zepsute.pl
 zywiec.com.pl,heineken.com.pl
 !helion.pl,ebookpoint.pl,onepress.pl,sensus.pl,septem.pl,editio.pl,dlabystrzakow.pl,videopoint.pl
 !interia.pl,pcformat.pl,esporter.pl,rmf24.pl,cdaction.pl,pokazywarka.pl,edufinanse.pl
@@ -1277,6 +1287,7 @@ zywiec.com.pl,heineken.com.pl
 ||cmp.dreamlab.pl/static/cmp.complete.bundle.js
 ||cookie.avt.pl/cookie-noscript
 ||ctm.gdynia.pl/js/alertbox.js
+||igimag.pl/wp-content/plugins/gdpr-cookie-compliance/dist/scripts/lity.js
 ||kochamwroclaw.pl/wp-content/plugins/surbma-yes-no-popup/css/styles.css
 ||kochamwroclaw.pl/wp-content/plugins/wp-terms-popup/assets/popup-style.css
 ||newonce.net/wp-content/plugins/popup-builder/javascript/jquery.sgcolorbox-min.js
@@ -1289,11 +1300,13 @@ zywiec.com.pl,heineken.com.pl
 ||std.wpcdn.pl/wpjslib/*/wpjslib-chunk-notification.js
 ||twojezaglebie.pl/wp-content/plugins/rodo/rodo_style.css
 ||tygodnik-krapkowicki.info/media/plg_system_eprivacy/js/eprivacy.js
+||vendorlist.consensu.org/vendorlist.json$xmlhttprequest,domain=www.pcworld.pl
 ||www.forumsamochodowe.pl/js/jquery.cookie.js
 ||www.granice.pl/api/Agreements/AgreementsCheck?RodoCookie=$xmlhttprequest
 ||www.korsosanockie.pl/ajax/privacy_popup$xmlhttprequest
 ||www.serialowa.pl/wpr/wp-content/plugins/popup-maker/assets/css/site.min.css
 ||www.swiatksiazki.pl/customer/account/infoAgreement/*$xmlhttprequest
+||www.tvpogranicze.pl/ajax/privacy_popup$xmlhttprequest
 ||www.twojapogoda.pl/rodo/*$xmlhttprequest
 ||www.wroclaw.pl/portal/themes/js/script-rodo.min.js
 ||zgody.infor.pl/build/assets/js/main.js
@@ -1397,7 +1410,7 @@ redbullmobilecollect.pl
 tchibo.de
 tychy.geminipark.pl
 wsensie.pl,wsensie.tv
-@@/cookie.js$domain=socialblade.com|infoplus.com.pl|arimr.gov.pl|promedica24.com.pl|emigrantpl.com|wirtualnemedia.pl|e.dorzeczy.pl|e.wprost.pl|intel.com|cdaction.pl|katowice-airport.com|myshows.me|rze.pl|nba.com|bitbucket.org|invado.pl
+@@/cookie.js$domain=socialblade.com|infoplus.com.pl|arimr.gov.pl|promedica24.com.pl|emigrantpl.com|wirtualnemedia.pl|e.dorzeczy.pl|e.wprost.pl|intel.com|cdaction.pl|katowice-airport.com|myshows.me|rze.pl|nba.com|bitbucket.org|invado.pl|sportstream365.com|mangak.info
 @@/js/jquery.cookie.min.js$domain=rozklad.pkp.pl|ubi.com
 @@/plugins/uk-cookie-consent/assets/js/uk-cookie-consent-js.js$script,domain=escaperooms.pl|xboxarcade.pl|naziemna.info|3dwpraktyce.pl|tvs.pl|przegladbaltycki.pl|wypowiadamoc.pl|gazetabilgoraj.pl|serialowy.info
 @@/wp-content/plugins/cookie-law-info/js/cookielawinfo.js$script
