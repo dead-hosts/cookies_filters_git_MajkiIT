@@ -16,7 +16,7 @@ Discord
 License:
 Copyright
 Najnowsza
-v.201807151846
+v.201807171012
 !
 !
 Dołączenie
@@ -414,7 +414,7 @@ kabam.com
 kabar.pl
 kalendarzswiat.pl
 kalisz.pl
-kalkulator.wakacyjnapolisa.pl
+kalkulator.wakacyjnapolisa.pl,rankomat.pl
 kamilianie.eu
 kappahl.com
 karmimypsiaki.pl
@@ -1246,6 +1246,7 @@ sawataxi.pl
 serialowa.pl
 skionline.pl
 sklepyabc.pl
+sklep.ptwp.pl
 speedtest.net
 spidersweb.pl
 store.playstation.com
@@ -1280,7 +1281,7 @@ zywiec.com.pl,heineken.com.pl
 !interia.pl,pcformat.pl,esporter.pl,rmf24.pl,cdaction.pl,pokazywarka.pl,edufinanse.pl
 /pltk/pltk.js$domain=whitepress.pl|aplikuj.pl|bielsko.biala.pl
 /rhododendron/css/rhododendron-popup.css$domain=wpolityce.pl|wgospodarce.pl|wpolsce.pl
-/rodo.js$domain=polsat.pl|polsat1.pl|polsatfilm.pl|polsatplay.pl|polsatcafe.pl|tv4.pl|tv6.com.pl|discopolomusic.pl|polsat2.pl|polsatnews.pl|geekweek.pl|frazpc.pl|reklamowy-sklep.pl|mowianamiescie.pl
+/rodo.js$domain=polsat.pl|polsat1.pl|polsatfilm.pl|polsatplay.pl|polsatcafe.pl|tv4.pl|tv6.com.pl|discopolomusic.pl|polsat2.pl|polsatnews.pl|geekweek.pl|frazpc.pl|reklamowy-sklep.pl|mowianamiescie.pl|superstacja.tv
 /_sess/rodo.js
 ||assets.allegrostatic.com/opbox-rodo-consent-modal/index*.css$domain=allegro.pl
 ||assets.goldenline.io/assets/user/profilingAgreement.*.js
@@ -1304,7 +1305,7 @@ zywiec.com.pl,heineken.com.pl
 ||std.wpcdn.pl/wpjslib/*/wpjslib-chunk-notification.js
 ||twojezaglebie.pl/wp-content/plugins/rodo/rodo_style.css
 ||tygodnik-krapkowicki.info/media/plg_system_eprivacy/js/eprivacy.js
-||vendorlist.consensu.org/vendorlist.json$xmlhttprequest,domain=www.pcworld.pl
+||vendorlist.consensu.org/vendorlist.json$xmlhttprequest,domain=pcworld.pl|internetstandard.pl|computerworld.pl
 ||www.forumsamochodowe.pl/js/jquery.cookie.js
 ||www.granice.pl/api/Agreements/AgreementsCheck?RodoCookie=$xmlhttprequest
 ||www.korsosanockie.pl/ajax/privacy_popup$xmlhttprequest
