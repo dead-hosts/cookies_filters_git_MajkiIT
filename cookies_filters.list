@@ -16,7 +16,7 @@ Discord
 License:
 Copyright
 Najnowsza
-v.201808061944
+v.201808091622
 !
 !
 Specyficzne
@@ -74,7 +74,7 @@ autosklep24.pl
 avast.com
 avioner.pl
 azure.microsoft.com
-a-o.ninja
+a-o.ninja,e-niemcy.de,independentdigital.com,ferguson-digital.eu
 baje.pl,traftu.pl
 bankmillennium.pl
 bankmillennium.pl,zus.pl
@@ -236,7 +236,6 @@ e-fajek.pl
 e-farmacja.net
 e-legnickie.pl
 e-metalzbyt.pl
-e-niemcy.de,independentdigital.com
 e-petrol.pl
 e-podatnik.pl
 e-podroznik.pl
@@ -593,6 +592,7 @@ mkidn.gov.pl
 mklr.pl
 mklr.pl
 mmtv.pl
+mniammniam.com
 mobile.de
 mocnopomocni.pl
 mocnopomocni.pl
@@ -681,6 +681,7 @@ omegasoft.pl
 omnibussimulator.pl
 omnibussimulator.pl
 one2tribe.pl
+onlineradiobox.com
 opac.wimbp.zgora.pl
 opac.wimbp.zgora.pl
 openpli.org
@@ -1184,6 +1185,7 @@ agencjagazeta.pl
 agropolska.pl
 airport.gdansk.pl,r.pl
 alerabat.com
+allani.pl
 allegro.pl
 antyweb.pl
 apra.pl
@@ -1342,7 +1344,7 @@ virustotal.com
 wakacyjnipiraci.pl
 weather.com
 weekendfm.pl
-weranda.pl
+weranda.pl,werandacountry.pl,werandaweekend.pl,astromagia.pl,wrozka.com.pl,gwiazdy.com.pl
 wio.waw.pl,ciechanowinaczej.pl,lowicz24.eu,szczecinek.com,ototorun.pl,ddb24.pl,lipno-cli.pl,brodnica-cbr.pl,golub-cgd.pl,rypin-cry.pl,wabrzezno-cwa.pl
 wm.pl,przyszloscdladzieci.org,familie.pl,naszolsztyniak.pl,gazetaolsztynska.pl
 wpolityce.pl,wgospodarce.pl,wpolsce.pl
@@ -1359,6 +1361,7 @@ zywiec.com.pl,heineken.com.pl
 /pltk/pltk.js$domain=whitepress.pl|aplikuj.pl|bielsko.biala.pl
 /rhododendron/css/rhododendron-popup.css$domain=wpolityce.pl|wgospodarce.pl|wpolsce.pl
 /rodo.js$domain=polsat.pl|polsat1.pl|polsatfilm.pl|polsatplay.pl|polsatcafe.pl|tv4.pl|tv6.com.pl|discopolomusic.pl|polsat2.pl|polsatnews.pl|geekweek.pl|frazpc.pl|reklamowy-sklep.pl|mowianamiescie.pl|superstacja.tv|playa.pl
+/wp-content/plugins/mm-extensions/assets/js/info-popup.js$domain=koty.pl|psy.pl
 /_sess/rodo.js
 ||ad.prv.pl/rodo.js
 ||artkomnet.pl/wp-content/plugins/popup-builder/javascript/jquery.sgcolorbox-min.js
