@@ -16,7 +16,7 @@ Discord
 License:
 Copyright
 Najnowsza
-v.201808091622
+v.201808121455
 !
 !
 Specyficzne
@@ -28,6 +28,7 @@ Specyficzne
 40latki.pl
 a4-klub.pl,pfmrc.eu
 abbvie.pl
+aboutyou.pl
 abt-s.pl
 account.ubisoft.com
 acmilan24.com
@@ -254,6 +255,7 @@ felgdent.com
 fiatklubpolska.pl
 fiatklubpolska.pl
 filmweb.pl
+filtrkad.wordpress.com
 firecash.org
 firmy4u.pl
 fleetboard.pl
@@ -1106,6 +1108,7 @@ wykopoczta.pl
 wymiana-pieca.pl
 wzory-cv.com
 xaa.pl
+xiaomi.eu
 y8.com
 yogenfruz.pl
 youtube.com
@@ -1209,7 +1212,6 @@ demotywatory.pl,fabrykamemow.pl,faktopedia.pl,piekielni.pl,mklr.pl,rebelianci.or
 dobreprogramy.pl
 dobrymechanik.pl
 domodi.pl,homebook.pl
-domzdrowia.pl
 downdetector.pl,patronite.pl
 durszlak.pl
 dziennikwschodni.pl
@@ -1359,8 +1361,9 @@ zywiec.com.pl,heineken.com.pl
 !interia.pl,pcformat.pl,esporter.pl,rmf24.pl,cdaction.pl,pokazywarka.pl,edufinanse.pl
 !jpg.pl,pinotv.pl,playa.pl,moblo.pl,slajdzik.pl,rusz.pl,osobie.pl,www.prv.pl
 /pltk/pltk.js$domain=whitepress.pl|aplikuj.pl|bielsko.biala.pl
+/pp-t-a-c.js$domain=fabrykasily.pl|toplista.pl|domzdrowia.pl|fora.pl
 /rhododendron/css/rhododendron-popup.css$domain=wpolityce.pl|wgospodarce.pl|wpolsce.pl
-/rodo.js$domain=polsat.pl|polsat1.pl|polsatfilm.pl|polsatplay.pl|polsatcafe.pl|tv4.pl|tv6.com.pl|discopolomusic.pl|polsat2.pl|polsatnews.pl|geekweek.pl|frazpc.pl|reklamowy-sklep.pl|mowianamiescie.pl|superstacja.tv|playa.pl
+/rodo.js$domain=polsat.pl|polsat1.pl|polsatfilm.pl|polsatplay.pl|polsatcafe.pl|tv4.pl|tv6.com.pl|discopolomusic.pl|polsat2.pl|polsatnews.pl|geekweek.pl|reklamowy-sklep.pl|mowianamiescie.pl|superstacja.tv|playa.pl|poszkole.pl
 /wp-content/plugins/mm-extensions/assets/js/info-popup.js$domain=koty.pl|psy.pl
 /_sess/rodo.js
 ||ad.prv.pl/rodo.js
@@ -1374,19 +1377,19 @@ zywiec.com.pl,heineken.com.pl
 ||cmp.dreamlab.pl/static/cmp.complete.bundle.js$domain=~komputerswiat.pl
 ||cookie.avt.pl/cookie-noscript
 ||ctm.gdynia.pl/js/alertbox.js
+||frazpc.pl/scripts/default/rodo-v2a.js
 ||igimag.pl/wp-content/plugins/gdpr-cookie-compliance/dist/scripts/lity.js
 ||kochamwroclaw.pl/wp-content/plugins/surbma-yes-no-popup/css/styles.css
 ||kochamwroclaw.pl/wp-content/plugins/wp-terms-popup/assets/popup-style.css
+||legionisci.com/js/cookiepopup.js
 ||newonce.net/wp-content/plugins/popup-builder/javascript/jquery.sgcolorbox-min.js
 ||openid.pino.pl/app/static/global/rodo.js
 ||player.pl/playerapi/document/rodo-short/content$xmlhttprequest
 ||quantcast.mgr.consensu.org/cmp.js$domain=memy.pl
 ||rodo.agora.pl^$script
 ||rodo.rawlplug.com/wp-content/themes/rodo/popup/markups/modal-koelner.html$xmlhttprequest
-||static.fabrykasily.pl/fs-tac/pp-t-a-c.js
 ||std.wpcdn.pl/wpjslib/*wpjslib-chunk-consent-form.js
 ||std.wpcdn.pl/wpjslib/*/wpjslib-chunk-notification.js
-||toplista.pl/tac/pp-t-a-c.js
 ||twojezaglebie.pl/wp-content/plugins/rodo/rodo_style.css
 ||tygodnik-krapkowicki.info/media/plg_system_eprivacy/js/eprivacy.js
 ||vendorlist.consensu.org/vendorlist.json$xmlhttprequest,domain=pcworld.pl|internetstandard.pl|computerworld.pl
