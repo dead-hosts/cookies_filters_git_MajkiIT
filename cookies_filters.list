@@ -16,7 +16,7 @@ Discord
 License:
 Copyright
 Najnowsza
-v.201808142112
+v.201808172106
 !
 !
 Specyficzne
@@ -302,6 +302,7 @@ geekbuying.com
 generali.pl
 generali.pl
 generatorkodowkreskowych.pl
+genesis-zone.com
 genetico.pl
 geoblog.pl
 gerlach.org.pl
@@ -510,6 +511,7 @@ lego.com
 lekarz.znanylekarz.pl
 lektury.gov.pl
 lek-med.pl
+leoexpress.com
 leo.pl,4fstore.com
 lesnydwor.net.pl
 lexus-polska.pl
@@ -525,6 +527,7 @@ loktech.com.pl
 lotnictwo.net.pl
 lotplay.pl
 lot.com
+loveair.pl
 lovekrakow.pl
 lovela.pl
 lsisoftware.pl,smartpage.pl
@@ -611,6 +614,7 @@ monedo.pl
 monedo.pl
 monese.com
 monsterpolska.pl
+morele.net
 mos.gov.pl
 motohid.pl
 motokiller.pl
@@ -655,6 +659,7 @@ niestatystyczny.pl
 niezalezna.pl
 niniwateam.pl
 noclegi24h.pl
+nokia.com
 nomi.pl
 nowaostroleka.pl
 nowapapiernia.pl
@@ -675,6 +680,7 @@ off-road.pl
 ogllo.pl
 ogloszenia.e-gratka.info
 ogradzamy.pl
+okiemrolnika.pl
 okulary.szkla.com
 ok-kredyt.pl
 olimpiasport.pl
@@ -1031,6 +1037,7 @@ webd.pl
 webd.pl
 webelite.pl
 web-booking.mytaxi.com
+web.skype.com
 weebly.com,eniro.pl,eniroweb.pl,amawid.pl
 wefix.pl
 wegetarianie.pl
@@ -1150,8 +1157,10 @@ cookie-law-popup.js$script
 ||asus.com/pl/cookienotice.json$xmlhttprequest
 ||a.wpimg.pl/a/i/stg/wpjslib-chunk-cookie-info.js$script
 ||bramka-proxy.pl/themes/default/cookies.js
+||cdnjs.cloudflare.com/ajax/libs/cookieconsent2/*/cookieconsent.min.js$domain=satkurier.pl
 ||cdn.inaudium.com/js/adtctr.js
 ||ciasteczkowapolityka.pl/getscript$script
+||confero.pl/js/cookies2013$script
 ||consent.truste.com/get?name=notice.js$script
 ||cookiebanner.eu/js/cookiebanner.min.js
 ||cookieq.com^$third-party
@@ -1228,7 +1237,7 @@ epuap.gov.pl,webcamera.pl
 fantasy.ekstraklasa.tv,trojmiasto.pl
 fdb.pl
 filmlab.com.pl,wtkplay.pl,lech.tv,obiezyswiat.org
-finansowysupermarket.pl
+finansowysupermarket.pl,faktykaliskie.pl
 firmy.lu
 foreca.pl
 fostertravel.pl
@@ -1254,6 +1263,7 @@ imagazine.pl,moviesroom.pl
 infostrefa.com,pap.pl
 instagram.com
 jarocinska.pl,gostynska.pl,zpleszewa.pl,rawicz24.pl,zwielkopolski24.pl
+jastrzebieonline.pl
 jelenia.pl
 jelonka.com
 kalendarzrolnikow.pl
@@ -1288,11 +1298,13 @@ nj24.pl
 nokaut.pl
 obpon.pl
 odo24.pl
+olza.pl
 optyczne.pl
+ortograf.pl
 otolaryngolodzy24.pl,prow.lubelskie.pl
 pakolorente.com
 panoramafirm.pl
-patrz.pl
+patrz.pl,olsztyn.com.pl
 paypal.com
 pkspolonus.pl
 pl
@@ -1316,6 +1328,7 @@ radiozet.pl,antyradio.pl,radiostacja.pl,meloradio.pl,azorek.pl,planeta.fm,chilli
 razemztoba.pl
 rc.fm
 rmf.fm
+rybnik.com.pl,slaskibiznes.pl,tuwodzislaw.pl
 salesmanago.pl,grene.pl
 sawataxi.pl
 serialowa.pl
@@ -1325,6 +1338,7 @@ skm.pkp.pl
 skm.pkp.pl
 speedtest.net
 spidersweb.pl
+stalowemiasto.pl
 store.playstation.com
 szkolymedyczne.eu
 szlot.pl
@@ -1360,11 +1374,12 @@ yes.pl
 zara.com
 zepsute.pl
 zywiec.com.pl,heineken.com.pl
+!fora.pl
 !helion.pl,ebookpoint.pl,onepress.pl,sensus.pl,septem.pl,editio.pl,dlabystrzakow.pl,videopoint.pl
 !interia.pl,pcformat.pl,esporter.pl,rmf24.pl,cdaction.pl,pokazywarka.pl,edufinanse.pl
 !jpg.pl,pinotv.pl,playa.pl,moblo.pl,slajdzik.pl,rusz.pl,osobie.pl,www.prv.pl
 /pltk/pltk.js$domain=whitepress.pl|aplikuj.pl|bielsko.biala.pl
-/pp-t-a-c.js$domain=fabrykasily.pl|toplista.pl|domzdrowia.pl|fora.pl
+/pp-t-a-c.js$domain=fabrykasily.pl|toplista.pl|domzdrowia.pl|fora.pl|torrent.top-100.pl
 /rhododendron/css/rhododendron-popup.css$domain=wpolityce.pl|wgospodarce.pl|wpolsce.pl
 /rodo.js$domain=polsat.pl|polsat1.pl|polsatfilm.pl|polsatplay.pl|polsatcafe.pl|tv4.pl|tv6.com.pl|discopolomusic.pl|polsat2.pl|polsatnews.pl|geekweek.pl|reklamowy-sklep.pl|mowianamiescie.pl|superstacja.tv|playa.pl|poszkole.pl
 /wp-content/plugins/mm-extensions/assets/js/info-popup.js$domain=koty.pl|psy.pl
