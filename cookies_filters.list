@@ -17,7 +17,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.201808271424
+v.201808281210
 !
 !
 Specyficzne
@@ -78,7 +78,7 @@ autosklep24.pl
 avast.com
 avioner.pl
 azure.microsoft.com
-a-o.ninja,e-niemcy.de,independentdigital.com,ferguson-digital.eu,roztocze.net,etychy.org
+a-o.ninja,e-niemcy.de,independentdigital.com,ferguson-digital.eu,roztocze.net,etychy.org,ekspedyt.org,genesis-zone.com,kropka.audio
 baje.pl,traftu.pl
 bankmillennium.pl
 bankmillennium.pl,zus.pl
@@ -209,7 +209,6 @@ ekko.com.pl
 ekosalus.pl
 ekosalus.pl
 ekoserwis.poznan.pl
-ekspedyt.org
 eldom.eu
 elektroda.pl
 elektroonline.pl
@@ -259,7 +258,6 @@ felgdent.com
 fiatklubpolska.pl
 fiatklubpolska.pl
 filmweb.pl
-filtrkad.wordpress.com
 firecash.org
 firmy4u.pl
 fleetboard.pl
@@ -306,7 +304,6 @@ geekbuying.com
 generali.pl
 generali.pl
 generatorkodowkreskowych.pl
-genesis-zone.com
 genetico.pl
 geoblog.pl
 gerlach.org.pl
@@ -646,7 +643,6 @@ mzdik.pl
 nakanapie.pl
 nano-carbon.pl
 naszamlawa.pl
-naszerecenzje.wordpress.com
 naturo.pl
 nauka.gov.pl
 nazaruk.pl
@@ -1065,6 +1061,7 @@ wkd.com.pl
 wodna-kraina.pl
 wodociagi-kalisz.pl
 wolnymkrokiem.pl,gieldaklasykow.pl,nowawarszawa.pl
+wordpress.com
 word.waw.pl
 wp.pl
 wp.pl
@@ -1538,7 +1535,7 @@ tychy.geminipark.pl
 wsensie.pl,wsensie.tv
 @@/cookie.js$domain=infoplus.com.pl|arimr.gov.pl|promedica24.com.pl|wirtualnemedia.pl|e.dorzeczy.pl|e.wprost.pl|cdaction.pl|rze.pl|invado.pl
 @@/js/jquery.cookie.min.js$domain=rozklad.pkp.pl|ubi.com
-@@/plugins/uk-cookie-consent/assets/js/uk-cookie-consent-js.js$script,domain=escaperooms.pl|xboxarcade.pl|naziemna.info|3dwpraktyce.pl|tvs.pl|przegladbaltycki.pl|wypowiadamoc.pl|gazetabilgoraj.pl|serialowy.info
+@@/plugins/uk-cookie-consent/assets/js/uk-cookie-consent-js.js$script,domain=escaperooms.pl|xboxarcade.pl|naziemna.info|3dwpraktyce.pl|tvs.pl|przegladbaltycki.pl|wypowiadamoc.pl|gazetabilgoraj.pl|serialowy.info|ittechblog.pl
 @@/wp-content/plugins/cookie-law-info/js/cookielawinfo.js$script
 @@||china-gadgets.de/app/plugins/cookie-law-info/js/cookielawinfo.js
 @@||coinroom.com/Modules/UI/Cookie/Cookie.js$script
