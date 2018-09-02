@@ -17,7 +17,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.201808292332
+v.201809021410
 !
 !
 Specyficzne
@@ -79,7 +79,6 @@ avast.com
 avioner.pl
 azure.microsoft.com
 a-o.ninja,e-niemcy.de,independentdigital.com,ferguson-digital.eu,roztocze.net,etychy.org,ekspedyt.org,genesis-zone.com,kropka.audio
-baje.pl,traftu.pl
 bankmillennium.pl
 bankmillennium.pl,zus.pl
 bardotti.pl
@@ -122,6 +121,7 @@ buliba.pl
 business.mytaxi.com
 buty-smile.pl
 buziak.pl
+byinsomnia.com
 bytzbiorowy.pl
 bywajtu.pl
 bzwbk.pl
@@ -328,12 +328,6 @@ goldenline.pl
 goldenline.pl
 goodie.pl
 google.com,google.pl
-google.pl
-google.pl
-google.pl
-google.pl,google.com
-google.pl,google.com
-google.pl,google.com
 gosc.pl
 gostynin.info
 gov.pl
@@ -697,7 +691,6 @@ one2tribe.pl
 onlineradiobox.com
 opac.wimbp.zgora.pl
 opac.wimbp.zgora.pl
-openpli.org
 opineo.pl
 opinie.wp.pl
 opteam.pl
@@ -742,7 +735,7 @@ pks.zary.pl
 pk.benefitsystems.pl
 player.pl
 playtube.pl
-play.google.com
+play.google.com,translate.google.pl,books.google.pl
 plotowanie.com
 pl.chili.tv
 pl.depositphotos.com
@@ -768,6 +761,7 @@ poligraf.com.pl
 polomarket.pl
 polona.pl
 polskawoda.pl,dourody.pl
+polska.googleblog.com
 polskiprawnik.pl
 popkorn.pl
 popoznaniu.pl
@@ -805,6 +799,7 @@ ps4life.pl
 ptgk.pl
 punkt44.pl
 pupilexpert.pl
+pushpushgo.com
 pwm.com.pl
 pwm.com.pl
 pw.edu.pl
@@ -886,6 +881,7 @@ siemens.pl
 siemianowice.pl
 sieradz.com.pl,zdunskawola24.pl
 simba.com.pl
+sin-say.com
 sitn.pl
 skapiec.pl
 sklepdlaplastykow.pl
@@ -986,7 +982,7 @@ torun.pl
 totaaltv.nl
 totalmoney.pl
 tp-link.com.pl
-translate.google.pl
+traftu.pl
 travelist.pl
 trello.com
 trovit.pl
@@ -1190,6 +1186,7 @@ cookie-law-popup.js$script
 ||radiopoznan.fm//homepage/privacyPolicy
 ||revolweb.pl/api/flash_msg.js$script
 ||rolpetrol.com.pl/cookies.js$script
+||satelita.phorum.pl/cookiebanner.js
 ||skryptcookies.pl^$third-party
 ||tinder.com/static/build/chunks/CookiePolicyBanner-*.js
 ||www.e-drewno.pl/stock/javascript/browser.js
@@ -1206,6 +1203,7 @@ Popupy
 adm-media.pl,kociadolina.pl
 agencjagazeta.pl
 agropolska.pl
+airkiosk.lot.com
 airport.gdansk.pl,r.pl
 alerabat.com
 alga-shop.pl
@@ -1386,10 +1384,12 @@ wm.pl,przyszloscdladzieci.org,familie.pl,naszolsztyniak.pl,gazetaolsztynska.pl
 wpolityce.pl,wgospodarce.pl,wpolsce.pl
 wunderground.com,weather.com
 www.totalizator.pl
+wykop.pl
 wzp.pl
 yes.pl
 zara.com
 zepsute.pl
+zomato.com
 zywiec.com.pl,heineken.com.pl
 !fora.pl
 !helion.pl,ebookpoint.pl,onepress.pl,sensus.pl,septem.pl,editio.pl,dlabystrzakow.pl,videopoint.pl
@@ -1424,9 +1424,9 @@ zywiec.com.pl,heineken.com.pl
 ||openid.pino.pl/app/static/global/rodo.js
 ||player.pl/playerapi/document/rodo-short/content$xmlhttprequest
 ||powiat.okay.pl/media/system/js/modal.js
-||quantcast.mgr.consensu.org/cmp.js$domain=memy.pl
 ||rodo.agora.pl^$script
 ||rodo.rawlplug.com/wp-content/themes/rodo/popup/markups/modal-koelner.html$xmlhttprequest
+||static.quantcast.mgr.consensu.org/*/cmpui-banner.js$domain=memy.pl|pwn.pl
 ||std.wpcdn.pl/wpjslib/*wpjslib-chunk-consent-form.js
 ||std.wpcdn.pl/wpjslib/*/wpjslib-chunk-notification.js
 ||twojezaglebie.pl/wp-content/plugins/rodo/rodo_style.css
