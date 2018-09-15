@@ -17,7 +17,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.201809122229
+v.201809142210
 !
 !
 Specyficzne
@@ -636,6 +636,7 @@ o2.pl
 ociasteczkach.pl
 odjechani.com.pl
 odjechani.com.pl
+odleglosci.pl
 oferia.pl
 offsklep.pl
 off-road.pl
@@ -943,6 +944,7 @@ wiem-to.pl
 wiif.nowybip.pl
 wikar.com.pl
 wirtualis.pl
+wirtualnygarwolin.pl
 wislaportal.pl
 wisport.com.pl
 wiz.pl
@@ -1093,6 +1095,7 @@ allegro.pl
 angielski-kazdego-dnia.pl
 antyweb.pl
 apra.pl
+arg.gdynia.pl
 astar.czest.pl
 audioteka.com
 autocentrum.pl
@@ -1183,6 +1186,7 @@ medpolonia.pl
 mettosport.eu
 miasto-gazeta.pl
 mi.com
+mojemazury.pl
 mypolacy.de
 m.benchmark.pl
 naekranie.pl
@@ -1254,6 +1258,7 @@ trakt.tv
 transfergo.com
 trentino.pl
 trojmiasto.pl
+turek.net.pl
 tvp.info,tvp.pl
 tvs.pl
 twitch.tv
@@ -1282,7 +1287,8 @@ zywiec.com.pl,heineken.com.pl
 !helion.pl,ebookpoint.pl,onepress.pl,sensus.pl,septem.pl,editio.pl,dlabystrzakow.pl,videopoint.pl
 !interia.pl,pcformat.pl,esporter.pl,rmf24.pl,cdaction.pl,pokazywarka.pl,edufinanse.pl
 !jpg.pl,pinotv.pl,playa.pl,moblo.pl,slajdzik.pl,rusz.pl,osobie.pl,www.prv.pl
-/ajax/privacy_popup$xmlhttprequest,domain=korsosanockie.pl|tvpogranicze.pl|pzl24.pl|korso.pl
+!/ajax/privacy_popup$xmlhttprequest,domain=korsosanockie.pl|tvpogranicze.pl|pzl24.pl|korso.pl|narew.info|portalpomorza.pl|debica24.eu|zvami.tv|telewizjazary.pl|korsokolbuszowskie.pl|kociewiak.pl|tvobiektyw.pl|tczewska.pl|slowopodlasia.pl|tvswinoujscie.pl|tygodnikoko.pl|supertydzien.pl|lokalnatelewizja.pl
+/ajax/privacy_popup$xmlhttprequest,domain=pl|narew.info|debica24.eu|zvami.tv
 /pltk/pltk.js$domain=whitepress.pl|aplikuj.pl|bielsko.biala.pl
 /pp-t-a-c.js$domain=fabrykasily.pl|toplista.pl|domzdrowia.pl|fora.pl|torrent.top-100.pl
 /rhododendron/css/rhododendron-popup.css$domain=wpolityce.pl|wgospodarce.pl|wpolsce.pl
