@@ -17,7 +17,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.201809231949
+v.201809251932
 !
 !
 Specyficzne
@@ -183,6 +183,7 @@ demarko-trailers.com
 demotywatory.pl,fabrykamemow.pl,faktopedia.pl,piekielni.pl,mklr.pl,rebelianci.org,kotburger.pl,mistrzowie.org,joemonster.org,komixxy.pl,retro.pewex.pl,stylowi.pl,memy.pl
 developers.google.com
 devilpage.pl
+dipocket.org
 disport.pl,mmo.pl
 diyaudio.pl
 dlapacjenta.pl
@@ -409,6 +410,7 @@ holidaycheck.pl
 homebrewing.pl
 home.pl
 horizon.tv
+host1.eu
 hostgrafia.pl,puch-kotlowski.pl,treningkrakow.pl,swiatdeski.pl,sls.info.pl,naukajazdy-kowalik.pl,itlab.pl
 hotelbrda.com.pl
 hoteldladoroslych.pl
@@ -1354,7 +1356,7 @@ Ogólne
 /cookies-legal-
 /cookiewarning*.js
 /cookie-terms.
-/cookie.js$domain=pl
+/cookie.js$domain=pl|~zus.pl
 /cookie_msg.js$script
 /cookie_notify/*
 /js/cookieinfo.js
