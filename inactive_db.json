@@ -1,8 +1,9 @@
 {
     "/home/travis/build/dead-hosts/cookies_filters_git_MajkiIT/cookies_filters.list": {
-        "1537985637": [
+        "1538158536": [
             "phufart.pl",
-            "pl"
+            "pl",
+            "www.pianomedia.pl"
         ],
         "to_test": []
     }
