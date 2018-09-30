@@ -17,7 +17,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.201809251932
+v.201809292134
 !
 !
 Specyficzne
@@ -33,6 +33,7 @@ abt-s.pl
 account.ubisoft.com
 accuweather.com
 addthis.com
+adguard.com
 adm-media.pl,kociadolina.pl
 adobe.com
 adwokatrozycka.pl,cad2cad.com,greensteam.pl,kacperkowalski.pl,metronic.com.pl,npa.pl,progenis.pl,rysunek.edu.pl,wanika.pl
@@ -491,6 +492,7 @@ kabam.com
 kabar.pl
 kalendarzrolnikow.pl
 kalendarzswiat.pl
+kalendarz-roku-szkolnego.edu.pl
 kalisz.pl
 kalkulator.wakacyjnapolisa.pl,rankomat.pl
 kameleonbutik.com
@@ -738,6 +740,7 @@ netweber.pl
 net-speak.pl
 net-s.pl
 nfz-lodz.pl
+nf.pl
 niestatystyczny.pl
 niezalezna.pl
 niezalezna.pl,gpcodziennie.pl
@@ -1327,6 +1330,7 @@ cookie-law-popup.js$script
 ||twojezaglebie.pl/wp-content/plugins/rodo/rodo_style.css
 ||tygodnik-krapkowicki.info/media/plg_system_eprivacy/js/eprivacy.js
 ||vendorlist.consensu.org/vendorlist.json$xmlhttprequest,domain=pcworld.pl|internetstandard.pl|computerworld.pl
+||vox.pl/modal/rodo$xmlhttprequest
 ||www.e-drewno.pl/stock/javascript/browser.js
 ||www.e-drewno.pl/stock/javascript/cptlx.js
 ||www.forumsamochodowe.pl/js/jquery.cookie.js
