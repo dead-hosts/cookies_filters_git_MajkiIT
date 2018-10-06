@@ -17,7 +17,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.20181002
+v.20181006
 !
 !
 Specyficzne
@@ -90,7 +90,7 @@ auto-swiat.pl
 avast.com
 avioner.pl
 azure.microsoft.com
-a-o.ninja,e-niemcy.de,independentdigital.com,ferguson-digital.eu,roztocze.net,etychy.org,ekspedyt.org,genesis-zone.com,kropka.audio
+a-o.ninja,e-niemcy.de,independentdigital.com,ferguson-digital.eu,roztocze.net,etychy.org,ekspedyt.org,genesis-zone.com,kropka.audio,lapppoland.lappgroup.com
 bankmillennium.pl
 bardotti.pl
 bartix.pl
@@ -353,6 +353,7 @@ gih.grajewo.pl
 gih.grajewo.pl
 ginekolog-darlowo.pl
 gkn.pl
+glogow-info.pl
 glos24.pl
 glos24.pl
 glucholazy.pl
@@ -392,7 +393,7 @@ gsm-grodzisk.pl
 guardian.co.uk
 gugik.gov.pl,smyk.com,modecom.com,brodnica.net,hifi.pl,wielkopolska.eu,dw.com
 hachette.com.pl
-haloursynow.pl
+haloursynow.pl,warsztat.pl
 hankooktire.com
 hattrick.interia.pl
 hbo.pl
@@ -459,7 +460,6 @@ intymna.pl
 iom.pl
 ipartworld.pl
 iperfumy.pl
-ip-sa.pl
 ip-sa.pl
 istockphoto.com
 istotne.pl
@@ -536,8 +536,6 @@ komunikacja.um.bialystok.pl
 konsbud-hifi.com.pl
 konserwatyzm.pl
 kontakt-simon.com.pl
-korpol.pl
-korpol.pl
 kpim.pl
 krakowairport.pl
 kredito24.pl
@@ -651,7 +649,6 @@ mega-com.eu
 memoinfo.pl
 memorialhenrykapuzonia.pl
 mercedes-benz.com
-mercedes-benz.com
 mercedes-benz.com,mercedes-benz.pl
 mercure.com
 merixstudio.pl
@@ -660,7 +657,7 @@ meteovista.pl
 metro2033.pl
 mettosport.eu
 mggp.com.pl
-mggp.com.pl
+mgr.farm
 miastograf.pl
 miastons.pl
 michalgrabarski.eu
@@ -756,14 +753,12 @@ nowaostroleka.pl
 nowapapiernia.pl
 nowehoryzonty.pl
 noweprzetargi.pl
-noweprzetargi.pl
 nowezyciepabianic.pl
 nuorder.pl
 nvidia.com
 o2.pl
 obpon.pl
 ociasteczkach.pl
-odjechani.com.pl
 odjechani.com.pl
 odleglosci.pl
 odo24.pl
@@ -781,10 +776,8 @@ olympusclub.pl
 olza.pl
 omegasoft.pl
 omnibussimulator.pl
-omnibussimulator.pl
 one2tribe.pl
 onlineradiobox.com
-opac.wimbp.zgora.pl
 opac.wimbp.zgora.pl
 opineo.pl
 opoka.tv
@@ -792,7 +785,6 @@ opteam.pl
 optyczne.pl
 orange.pl
 orientshop.com.pl,tapenda.pl
-origin.com
 origin.com
 orliman.pl
 ortograf.pl
@@ -824,7 +816,6 @@ pepper.pl
 personnelsolutions.pl
 personnelsolutions.pl,lekkoatletykadlakazdego.pl
 philips.pl
-pianomedia.pl
 piekielni.pl
 piltza37.pl
 pingpong.com.pl
@@ -867,6 +858,7 @@ polomarket.pl
 polona.pl
 polopiryna.pl,polpharma.pl
 polska.googleblog.com
+polskicaravaning.pl
 polskieradio.pl,dziennikwschodni.pl
 polskiprawnik.pl
 pomagam.pl
@@ -1108,6 +1100,7 @@ twojeapteki.com
 twojliquid.pl
 tygodnikpowszechny.pl
 tygodnikzamojski.pl,starachowice-net.pl
+udemy.com
 uk.ign.com
 ulub.pl
 umg.edu.pl,cartoonnetwork.pl
@@ -1118,6 +1111,7 @@ upc.pl
 upolujebooka.pl
 uzdrowisko-wieniec.pl
 v10.pl
+vademecumksiegowego.pl
 vas.com.pl
 viralka.pl,repostuj.pl
 virustotal.com
@@ -1137,6 +1131,7 @@ weekendfm.pl
 wegetarianie.pl
 weranda.pl,werandacountry.pl,werandaweekend.pl,astromagia.pl,wrozka.com.pl,gwiazdy.com.pl
 westgate.com.pl
+wgospodarce.pl,wpolsce.pl
 whatsapp.com
 whichwatch.pl
 wiara.pl
@@ -1157,7 +1152,6 @@ wodociagi-kalisz.pl
 wolnymkrokiem.pl,gieldaklasykow.pl,nowawarszawa.pl
 wordpress.com
 word.waw.pl
-wpolityce.pl,wgospodarce.pl,wpolsce.pl
 wp.pl
 wrobelekelemelek.com
 wrota.lubuskie.pl
@@ -1259,7 +1253,7 @@ cookie-law-popup.js$script
 /libraries/js/jquery.tipsy.cookie.js$domain=kierunkowy.com
 /pltk/pltk.js$domain=whitepress.pl|aplikuj.pl|bielsko.biala.pl
 /pp-t-a-c.js$domain=fabrykasily.pl|toplista.pl|domzdrowia.pl|fora.pl|torrent.top-100.pl|dieta.pl
-/rhododendron/css/rhododendron-popup.css$domain=wpolityce.pl|wgospodarce.pl|wpolsce.pl
+/rhododendron/css/rhododendron-popup.css$domain=wgospodarce.pl|wpolsce.pl
 /rodo.js$domain=polsat.pl|polsat1.pl|polsatfilm.pl|polsatplay.pl|polsatcafe.pl|tv4.pl|tv6.com.pl|discopolomusic.pl|polsat2.pl|polsatnews.pl|geekweek.pl|reklamowy-sklep.pl|mowianamiescie.pl|superstacja.tv|playa.pl|poszkole.pl|obi.pl
 /wp-content/plugins/mm-extensions/assets/js/info-popup.js$domain=koty.pl|psy.pl
 ||ad.prv.pl/rodo.js
