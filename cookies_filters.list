@@ -17,11 +17,11 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.20181011
+v.20181012
 !
 !
 Specyficzne
-2x45.info
+2x45.info,alltube.tv,nasze-kino.tv,imperiaonline.org,kolniak24.eu,barfnyswiat.org,stefczyk.info,lot.com,vod.internetowa.ws
 4hifi.pl,advatus.pl,tylkodywan.pl
 4lomza.pl
 24jgora.pl
@@ -56,7 +56,6 @@ allegro.pl
 alles-bhp.pl,greattrade.pl,szkolnaspizarnia.pl,urwisy2.pl
 allianz.pl
 allplay.pl,ammoffice.pl,androidmagazine.pl,biuletyn.net,blog.j-labs.pl,eneva.pl,galeria-dominikanska.pl,gosc.pl,sigatech.pl,strzelnicabojowa.pl,yorkedukacja.pl,zamakmercator.pl,zamow-myjnie.pl,mototube.pl,pudliszki.pl,miechow.eu,culturapoloneza.ro
-alltube.tv,nasze-kino.tv,imperiaonline.org,kolniak24.eu,barfnyswiat.org,stefczyk.info
 almamarket.pl,kozy.pl,www.sygnity.pl
 amarone.pl
 amazon.de
@@ -142,6 +141,7 @@ centrumpilkarskie.pl
 certum.pl
 chamsko.pl
 chceauto.pl
+chojnice24.pl
 chomikuj.pl
 chreptiow.pl
 ciam.pl
@@ -210,6 +210,7 @@ durszlak.pl
 dvbsklep.pl,naturo.pl
 dvdmax.pl
 dzidziusiowo.pl
+dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gratka.pl,gs24.pl,katowice.naszemiasto.pl,kurierlubelski.pl,motofakty.pl,naszemiasto.pl,nowiny24.pl,nowosci.com.pl,nto.pl,polskatimes.pl,pomorska.pl,poranny.pl,sportowy24.pl,strefaagro.pl,strefabiznesu.pl,stronakobiet.pl,telemagazyn.pl,to.com.pl,wspolczesna.pl
 dziennikwschodni.pl
 dzis.tv
 e24cloud.com
@@ -284,6 +285,7 @@ feb.net.pl
 felgdent.com
 fiatklubpolska.pl
 fiatklubpolska.pl
+filman.cc
 filmlab.com.pl,wtkplay.pl,lech.tv,obiezyswiat.org
 filmowo.co
 filmweb.pl
@@ -333,7 +335,6 @@ gaming.youtube.com
 gardinia.pl
 garwolin.spolem.org.pl
 gazeo.pl
-gazetalubuska.pl,dziennikbaltycki.pl,gs24.pl,echodnia.eu,pomorska.pl,nto.pl,gazetakrakowska.pl,sportowy24.pl,dzienniklodzki.pl,dziennikpolski24.pl,gloswielkopolski.pl,gol24.pl,nowiny24.pl,warszawa.naszemiasto.pl,kurierlubelski.pl,expressilustrowany.pl,gazetawroclawska.pl,poranny.pl,dziennikzachodni.pl,nowosci.com.pl,gk24.pl,to.com.pl,polskatimes.pl,expressbydgoski.pl,telemagazyn.pl,naszemiasto.pl,gp24.pl,gratka.pl,regiodom.pl,wspolczesna.pl,motofakty.pl,strefabiznesu.pl,prasa24.pl
 gazeta-msp.pl
 gbritain.net,eastbook.eu
 gb.pl
@@ -447,6 +448,7 @@ imagazine.pl,moviesroom.pl
 in4.pl
 info24.rzeszow.pl
 infoludek.pl
+infomusic.pl
 infostrefa.com,pap.pl
 info.wiara.pl
 inianie.pl
@@ -598,7 +600,6 @@ londynek.net
 lotnictwo.net.pl
 lotplay.pl
 lotto.pl
-lot.com
 loveair.pl
 lovekrakow.pl
 lovela.pl
@@ -699,6 +700,7 @@ monese.com
 monsterpolska.pl
 morele.net
 mos.gov.pl
+motofocus.pl
 motohid.pl
 motokiller.pl
 motomoto.pl
@@ -766,7 +768,7 @@ o2.pl
 obpon.pl
 ociasteczkach.pl
 odjechani.com.pl
-odleglosci.pl
+odleglosci.pl,tabele-kalorii.pl
 odo24.pl
 oferia.pl
 offsklep.pl
@@ -900,6 +902,7 @@ promocodius.com
 proszynski.pl
 przekroj.pl
 przygarnijkrolika.pl
+psychiatria.pl
 pulawy.eu
 punkt44.pl
 pupilexpert.pl
@@ -1129,7 +1132,6 @@ vas.com.pl
 viralka.pl,repostuj.pl
 virustotal.com
 vivaldi.com
-vod.internetowa.ws
 wacetob.com.pl
 wakacyjnipiraci.pl
 wapteka.pl
@@ -1272,6 +1274,7 @@ cookie-law-popup.js$script
 /rhododendron/css/rhododendron-popup.css$domain=wgospodarce.pl|wpolsce.pl
 /rodo.js$domain=polsat.pl|polsat1.pl|polsatfilm.pl|polsatplay.pl|polsatcafe.pl|tv4.pl|tv6.com.pl|discopolomusic.pl|polsat2.pl|polsatnews.pl|geekweek.pl|reklamowy-sklep.pl|mowianamiescie.pl|superstacja.tv|playa.pl|poszkole.pl|obi.pl
 /wp-content/plugins/mm-extensions/assets/js/info-popup.js$domain=koty.pl|psy.pl
+||ad.ipolska.pl/cookies/cookiecheck.js$script,domain=wielodzietni.org
 ||ad.prv.pl/rodo.js
 ||apteki24.waw.pl/info_cook.js
 ||architektura.info/extension/pucookies/design/base/stylesheets/pu_cookies.css
