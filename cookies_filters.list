@@ -17,7 +17,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.20181012
+v.20181016
 !
 !
 Specyficzne
@@ -86,7 +86,6 @@ autogespot.pl
 autogielda.pl,mix4kids.tv
 autokult.pl
 automo.pl,autobaza.pl
-auto-swiat.pl
 avast.com
 avioner.pl
 azure.microsoft.com
@@ -110,6 +109,7 @@ bitcomputer.pl
 bitmarket24.pl
 bitmaszyna.pl
 biznesistyl.pl
+biznes-firma.pl
 blog4u.pl
 blogger.com
 bocian.org.pl
@@ -153,6 +153,7 @@ ckmir.com.pl
 clarias.pl
 claritine.pl
 clearchannel.com.pl
+clickmeeting.com,gugik.gov.pl,smyk.com,modecom.com,brodnica.net,hifi.pl,wielkopolska.eu,dw.com
 codziennikfeministyczny.pl
 coinroom.com
 cookielaw.org
@@ -265,6 +266,7 @@ e-dukacja.pl
 e-fajek.pl
 e-fajek.pl
 e-farmacja.net
+e-kolo.pl
 e-metalzbyt.pl
 e-petrol.pl
 e-podatnik.pl
@@ -288,7 +290,7 @@ fiatklubpolska.pl
 filman.cc
 filmlab.com.pl,wtkplay.pl,lech.tv,obiezyswiat.org
 filmowo.co
-filmweb.pl
+finanse.rankomat.pl,sowafinansowa.pl,komorkomat.pl,wakacyjnapolisa.pl,wypowiadamoc.pl,autoumowa.pl
 finansowysupermarket.pl,faktykaliskie.pl
 firecash.org
 firmy4u.pl
@@ -396,7 +398,6 @@ gsmonline.pl
 gsmonline.pl
 gsm-grodzisk.pl
 guardian.co.uk
-gugik.gov.pl,smyk.com,modecom.com,brodnica.net,hifi.pl,wielkopolska.eu,dw.com
 hachette.com.pl
 haloursynow.pl,warsztat.pl
 hankooktire.com
@@ -451,7 +452,6 @@ infoludek.pl
 infomusic.pl
 infostrefa.com,pap.pl
 info.wiara.pl
-inianie.pl
 inksystem.pl
 inoreader.com
 inpay.pl
@@ -462,17 +462,12 @@ interhandler.pl
 interprojekt.pl
 intimiti.pl
 intymna.pl
-intymna.pl
 iom.pl
 ipartworld.pl
 iperfumy.pl
 ip-sa.pl
 istebna.org
 istockphoto.com
-istotne.pl
-istotne.pl
-istotne.pl
-istotne.pl
 ists.pl
 itaka.pl
 itpromo.pl
@@ -481,6 +476,7 @@ iwanowice.pl
 izone.pl
 jajco.pl
 jakbudowac.pl
+jakikredyt.pl
 jak-ksiegowac.pl
 jangar.pl
 januszebiznesu.pl
@@ -489,6 +485,7 @@ jarocin.poznan.lasy.gov.pl
 jastrzebieonline.pl
 jazzfestiwal.kck.com.pl
 jazzsoul.pl,ksiegarnienaukowe.pl
+jcubic.pl
 jednoslad.pl
 jelenia.pl
 jellinek.pl
@@ -532,6 +529,8 @@ klublifestyle.pl
 kobieta.byc.pl
 kochamwroclaw.pl
 kochlik.pl
+kodilla.com
+kodzisz.pl
 kokos.pl
 kolejeslaskie.com
 koleje-wielkopolskie.com.pl
@@ -559,7 +558,6 @@ kuchniapelnanagrod.pl
 kula.gov.pl
 kulki.info
 kulturalnysklep.pl
-kupbilet.onet.pl
 kupbilet.pl
 kupbilet.pl
 kursyuniversum.ksiezyc.pl
@@ -718,7 +716,7 @@ mtm-info.pl
 multiplay.pl
 muve.pl
 muzyczneradio.com.pl
-myhome.pl
+myhome.pl,newsbook.pl,inianie.pl
 myob.pl
 myownconference.pl
 mypolacy.de
@@ -729,7 +727,7 @@ naekranie.pl
 nakanapie.pl
 nano-carbon.pl
 naszamlawa.pl
-natemat.pl,aszdziennik.pl,mamadu.pl,innpoland.pl,warszawawpigulce.pl,joemonster.org,eskago.pl,stylowi.pl,kotburger.pl,faktopedia.pl,komixxy.pl,demotywatory.pl
+natemat.pl,aszdziennik.pl,mamadu.pl,innpoland.pl,warszawawpigulce.pl,joemonster.org,stylowi.pl,kotburger.pl,faktopedia.pl,komixxy.pl,demotywatory.pl
 naturo.pl
 nauka.gov.pl
 nazaruk.pl
@@ -750,6 +748,7 @@ nf.pl
 niestatystyczny.pl
 niezalezna.pl
 niezalezna.pl,gpcodziennie.pl
+niezlasztuka.net
 ninateka.pl
 niniwateam.pl
 nivea.pl
@@ -902,7 +901,7 @@ promocodius.com
 proszynski.pl
 przekroj.pl
 przygarnijkrolika.pl
-psychiatria.pl
+psychiatria.pl,forumneurologiczne.pl
 pulawy.eu
 punkt44.pl
 pupilexpert.pl
@@ -982,7 +981,6 @@ serialowa.pl,60sekund.tytan.pl
 serwis.currenda.pl
 seszele.com.pl
 shazam.com
-shinden.pl
 shippuuden.pl
 shop-dent.pl
 shop-dent.pl
@@ -1102,7 +1100,7 @@ trojmiasto.pl
 trovit.pl
 truckstore.com
 trustpilot.com
-ttv.pl,kontakt24.tvn24.pl
+ttv.pl
 tugazeta.pl
 turek.net.pl
 tvn24.pl
@@ -1223,7 +1221,6 @@ wydruki-wroclaw.pl
 wykopoczta.pl
 wykop.pl
 wymiana-pieca.pl
-wzory-cv.com
 wzp.pl
 xaa.pl
 xiaomi.eu
@@ -1433,14 +1430,21 @@ pl
 Blokowanie
 24opole.pl
 applemobile.pl
+auto-swiat.pl
+eskago.pl
 filmweb.pl
+istotne.pl
+kontakt24.tvn24.pl
+kupbilet.onet.pl
 minecraftpolska.net
 mybank.pl
 pl
 rapidgrab.pl
+shinden.pl
 strefabajek.vod.pl
 sympatia.onet.pl
 webcamera.pl
+wzory-cv.com
 zyciepabianic.pl
 !
 !
@@ -1454,6 +1458,8 @@ allegro.pl
 bskrasnosielc.pl,interhotel.pl,laskonline.pl,piekarniaanka.pl
 dwkoral.pl,piekarniaanka.pl,xboxarcade.pl,appki.com.pl,tylesmiechu.pl,neon24.pl,norauto.pl,orange.pl
 gdansk.pl,gokf.gda.pl
+laciate.pl,loterialaciate.pl
+laciate.pl,loterialaciate.pl
 letsplej.pl,telepizza.pl,orange.pl,google.pl,przenosne.pl,spreadshirt.pl,sellizer.pl,autocentrum.pl,ideabank.pl,intel.pl,pkn.pl,topsecret.pl,starbucks.pl,morizon.pl,abctygodnik.pl,wykop.pl,bt4.pl,kolba.pl,tablety.pl,tesco.pl,unileverfoodsolutions.pl,lomza.pl,multimediago.pl
 linuxiarz.pl,piekarniaanka.pl,xboxarcade.pl,appki.com.pl,mvno-gsm.pl,okazik.pl
 lomza.pl
