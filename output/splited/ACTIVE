@@ -1,10 +1,10 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Thu 18 Oct 18:10:09 UTC 2018 
+# Date of generation: Sat 20 Oct 18:10:36 UTC 2018 
 
 Domain                                                                                               Status      HTTP Code 
 ad.ipolska.pl                                                                                        ACTIVE      NSLOOKUP  
 ad.prv.pl                                                                                            ACTIVE      NSLOOKUP  
-apteki24.waw.pl                                                                                      ACTIVE      NSLOOKUP  
+apteki24.waw.pl                                                                                      ACTIVE      WHOIS     
 architektura.info                                                                                    ACTIVE      WHOIS     
 artkomnet.pl                                                                                         ACTIVE      NSLOOKUP  
 assets.allegrostatic.com                                                                             ACTIVE      NSLOOKUP  
@@ -16,7 +16,7 @@ cdn.digitrust.mgr.consensu.org                                                  
 cdn.inaudium.com                                                                                     ACTIVE      NSLOOKUP  
 cdnjs.cloudflare.com                                                                                 ACTIVE      NSLOOKUP  
 cdn.rp.pl                                                                                            ACTIVE      NSLOOKUP  
-ciasteczkowapolityka.pl                                                                              ACTIVE      WHOIS     
+ciasteczkowapolityka.pl                                                                              ACTIVE      NSLOOKUP  
 cmp.dreamlab.pl                                                                                      ACTIVE      NSLOOKUP  
 confero.pl                                                                                           ACTIVE      NSLOOKUP  
 consent.truste.com                                                                                   ACTIVE      NSLOOKUP  
