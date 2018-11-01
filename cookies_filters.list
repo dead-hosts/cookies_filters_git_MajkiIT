@@ -17,7 +17,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.20181030
+v.20181031
 !
 !
 Specyficzne
@@ -327,6 +327,7 @@ forumwodne.pl
 forum-kredytowe.pl
 forum-kulturystyka.pl
 forum.benchmark.pl
+forum.dobreprogramy.pl
 forum.dziennikwschodni.pl
 forum.joomla.pl
 forum.minepedia.pl
@@ -361,6 +362,7 @@ generatorkodowkreskowych.pl
 generator.blulink.pl
 genetico.pl
 geoblog.pl
+geopoz.pl
 gerlach.org.pl
 germany.travel
 gg.pl
@@ -681,6 +683,7 @@ mklr.pl
 mmtv.pl
 mniammniam.com
 mobile.de
+mobile.twitter.com
 mocnopomocni.pl
 mocnopomocni.pl
 modecom.pl
@@ -856,6 +859,8 @@ polandtrade.pl
 polcar.com
 policja.pl
 poligraf.com.pl
+polki.pl,mamotoja.pl,wizaz.pl,viva.pl,gotujmy.pl,party.pl
+polnord.pl
 polona.pl
 polopiryna.pl,polpharma.pl
 polska.googleblog.com
@@ -933,7 +938,7 @@ reebok.pl,adidas.pl
 refunder.pl
 regionwielkopolska.pl
 reklamawwindzie.net
-relpol.pl
+relpol.pl,polskie-cmentarze.pl
 renault.pl
 repostuj.pl
 resortpro.ht-int.com
@@ -964,6 +969,7 @@ seg.org.pl
 serialefilmyonline.pl
 seriale.co
 serialowa.pl,60sekund.tytan.pl,lucatel.pl
+seriea.pl,kadra.pl,ligapolska.pl,goal.pl,primeradivision.pl
 serwis.currenda.pl
 seszele.com.pl
 shazam.com
@@ -1066,6 +1072,7 @@ tluszczak.pl
 tophifi.pl
 torkusa.com,tork.pl
 torun.pl
+toyota-lublin.pl
 tp-link.com
 traftu.pl
 trakt.tv
@@ -1265,6 +1272,7 @@ cookie-law-popup.js$script
 ||cdn.digitrust.mgr.consensu.org/1/cmp.complete.bundle.js$domain=m.demotywatory.pl
 ||cdn.inaudium.com/js/adtctr.js
 ||cdn.rp.pl/rodo-agreement-popup/rodo-agreement-popup.min.js
+||cdn.zw.com.pl/rodo-agreement-popup/rodo-agreement-popup.min.js
 ||ciasteczkowapolityka.pl/getscript$script
 ||cmp.dreamlab.pl/static/cmp.complete.bundle.js$domain=~komputerswiat.pl
 ||cmp.med.pl/wp-content/plugins/rodo-popup/public/js/RodoPopupPublic.js
@@ -1401,10 +1409,6 @@ pl
 pl
 pl
 pl
-pl
-pl
-pl
-pl
 !
 !
 Blokowanie
@@ -1436,23 +1440,25 @@ Wyjątki
 addons.mozilla.org
 allegro.pl
 bskrasnosielc.pl,interhotel.pl,laskonline.pl,piekarniaanka.pl
-bskrasnosielc.pl,piekarniaanka.pl,xboxarcade.pl,wmeritum.pl,komunikacja.bialystok.pl,dobreprogramy.pl,lomza.pl,orange.pl,interhotel.pl,bestcena.pl,gokf.gda.pl,gdansk.pl,naekranie.pl,indbuildcraft.pl,okazik.pl
 gdansk.pl,gokf.gda.pl
 laciate.pl,loterialaciate.pl
 laciate.pl,loterialaciate.pl
-letsplej.pl,telepizza.pl,orange.pl,google.pl,przenosne.pl,spreadshirt.pl,sellizer.pl,autocentrum.pl,ideabank.pl,intel.pl,pkn.pl,topsecret.pl,starbucks.pl,morizon.pl,abctygodnik.pl,wykop.pl,bt4.pl,kolba.pl,tablety.pl,tesco.pl,lomza.pl,multimediago.pl,vod.naekranie.pl
 linuxiarz.pl,piekarniaanka.pl,xboxarcade.pl,appki.com.pl,mvno-gsm.pl,okazik.pl
 lomza.pl
 naekranie.pl
 opencraft.pl,sympatia.onet.pl
 orange.pl
-piekarniaanka.pl,xboxarcade.pl,appki.com.pl,tylesmiechu.pl,neon24.pl,norauto.pl,orange.pl
+pamiatki.pl
 riscosoftware.pl
-tabakiera.com.pl,fastdeal.pl,unileverfoodsolutions.pl
 tychy.geminipark.pl
 vod.naekranie.pl
 vod.naekranie.pl
 wsensie.pl,wsensie.tv
+wtk.pl
+!bskrasnosielc.pl,piekarniaanka.pl,xboxarcade.pl,wmeritum.pl,komunikacja.bialystok.pl,dobreprogramy.pl,lomza.pl,orange.pl,interhotel.pl,bestcena.pl,gokf.gda.pl,gdansk.pl,naekranie.pl,indbuildcraft.pl,okazik.pl
+!letsplej.pl,telepizza.pl,orange.pl,google.pl,przenosne.pl,spreadshirt.pl,sellizer.pl,autocentrum.pl,ideabank.pl,intel.pl,pkn.pl,topsecret.pl,starbucks.pl,morizon.pl,abctygodnik.pl,wykop.pl,bt4.pl,kolba.pl,tablety.pl,tesco.pl,lomza.pl,multimediago.pl,vod.naekranie.pl,pamiatki.pl
+!piekarniaanka.pl,xboxarcade.pl,appki.com.pl,tylesmiechu.pl,neon24.pl,norauto.pl,orange.pl
+!tabakiera.com.pl,fastdeal.pl,unileverfoodsolutions.pl,pamiatki.pl
 @@/js/jquery.cookie.min.js$domain=rozklad.pkp.pl|ubi.com|telepizza.pl|uplayconnect.ubi.com|playrust.io
 @@/plugins/uk-cookie-consent/assets/js/uk-cookie-consent-js.js$script,domain=escaperooms.pl|xboxarcade.pl|naziemna.info|3dwpraktyce.pl|tvs.pl|przegladbaltycki.pl|wypowiadamoc.pl|gazetabilgoraj.pl|serialowy.info|ittechblog.pl
 @@/wp-content/plugins/cookie-law-info/js/cookielawinfo.js$script
