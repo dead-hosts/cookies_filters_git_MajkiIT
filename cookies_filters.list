@@ -17,7 +17,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.20181031
+v.20181103
 !
 !
 Specyficzne
@@ -63,7 +63,7 @@ alles-bhp.pl,greattrade.pl,urwisy2.pl
 allianz.pl
 allplay.pl,ammoffice.pl,androidmagazine.pl,biuletyn.net,blog.j-labs.pl,eneva.pl,galeria-dominikanska.pl,gosc.pl,sigatech.pl,strzelnicabojowa.pl,yorkedukacja.pl,zamakmercator.pl,zamow-myjnie.pl,mototube.pl,pudliszki.pl,miechow.eu,culturapoloneza.ro
 almamarket.pl,kozy.pl,www.sygnity.pl
-al.to
+al.to,x-kom.pl
 amarone.pl
 amazon.de
 americanexpress.com
@@ -94,7 +94,7 @@ autogespot.pl
 autogielda.pl,mix4kids.tv
 autokult.pl,drony.net,fotoblogia.pl,gadzetomania.pl,komorkomania.pl,steplowski.net
 automo.pl,autobaza.pl
-avast.com
+avast.com,pay.google.com
 avioner.pl
 azure.microsoft.com
 a-o.ninja,e-niemcy.de,independentdigital.com,ferguson-digital.eu,roztocze.net,etychy.org,ekspedyt.org,genesis-zone.com,kropka.audio,lapppoland.lappgroup.com,skiparkmagura.eu,filmowo.co,kryminalni24.info,marfafashion.com,mago.com,wnet.fm
@@ -130,7 +130,7 @@ booking.com
 borelioza.vegie.pl
 bose.pl
 bricomarche.pl
-brodnica.net,clickmeeting.com,gugik.gov.pl,smyk.com,modecom.com,hifi.pl,wielkopolska.eu,dw.com,supermemo.com
+brodnica.net,clickmeeting.com,gugik.gov.pl,smyk.com,modecom.com,hifi.pl,wielkopolska.eu,dw.com,supermemo.com,palmiarnia.poznan.pl
 browarlubicz.pl
 browar.biz,centrumpiwowarstwa.pl
 bryk.pl,interia.pl,pokazywarka.pl
@@ -216,7 +216,6 @@ dourody.pl
 dowozy.pl
 drabex.com
 dreammachines.pl
-drogerielaboo.pl
 dropbox.com
 dstreet.pl
 dukapolska.com,onlinekredyty.pl,legnica.pl,zory.dlawas.pl
@@ -233,6 +232,7 @@ ebay.pl
 ebizneskrokpokroku.pl
 ebok.jmdi.pl
 ebok.vectra.pl
+ecbedzin.pl,enut.pl
 economist.com
 eco.atman.pl
 edarling.pl,foto4u.pl,himountain.pl,opteam.pl,praktiker.pl,smakizycia.pl,zoover.pl
@@ -499,6 +499,7 @@ jazzsoul.pl,ksiegarnienaukowe.pl
 jcubic.pl
 jednoslad.pl
 jelenia.pl
+jelenia.tv
 jellinek.pl
 jelonka.com,walbrzyszek.com
 jezykipodroze.pl
@@ -654,6 +655,7 @@ medme.pl
 medpolonia.pl
 medpytania.pl,mymedic.pl
 meetup.com
+megasat.tv
 megawrzuta.pl
 mega-com.eu
 memoinfo.pl
@@ -744,6 +746,7 @@ nettg.pl
 netweber.pl
 net-speak.pl
 net-s.pl
+news.google.com
 nfz-lodz.pl
 nf.pl
 niestatystyczny.pl
@@ -824,6 +827,7 @@ philips.pl
 piltza37.pl
 pingpong.com.pl
 pipelife.com
+pizzaportal.pl
 pkspolonus.pl,zakexpress.pl
 pks.zary.pl
 pk.benefitsystems.pl
@@ -832,6 +836,7 @@ playnow.pl
 playtube.pl
 play.google.com,translate.google.pl,books.google.pl
 plotowanie.com
+pl-pl.facebook.com
 pl.chili.tv
 pl.depositphotos.com
 pl.fotolia.com,stock.adobe.com
@@ -969,6 +974,7 @@ seg.org.pl
 serialefilmyonline.pl
 seriale.co
 serialowa.pl,60sekund.tytan.pl,lucatel.pl
+seriea.pl
 seriea.pl,kadra.pl,ligapolska.pl,goal.pl,primeradivision.pl
 serwis.currenda.pl
 seszele.com.pl
@@ -1288,7 +1294,6 @@ cookie-law-popup.js$script
 ||dziennikelblaski.pl/js/rodo-wm.js
 ||eurocookie.galilcloud.wixapps.net/pages/widget/views/widget.html
 ||eurocookie.galilcloud.wixapps.net/popup$subdocument
-||evidon.com/sitenotice/evidon-banner.js
 ||exploder.pl/info_o_cookie.js$script
 ||frazpc.pl/scripts/default/rodo-v2a.js
 ||fundingchoices.google.com^$script,domain=www.accuweather.com
@@ -1409,6 +1414,8 @@ pl
 pl
 pl
 pl
+pl
+pl
 !
 !
 Blokowanie
@@ -1438,7 +1445,7 @@ gg.pl
 !
 Wyjątki
 addons.mozilla.org
-allegro.pl
+allegro.pl,paradoxplaza.com
 bskrasnosielc.pl,interhotel.pl,laskonline.pl,piekarniaanka.pl
 gdansk.pl,gokf.gda.pl
 laciate.pl,loterialaciate.pl
@@ -1449,22 +1456,24 @@ naekranie.pl
 opencraft.pl,sympatia.onet.pl
 orange.pl
 pamiatki.pl
+paradoxplaza.com
 riscosoftware.pl
 tychy.geminipark.pl
 vod.naekranie.pl
 vod.naekranie.pl
 wsensie.pl,wsensie.tv
 wtk.pl
+!autostrada-a2.pl,tabakiera.com.pl,fastdeal.pl,unileverfoodsolutions.pl,pamiatki.pl
 !bskrasnosielc.pl,piekarniaanka.pl,xboxarcade.pl,wmeritum.pl,komunikacja.bialystok.pl,dobreprogramy.pl,lomza.pl,orange.pl,interhotel.pl,bestcena.pl,gokf.gda.pl,gdansk.pl,naekranie.pl,indbuildcraft.pl,okazik.pl
 !letsplej.pl,telepizza.pl,orange.pl,google.pl,przenosne.pl,spreadshirt.pl,sellizer.pl,autocentrum.pl,ideabank.pl,intel.pl,pkn.pl,topsecret.pl,starbucks.pl,morizon.pl,abctygodnik.pl,wykop.pl,bt4.pl,kolba.pl,tablety.pl,tesco.pl,lomza.pl,multimediago.pl,vod.naekranie.pl,pamiatki.pl
 !piekarniaanka.pl,xboxarcade.pl,appki.com.pl,tylesmiechu.pl,neon24.pl,norauto.pl,orange.pl
-!tabakiera.com.pl,fastdeal.pl,unileverfoodsolutions.pl,pamiatki.pl
 @@/js/jquery.cookie.min.js$domain=rozklad.pkp.pl|ubi.com|telepizza.pl|uplayconnect.ubi.com|playrust.io
 @@/plugins/uk-cookie-consent/assets/js/uk-cookie-consent-js.js$script,domain=escaperooms.pl|xboxarcade.pl|naziemna.info|3dwpraktyce.pl|tvs.pl|przegladbaltycki.pl|wypowiadamoc.pl|gazetabilgoraj.pl|serialowy.info|ittechblog.pl
 @@/wp-content/plugins/cookie-law-info/js/cookielawinfo.js$script
 @@||china-gadgets.de/app/plugins/cookie-law-info/js/cookielawinfo.js
 @@||coinroom.com/Modules/UI/Cookie/Cookie.js$script
 @@||pracatobie.pl/jscripts/cookieLaws.js
+@@||rozklad-pkp.pl/js/jquery.cookie.min.js
 !
 !
 Dołączenie
