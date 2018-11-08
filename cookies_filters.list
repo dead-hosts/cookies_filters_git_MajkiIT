@@ -17,7 +17,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.20181105
+v.20181106
 !
 !
 Specyficzne
@@ -41,14 +41,12 @@ adm-media.pl,kociadolina.pl
 adobe.com
 adwokatrozycka.pl,cad2cad.com,greensteam.pl,kacperkowalski.pl,metronic.com.pl,npa.pl,progenis.pl,rysunek.edu.pl,wanika.pl
 aerlingus.com
-agatameble.pl
 agencjagazeta.pl
 agropolska.pl
 airbnb.pl
 airkiosk.lot.com
 airly.eu
 airly.eu
-airport.gdansk.pl
 airport.gdansk.pl,r.pl
 akademia-piwa.pl
 alerabat.com
@@ -59,6 +57,7 @@ allani.pl
 allbox.tv,dzikowiec.info
 allegro.pl
 allegro.pl
+allekoszyk.pl
 alles-bhp.pl,greattrade.pl,urwisy2.pl
 allianz.pl
 allplay.pl,ammoffice.pl,androidmagazine.pl,biuletyn.net,blog.j-labs.pl,eneva.pl,galeria-dominikanska.pl,gosc.pl,sigatech.pl,strzelnicabojowa.pl,yorkedukacja.pl,zamakmercator.pl,zamow-myjnie.pl,mototube.pl,pudliszki.pl,miechow.eu,culturapoloneza.ro
@@ -68,7 +67,7 @@ amarone.pl
 amazon.de
 americanexpress.com
 amundi.pl
-antyweb.pl,norauto.pl
+antyweb.pl,norauto.pl,grupakety.com
 apdmarket.pl,cos.pl,czesci-samochodowe.wroclaw.pl,demarko-trailers.com,instytutksiazki.pl,jangar.pl,muzeumslaskie.pl,sklepdlaplastykow.pl,smswietochlowice.pl,storm24.pl,bobryk.pl
 apkpure.com
 apra.pl
@@ -95,7 +94,7 @@ autogespot.pl
 autogielda.pl,mix4kids.tv
 autokult.pl,drony.net,fotoblogia.pl,gadzetomania.pl,komorkomania.pl,steplowski.net
 automo.pl,autobaza.pl
-avast.com,pay.google.com,portalsamorzadowy.pl
+avast.com,pay.google.com
 avioner.pl
 azure.microsoft.com
 a-o.ninja,e-niemcy.de,independentdigital.com,ferguson-digital.eu,roztocze.net,etychy.org,ekspedyt.org,genesis-zone.com,kropka.audio,lapppoland.lappgroup.com,skiparkmagura.eu,filmowo.co,kryminalni24.info,marfafashion.com,mago.com,wnet.fm,weddingdream.com,lowiczanin.info
@@ -119,6 +118,7 @@ bimsplus.pl
 bingospa.pl
 bing.com
 biomet.pl,rapid-recovery.pl
+bip.sejmik.kielce.pl
 bitcomputer.pl
 bitmarket24.pl
 bitmaszyna.pl
@@ -218,8 +218,8 @@ domena.pl
 domisad.pl
 domodi.pl,homebook.pl
 dourody.pl
-dowozy.pl,e-kolo.pl,tubamarek.pl,tubagliwic.pl,gieldarolna.pl,minecraft.org.pl,tubawyszkowa.pl,tubaostrowa.pl,tubachorzowa.pl,tubamarek.pl
-dpn.pl,jaskinianiedzwiedzia.pl,gospodarkamorska.pl,synonim.net,speedtest.pl,nj24.pl,fashionpost.pl,sklep.krosno.com.pl,nj24.pl
+dowozy.pl,e-kolo.pl,tubamarek.pl,tubagliwic.pl,gieldarolna.pl,minecraft.org.pl,tubawyszkowa.pl,tubaostrowa.pl,tubachorzowa.pl
+dpn.pl,jaskinianiedzwiedzia.pl,gospodarkamorska.pl,synonim.net,speedtest.pl,nj24.pl,fashionpost.pl,sklep.krosno.com.pl,zsp2.edu.pl
 drabex.com
 dreammachines.pl
 dropbox.com
@@ -230,7 +230,7 @@ durszlak.pl
 dvbsklep.pl,naturo.pl
 dvdmax.pl
 dzidziusiowo.pl
-dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gratka.pl,gs24.pl,katowice.naszemiasto.pl,kurierlubelski.pl,motofakty.pl,naszemiasto.pl,nowiny24.pl,nowosci.com.pl,nto.pl,polskatimes.pl,pomorska.pl,poranny.pl,sportowy24.pl,strefaagro.pl,strefabiznesu.pl,stronakobiet.pl,telemagazyn.pl,to.com.pl,wspolczesna.pl
+dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gratka.pl,gs24.pl,kurierlubelski.pl,motofakty.pl,naszemiasto.pl,nowiny24.pl,nowosci.com.pl,nto.pl,polskatimes.pl,pomorska.pl,poranny.pl,sportowy24.pl,strefaagro.pl,strefabiznesu.pl,stronakobiet.pl,telemagazyn.pl,to.com.pl,wspolczesna.pl
 dziennikwschodni.pl
 dzis.tv
 e24cloud.com
@@ -249,7 +249,6 @@ ekliniki.pl,sklepbiegacza.pl
 ekosalus.pl
 ekosalus.pl
 ekoserwis.poznan.pl
-ekrs.ms.gov.pl
 eldom.eu
 elektroda.pl
 elektroinstalacje.info
@@ -270,7 +269,6 @@ epuap.gov.pl,webcamera.pl
 erboristeriamagentina.it
 ergokantor.pl
 eservice.pl
-eskago.pl
 esklep-sbs.pl
 espritgames.com
 eteacher.pl
@@ -290,6 +288,7 @@ e-petrol.pl
 e-podatnik.pl
 e-podroznik.pl
 e-promar.pl,lafe.pl,promib.pl
+e-reporter.pl
 e-swietokrzyskie.kielce.eu
 fabrykamemow.pl
 facebook.com
@@ -311,6 +310,7 @@ finanse.rankomat.pl,sowafinansowa.pl,komorkomat.pl,wakacyjnapolisa.pl,wypowiadam
 finansowysupermarket.pl,faktykaliskie.pl
 firecash.org
 firmy4u.pl
+firmyinzynieria.com,prostozkranu.krakow.pl
 firmy.lu
 fleetboard.pl
 florexpol.eu
@@ -547,7 +547,6 @@ klublifestyle.pl
 kobieta.byc.pl
 kochamwroclaw.pl
 kodilla.com
-kodzisz.pl
 kokos.pl
 kolejeslaskie.com
 komfort.pl
@@ -720,7 +719,6 @@ mtm-info.pl
 multiplay.pl
 musicexpert.pl
 muve.pl
-muzyczneradio.com.pl
 muzyczneradio.pl
 myhome.pl,newsbook.pl,inianie.pl
 myob.pl
@@ -736,6 +734,7 @@ natemat.pl,aszdziennik.pl,mamadu.pl,innpoland.pl,warszawawpigulce.pl,joemonster.
 naturo.pl
 nauka.gov.pl
 nazaruk.pl
+nck.pl
 ncplusgo.pl
 ncplus.pl
 neobiznes.pl
@@ -969,6 +968,7 @@ r-gol.com,51015kids.eu
 sadowocowy.pl
 salesmanago.pl,grene.pl
 samba.com.pl
+samouczek.info,aranzujemy.pl,kobieceporady.pl
 samsung.com,player.pl
 sandecja.org
 santander24.pl
@@ -1014,7 +1014,6 @@ slaskwroclaw.pl
 slawomirambroziak.pl
 slowhop.com,interpretacje-podatkowe.org
 slubowisko.pl
-smakizycia.pl,edarling.pl
 smart.com
 snapchat.com
 solidarni2010.pl
@@ -1099,7 +1098,6 @@ trustpilot.com
 ttv.pl
 tugazeta.pl
 turek.net.pl
-tvn24.pl
 tvp.info,tvp.pl
 tvs.pl
 twitch.tv
@@ -1142,7 +1140,7 @@ weranda.pl,werandacountry.pl,werandaweekend.pl,astromagia.pl,wrozka.com.pl,gwiaz
 wgospodarce.pl,wpolsce.pl
 whatsapp.com
 wiara.pl
-wielkopolska.travel
+wielkopolska.travel,andrychow.eu
 wiem-to.pl
 wiescirolnicze.pl
 wikar.com.pl
@@ -1156,6 +1154,7 @@ wiz.pl
 wlkp24.info
 wm.pl,przyszloscdladzieci.org,familie.pl,naszolsztyniak.pl,gazetaolsztynska.pl,kuriermlawski.pl,kurierprzasnyski.pl,kuriermakowski.pl,kurierzurominski.pl
 wodociagi-kalisz.pl
+wodociagi.krakow.pl
 wolnymkrokiem.pl,gieldaklasykow.pl,nowawarszawa.pl
 wordpress.com
 word.waw.pl
@@ -1174,6 +1173,7 @@ wunderground.com,weather.com
 wu.swps.edu.pl
 www.bing.com
 www.biomedical.pl
+www.bip.kielce.eu
 www.biurozplusem.pl
 www.bi-polska.pl
 www.cmcmarkets.com
@@ -1229,6 +1229,7 @@ zakupycodzienne.carrefour.pl
 zalando.pl
 zara.com
 zaufanekliniki.pl
+zdp.poznan.pl
 zdrowemiasto.pl
 zepsute.pl
 zgierz.pl
@@ -1598,24 +1599,41 @@ pl
 pl
 pl
 pl
+pl
+pl
+pl
+pl
+pl
+pl
+pl
+pl
+pl
+pl
+pl
+pl
+pl
+pl
+pl
+pl
+pl
+pl
+pl
 !
 !
 Blokowanie
 24opole.pl
-applemobile.pl
 auto-swiat.pl
 eskago.pl
 filmweb.pl
 istotne.pl
-konkret24.tvn24.pl,kontakt24.tvn24.pl
 kupbilet.onet.pl
 minecraftpolska.net
 mybank.pl
-pl
 rapidgrab.pl
 shinden.pl
 strefabajek.vod.pl
 sympatia.onet.pl
+tvn24.pl
 webcamera.pl
 wzory-cv.com
 zyciepabianic.pl
@@ -1649,7 +1667,7 @@ wtk.pl
 !bskrasnosielc.pl,piekarniaanka.pl,xboxarcade.pl,wmeritum.pl,komunikacja.bialystok.pl,dobreprogramy.pl,lomza.pl,orange.pl,interhotel.pl,bestcena.pl,gokf.gda.pl,gdansk.pl,naekranie.pl,indbuildcraft.pl,okazik.pl
 !letsplej.pl,telepizza.pl,orange.pl,google.pl,przenosne.pl,spreadshirt.pl,sellizer.pl,autocentrum.pl,ideabank.pl,intel.pl,pkn.pl,topsecret.pl,starbucks.pl,morizon.pl,abctygodnik.pl,wykop.pl,bt4.pl,kolba.pl,tablety.pl,tesco.pl,lomza.pl,multimediago.pl,vod.naekranie.pl,pamiatki.pl
 !piekarniaanka.pl,xboxarcade.pl,appki.com.pl,tylesmiechu.pl,neon24.pl,norauto.pl,orange.pl
-@@/js/jquery.cookie.min.js$domain=rozklad.pkp.pl|ubi.com|telepizza.pl|uplayconnect.ubi.com|playrust.io
+@@/js/jquery.cookie.min.js$domain=rozklad.pkp.pl|ubi.com|telepizza.pl|playrust.io
 @@/plugins/uk-cookie-consent/assets/js/uk-cookie-consent-js.js$script,domain=escaperooms.pl|xboxarcade.pl|naziemna.info|3dwpraktyce.pl|tvs.pl|przegladbaltycki.pl|wypowiadamoc.pl|gazetabilgoraj.pl|serialowy.info|ittechblog.pl
 @@/wp-content/plugins/cookie-law-info/js/cookielawinfo.js$script
 @@||china-gadgets.de/app/plugins/cookie-law-info/js/cookielawinfo.js
