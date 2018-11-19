@@ -60,6 +60,11 @@
             "expiration_date": "14-feb-2019",
             "state": "future"
         },
+        "itmarket.pl": {
+            "epoch": "1806710400",
+            "expiration_date": "03-apr-2027",
+            "state": "future"
+        },
         "jak-zablokowac-cookies.pl": {
             "epoch": "1553990400",
             "expiration_date": "31-mar-2019",
