@@ -35,6 +35,11 @@
             "expiration_date": "20-mar-2020",
             "state": "future"
         },
+        "dlastudenta.pl": {
+            "epoch": "1566950400",
+            "expiration_date": "28-aug-2019",
+            "state": "future"
+        },
         "dziennikelblaski.pl": {
             "epoch": "1552089600",
             "expiration_date": "09-mar-2019",
@@ -85,6 +90,11 @@
             "expiration_date": "08-may-2020",
             "state": "future"
         },
+        "loteriainpost.pl": {
+            "epoch": "1571788800",
+            "expiration_date": "23-oct-2019",
+            "state": "future"
+        },
         "lubiegrac.pl": {
             "epoch": "1555632000",
             "expiration_date": "19-apr-2019",
@@ -93,6 +103,11 @@
         "metpartner.pl": {
             "epoch": "1543449600",
             "expiration_date": "29-nov-2018",
+            "state": "future"
+        },
+        "msecnd.net": {
+            "epoch": "1569715200",
+            "expiration_date": "29-sep-2019",
             "state": "future"
         },
         "newonce.net": {
