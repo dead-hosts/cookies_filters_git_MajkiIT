@@ -45,6 +45,11 @@
             "expiration_date": "09-mar-2019",
             "state": "future"
         },
+        "e-hortico.pl": {
+            "epoch": "1559433600",
+            "expiration_date": "02-jun-2019",
+            "state": "future"
+        },
         "evidon.com": {
             "epoch": "1552953600",
             "expiration_date": "19-mar-2019",
