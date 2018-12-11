@@ -1,5 +1,10 @@
 {
     "/home/travis/build/dead-hosts/cookies_filters_git_MajkiIT/cookies_filters.list": {
+        "akademiareissa.pl": {
+            "epoch": "1561766400",
+            "expiration_date": "29-jun-2019",
+            "state": "future"
+        },
         "architektura.info": {
             "epoch": "1569110400",
             "expiration_date": "22-sep-2019",
