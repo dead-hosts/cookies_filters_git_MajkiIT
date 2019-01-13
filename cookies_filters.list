@@ -18,7 +18,7 @@ Opcjonalne
 License:
 Copyright
 Najnowsza
-v.2019.1.9.4
+v.2019.1.12.3
 !
 !
 Specyficzne
@@ -31,7 +31,7 @@ Specyficzne
 24jgora.pl
 24opole.pl
 40latki.pl
-40ton.net,nowy-sacz.info,olgasmile.com,tb4hr.com,telewizja-cyfrowa.com,naziemna.info,fastwhitecat.com,urbanium.eu,zasiedzenie.net,indianpoland.com,settlersonlinewiki.eu
+40ton.net,nowy-sacz.info,olgasmile.com,tb4hr.com,telewizja-cyfrowa.com,naziemna.info,fastwhitecat.com,urbanium.eu,zasiedzenie.net,indianpoland.com,settlersonlinewiki.eu,blog.spacetronik.eu
 99rent.pl
 360studio.org,wabrzezno.com
 2018.pl
@@ -59,7 +59,7 @@ aerlingus.com
 aforyzmy-cytaty.pl
 afryka.org
 aftermarket-benefit.pl
-agencjagazeta.pl,sklep.genos.com.pl
+agencjagazeta.pl,sklep.genos.com.pl,panoramafirm.pl
 agropolska.pl,forumdermatologiczne.pl
 agusto.pl
 airbnb.pl
@@ -93,7 +93,7 @@ allplay.pl,ammoffice.pl,androidmagazine.pl,biuletyn.net,blog.j-labs.pl,eneva.pl,
 allsporter.com
 allview.pl
 almamarket.pl,kozy.pl,www.sygnity.pl,aukso.pl
-altimi.com,superstacja.tv
+altimi.com,superstacja.tv,fiufiu.co
 alufelgi.sklep.pl,sklep.kutnik.com.pl
 aluzja.gorzow.pl,artgos.pl,diagmed.info.pl,hostgrafia.pl,itlab.pl,mojawww.com,naukajazdy-kowalik.pl,osrodek-terapii.com,puch-kotlowski.pl,sls.info.pl,swiatdeski.pl,tomiicars.com.pl,treningkrakow.pl,vagaru.pl,ck.przemysl.pl
 al.to,x-kom.pl,combat.pl
@@ -118,9 +118,9 @@ arachnea.org
 architektura.info
 architektura.info
 archiwa.gov.pl,noria.pl
-arcyfotka.pl,doniczki-poznan.pl,koraliki.pl,nck.gov.pl,kupbilet.pl,postrabbit.pl
-areatour.pl,dlapacjenta.pl,marbo-sport.pl,radentortodonta.pl
-arg.gdynia.pl,rankinglekarzy.pl
+arcyfotka.pl,doniczki-poznan.pl,koraliki.pl,nck.gov.pl,kupbilet.pl,microhost.pl,postrabbit.pl
+areatour.pl,dacter.pl,dlapacjenta.pl,marbo-sport.pl,radentortodonta.pl,uni-tech.pl
+arg.gdynia.pl,rankinglekarzy.pl,finai.pl
 arkady.info,krzysztonjan.com
 arnicaapteka.pl,kappahl.com
 artim.com.pl
@@ -133,7 +133,7 @@ aszdziennik.pl,demotywatory.pl,faktopedia.pl,innpoland.pl,joemonster.org,komixxy
 atcdevelopment.pl,ginekolog-darlowo.pl,lek-med.pl
 atlas-roslin.pl
 atramentowka.com
-atramentowka.com,bingospa.eu,bip.um.rybnik.eu,fotonegatyw.com,firmyinzynieria.com,coremannet.com,szlakwokoltatr.eu,starosadeckie.info,odmiana.net,fyrestore.com,whitervbbit.com,royaltime.eu,meczelive.tv,wyczesani.com
+atramentowka.com,bingospa.eu,bip.um.rybnik.eu,fotonegatyw.com,firmyinzynieria.com,coremannet.com,szlakwokoltatr.eu,starosadeckie.info,odmiana.net,fyrestore.com,whitervbbit.com,royaltime.eu,meczelive.tv,wyczesani.com,warsztatowski.com
 atskaner.pl
 attrader.pl,teatrpalladium.com
 audioteka.com
@@ -173,6 +173,7 @@ bebio.pl
 becek.pl
 bejeans.pl,hael.pl
 belutti.com
+beskidy.news
 beskidzkapilka.pl
 bethesda.net
 betsson.com
@@ -305,6 +306,7 @@ cubus.com
 culture.pl
 cyanmod.pl
 cyberbajt.pl
+cybor-tech.com.pl
 cyfrowarepublika.pl,energoekspert.com.pl
 czarno-biale.pl
 czasdzieci.net
@@ -314,7 +316,6 @@ czescidobmw.pl
 czescidobmw.pl
 czluchow.com.pl
 daciakatowice.pl,nazaruk.pl
-dacter.pl,sklep-wadima.pl,uni-tech.pl
 daewooforum.pl
 daiglob.pl
 danepubliczne.gov.pl
@@ -376,7 +377,7 @@ dziennikwschodni.pl,wykop.pl
 dzis.tv
 e24cloud.com
 earlystage.pl
-easypaste.org,halogorlice.info,nasze-kino.eu,polskatelewizjausa.com,pl.soringpcrepair.com,forum.swiateczne.info
+easypaste.org,halogorlice.info,nasze-kino.eu,polskatelewizjausa.com,pl.soringpcrepair.com,forum.swiateczne.info,experiencecorner.com
 ebay.pl
 ebizneskrokpokroku.pl
 eblik.pl
@@ -386,7 +387,6 @@ ebrokerpartner.pl
 echosonda.pl
 economist.com
 eco.atman.pl,kreskoweczki.pl,groj.pl,marketing-news.pl,www.obozytenisowe.pl
-edarling.pl,foto4u.pl,himountain.pl,opteam.pl,praktiker.pl,smakizycia.pl,zoover.pl
 edukacja.rybnik.eu,polskaekologia.org
 edutorial.pl,kerrisgroup.com
 eecpoland.eu
@@ -457,7 +457,8 @@ e-butydladzieci.pl,papciolandia.pl
 e-dukacja.pl,e-farmacja.net
 e-hak24.pl
 e-hortico.pl
-e-hotelarz.pl,e-restauracja.com,rynek-turystyczny.pl,polskijubiler.pl,e-stacjapaliw.pl
+e-hotelarz.pl
+e-hotelarz.pl,e-stacjapaliw.pl,e-restauracja.com,grene.pl,salesmanago.pl,turek.net.pl,polskijubiler.pl,przegladlokalny.eu,rynek-turystyczny.pl
 e-konferencje.pl,szkolenia24h.pl
 e-konkursy.info
 e-kwiaciarz.pl
@@ -493,7 +494,6 @@ fiatklubpolska.pl
 filman.cc
 filmyonline.tv,mettosport.eu,spidersweb.pl,vanessa.fm
 filoma.org
-finai.pl
 finanse.rankomat.pl,sowafinansowa.pl,komorkomat.pl,wakacyjnapolisa.pl,wypowiadamoc.pl,autoumowa.pl
 finansowysupermarket.pl,faktykaliskie.pl
 finnair.com
@@ -517,6 +517,7 @@ fora.pl
 forbot.pl
 ford-esklep.pl
 foreca.pl
+forma.czest.pl
 fors.pl,pks.zary.pl,webelite.pl
 forte.com.pl,mustasz.com,agatabielen.com,pantuniestal.com
 forumlekarza.pl
@@ -533,10 +534,10 @@ forum.minepedia.pl
 forum.vwgolf.pl
 forum.zarabianie24.net
 fostertravel.pl
+foto4u.pl,fotoprint.pl,smakizycia.pl,zoover.pl,
 fotojoker.pl
 fotokurier.eu
 fotonegatyw.com
-fotoprint.pl
 fsmm.pl
 funclub.pl
 funduszpomerania.pl
@@ -580,6 +581,7 @@ gih.grajewo.pl
 gih.grajewo.pl,naszamlawa.pl,pupgrodziskwlkp.pl
 gismeteo.pl
 gispartner.pl,geotec.pl
+gitlab.com
 gkn.pl
 gkstychy.info
 glogow-info.pl,glogow.info.pl
@@ -595,8 +597,6 @@ gm-inowroclaw.rbip.mojregion.info
 goclever.com,goclever.pl
 goin.pl
 gokf.gda.pl
-goldenline.pl
-goldenline.pl
 goldenline.pl
 golfparkspoland.pl
 gomez.pl
@@ -618,7 +618,6 @@ gragra.pl
 grawipol.pl,kopland.pl
 greenlux.pl
 gregorio.pl
-grene.pl,salesmanago.pl,turek.net.pl,przegladlokalny.eu
 groman.pl,hotelboss.pl,jellinek.pl,zoo.wroclaw.pl
 groupon.pl
 grupazywiec.pl
@@ -654,14 +653,13 @@ homebrewing.pl
 home.pl,koty24.pl,psy24.pl,idea4you.eu
 horizon.tv
 horyzonty.pl
-host1.eu
+host1.eu,mateuszgrzesiak.tv
 hotele.pl
 hotpoint.pl
 hpe.com
 hrlink.pl
 huawei.com,huaweipolska.pl
 humanoffice.pl
-hurtowniateleinformatyczna.pl,ideanord.com.pl,intimiti.pl,ipartworld.pl,itpromo.pl,lunamarket.pl,mazury.pl,mikos.com.pl,mini-itx.com.pl,ostry-sklep.pl,pcoutlet.pl,powerflex.pl,pupilexpert.pl,raraavis.krakow.pl,sklep-muzyczny.com.pl,skrypt.com.pl,ekologiczny.pl,sporto.com.pl,srebrnystyl.pl,termokubki.com.pl,tv-zakupy.pl,wodna-kraina.pl
 hurtownia-24.pl
 hydrem-online.com
 iab.org.pl,iabpolska.pl
@@ -722,7 +720,6 @@ it-szkola.edu.pl
 iwanowice.pl
 ixon.cloud
 izone.pl
-jabra.pl
 jackvision.pl
 jajco.pl
 jakbudowac.pl
@@ -753,7 +750,7 @@ kalendarzrolnikow.pl,lpwiksa.com.pl,hopea.eu,kpcen-torun.edu.pl
 kalendarzswiat.pl
 kalisz.pl
 kalkulator.wakacyjnapolisa.pl,rankomat.pl
-kameleonbutik.com,rebelelectro.com,giorre.com,mojeinstalacje.com,zeskory.com
+kameleonbutik.com,rebelelectro.com,giorre.com,mojeinstalacje.com,zeskory.com,spacetronik.eu
 kamilianie.eu
 kapucyni.pl
 karmimypsiaki.pl
@@ -858,7 +855,7 @@ lg.com
 licytacje.komornik.pl
 limango-outlet.pl
 limango.pl
-limanowa.in,parkerpen.com
+limanowa.in,parkerpen.com,narew.info
 linuxiarz.pl
 linuxportal.pl
 lodz.pl,ago.pl,mamoo.pl,askopolska.pl,papercast.pl,indigo-nails.com
@@ -945,7 +942,6 @@ miastograf.pl,zgierz.pl
 miastons.pl
 michalgrabarski.eu
 michal.kosmulski.org
-microhost.pl
 microsoft.com
 mielec.pl
 milenium.pl
@@ -1087,7 +1083,7 @@ ogloszenia.e-gratka.info
 ogloszenioteka.pl
 ogrzewanie-elektryczne.pl
 oifp.eu
-oko.press
+oko.press,pl.tradingview.com
 oksir.eu
 oktawave.com
 okulary.szkla.com
@@ -1122,6 +1118,7 @@ ostrowiecnr1.pl
 otolaryngolodzy24.pl,prow.lubelskie.pl,rogowskidevelopment.pl
 ovh.com,ovh.pl
 owocowydom.pl,weck.com.pl
+pafere.org
 paker.co.uk,zalando-lounge.pl
 pakolorente.com
 paliwaolkop.pl
@@ -1130,7 +1127,6 @@ panasonic.pl
 pandora.net
 pandora.net
 paneleogrodzeniowe-treza.com
-panoramafirm.pl
 parkersklep.pl,rotringsklep.pl
 parkhandlowylomza.pl
 parkwodny.pl,szkolymedyczne.eu,srodaslaska.pl
@@ -1257,6 +1253,7 @@ puk.elk.pl
 pulawy.eu
 pupgrodziskwlkp.pl
 pupgrodziskwlkp.pl
+pupilexpert.pl
 pushpushgo.com
 pwik.wolomin.pl
 pw.edu.pl
@@ -1384,6 +1381,7 @@ sonymobile.com
 sonymobile.com
 sosnowiec.pl
 soundcloud.com,blyskawicznakorekta.pl
+spacetronik.eu
 specshop.pl
 speedtest.net
 speedtest.net
@@ -1404,7 +1402,7 @@ starterek.pl
 start.me
 statoscope.pl
 stat.gov.pl,pap.pl,popoznaniu.pl,warszawa-pragapoludnie.sr.gov.pl
-stefczyk.info,leniwy.eu
+stefczyk.info,leniwy.eu,disco-polo.info
 stodola.pl
 store.playstation.com
 storytel.pl
@@ -1459,7 +1457,7 @@ ticketos.pl
 tlcpolska.pl
 tlp.is
 tnt-tv.pl
-tominet.com.pl
+tominet.com.pl,polonika.at
 top123.pl
 torkusa.com,tork.pl
 toyota.pl,toyota-lublin.pl
@@ -1553,7 +1551,6 @@ wolnymkrokiem.pl,gieldaklasykow.pl,nowawarszawa.pl
 wp.pl,~www.wp.pl,~poczta.wp.pl
 wrobelekelemelek.com
 wroclawfashionoutlet.com
-wrzucacz.pl
 wsedno24.pl
 wseit.edu.pl
 wskaznikizrp.stat.gov.pl,sdg.stat.gov.pl
@@ -1796,6 +1793,7 @@ cookie-law-popup.js$domain=pl
 Ogólne
 ~ro
 com
+pl
 pl
 pl
 pl
