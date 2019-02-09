@@ -60,6 +60,11 @@
             "expiration_date": "31-jul-2019",
             "state": "future"
         },
+        "evacalor.pl": {
+            "epoch": "1556582400",
+            "expiration_date": "30-apr-2019",
+            "state": "future"
+        },
         "evidon.com": {
             "epoch": "1552953600",
             "expiration_date": "19-mar-2019",
@@ -103,6 +108,11 @@
         "legionisci.com": {
             "epoch": "1588896000",
             "expiration_date": "08-may-2020",
+            "state": "future"
+        },
+        "lenovozone.pl": {
+            "epoch": "1602460800",
+            "expiration_date": "12-oct-2020",
             "state": "future"
         },
         "loteriainpost.pl": {
