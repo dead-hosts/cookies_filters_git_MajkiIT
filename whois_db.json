@@ -145,6 +145,11 @@
             "expiration_date": "05-mar-2020",
             "state": "future"
         },
+        "odrowaz24.pl": {
+            "epoch": "1563062400",
+            "expiration_date": "14-jul-2019",
+            "state": "future"
+        },
         "paypass.pl": {
             "epoch": "1578787200",
             "expiration_date": "12-jan-2020",
