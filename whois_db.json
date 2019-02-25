@@ -5,6 +5,11 @@
             "expiration_date": "29-jun-2019",
             "state": "future"
         },
+        "apteki24.waw.pl": {
+            "epoch": "1580428800",
+            "expiration_date": "31-jan-2020",
+            "state": "future"
+        },
         "architektura.info": {
             "epoch": "1569110400",
             "expiration_date": "22-sep-2019",
@@ -105,6 +110,11 @@
             "expiration_date": "07-feb-2020",
             "state": "future"
         },
+        "kolarstwo.wroclaw.pl": {
+            "epoch": "1563235200",
+            "expiration_date": "16-jul-2019",
+            "state": "future"
+        },
         "legionisci.com": {
             "epoch": "1588896000",
             "expiration_date": "08-may-2020",
@@ -150,6 +160,11 @@
             "expiration_date": "14-jul-2019",
             "state": "future"
         },
+        "ose.gov.pl": {
+            "epoch": "1575763200",
+            "expiration_date": "08-dec-2019",
+            "state": "future"
+        },
         "paypass.pl": {
             "epoch": "1578787200",
             "expiration_date": "12-jan-2020",
@@ -175,9 +190,14 @@
             "expiration_date": "23-mar-2019",
             "state": "future"
         },
+        "rolpetrol.com.pl": {
+            "epoch": "1577750400",
+            "expiration_date": "31-dec-2019",
+            "state": "future"
+        },
         "siemashop.pl": {
-            "epoch": "1550966400",
-            "expiration_date": "24-feb-2019",
+            "epoch": "1582502400",
+            "expiration_date": "24-feb-2020",
             "state": "future"
         },
         "skryptcookies.pl": {
@@ -208,6 +228,11 @@
         "vox.pl": {
             "epoch": "1554768000",
             "expiration_date": "09-apr-2019",
+            "state": "future"
+        },
+        "www.wroclaw.pl": {
+            "epoch": "1568419200",
+            "expiration_date": "14-sep-2019",
             "state": "future"
         },
         "wyprawyrowerem.pl": {
