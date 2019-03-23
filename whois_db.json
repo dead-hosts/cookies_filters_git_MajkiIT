@@ -30,6 +30,11 @@
             "expiration_date": "03-oct-2019",
             "state": "future"
         },
+        "ciasteczka.org.pl": {
+            "epoch": "1557187200",
+            "expiration_date": "07-may-2019",
+            "state": "future"
+        },
         "ciasteczkowapolityka.pl": {
             "epoch": "1584662400",
             "expiration_date": "20-mar-2020",
@@ -175,6 +180,11 @@
             "expiration_date": "12-sep-2019",
             "state": "future"
         },
+        "pikio.pl": {
+            "epoch": "1613174400",
+            "expiration_date": "13-feb-2021",
+            "state": "future"
+        },
         "player.pl": {
             "epoch": "1775088000",
             "expiration_date": "02-apr-2026",
@@ -186,8 +196,8 @@
             "state": "future"
         },
         "revolweb.pl": {
-            "epoch": "1553299200",
-            "expiration_date": "23-mar-2019",
+            "epoch": "1584921600",
+            "expiration_date": "23-mar-2020",
             "state": "future"
         },
         "rolpetrol.com.pl": {
