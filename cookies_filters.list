@@ -18,7 +18,7 @@ Opcjonalne
 License:
 Copyright
 Najnowsza
-v.2019.6.2.0
+v.2019.6.7.0
 !
 !
 Specyficzne
@@ -435,7 +435,7 @@ dobrefinanse.co.uk
 dobregniazdka.pl,luxmarket.pl
 dobrymechanik.pl
 doceniajnieoceniaj.pl
-dogizycka.pl,dojaroslawca.pl,helskipolwysep.pl,visiton.pl,kartuzy.pl,pks-leszno.pl
+dojaroslawca.pl,helskipolwysep.pl,visiton.pl,kartuzy.pl,pks-leszno.pl
 dolce-gusto.pl
 dollarro.com
 dolnyslask.travel
@@ -458,6 +458,7 @@ dotsport.pl
 douglas.pl
 downdetector.pl
 dowozy.pl,e-kolo.pl,tubamarek.pl,tubagliwic.pl,gieldarolna.pl,minecraft.org.pl,tubawyszkowa.pl,tubaostrowa.pl,tubachorzowa.pl,pracownia.org.pl,ptbs.pl,terramar.pl,nastopy.pl.karpmax.pl,jpd.com.pl
+dreamjump.pl
 dronexpert.eu,ethnostudio.eu,interlumen.com,kegel-aj.com,sprzetjezdziecki.com,meble-jarocin.com,madys.eu,drukowanie.net,avmarket.eu
 dropbox.com
 drumshop.pl
@@ -912,6 +913,7 @@ kartunsy.pl
 kartuzy.info
 kawasaki.pl
 kazar.com
+kca.nick.com.pl
 kentype.pl
 kepno.pl
 kiep.pl,milanos.pl,kreskowki.tv
@@ -1041,7 +1043,7 @@ lotnictwo.net.pl
 lotplay.pl
 lotto.pl
 lovekrakow.pl
-lowicz24.eu,zajefajna.com,szczecinek.com,iotwock.info,zambrow.org,tanidrut.com,budmax.eu,astronomia24.com,server-pps.com,dacpol.eu,zuu.systems,inzynieria.com,ontrack.com,integracja.org,nadarzyn.tv,yuliyababich.eu,psychologiazycia.com,goleniowska.com,visitwroclaw.eu,czarnkow.info,suwalki.info,zsgoreczyno.eu,koronakaszub.eu,amico.market,raczkowski.eu,iwaniska.eu,mensahome.eu,x-moto.eu,julstar.eu,wagrowiec.eu,autyzmbezlez.eu,camprest.com,krzysztof-bus.eu,transportnews.eu,transportnews.tk,fotmar.eu,allpaka.eu
+lowicz24.eu,zajefajna.com,szczecinek.com,iotwock.info,zambrow.org,tanidrut.com,budmax.eu,astronomia24.com,server-pps.com,dacpol.eu,zuu.systems,inzynieria.com,ontrack.com,integracja.org,nadarzyn.tv,yuliyababich.eu,psychologiazycia.com,goleniowska.com,visitwroclaw.eu,czarnkow.info,suwalki.info,zsgoreczyno.eu,koronakaszub.eu,amico.market,raczkowski.eu,iwaniska.eu,mensahome.eu,x-moto.eu,julstar.eu,wagrowiec.eu,camprest.com,krzysztof-bus.eu,transportnews.eu,transportnews.tk,fotmar.eu,allpaka.eu
 lsisoftware.pl,smartpage.pl
 lubawa.pl
 lubimyczytac.pl
@@ -1354,6 +1356,7 @@ player.pl
 playnow.pl
 play.google.com,books.google.pl
 pl.aleteia.org
+pl.aptoide.com
 pl.chili.tv
 pl.delfi.lt,joemonster.org,strawpoll.me,styl.fm,mistrzowie.org,fotka.com
 pl.depositphotos.com
@@ -1783,13 +1786,14 @@ videolan.org
 vigo.com.pl
 vinci-play.com
 vinted.pl
-virustotal.com
+virustotal.com,virustotalcloud.appspot.com
 vivaldi.com
 vivrehome.pl
 vivus.pl
 voxel.pl
 vuch.pl
 wacetob.com.pl
+wakacje.pl
 wakacyjnipiraci.pl
 wapteka.pl
 warka.com.pl
@@ -2032,6 +2036,7 @@ Specyficzne
 ||paypass.pl/themes/paypass/js/cookies.js$script
 ||phufart.pl/info_o_cookie_utf8.js$script
 ||pikio.pl/desktop/static/js/jscookie.js$script
+||pino.pl/app/static/global/files/cookie-alert.js
 ||pks-sa.eu/media/system/js/cookie.js
 ||player.pl/playerapi/document/rodo-short/content$xmlhttprequest
 ||pl/wp-content/plugins/eu-cookie-law-wp-cookie-law/$script
@@ -2729,6 +2734,7 @@ pl
 pl
 pl
 pl
+pl
 !
 !
 Blokowanie
@@ -2760,9 +2766,10 @@ pikio.pl
 porno720.pl,tvporno.pl
 tychy.geminipark.pl
 wtk.pl
+!wiadomosci-lodz.pl
 @@/js/CookieInfo.js$script,domain=cyrk-zalewski.com.pl|topschool.pl|porno720.pl
 @@/js/jquery.cookie.min.js$domain=rozklad.pkp.pl|rozklad-pkp.pl|telepizza.pl|pokatne.pl|moric.pl|hotto.pl
-@@/plugins/uk-cookie-consent/assets/js/uk-cookie-consent-js.js$domain=escaperooms.pl|xboxarcade.pl|3dwpraktyce.pl|tvs.pl|przegladbaltycki.pl|wypowiadamoc.pl|gazetabilgoraj.pl|ittechblog.pl|rozterkistartuperki.pl|publolek.pl|trendywturystyce.pl|ekstrastats.pl
+@@/plugins/uk-cookie-consent/assets/js/uk-cookie-consent-js.js$domain=escaperooms.pl|xboxarcade.pl|3dwpraktyce.pl|tvs.pl|przegladbaltycki.pl|wypowiadamoc.pl|gazetabilgoraj.pl|ittechblog.pl|rozterkistartuperki.pl|publolek.pl|trendywturystyce.pl|ekstrastats.pl|dermed.pl
 @@/wp-content/plugins/cookie-law-info/js/cookielawinfo.js
 @@||coinroom.com/Modules/UI/Cookie/Cookie.js
 @@||pracatobie.pl/jscripts/cookieLaws.js
