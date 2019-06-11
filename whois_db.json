@@ -184,6 +184,11 @@
         "expiration_date": "13-feb-2021",
         "state": "future"
     },
+    "pino.pl": {
+        "epoch": 1588550400,
+        "expiration_date": "04-may-2020",
+        "state": "future"
+    },
     "player.pl": {
         "epoch": "1775088000",
         "expiration_date": "02-apr-2026",
