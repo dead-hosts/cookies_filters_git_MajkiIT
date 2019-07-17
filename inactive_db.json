@@ -2,7 +2,8 @@
     "/home/travis/build/dead-hosts/cookies_filters_git_MajkiIT/cookies_filters.list": {
         "1560717513": {},
         "1560803807": {},
-        "1563224347": {
+        "1563224347": {},
+        "1563397109": {
             "cdn.inaudium.com": "INACTIVE"
         }
     }
