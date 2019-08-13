@@ -1239,14 +1239,34 @@
         "expiration_date": "04-jun-2022",
         "state": "future"
     },
+    "muzykabezkabli.pl": {
+        "epoch": 1571097600,
+        "expiration_date": "15-oct-2019",
+        "state": "future"
+    },
+    "mybank.pl": {
+        "epoch": 1660348800,
+        "expiration_date": "13-aug-2022",
+        "state": "future"
+    },
     "mynewsdesk.com": {
         "epoch": 1582070400,
         "expiration_date": "19-feb-2020",
         "state": "future"
     },
+    "myownconference.pl": {
+        "epoch": 1568764800,
+        "expiration_date": "18-sep-2019",
+        "state": "future"
+    },
     "mzkzg.org": {
         "epoch": 1594944000,
         "expiration_date": "17-jul-2020",
+        "state": "future"
+    },
+    "ndn.com.pl": {
+        "epoch": 1580515200,
+        "expiration_date": "01-feb-2020",
         "state": "future"
     },
     "nec-display-solutions.com": {
@@ -1272,6 +1292,11 @@
     "newonce.net": {
         "epoch": "1585785600",
         "expiration_date": "02-apr-2020",
+        "state": "future"
+    },
+    "nf.pl": {
+        "epoch": 1580169600,
+        "expiration_date": "28-jan-2020",
         "state": "future"
     },
     "nike.com": {
@@ -1307,6 +1332,11 @@
     "nvidia.com": {
         "epoch": 1587427200,
         "expiration_date": "21-apr-2020",
+        "state": "future"
+    },
+    "ociasteczkach.pl": {
+        "epoch": 1585785600,
+        "expiration_date": "02-apr-2020",
         "state": "future"
     },
     "oculus.com": {
@@ -1464,6 +1494,11 @@
         "expiration_date": "23-oct-2019",
         "state": "future"
     },
+    "pochlaniaczwilgoci.com.pl": {
+        "epoch": 1585872000,
+        "expiration_date": "03-apr-2020",
+        "state": "future"
+    },
     "pocisk.org": {
         "epoch": 1598054400,
         "expiration_date": "22-aug-2020",
@@ -1607,7 +1642,7 @@
     "restauracjabiesiada.com": {
         "epoch": 1565654400,
         "expiration_date": "13-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "revolut.com": {
         "epoch": 1588550400,
