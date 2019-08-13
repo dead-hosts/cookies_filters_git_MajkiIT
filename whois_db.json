@@ -1,4 +1,34 @@
 {
+    "2018.pl": {
+        "epoch": 1583107200,
+        "expiration_date": "02-mar-2020",
+        "state": "future"
+    },
+    "24jgora.pl": {
+        "epoch": 1602892800,
+        "expiration_date": "17-oct-2020",
+        "state": "future"
+    },
+    "24opole.pl": {
+        "epoch": 1572739200,
+        "expiration_date": "03-nov-2019",
+        "state": "future"
+    },
+    "40latki.pl": {
+        "epoch": 1583020800,
+        "expiration_date": "01-mar-2020",
+        "state": "future"
+    },
+    "4lifedirect.pl": {
+        "epoch": 1591833600,
+        "expiration_date": "11-jun-2020",
+        "state": "future"
+    },
+    "abbvie.pl": {
+        "epoch": 1584662400,
+        "expiration_date": "20-mar-2020",
+        "state": "future"
+    },
     "accuweather.com": {
         "epoch": 1635206400,
         "expiration_date": "26-oct-2021",
@@ -7,6 +37,11 @@
     "acer.com": {
         "epoch": 1589673600,
         "expiration_date": "17-may-2020",
+        "state": "future"
+    },
+    "aclari.pl": {
+        "epoch": 1582416000,
+        "expiration_date": "23-feb-2020",
         "state": "future"
     },
     "acronis.com": {
@@ -34,9 +69,24 @@
         "expiration_date": "18-mar-2020",
         "state": "future"
     },
+    "agrozakupy.pl": {
+        "epoch": 1573084800,
+        "expiration_date": "07-nov-2019",
+        "state": "future"
+    },
     "ahrefs.com": {
         "epoch": 1700870400,
         "expiration_date": "25-nov-2023",
+        "state": "future"
+    },
+    "airbnb.pl": {
+        "epoch": 1573171200,
+        "expiration_date": "08-nov-2019",
+        "state": "future"
+    },
+    "akademiafalubaz.pl": {
+        "epoch": 1580947200,
+        "expiration_date": "06-feb-2020",
         "state": "future"
     },
     "akademiareissa.pl": {
@@ -272,6 +322,11 @@
     "byinsomnia.com": {
         "epoch": 1589500800,
         "expiration_date": "15-may-2020",
+        "state": "future"
+    },
+    "bytom.com.pl": {
+        "epoch": 1572825600,
+        "expiration_date": "04-nov-2019",
         "state": "future"
     },
     "c-and-a.com": {
