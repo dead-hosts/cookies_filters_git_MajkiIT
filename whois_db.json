@@ -939,14 +939,99 @@
         "expiration_date": "09-apr-2020",
         "state": "future"
     },
+    "infocredit-online.pl": {
+        "epoch": 1593129600,
+        "expiration_date": "26-jun-2020",
+        "state": "future"
+    },
+    "infoludek.pl": {
+        "epoch": 1581552000,
+        "expiration_date": "13-feb-2020",
+        "state": "future"
+    },
+    "informatycznaobsluga.pl": {
+        "epoch": 1586217600,
+        "expiration_date": "07-apr-2020",
+        "state": "future"
+    },
+    "informatyk.info.pl": {
+        "epoch": 1583452800,
+        "expiration_date": "06-mar-2020",
+        "state": "future"
+    },
+    "infoski.pl": {
+        "epoch": 1572912000,
+        "expiration_date": "05-nov-2019",
+        "state": "future"
+    },
+    "inksystem.pl": {
+        "epoch": 1580515200,
+        "expiration_date": "01-feb-2020",
+        "state": "future"
+    },
+    "inopony.pl": {
+        "epoch": 1593993600,
+        "expiration_date": "06-jul-2020",
+        "state": "future"
+    },
     "inoreader.com": {
         "epoch": 1616889600,
         "expiration_date": "28-mar-2021",
         "state": "future"
     },
+    "inpay.pl": {
+        "epoch": 1595030400,
+        "expiration_date": "18-jul-2020",
+        "state": "future"
+    },
+    "inpoland.net.pl": {
+        "epoch": 1630022400,
+        "expiration_date": "27-aug-2021",
+        "state": "future"
+    },
+    "insert.com.pl": {
+        "epoch": 1609372800,
+        "expiration_date": "31-dec-2020",
+        "state": "future"
+    },
     "instagram.com": {
         "epoch": 1812067200,
         "expiration_date": "04-jun-2027",
+        "state": "future"
+    },
+    "interpolska.pl": {
+        "epoch": 1581552000,
+        "expiration_date": "13-feb-2020",
+        "state": "future"
+    },
+    "intexpc.pl": {
+        "epoch": 1729123200,
+        "expiration_date": "17-oct-2024",
+        "state": "future"
+    },
+    "intymna.pl": {
+        "epoch": 1592179200,
+        "expiration_date": "15-jun-2020",
+        "state": "future"
+    },
+    "investmap.pl": {
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
+        "state": "future"
+    },
+    "iom.pl": {
+        "epoch": 1590624000,
+        "expiration_date": "28-may-2020",
+        "state": "future"
+    },
+    "ipolska24.pl": {
+        "epoch": 1583712000,
+        "expiration_date": "09-mar-2020",
+        "state": "future"
+    },
+    "isok.gov.pl": {
+        "epoch": 1583625600,
+        "expiration_date": "08-mar-2020",
         "state": "future"
     },
     "istebna.org": {
@@ -982,6 +1067,11 @@
     "jak-zablokowac-cookies.pl": {
         "epoch": "1585612800",
         "expiration_date": "31-mar-2020",
+        "state": "future"
+    },
+    "jakikredyt.pl": {
+        "epoch": 1568332800,
+        "expiration_date": "13-sep-2019",
         "state": "future"
     },
     "justjoin.it": {
@@ -1700,9 +1790,9 @@
         "state": "future"
     },
     "restauracjabiesiada.com": {
-        "epoch": 1565654400,
-        "expiration_date": "13-aug-2019",
-        "state": "past"
+        "epoch": 1597276800,
+        "expiration_date": "13-aug-2020",
+        "state": "future"
     },
     "revolut.com": {
         "epoch": 1588550400,
