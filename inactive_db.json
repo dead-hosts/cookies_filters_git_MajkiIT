@@ -929,6 +929,8 @@
             "dimedic.eu,pandora.net,pl.msi.com": "INVALID",
             "gardinia.pl,mactronic.pl,ogradzamy.pl": "INVALID",
             "grzegorz-michalek.pl,mental-power.pl": "INVALID",
+            "new.reddit.com,www.reddit.com": "INVALID",
+            "v.2019.8.16.0": "INVALID",
             "||consent.cookiebot.com/*/cc.js$script,domain=crclondon.com|elica.com|gitlab.com|storytel.com|wienerberger.pl": "INVALID"
         }
     }

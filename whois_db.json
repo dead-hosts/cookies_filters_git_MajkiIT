@@ -1289,6 +1289,11 @@
         "expiration_date": "17-jun-2020",
         "state": "future"
     },
+    "lezajsk.com.pl": {
+        "epoch": 1582848000,
+        "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
     "lg.com": {
         "epoch": 1812326400,
         "expiration_date": "07-jun-2027",
@@ -1324,9 +1329,19 @@
         "expiration_date": "23-oct-2019",
         "state": "future"
     },
+    "lotplay.pl": {
+        "epoch": 1590019200,
+        "expiration_date": "21-may-2020",
+        "state": "future"
+    },
     "lovekrakow.pl": {
         "epoch": 1591401600,
         "expiration_date": "06-jun-2020",
+        "state": "future"
+    },
+    "lubawa.pl": {
+        "epoch": 1587859200,
+        "expiration_date": "26-apr-2020",
         "state": "future"
     },
     "lubiegrac.pl": {
@@ -1929,6 +1944,11 @@
         "expiration_date": "28-nov-2020",
         "state": "future"
     },
+    "selgros24.pl": {
+        "epoch": 1621555200,
+        "expiration_date": "21-may-2021",
+        "state": "future"
+    },
     "seriale.co": {
         "epoch": 1567123200,
         "expiration_date": "30-aug-2019",
@@ -2049,6 +2069,11 @@
         "expiration_date": "22-jan-2021",
         "state": "future"
     },
+    "solid-szkolenia.pl": {
+        "epoch": 1576108800,
+        "expiration_date": "12-dec-2019",
+        "state": "future"
+    },
     "sonymobile.com": {
         "epoch": 1588982400,
         "expiration_date": "09-may-2020",
@@ -2069,6 +2094,11 @@
         "expiration_date": "05-feb-2020",
         "state": "future"
     },
+    "sportraw.pl": {
+        "epoch": 1594339200,
+        "expiration_date": "10-jul-2020",
+        "state": "future"
+    },
     "sportsdirect.com": {
         "epoch": 1707696000,
         "expiration_date": "12-feb-2024",
@@ -2082,6 +2112,11 @@
     "start.me": {
         "epoch": 1588118400,
         "expiration_date": "29-apr-2020",
+        "state": "future"
+    },
+    "statoscope.pl": {
+        "epoch": 1568764800,
+        "expiration_date": "18-sep-2019",
         "state": "future"
     },
     "stradivarius.com": {
@@ -2452,6 +2487,11 @@
     "vuch.pl": {
         "epoch": 1593388800,
         "expiration_date": "29-jun-2020",
+        "state": "future"
+    },
+    "wago.com": {
+        "epoch": 1595376000,
+        "expiration_date": "22-jul-2020",
         "state": "future"
     },
     "wakacje.pl": {
