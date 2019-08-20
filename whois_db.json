@@ -169,6 +169,11 @@
         "expiration_date": "01-feb-2027",
         "state": "future"
     },
+    "alga-shop.pl": {
+        "epoch": 1586736000,
+        "expiration_date": "13-apr-2020",
+        "state": "future"
+    },
     "aliexpress.com": {
         "epoch": 1618531200,
         "expiration_date": "16-apr-2021",
@@ -194,6 +199,11 @@
         "expiration_date": "02-jun-2020",
         "state": "future"
     },
+    "allekoszyk.pl": {
+        "epoch": 1580428800,
+        "expiration_date": "31-jan-2020",
+        "state": "future"
+    },
     "alles-bhp.pl": {
         "epoch": 1584921600,
         "expiration_date": "23-mar-2020",
@@ -209,6 +219,16 @@
         "expiration_date": "22-nov-2019",
         "state": "future"
     },
+    "allview.pl": {
+        "epoch": 1595548800,
+        "expiration_date": "24-jul-2020",
+        "state": "future"
+    },
+    "amarone.pl": {
+        "epoch": 1588636800,
+        "expiration_date": "05-may-2020",
+        "state": "future"
+    },
     "ambermarine.pl": {
         "epoch": 1590883200,
         "expiration_date": "31-may-2020",
@@ -217,6 +237,11 @@
     "americanexpress.com": {
         "epoch": 1654214400,
         "expiration_date": "03-jun-2022",
+        "state": "future"
+    },
+    "amrol.pl": {
+        "epoch": 1587427200,
+        "expiration_date": "21-apr-2020",
         "state": "future"
     },
     "anmar-pl.com": {
@@ -269,6 +294,11 @@
         "expiration_date": "08-oct-2019",
         "state": "future"
     },
+    "aptekarzpolski.pl": {
+        "epoch": 1578787200,
+        "expiration_date": "12-jan-2020",
+        "state": "future"
+    },
     "apteki24.waw.pl": {
         "epoch": "1580428800",
         "expiration_date": "31-jan-2020",
@@ -284,9 +314,34 @@
         "expiration_date": "22-sep-2019",
         "state": "future"
     },
+    "artim.com.pl": {
+        "epoch": 1575244800,
+        "expiration_date": "02-dec-2019",
+        "state": "future"
+    },
     "artkomnet.pl": {
         "epoch": "1572480000",
         "expiration_date": "31-oct-2019",
+        "state": "future"
+    },
+    "ascar-rent.pl": {
+        "epoch": 1588809600,
+        "expiration_date": "07-may-2020",
+        "state": "future"
+    },
+    "asklepios.pl": {
+        "epoch": 1580688000,
+        "expiration_date": "03-feb-2020",
+        "state": "future"
+    },
+    "assecods.pl": {
+        "epoch": 1626480000,
+        "expiration_date": "17-jul-2021",
+        "state": "future"
+    },
+    "asta-bud.pl": {
+        "epoch": 1584576000,
+        "expiration_date": "19-mar-2020",
         "state": "future"
     },
     "astar.czest.pl": {
@@ -297,6 +352,11 @@
     "asus.com": {
         "epoch": "1635033600",
         "expiration_date": "24-oct-2021",
+        "state": "future"
+    },
+    "atlas-roslin.pl": {
+        "epoch": 1827273600,
+        "expiration_date": "27-nov-2027",
         "state": "future"
     },
     "atramentowka.com": {
@@ -314,9 +374,34 @@
         "expiration_date": "26-jul-2020",
         "state": "future"
     },
+    "auto-sam.pl": {
+        "epoch": 1589414400,
+        "expiration_date": "14-may-2020",
+        "state": "future"
+    },
+    "auto-swiat.pl": {
+        "epoch": 1744070400,
+        "expiration_date": "08-apr-2025",
+        "state": "future"
+    },
+    "auto4free.pl": {
+        "epoch": 1662249600,
+        "expiration_date": "04-sep-2022",
+        "state": "future"
+    },
     "autoaukcje.net": {
         "epoch": 1606262400,
         "expiration_date": "25-nov-2020",
+        "state": "future"
+    },
+    "autodna.pl": {
+        "epoch": 1629072000,
+        "expiration_date": "16-aug-2021",
+        "state": "future"
+    },
+    "autogespot.pl": {
+        "epoch": 1575590400,
+        "expiration_date": "06-dec-2019",
         "state": "future"
     },
     "avaaz.org": {
@@ -344,9 +429,24 @@
         "expiration_date": "30-nov-2021",
         "state": "future"
     },
+    "bankier.pl": {
+        "epoch": 1623369600,
+        "expiration_date": "11-jun-2021",
+        "state": "future"
+    },
+    "baumit.pl": {
+        "epoch": 1597881600,
+        "expiration_date": "20-aug-2020",
+        "state": "future"
+    },
     "bbcpolska.com": {
         "epoch": 1596499200,
         "expiration_date": "04-aug-2020",
+        "state": "future"
+    },
+    "bdi.com.pl": {
+        "epoch": 1585353600,
+        "expiration_date": "28-mar-2020",
         "state": "future"
     },
     "bechtle.com": {
@@ -364,6 +464,11 @@
         "expiration_date": "02-sep-2026",
         "state": "future"
     },
+    "beskidlive.pl": {
+        "epoch": 1567036800,
+        "expiration_date": "29-aug-2019",
+        "state": "future"
+    },
     "beskidy.news": {
         "epoch": 1584403200,
         "expiration_date": "17-mar-2020",
@@ -379,9 +484,24 @@
         "expiration_date": "04-mar-2028",
         "state": "future"
     },
+    "bibliotekaleczyca.pl": {
+        "epoch": 1585785600,
+        "expiration_date": "02-apr-2020",
+        "state": "future"
+    },
+    "biegniepodleglosci.pl": {
+        "epoch": 1567209600,
+        "expiration_date": "31-aug-2019",
+        "state": "future"
+    },
     "bielsko.info": {
         "epoch": 1578528000,
         "expiration_date": "09-jan-2020",
+        "state": "future"
+    },
+    "bik.pl": {
+        "epoch": 1646179200,
+        "expiration_date": "02-mar-2022",
         "state": "future"
     },
     "billbook.com": {
@@ -974,6 +1094,11 @@
         "expiration_date": "21-oct-2019",
         "state": "future"
     },
+    "hidemyass.com": {
+        "epoch": 1603497600,
+        "expiration_date": "24-oct-2020",
+        "state": "future"
+    },
     "hihonor.com": {
         "epoch": 1816214400,
         "expiration_date": "22-jul-2027",
@@ -1162,6 +1287,11 @@
     "jakikredyt.pl": {
         "epoch": 1568332800,
         "expiration_date": "13-sep-2019",
+        "state": "future"
+    },
+    "johnsoncontrols.com": {
+        "epoch": 1571702400,
+        "expiration_date": "22-oct-2019",
         "state": "future"
     },
     "justjoin.it": {
