@@ -1404,9 +1404,34 @@
         "expiration_date": "04-nov-2019",
         "state": "future"
     },
+    "lak-auto.pl": {
+        "epoch": 1570320000,
+        "expiration_date": "06-oct-2019",
+        "state": "future"
+    },
+    "lampy.pl": {
+        "epoch": 1579996800,
+        "expiration_date": "26-jan-2020",
+        "state": "future"
+    },
+    "laserhouse.pl": {
+        "epoch": 1590105600,
+        "expiration_date": "22-may-2020",
+        "state": "future"
+    },
+    "lbn.pl": {
+        "epoch": 1583280000,
+        "expiration_date": "04-mar-2020",
+        "state": "future"
+    },
     "leagueoflegends.com": {
         "epoch": 1569369600,
         "expiration_date": "25-sep-2019",
+        "state": "future"
+    },
+    "lechia.pl": {
+        "epoch": 1598486400,
+        "expiration_date": "27-aug-2020",
         "state": "future"
     },
     "legia.com": {
@@ -1454,14 +1479,29 @@
         "expiration_date": "08-oct-2019",
         "state": "future"
     },
+    "lightbox.pl": {
+        "epoch": 1574812800,
+        "expiration_date": "27-nov-2019",
+        "state": "future"
+    },
     "linkedin.com": {
         "epoch": 1604275200,
         "expiration_date": "02-nov-2020",
         "state": "future"
     },
+    "live-streaming.pl": {
+        "epoch": 1583798400,
+        "expiration_date": "10-mar-2020",
+        "state": "future"
+    },
     "logitech.com": {
         "epoch": 1588896000,
         "expiration_date": "08-may-2020",
+        "state": "future"
+    },
+    "lomzynska.com.pl": {
+        "epoch": 1597363200,
+        "expiration_date": "14-aug-2020",
         "state": "future"
     },
     "londynek.net": {
@@ -1649,6 +1689,11 @@
         "expiration_date": "18-sep-2019",
         "state": "future"
     },
+    "mytastepol.com": {
+        "epoch": 1587168000,
+        "expiration_date": "18-apr-2020",
+        "state": "future"
+    },
     "mzkzg.org": {
         "epoch": 1594944000,
         "expiration_date": "17-jul-2020",
@@ -1667,6 +1712,11 @@
     "nefal.tv": {
         "epoch": 1574380800,
         "expiration_date": "22-nov-2019",
+        "state": "future"
+    },
+    "net2000.pl": {
+        "epoch": 1578614400,
+        "expiration_date": "10-jan-2020",
         "state": "future"
     },
     "netflix.com": {
@@ -1894,6 +1944,11 @@
         "expiration_date": "22-aug-2020",
         "state": "future"
     },
+    "pod-okapnikiem.com": {
+        "epoch": 1585267200,
+        "expiration_date": "27-mar-2020",
+        "state": "future"
+    },
     "podatnik.info": {
         "epoch": 1612051200,
         "expiration_date": "31-jan-2021",
@@ -1942,6 +1997,11 @@
     "popaopa.pl": {
         "epoch": 1592870400,
         "expiration_date": "23-jun-2020",
+        "state": "future"
+    },
+    "potworek.com": {
+        "epoch": 1572825600,
+        "expiration_date": "04-nov-2019",
         "state": "future"
     },
     "powiatgizycki.pl": {

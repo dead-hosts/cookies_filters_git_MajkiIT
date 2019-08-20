@@ -934,7 +934,11 @@
             "andrespol.bip.cc,belgia.net,bip.chorzow.eu,ciasta.net,emcconsultant.eu,goganet.com,koniecpol.info,madameedith.com,nekla.eu,netpolska.com,nysa.eu,oblicz.to,polishexpress.co.uk,polskieligi.net,porcys.com,potak.eu,prawo-mieszkaniowe.info,reporterzy.info,stskurier.com,tfkable.com,ug.tomaszow.maz.bip.cc,wader.toys,zabart.com,zarty.biz,zlomowisko.info": "INVALID",
             "balluff.com,dvb.de,edrone.me,elblag.net,tidal.com": "INVALID",
             "bosch-industrial.com,domkorkowy.com,junkers.pl,presta.eu.org": "INVALID",
-            "e-seminaria.pl,idg.com.pl": "INVALID"
+            "e-seminaria.pl,idg.com.pl": "INVALID",
+            "lagardere-tr.pl,wakacyjnipiraci.pl": "INVALID",
+            "v.2019.8.20.0": "INVALID",
+            "||muza.com.pl/modules/rodoinfo/views/js/remodal.js$script,domain=muza.com.pl": "INVALID",
+            "||vendorlist.consensu.org/vendorlist.json$xmlhttprequest,domain=bleepingcomputer.com|krokdozdrowia.com|krzyzowka.net|mytastepol.com|pl|softpedia.com|synonim.net": "INVALID"
         }
     }
 }
