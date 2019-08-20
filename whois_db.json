@@ -2709,6 +2709,11 @@
         "expiration_date": "19-jan-2020",
         "state": "future"
     },
+    "wayup.pl": {
+        "epoch": 1579046400,
+        "expiration_date": "15-jan-2020",
+        "state": "future"
+    },
     "waze.com": {
         "epoch": 1585699200,
         "expiration_date": "01-apr-2020",
@@ -3007,6 +3012,11 @@
     "zagielmed.pl": {
         "epoch": 1593043200,
         "expiration_date": "25-jun-2020",
+        "state": "future"
+    },
+    "zagojeni.pl": {
+        "epoch": 1615766400,
+        "expiration_date": "15-mar-2021",
         "state": "future"
     },
     "zalando-lounge.pl": {
