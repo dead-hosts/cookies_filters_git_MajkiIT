@@ -4963,5 +4963,20 @@
         "epoch": 1590019200,
         "expiration_date": "21-may-2020",
         "state": "future"
+    },
+    "zyciekalisza.pl": {
+        "epoch": 1581379200,
+        "expiration_date": "11-feb-2020",
+        "state": "future"
+    },
+    "zygzaksnow.pl": {
+        "epoch": 1576195200,
+        "expiration_date": "13-dec-2019",
+        "state": "future"
+    },
+    "zysk.com.pl": {
+        "epoch": 1585440000,
+        "expiration_date": "29-mar-2020",
+        "state": "future"
     }
 }
