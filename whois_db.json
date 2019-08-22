@@ -414,6 +414,16 @@
         "expiration_date": "10-sep-2019",
         "state": "future"
     },
+    "avon.pl": {
+        "epoch": 1588636800,
+        "expiration_date": "05-may-2020",
+        "state": "future"
+    },
+    "badaniaprenatalne.pl": {
+        "epoch": 1576540800,
+        "expiration_date": "17-dec-2019",
+        "state": "future"
+    },
     "badaniapsychologiczne.net": {
         "epoch": 1580083200,
         "expiration_date": "27-jan-2020",
@@ -432,6 +442,16 @@
     "bankier.pl": {
         "epoch": 1623369600,
         "expiration_date": "11-jun-2021",
+        "state": "future"
+    },
+    "bankmillennium.pl": {
+        "epoch": 1584057600,
+        "expiration_date": "13-mar-2020",
+        "state": "future"
+    },
+    "bardotti.pl": {
+        "epoch": 1593907200,
+        "expiration_date": "05-jul-2020",
         "state": "future"
     },
     "baumit.pl": {
@@ -544,6 +564,11 @@
         "expiration_date": "03-nov-2019",
         "state": "future"
     },
+    "bossoftoys.pl": {
+        "epoch": 1570147200,
+        "expiration_date": "04-oct-2019",
+        "state": "future"
+    },
     "bp.com": {
         "epoch": 1731110400,
         "expiration_date": "09-nov-2024",
@@ -559,9 +584,24 @@
         "expiration_date": "24-jul-2020",
         "state": "future"
     },
+    "bspilzno.pl": {
+        "epoch": 1588204800,
+        "expiration_date": "30-apr-2020",
+        "state": "future"
+    },
     "bumble.com": {
         "epoch": 1690329600,
         "expiration_date": "26-jul-2023",
+        "state": "future"
+    },
+    "busfor.pl": {
+        "epoch": 1569974400,
+        "expiration_date": "02-oct-2019",
+        "state": "future"
+    },
+    "busradar.pl": {
+        "epoch": 1581379200,
+        "expiration_date": "11-feb-2020",
         "state": "future"
     },
     "buyblo.com": {
@@ -609,6 +649,11 @@
         "expiration_date": "20-mar-2020",
         "state": "future"
     },
+    "clineo.pl": {
+        "epoch": 1588723200,
+        "expiration_date": "06-may-2020",
+        "state": "future"
+    },
     "cmrev.com": {
         "epoch": 1578528000,
         "expiration_date": "09-jan-2020",
@@ -619,6 +664,11 @@
         "expiration_date": "17-feb-2020",
         "state": "future"
     },
+    "cojestgrane.pl": {
+        "epoch": 1581033600,
+        "expiration_date": "07-feb-2020",
+        "state": "future"
+    },
     "confero.pl": {
         "epoch": "1559865600",
         "expiration_date": "07-jun-2019",
@@ -627,6 +677,11 @@
     "cookieq.com": {
         "epoch": "1584662400",
         "expiration_date": "20-mar-2020",
+        "state": "future"
+    },
+    "costacoffee.pl": {
+        "epoch": 1576108800,
+        "expiration_date": "12-dec-2019",
         "state": "future"
     },
     "credit-suisse.com": {
@@ -914,6 +969,11 @@
         "expiration_date": "07-nov-2019",
         "state": "future"
     },
+    "fit.pl": {
+        "epoch": 1614470400,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
     "fitomento.com": {
         "epoch": 1587772800,
         "expiration_date": "25-apr-2020",
@@ -1092,6 +1152,11 @@
     "heroes-online.com": {
         "epoch": 1571616000,
         "expiration_date": "21-oct-2019",
+        "state": "future"
+    },
+    "hi-tec.com.pl": {
+        "epoch": 1590019200,
+        "expiration_date": "21-may-2020",
         "state": "future"
     },
     "hidemyass.com": {
@@ -1445,8 +1510,8 @@
         "state": "future"
     },
     "lego.com": {
-        "epoch": 1566345600,
-        "expiration_date": "21-aug-2019",
+        "epoch": 1597968000,
+        "expiration_date": "21-aug-2020",
         "state": "future"
     },
     "lenovozone.pl": {
