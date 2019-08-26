@@ -3559,6 +3559,11 @@
         "expiration_date": "09-jun-2022",
         "state": "future"
     },
+    "racezone.pl": {
+        "epoch": 1585785600,
+        "expiration_date": "02-apr-2020",
+        "state": "future"
+    },
     "racjonalista.pl": {
         "epoch": 1588896000,
         "expiration_date": "08-may-2020",
@@ -4667,6 +4672,11 @@
     "twojeankiety.pl": {
         "epoch": 1589155200,
         "expiration_date": "11-may-2020",
+        "state": "future"
+    },
+    "twojesoczewki.com": {
+        "epoch": 1578268800,
+        "expiration_date": "06-jan-2020",
         "state": "future"
     },
     "twojezaglebie.pl": {
