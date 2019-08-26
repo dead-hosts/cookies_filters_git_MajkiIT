@@ -739,6 +739,16 @@
         "expiration_date": "03-oct-2019",
         "state": "future"
     },
+    "brooklynbutik.pl": {
+        "epoch": 1600819200,
+        "expiration_date": "23-sep-2020",
+        "state": "future"
+    },
+    "brother.pl": {
+        "epoch": 1574985600,
+        "expiration_date": "29-nov-2019",
+        "state": "future"
+    },
     "brtvp.pl": {
         "epoch": 1582329600,
         "expiration_date": "22-feb-2020",
@@ -757,6 +767,11 @@
     "bslapy.pl": {
         "epoch": 1595030400,
         "expiration_date": "18-jul-2020",
+        "state": "future"
+    },
+    "bsmyszkow.pl": {
+        "epoch": 1578960000,
+        "expiration_date": "14-jan-2020",
         "state": "future"
     },
     "bspilzno.pl": {
@@ -814,6 +829,11 @@
         "expiration_date": "04-nov-2019",
         "state": "future"
     },
+    "bzwbk.pl": {
+        "epoch": 1574294400,
+        "expiration_date": "21-nov-2019",
+        "state": "future"
+    },
     "c-and-a.com": {
         "epoch": 1579824000,
         "expiration_date": "24-jan-2020",
@@ -822,6 +842,11 @@
     "capgemini.com": {
         "epoch": 1571184000,
         "expiration_date": "16-oct-2019",
+        "state": "future"
+    },
+    "capri-lublin.pl": {
+        "epoch": 1586736000,
+        "expiration_date": "13-apr-2020",
         "state": "future"
     },
     "castrol.com": {
@@ -834,6 +859,11 @@
         "expiration_date": "10-dec-2019",
         "state": "future"
     },
+    "ccpartners.pl": {
+        "epoch": 1579305600,
+        "expiration_date": "18-jan-2020",
+        "state": "future"
+    },
     "cea-art.pl": {
         "epoch": 1574380800,
         "expiration_date": "22-nov-2019",
@@ -844,9 +874,19 @@
         "expiration_date": "16-mar-2020",
         "state": "future"
     },
+    "centrumklima.pl": {
+        "epoch": 1586304000,
+        "expiration_date": "08-apr-2020",
+        "state": "future"
+    },
     "centrumpilkarskie.pl": {
         "epoch": 1572220800,
         "expiration_date": "28-oct-2019",
+        "state": "future"
+    },
+    "cenum.pl": {
+        "epoch": 1615420800,
+        "expiration_date": "11-mar-2021",
         "state": "future"
     },
     "certum.pl": {
@@ -854,9 +894,19 @@
         "expiration_date": "15-mar-2021",
         "state": "future"
     },
+    "chamsko.pl": {
+        "epoch": 1653696000,
+        "expiration_date": "28-may-2022",
+        "state": "future"
+    },
     "chocholowydwor.pl": {
         "epoch": 1590624000,
         "expiration_date": "28-may-2020",
+        "state": "future"
+    },
+    "chojnice24.pl": {
+        "epoch": 1581379200,
+        "expiration_date": "11-feb-2020",
         "state": "future"
     },
     "chroma.pl": {
@@ -872,6 +922,16 @@
     "ciasteczkowapolityka.pl": {
         "epoch": "1584662400",
         "expiration_date": "20-mar-2020",
+        "state": "future"
+    },
+    "cinema3d.pl": {
+        "epoch": 1598313600,
+        "expiration_date": "25-aug-2020",
+        "state": "future"
+    },
+    "circlek.pl": {
+        "epoch": 1579564800,
+        "expiration_date": "21-jan-2020",
         "state": "future"
     },
     "clineo.pl": {
@@ -934,6 +994,11 @@
         "expiration_date": "08-sep-2019",
         "state": "future"
     },
+    "cybex-online.com": {
+        "epoch": 1613001600,
+        "expiration_date": "11-feb-2021",
+        "state": "future"
+    },
     "czechtourism.com": {
         "epoch": 1579219200,
         "expiration_date": "17-jan-2020",
@@ -942,6 +1007,11 @@
     "daemon-tools.cc": {
         "epoch": 1588032000,
         "expiration_date": "28-apr-2020",
+        "state": "future"
+    },
+    "daewooforum.pl": {
+        "epoch": 1624665600,
+        "expiration_date": "26-jun-2021",
         "state": "future"
     },
     "dajnewsa.pl": {
@@ -1482,6 +1552,11 @@
     "iiyama.com": {
         "epoch": 1586390400,
         "expiration_date": "09-apr-2020",
+        "state": "future"
+    },
+    "ikea.com": {
+        "epoch": 1593907200,
+        "expiration_date": "05-jul-2020",
         "state": "future"
     },
     "infocredit-online.pl": {
