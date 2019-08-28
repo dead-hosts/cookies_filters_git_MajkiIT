@@ -956,6 +956,11 @@
             "~vod.naekranie.pl,naekranie.pl": "INVALID",
             "~www.wp.pl,wp.pl": "INVALID",
             "~www.wp.pl,~poczta.wp.pl,wp.pl": "INVALID"
+        },
+        "1567026848": {
+            "adbl.eu,alkalicznystylzycia.com,arhn.eu,centrum.fm,cybsecurity.org,domkorkowy.com,domowa.pizza,doradcarestrukturyzacyjny.info,drzwionline.net,e-chorzow.com,elektrykapradnietyka.com,filozofuj.eu,imielski.net,inwestycjebudowlane.biz,itdesk.eu,jakzalozycfirmenaukrainie.com,japrzedsiebiorca.biz,jasam.eu,jedrzejowska.net,kolnet.eu,konstytucjabiznesu.biz,krakowpost.com,langsteiner.eu,leczeniekomorkamimacierzystymi.com,mammarzenie.org,medbestshop.eu,moneygrabbing.co.uk,multiconsult-polska.com,muzeumzabawek.eu,mypresents.eu,news-polska.com,patentujemy.com,photonrobot.com,pl.xiaomitoday.it,platinet.eu,poid.eu,polskiobserwator.de,prezentydlaniego.eu,proveg.com,pskrk.com,quercus.co,rni24.eu,rosebelle.eu,rta24.eu,sandraspa.eu,sciezkimojegoswiata.com,secowarwick.com,sklep.sztukawyboru.eu,skup-laptopow.com,spece.it,stalmielec.com,tarnobrzeskie.eu,turysta.org,tyniec.tv,widzewtomy.net,wolnekonopie.org,www.smartpolak.co.uk,zabieganamama.com": "INVALID",
+            "byczdrowym.info,easypaste.org,eco-driving.info,erasmus-entrepreneurs.eu,fakty.nl,fiuka.de,forum.swiateczne.info,halogorlice.info,isokolka.eu,knyszynska.eu,megacennik.eu,nasze-kino.eu,pl.bab.la,polishteam.ru,powiatowa.info,radioexpert.net,slupno.eu,spreewald.de,themasterteacher.tv,zanzu.de": "INVALID",
+            "ciekawostkihistoryczne.pl,fotosik.pl,sportzona.pl,trojmiasto.pl,twojahistoria.pl": "INVALID"
         }
     }
 }
