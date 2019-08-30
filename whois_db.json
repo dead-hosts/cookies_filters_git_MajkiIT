@@ -3835,8 +3835,8 @@
         "state": "future"
     },
     "netweber.pl": {
-        "epoch": 1566864000,
-        "expiration_date": "27-aug-2019",
+        "epoch": 1598486400,
+        "expiration_date": "27-aug-2020",
         "state": "future"
     },
     "newonce.net": {
@@ -4970,8 +4970,8 @@
         "state": "future"
     },
     "romance-tv.pl": {
-        "epoch": 1566777600,
-        "expiration_date": "26-aug-2019",
+        "epoch": 1598400000,
+        "expiration_date": "26-aug-2020",
         "state": "future"
     },
     "rondel.pl": {
@@ -5155,8 +5155,8 @@
         "state": "future"
     },
     "seriale.co": {
-        "epoch": 1567123200,
-        "expiration_date": "30-aug-2019",
+        "epoch": 1598745600,
+        "expiration_date": "30-aug-2020",
         "state": "future"
     },
     "seszele.com.pl": {
@@ -5252,6 +5252,11 @@
     "skijumping.pl": {
         "epoch": 1586563200,
         "expiration_date": "11-apr-2020",
+        "state": "future"
+    },
+    "sklep-domwhisky.pl": {
+        "epoch": 1580428800,
+        "expiration_date": "31-jan-2020",
         "state": "future"
     },
     "sklepfarmer.pl": {
