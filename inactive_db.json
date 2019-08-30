@@ -962,6 +962,15 @@
             "~vod.naekranie.pl,naekranie.pl": "INVALID",
             "~www.wp.pl,wp.pl": "INVALID",
             "~www.wp.pl,~poczta.wp.pl,wp.pl": "INVALID"
+        },
+        "1567199663": {
+            "!forum.dobreprogramy.pl,wp.pl": "INVALID",
+            "4people.pl,emilbus.com.pl,marketingdlaludzi.pl": "INVALID",
+            "90.pl,atomic.com,aukcje.pkoleasing.pl,benchmarking.silesia.org.pl,bielskakraina.pl,bluecity.pl,brodnica.net,bs.olawa.pl,budma.pl,clickmeeting.com,comarchedi.pl,csioz.gov.pl,decoratorium.eu,dolnysopot.pl,dulskidesign.pl,dw.com,e-marketbudowlany.pl,essentiale.pl,fakturaelektroniczna.com,filmotekaszkolna.pl,fitandyummy.pl,fitnessplatinium.pl,forguides.pl,fum.info.pl,gdynia.sr.gov.pl,gugik.gov.pl,hifi.pl,investmap.pl,jim.org,kanal10.pl,kastu.pl,klinikaagd.pl,kredytmarket.com,kurspisania.pl,lantech.com.pl,leroymerlin.pl,mazowieckie.com.pl,mdserwis.pl,megakoszulki.pl,modecom.com,moventum.com.pl,muszynianka.pl,nysa.pl,onerqe-kredyt.pl,otouczelnie.pl,pepperl-fuchs.com,pfr.pl,pgd.pl,polstor.pl,pozyczkaplus.pl,przepisy.net,radioznin.fm,seopilot.pl,sfinks.pl,shoper.pl,smartpozyczka.pl,smyk.com,stalgorzow.pl,stressfree.pl,supermemo.com,szkolenia-semper.pl,tapis.pl,technetium.pl,telewizjaswiatlowodowa.pl,terramar.pl,tkaniny-hemmers.pl,tpvpolska.pl,tridex.pl,unityline.pl,venture.pl,virtualtrucker.pl,wanicki.pl,waw.pl,wielkopolska.eu,www.mtp.pl,yagi.pl,zebra.com,ziph.pl": "INVALID",
+            "accenture.com,asics.com,cookielaw.org,filehippo.com,hp.com,kia.com,malwarebytes.com,msn.com,pl.atlassian.com,prezi.com,sonos.com,volvocars.com": "INVALID",
+            "bajeczki.org,bezpieczny.blog,bieszczady.pro,deynn.blog,dobremiejsce.org,dojczland.info,domjozefa.tv,doradztwoprawne.org,dziendobry.catering,e-niemcy.de,ekocykl.org,ekspedyt.org,emisja.tv,etychy.org,eurowizja.org,expertum.de,farmacja.net,filmowo.co,fundacjawolnosci.org,getlevel.info,icelandnews.is,itvwisla.tv,kamery.live,kamienskie.info,katowice24.info,kooperation-ohne-grenzen.de,kropka.audio,kryminalni24.info,lipnik.org,lowiczanin.info,luzyce.info,lwowecki.info,niniwa.org,opinie.co,pink.land,pomozity.org,retrotech.blog,rolland.tech,roztocze.net,sekrety-zdrowia.org,tvcsw.info,wifi-spot.net,wiskitki.org,wnet.fm,wringu.net,wwl24.info,wyczes.net,zkaszub.info": "INVALID",
+            "filmyonline.tv,mettosport.eu,podemski.info,prze.eu,rallypl.com,skawina.eu,spidersweb.pl,vanessa.fm": "INVALID",
+            "gastromaniacy.pl,idhosting.pl,instytutlogopedyczny.pl,sggik.pl": "INVALID"
         }
     }
 }
