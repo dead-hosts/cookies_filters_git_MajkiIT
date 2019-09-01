@@ -5272,7 +5272,7 @@
     "six-payment-services.com": {
         "epoch": 1567296000,
         "expiration_date": "01-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "skijumping.pl": {
         "epoch": 1586563200,
