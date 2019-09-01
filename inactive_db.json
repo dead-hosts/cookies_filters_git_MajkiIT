@@ -972,6 +972,21 @@
             "~vod.naekranie.pl,naekranie.pl": "INVALID",
             "~www.wp.pl,wp.pl": "INVALID",
             "~www.wp.pl,~poczta.wp.pl,wp.pl": "INVALID"
+        },
+        "1567372557": {
+            "!benemedo.com": "INVALID",
+            "!lajfy.com": "INVALID",
+            "/eucookies.$script,stylesheet,domain=lajfy.com": "INVALID",
+            "3dom.pro,anmur.eu,avenidapoznan.com,bibliotekacyfrowa.eu,bip.gliwice.eu,booksy.com,chorzow.eu,corab.eu,diamante-wear.com,dpm.eu,eastbook.eu,f1experiences.com,gamet.eu,ims.fm,inkubatorkultury.eu,katowice-airport.com,kiddabadam.com,koszulkomat.eu,maamstyle.com,makoblog.com,mateuszgrzesiak.com,media-tech.eu,mg-pmm.com,naszefutrzaki.eu,pkpcargo.com,profit-plus.eu,radiopark.fm,sapphiretech.com,secretdelivery.pl,stolmot.com,telko.in,trecnutrition.com,warszawa.promenada.com": "INVALID",
+            "addons.prestashop.com,atramentowka.com,batteryguru.eu,bingospa.eu,bip.mzkzg.org,busy-kielce.eu,busy-wroclaw.eu,dalchemyskincare.com,e-dewocjonalia.eu,e-manufaktura.com,elektro-outlet.net,gardenoffood.com,greenasia.eu,iteeshop.eu,jagodzianka.eu,kalarepa.eu,kolonieiobozy.net,kolorowyswiat.org,konopny-sklep.com,laptok.com,maciuszek.com,meczelive.tv,mirka.com,myamber.eu,opakowaniaozdobne24.eu,pilz.com,poradnikbudowlany.eu,rolkom.net,royaltime.eu,shopgadget.eu,sklep.audiofil.eu,sklep.esanatoria.eu,sklep.grupamagnum.eu,sklep.polbit.com,sklepy-cynamonowe.eu,starecegly.com,starosadeckie.info,sygic.com,szlakwokoltatr.eu,tanikomputer.eu,thebushybeard.com,uzywki.expert,warsaw.astonmartindealers.com,warsztatowski.com,wifiki.eu,wyczesani.com,wzorniki.eu,zicoracing.com": "INVALID",
+            "alkoholeswiata.com,sunloox.com": "INVALID",
+            "bajeczki.org,bezpieczny.blog,bieszczady.pro,darmowekontobankowe.org,deynn.blog,dobremiejsce.org,dojczland.info,domjozefa.tv,doradztwoprawne.org,dziendobry.catering,e-niemcy.de,ekocykl.org,ekspedyt.org,emisja.tv,etychy.org,eurowizja.org,expertum.de,farmacja.net,filmowo.co,fundacjawolnosci.org,getlevel.info,icelandnews.is,itvwisla.tv,kamery.live,kamienskie.info,katowice24.info,kooperation-ohne-grenzen.de,kropka.audio,kryminalni24.info,lipnik.org,lowiczanin.info,luzyce.info,lwowecki.info,niniwa.org,opinie.co,pink.land,pomozity.org,rankingkont.org,retrotech.blog,rolland.tech,roztocze.net,sekrety-zdrowia.org,tvcsw.info,wifi-spot.net,wiskitki.org,wnet.fm,wringu.net,wwl24.info,wyczes.net,zkaszub.info": "INVALID",
+            "balladine.com,basspolska.com,koszulkolandia.com,ksiazki-medyczne.eu,mistama.com,nails.silcare.com,ochnik.com,pl.coccodrillo.eu,planetadzwieku.com,prezencik.eu,sklep.charaktery.eu,swiatpaneli.com": "INVALID",
+            "behance.net,helpx.adobe.com,pl.fotolia.com,przepisy.pl,rexona.com,stock.adobe.com,unileverfoodsolutions.pl,vmware.com,www.adobe.com,www.knorr.pl,www.unilever.pl": "INVALID",
+            "belriso.com,jogobella.com,milk-tiger.com,monte.com,zott-dairy.com,zottarella.com": "INVALID",
+            "easyjet.com,getbybus.com,lovoo.com,pl.000webhost.com,pl.milwaukeetool.eu,pl.rs-online.com,pl.ryobitools.eu,qnapclub.eu,sonymobile.com": "INVALID",
+            "forum.optymalizacja.com,prestashop.com,sat-4-all.com": "INVALID",
+            "goraj.eu,hifi.kielce.com,infotydzien.info,reklamawwindzie.net": "INVALID"
         }
     }
 }

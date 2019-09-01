@@ -234,6 +234,11 @@
         "expiration_date": "31-may-2020",
         "state": "future"
     },
+    "amd.com": {
+        "epoch": 1763251200,
+        "expiration_date": "16-nov-2025",
+        "state": "future"
+    },
     "americanexpress.com": {
         "epoch": 1654214400,
         "expiration_date": "03-jun-2022",
@@ -367,6 +372,11 @@
     "audioteka.com": {
         "epoch": 1592956800,
         "expiration_date": "24-jun-2020",
+        "state": "future"
+    },
+    "audiovideo.com.pl": {
+        "epoch": 1579564800,
+        "expiration_date": "21-jan-2020",
         "state": "future"
     },
     "austria.info": {
@@ -509,6 +519,11 @@
         "expiration_date": "09-dec-2019",
         "state": "future"
     },
+    "benemedo.com": {
+        "epoch": 1575676800,
+        "expiration_date": "07-dec-2019",
+        "state": "future"
+    },
     "bershka.com": {
         "epoch": 1788307200,
         "expiration_date": "02-sep-2026",
@@ -565,8 +580,8 @@
         "state": "future"
     },
     "biegniepodleglosci.pl": {
-        "epoch": 1567209600,
-        "expiration_date": "31-aug-2019",
+        "epoch": 1569801600,
+        "expiration_date": "30-sep-2019",
         "state": "future"
     },
     "bielsko.info": {
@@ -1150,8 +1165,8 @@
         "state": "future"
     },
     "db.com": {
-        "epoch": 1567296000,
-        "expiration_date": "01-sep-2019",
+        "epoch": 1598918400,
+        "expiration_date": "01-sep-2020",
         "state": "future"
     },
     "dcg.wroclaw.pl": {
@@ -1192,6 +1207,11 @@
     "denley.pl": {
         "epoch": 1652227200,
         "expiration_date": "11-may-2022",
+        "state": "future"
+    },
+    "denon.pl": {
+        "epoch": 1569801600,
+        "expiration_date": "30-sep-2019",
         "state": "future"
     },
     "devilpage.pl": {
@@ -3212,6 +3232,11 @@
     "lubliniak.com.pl": {
         "epoch": 1580256000,
         "expiration_date": "29-jan-2020",
+        "state": "future"
+    },
+    "lubliniec.info": {
+        "epoch": 1602720000,
+        "expiration_date": "15-oct-2020",
         "state": "future"
     },
     "lukasfinanse.pl": {
