@@ -2994,6 +2994,11 @@
         "expiration_date": "08-jan-2020",
         "state": "future"
     },
+    "kyoceradocumentsolutions.pl": {
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
+    },
     "kzgw.gov.pl": {
         "epoch": 1594771200,
         "expiration_date": "15-jul-2020",
