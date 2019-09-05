@@ -514,6 +514,11 @@
         "expiration_date": "30-jul-2020",
         "state": "future"
     },
+    "bekoczesci.pl": {
+        "epoch": 1584921600,
+        "expiration_date": "23-mar-2020",
+        "state": "future"
+    },
     "belutti.com": {
         "epoch": 1575849600,
         "expiration_date": "09-dec-2019",
@@ -1077,6 +1082,11 @@
     "cubus.com": {
         "epoch": 1567900800,
         "expiration_date": "08-sep-2019",
+        "state": "future"
+    },
+    "cupsell.pl": {
+        "epoch": 1600560000,
+        "expiration_date": "20-sep-2020",
         "state": "future"
     },
     "cyanmod.pl": {
@@ -2809,6 +2819,11 @@
         "expiration_date": "10-jun-2020",
         "state": "future"
     },
+    "kapucyni.pl": {
+        "epoch": 1583020800,
+        "expiration_date": "01-mar-2020",
+        "state": "future"
+    },
     "karpacz-bus.pl": {
         "epoch": 1580860800,
         "expiration_date": "05-feb-2020",
@@ -2869,6 +2884,11 @@
         "expiration_date": "29-dec-2020",
         "state": "future"
     },
+    "kokos.pl": {
+        "epoch": 1603670400,
+        "expiration_date": "26-oct-2020",
+        "state": "future"
+    },
     "kolarstwo.wroclaw.pl": {
         "epoch": 1594857600,
         "expiration_date": "16-jul-2020",
@@ -2887,6 +2907,11 @@
     "kolorowychsnow.pl": {
         "epoch": 1594598400,
         "expiration_date": "13-jul-2020",
+        "state": "future"
+    },
+    "komfort.pl": {
+        "epoch": 1573603200,
+        "expiration_date": "13-nov-2019",
         "state": "future"
     },
     "kominki.org": {
