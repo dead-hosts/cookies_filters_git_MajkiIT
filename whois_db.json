@@ -1275,8 +1275,8 @@
         "state": "future"
     },
     "dlastudenta.pl": {
-        "epoch": "1566950400",
-        "expiration_date": "28-aug-2019",
+        "epoch": 1598572800,
+        "expiration_date": "28-aug-2020",
         "state": "future"
     },
     "dobrefinanse.co.uk": {
@@ -3737,6 +3737,11 @@
     "muve.pl": {
         "epoch": 1592956800,
         "expiration_date": "24-jun-2020",
+        "state": "future"
+    },
+    "muza.com.pl": {
+        "epoch": 1577750400,
+        "expiration_date": "31-dec-2019",
         "state": "future"
     },
     "muzeum-radom.pl": {
@@ -6410,8 +6415,8 @@
         "state": "future"
     },
     "wyprawyrowerem.pl": {
-        "epoch": "1566950400",
-        "expiration_date": "28-aug-2019",
+        "epoch": 1661644800,
+        "expiration_date": "28-aug-2022",
         "state": "future"
     },
     "wzorcowniawloclawek.com": {
