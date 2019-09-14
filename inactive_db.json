@@ -842,13 +842,11 @@
             "soundcloud.com,blyskawicznakorekta.pl": "INVALID",
             "stat.gov.pl,pap.pl,popoznaniu.pl,warszawa-pragapoludnie.sr.gov.pl": "INVALID",
             "stefczyk.info,leniwy.eu,disco-polo.info": "INVALID",
-            "stypendia.sejmik.kielce.pl": "INACTIVE",
             "sudafed.pl,vcms.eu": "INVALID",
             "superkoszyk.pl,mohito.com": "INVALID",
             "swiatnauki.pl,wiz.pl": "INVALID",
             "talbud.pl,termgaz.pl": "INVALID",
             "teamsnack.pl,vectra.pl": "INVALID",
-            "testujemy.biedronka.pl": "INACTIVE",
             "tlp.is,panasonic-electric-works.com": "INVALID",
             "tominet.com.pl,polonika.at": "INVALID",
             "tooba.pl,twojogrodek.pl": "INVALID",
@@ -1011,7 +1009,11 @@
             "~www.wp.pl,~poczta.wp.pl,wp.pl": "INVALID"
         },
         "1568497813": {
-            "mmo.pl": "INACTIVE"
+            "mmo.pl": "INACTIVE",
+            "stypendia.sejmik.kielce.pl": "INACTIVE",
+            "szarakomorka.pl": "INACTIVE",
+            "szkoleniapartner.pl": "INACTIVE",
+            "testujemy.biedronka.pl": "INACTIVE"
         }
     }
 }
