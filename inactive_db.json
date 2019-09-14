@@ -1009,6 +1009,9 @@
             "~vod.naekranie.pl,naekranie.pl": "INVALID",
             "~www.wp.pl,wp.pl": "INVALID",
             "~www.wp.pl,~poczta.wp.pl,wp.pl": "INVALID"
+        },
+        "1568497813": {
+            "mmo.pl": "INACTIVE"
         }
     }
 }
