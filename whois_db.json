@@ -8969,6 +8969,11 @@
         "expiration_date": "08-aug-2021",
         "state": "future"
     },
+    "pkspolonus.pl": {
+        "epoch": 1583712000,
+        "expiration_date": "09-mar-2020",
+        "state": "future"
+    },
     "pl.weber": {
         "epoch": 1587945600,
         "expiration_date": "27-apr-2020",
