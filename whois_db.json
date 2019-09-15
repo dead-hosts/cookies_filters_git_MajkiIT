@@ -3909,6 +3909,11 @@
         "expiration_date": "22-nov-2022",
         "state": "future"
     },
+    "ferrarikatowice.pl": {
+        "epoch": 1601596800,
+        "expiration_date": "02-oct-2020",
+        "state": "future"
+    },
     "ferrariwarszawa.com": {
         "epoch": 1589932800,
         "expiration_date": "20-may-2020",
@@ -4027,6 +4032,11 @@
     "fit.pl": {
         "epoch": 1614470400,
         "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
+    "fitandyummy.pl": {
+        "epoch": 1585526400,
+        "expiration_date": "30-mar-2020",
         "state": "future"
     },
     "fitbox4you.pl": {
@@ -4349,6 +4359,11 @@
         "expiration_date": "16-aug-2020",
         "state": "future"
     },
+    "galeriaveneda.com.pl": {
+        "epoch": 1581033600,
+        "expiration_date": "07-feb-2020",
+        "state": "future"
+    },
     "gamedot.pl": {
         "epoch": 1583712000,
         "expiration_date": "09-mar-2020",
@@ -4382,6 +4397,11 @@
     "gardenoffood.com": {
         "epoch": 1595030400,
         "expiration_date": "18-jul-2020",
+        "state": "future"
+    },
+    "gardinia.pl": {
+        "epoch": 1598745600,
+        "expiration_date": "30-aug-2020",
         "state": "future"
     },
     "garmin.com": {
@@ -4562,6 +4582,11 @@
     "gieldarolna.pl": {
         "epoch": 1601164800,
         "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
+    "gigabyte.pl": {
+        "epoch": 1585958400,
+        "expiration_date": "04-apr-2020",
         "state": "future"
     },
     "gigant.pl": {
@@ -5639,6 +5664,11 @@
         "expiration_date": "30-jul-2020",
         "state": "future"
     },
+    "ioki.pl": {
+        "epoch": 1589673600,
+        "expiration_date": "17-may-2020",
+        "state": "future"
+    },
     "iom.pl": {
         "epoch": 1590624000,
         "expiration_date": "28-may-2020",
@@ -5822,6 +5852,11 @@
     "jaskinianiedzwiedzia.pl": {
         "epoch": 1578182400,
         "expiration_date": "05-jan-2020",
+        "state": "future"
+    },
+    "jastrzebieonline.pl": {
+        "epoch": 1575504000,
+        "expiration_date": "05-dec-2019",
         "state": "future"
     },
     "java.com": {
@@ -6304,6 +6339,11 @@
         "expiration_date": "10-jan-2021",
         "state": "future"
     },
+    "kopland.pl": {
+        "epoch": 1590364800,
+        "expiration_date": "25-may-2020",
+        "state": "future"
+    },
     "koscian.net": {
         "epoch": 1636156800,
         "expiration_date": "06-nov-2021",
@@ -6372,6 +6412,11 @@
     "kredytmarket.com": {
         "epoch": 1617235200,
         "expiration_date": "01-apr-2021",
+        "state": "future"
+    },
+    "kreskoweczki.pl": {
+        "epoch": 1583452800,
+        "expiration_date": "06-mar-2020",
         "state": "future"
     },
     "kreskowki.tv": {
