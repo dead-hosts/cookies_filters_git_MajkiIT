@@ -9179,6 +9179,11 @@
         "expiration_date": "18-dec-2019",
         "state": "future"
     },
+    "polki.pl": {
+        "epoch": 1605744000,
+        "expiration_date": "19-nov-2020",
+        "state": "future"
+    },
     "polnord.pl": {
         "epoch": 1573776000,
         "expiration_date": "15-nov-2019",
@@ -9194,9 +9199,19 @@
         "expiration_date": "21-jul-2020",
         "state": "future"
     },
+    "polonuspartner.pl": {
+        "epoch": 1581033600,
+        "expiration_date": "07-feb-2020",
+        "state": "future"
+    },
     "polopiryna.pl": {
         "epoch": 1607299200,
         "expiration_date": "07-dec-2020",
+        "state": "future"
+    },
+    "polpharma.pl": {
+        "epoch": 1613174400,
+        "expiration_date": "13-feb-2021",
         "state": "future"
     },
     "polska-ie.com": {
@@ -9214,6 +9229,11 @@
         "expiration_date": "23-sep-2019",
         "state": "future"
     },
+    "polskazachwyca.pl": {
+        "epoch": 1599091200,
+        "expiration_date": "03-sep-2020",
+        "state": "future"
+    },
     "polskicaravaning.pl": {
         "epoch": 1598227200,
         "expiration_date": "24-aug-2020",
@@ -9227,6 +9247,11 @@
     "polskieligi.net": {
         "epoch": 1584144000,
         "expiration_date": "14-mar-2020",
+        "state": "future"
+    },
+    "polskieradio24.pl": {
+        "epoch": 1576281600,
+        "expiration_date": "14-dec-2019",
         "state": "future"
     },
     "polskijubiler.pl": {
@@ -9259,6 +9284,11 @@
         "expiration_date": "16-nov-2019",
         "state": "future"
     },
+    "polstor.pl": {
+        "epoch": 1590192000,
+        "expiration_date": "23-may-2020",
+        "state": "future"
+    },
     "pomagam.pl": {
         "epoch": 1649808000,
         "expiration_date": "13-apr-2022",
@@ -9289,9 +9319,19 @@
         "expiration_date": "23-jun-2020",
         "state": "future"
     },
+    "popbookownik.pl": {
+        "epoch": 1583712000,
+        "expiration_date": "09-mar-2020",
+        "state": "future"
+    },
     "popkorn.pl": {
         "epoch": 1593388800,
         "expiration_date": "29-jun-2020",
+        "state": "future"
+    },
+    "popoznaniu.pl": {
+        "epoch": 1584835200,
+        "expiration_date": "22-mar-2020",
         "state": "future"
     },
     "poradypodatkowe.pl": {
@@ -9327,6 +9367,11 @@
     "portalspozywczy.pl": {
         "epoch": 1598227200,
         "expiration_date": "24-aug-2020",
+        "state": "future"
+    },
+    "portaltatrzanski.pl": {
+        "epoch": 1661040000,
+        "expiration_date": "21-aug-2022",
         "state": "future"
     },
     "portel.pl": {
@@ -9372,6 +9417,11 @@
     "pozegnania.net": {
         "epoch": 1587427200,
         "expiration_date": "21-apr-2020",
+        "state": "future"
+    },
+    "poznajgwiazde.pl": {
+        "epoch": 1584662400,
+        "expiration_date": "20-mar-2020",
         "state": "future"
     },
     "poznan.travel": {
@@ -9457,6 +9507,11 @@
     "pricelesso.pl": {
         "epoch": 1585872000,
         "expiration_date": "03-apr-2020",
+        "state": "future"
+    },
+    "prideshop.pl": {
+        "epoch": 1588636800,
+        "expiration_date": "05-may-2020",
         "state": "future"
     },
     "print-me.pl": {
@@ -9602,6 +9657,11 @@
     "publio.pl": {
         "epoch": 1603238400,
         "expiration_date": "21-oct-2020",
+        "state": "future"
+    },
+    "puch-kotlowski.pl": {
+        "epoch": 1574208000,
+        "expiration_date": "20-nov-2019",
         "state": "future"
     },
     "puk.elk.pl": {

@@ -1008,14 +1008,14 @@
             "~www.wp.pl,wp.pl": "INVALID",
             "~www.wp.pl,~poczta.wp.pl,wp.pl": "INVALID"
         },
-        "1568497813": {
+        "1568497813": {},
+        "1568590262": {
+            "mmo.pl": "INACTIVE",
+            "rni24.eu": "INACTIVE",
             "stypendia.sejmik.kielce.pl": "INACTIVE",
             "szarakomorka.pl": "INACTIVE",
             "szkoleniapartner.pl": "INACTIVE",
             "testujemy.biedronka.pl": "INACTIVE"
-        },
-        "1568590262": {
-            "mmo.pl": "INACTIVE"
         }
     }
 }
