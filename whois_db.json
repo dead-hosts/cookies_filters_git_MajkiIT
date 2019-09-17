@@ -9394,6 +9394,11 @@
         "expiration_date": "22-mar-2020",
         "state": "future"
     },
+    "poradnikksiegowego.pl": {
+        "epoch": 1582416000,
+        "expiration_date": "23-feb-2020",
+        "state": "future"
+    },
     "poradypodatkowe.pl": {
         "epoch": 1583452800,
         "expiration_date": "06-mar-2020",
@@ -9402,6 +9407,11 @@
     "porcys.com": {
         "epoch": 1598745600,
         "expiration_date": "30-aug-2020",
+        "state": "future"
+    },
+    "porno720.pl": {
+        "epoch": 1600387200,
+        "expiration_date": "18-sep-2020",
         "state": "future"
     },
     "portale-randkowe-ranking.pl": {
@@ -9422,6 +9432,11 @@
     "portalodo.com": {
         "epoch": 1572998400,
         "expiration_date": "06-nov-2019",
+        "state": "future"
+    },
+    "portalpszczelarski.pl": {
+        "epoch": 1597881600,
+        "expiration_date": "20-aug-2020",
         "state": "future"
     },
     "portalspozywczy.pl": {
@@ -9449,9 +9464,24 @@
         "expiration_date": "22-dec-2019",
         "state": "future"
     },
+    "powiat-chrzanowski.pl": {
+        "epoch": 1579305600,
+        "expiration_date": "18-jan-2020",
+        "state": "future"
+    },
+    "powiat-miedzyrzecki.pl": {
+        "epoch": 1585872000,
+        "expiration_date": "03-apr-2020",
+        "state": "future"
+    },
     "powiat-piaseczynski.info": {
         "epoch": 1613088000,
         "expiration_date": "12-feb-2021",
+        "state": "future"
+    },
+    "powiat-zielonogorski.pl": {
+        "epoch": 1588896000,
+        "expiration_date": "08-may-2020",
         "state": "future"
     },
     "powiatgizycki.pl": {
@@ -9487,6 +9517,11 @@
     "poznan.travel": {
         "epoch": 1649289600,
         "expiration_date": "07-apr-2022",
+        "state": "future"
+    },
+    "pozyczkaplus.pl": {
+        "epoch": 1612656000,
+        "expiration_date": "07-feb-2021",
         "state": "future"
     },
     "pozyczkowy-portal.pl": {
@@ -9539,6 +9574,11 @@
         "expiration_date": "17-may-2020",
         "state": "future"
     },
+    "prawnik-rodzinny.pl": {
+        "epoch": 1577059200,
+        "expiration_date": "23-dec-2019",
+        "state": "future"
+    },
     "prawo-mieszkaniowe.info": {
         "epoch": 1581897600,
         "expiration_date": "17-feb-2020",
@@ -9574,9 +9614,19 @@
         "expiration_date": "05-may-2020",
         "state": "future"
     },
+    "primeradivision.pl": {
+        "epoch": 1577404800,
+        "expiration_date": "27-dec-2019",
+        "state": "future"
+    },
     "print-me.pl": {
         "epoch": 1584230400,
         "expiration_date": "15-mar-2020",
+        "state": "future"
+    },
+    "prisonwars.pl": {
+        "epoch": 1595980800,
+        "expiration_date": "29-jul-2020",
         "state": "future"
     },
     "prk24.pl": {
@@ -9684,6 +9734,11 @@
         "expiration_date": "22-apr-2020",
         "state": "future"
     },
+    "przeswietl.pl": {
+        "epoch": 1592697600,
+        "expiration_date": "21-jun-2020",
+        "state": "future"
+    },
     "pskrk.com": {
         "epoch": 1579046400,
         "expiration_date": "15-jan-2020",
@@ -9692,6 +9747,11 @@
     "psprices.com": {
         "epoch": 1757376000,
         "expiration_date": "09-sep-2025",
+        "state": "future"
+    },
+    "psychiatria-poradnie.pl": {
+        "epoch": 1581379200,
+        "expiration_date": "11-feb-2020",
         "state": "future"
     },
     "psychologiazycia.com": {
@@ -9807,6 +9867,11 @@
     "qualitylife.pl": {
         "epoch": 1599523200,
         "expiration_date": "08-sep-2020",
+        "state": "future"
+    },
+    "queer.pl": {
+        "epoch": 1616976000,
+        "expiration_date": "29-mar-2021",
         "state": "future"
     },
     "quer.pl": {
