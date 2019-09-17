@@ -1010,13 +1010,15 @@
         },
         "1568497813": {},
         "1568590262": {
-            "mmo.pl": "INACTIVE",
             "rni24.eu": "INACTIVE",
             "stypendia.sejmik.kielce.pl": "INACTIVE",
             "szarakomorka.pl": "INACTIVE",
             "szkoleniapartner.pl": "INACTIVE",
             "testujemy.biedronka.pl": "INACTIVE",
             "urbanium.eu": "INACTIVE"
+        },
+        "1568719638": {
+            "mmo.pl": "INACTIVE"
         }
     }
 }
