@@ -11859,9 +11859,19 @@
         "expiration_date": "13-aug-2020",
         "state": "future"
     },
+    "umowycywilnoprawne.pl": {
+        "epoch": 1577059200,
+        "expiration_date": "23-dec-2019",
+        "state": "future"
+    },
     "unbrokenstore.com": {
         "epoch": 1592697600,
         "expiration_date": "21-jun-2020",
+        "state": "future"
+    },
+    "uni-tech.pl": {
+        "epoch": 1571011200,
+        "expiration_date": "14-oct-2019",
         "state": "future"
     },
     "uniaeuropejska.org": {
@@ -11872,6 +11882,11 @@
     "unifiedfactory.com": {
         "epoch": 1576713600,
         "expiration_date": "19-dec-2019",
+        "state": "future"
+    },
+    "unileverfoodsolutions.pl": {
+        "epoch": 1593302400,
+        "expiration_date": "28-jun-2020",
         "state": "future"
     },
     "unilink.pl": {
@@ -11914,9 +11929,19 @@
         "expiration_date": "26-mar-2020",
         "state": "future"
     },
+    "uzdrowisko-wieniec.pl": {
+        "epoch": 1591833600,
+        "expiration_date": "11-jun-2020",
+        "state": "future"
+    },
     "uzywki.expert": {
         "epoch": 1595116800,
         "expiration_date": "19-jul-2020",
+        "state": "future"
+    },
+    "v10.pl": {
+        "epoch": 1587254400,
+        "expiration_date": "19-apr-2020",
         "state": "future"
     },
     "vanced.app": {
@@ -12044,7 +12069,22 @@
         "expiration_date": "19-jan-2020",
         "state": "future"
     },
+    "wakacyjnapolisa.pl": {
+        "epoch": 1593216000,
+        "expiration_date": "27-jun-2020",
+        "state": "future"
+    },
     "walbrzyszek.com": {
+        "epoch": 1588118400,
+        "expiration_date": "29-apr-2020",
+        "state": "future"
+    },
+    "wanicki.pl": {
+        "epoch": 1688601600,
+        "expiration_date": "06-jul-2023",
+        "state": "future"
+    },
+    "wanika.pl": {
         "epoch": 1588118400,
         "expiration_date": "29-apr-2020",
         "state": "future"
@@ -12242,6 +12282,11 @@
     "wiha.com": {
         "epoch": 1585180800,
         "expiration_date": "26-mar-2020",
+        "state": "future"
+    },
+    "wikar.com.pl": {
+        "epoch": 1592352000,
+        "expiration_date": "17-jun-2020",
         "state": "future"
     },
     "wikidot.com": {
