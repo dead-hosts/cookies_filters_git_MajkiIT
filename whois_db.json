@@ -9679,6 +9679,11 @@
         "expiration_date": "24-feb-2020",
         "state": "future"
     },
+    "profitechnika.pl": {
+        "epoch": 1581206400,
+        "expiration_date": "09-feb-2020",
+        "state": "future"
+    },
     "progenis.pl": {
         "epoch": 1594944000,
         "expiration_date": "17-jul-2020",
@@ -9702,6 +9707,11 @@
     "progrupa.com": {
         "epoch": 1629590400,
         "expiration_date": "22-aug-2021",
+        "state": "future"
+    },
+    "projan.com.pl": {
+        "epoch": 1577577600,
+        "expiration_date": "29-dec-2019",
         "state": "future"
     },
     "projekt-parking.com": {
@@ -9774,6 +9784,11 @@
         "expiration_date": "22-apr-2020",
         "state": "future"
     },
+    "przepisy.pl": {
+        "epoch": 1577145600,
+        "expiration_date": "24-dec-2019",
+        "state": "future"
+    },
     "przeswietl.pl": {
         "epoch": 1592697600,
         "expiration_date": "21-jun-2020",
@@ -9787,6 +9802,11 @@
     "psprices.com": {
         "epoch": 1757376000,
         "expiration_date": "09-sep-2025",
+        "state": "future"
+    },
+    "psy24.pl": {
+        "epoch": 1588896000,
+        "expiration_date": "08-may-2020",
         "state": "future"
     },
     "psychiatria-poradnie.pl": {
@@ -9954,6 +9974,11 @@
         "expiration_date": "08-may-2020",
         "state": "future"
     },
+    "radioem.pl": {
+        "epoch": 1585267200,
+        "expiration_date": "27-mar-2020",
+        "state": "future"
+    },
     "radioexpert.net": {
         "epoch": 1683504000,
         "expiration_date": "08-may-2023",
@@ -9989,9 +10014,19 @@
         "expiration_date": "08-mar-2020",
         "state": "future"
     },
+    "radiostacja.pl": {
+        "epoch": 1582329600,
+        "expiration_date": "22-feb-2020",
+        "state": "future"
+    },
     "radissonblu.com": {
         "epoch": 1591833600,
         "expiration_date": "11-jun-2020",
+        "state": "future"
+    },
+    "radziejewska.pl": {
+        "epoch": 1595980800,
+        "expiration_date": "29-jul-2020",
         "state": "future"
     },
     "raiffeisenpolbank.com": {
@@ -10142,6 +10177,11 @@
     "revolweb.pl": {
         "epoch": "1584921600",
         "expiration_date": "23-mar-2020",
+        "state": "future"
+    },
+    "rewolucjawoc.pl": {
+        "epoch": 1585267200,
+        "expiration_date": "27-mar-2020",
         "state": "future"
     },
     "rexona.com": {
@@ -10952,7 +10992,7 @@
     "starecegly.com": {
         "epoch": 1568764800,
         "expiration_date": "18-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "starosadeckie.info": {
         "epoch": 1606435200,
