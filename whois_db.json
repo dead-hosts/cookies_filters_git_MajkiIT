@@ -7574,6 +7574,11 @@
         "expiration_date": "24-jul-2020",
         "state": "future"
     },
+    "maseratipietrzak.pl": {
+        "epoch": 1575936000,
+        "expiration_date": "10-dec-2019",
+        "state": "future"
+    },
     "mat-dom.pl": {
         "epoch": 1584835200,
         "expiration_date": "22-mar-2020",
@@ -7612,6 +7617,11 @@
     "mazda.pl": {
         "epoch": 1577750400,
         "expiration_date": "31-dec-2019",
+        "state": "future"
+    },
+    "mazowieckie.com.pl": {
+        "epoch": 1578268800,
+        "expiration_date": "06-jan-2020",
         "state": "future"
     },
     "mazurcompany.com": {
@@ -7664,6 +7674,11 @@
         "expiration_date": "26-may-2020",
         "state": "future"
     },
+    "meble.com.pl": {
+        "epoch": 1576281600,
+        "expiration_date": "14-dec-2019",
+        "state": "future"
+    },
     "meblezet.com": {
         "epoch": 1576540800,
         "expiration_date": "17-dec-2019",
@@ -7707,6 +7722,11 @@
     "meetup.com": {
         "epoch": 1597795200,
         "expiration_date": "19-aug-2020",
+        "state": "future"
+    },
+    "mega-kino.pl": {
+        "epoch": 1597363200,
+        "expiration_date": "14-aug-2020",
         "state": "future"
     },
     "megart.pl": {
@@ -7762,6 +7782,11 @@
     "mercure.com": {
         "epoch": 1587081600,
         "expiration_date": "17-apr-2020",
+        "state": "future"
+    },
+    "merixstudio.pl": {
+        "epoch": 1572825600,
+        "expiration_date": "04-nov-2019",
         "state": "future"
     },
     "merlin.pl": {
@@ -7894,6 +7919,11 @@
         "expiration_date": "23-feb-2020",
         "state": "future"
     },
+    "minecraft.org.pl": {
+        "epoch": 1579651200,
+        "expiration_date": "22-jan-2020",
+        "state": "future"
+    },
     "minecraftpolska.net": {
         "epoch": 1590883200,
         "expiration_date": "31-may-2020",
@@ -7904,9 +7934,19 @@
         "expiration_date": "17-may-2022",
         "state": "future"
     },
+    "miniminiplus.pl": {
+        "epoch": 1597968000,
+        "expiration_date": "21-aug-2020",
+        "state": "future"
+    },
     "ministerstwogadzetow.com": {
         "epoch": 1839110400,
         "expiration_date": "12-apr-2028",
+        "state": "future"
+    },
+    "ministerstworeklamy.pl": {
+        "epoch": 1583452800,
+        "expiration_date": "06-mar-2020",
         "state": "future"
     },
     "mintos.com": {
@@ -7927,6 +7967,11 @@
     "mirka.com": {
         "epoch": 1794873600,
         "expiration_date": "17-nov-2026",
+        "state": "future"
+    },
+    "misjatravel.pl": {
+        "epoch": 1598227200,
+        "expiration_date": "24-aug-2020",
         "state": "future"
     },
     "missplanner.pl": {
@@ -8049,6 +8094,11 @@
         "expiration_date": "27-apr-2022",
         "state": "future"
     },
+    "mol.pl": {
+        "epoch": 1643328000,
+        "expiration_date": "28-jan-2022",
+        "state": "future"
+    },
     "mondeoklubpolska.pl": {
         "epoch": 1596931200,
         "expiration_date": "09-aug-2020",
@@ -8124,6 +8174,11 @@
         "expiration_date": "17-jan-2022",
         "state": "future"
     },
+    "motoneo.pl": {
+        "epoch": 1587254400,
+        "expiration_date": "19-apr-2020",
+        "state": "future"
+    },
     "motonotes.pl": {
         "epoch": 1595203200,
         "expiration_date": "20-jul-2020",
@@ -8135,13 +8190,18 @@
         "state": "future"
     },
     "motostat.pl": {
-        "epoch": 1568505600,
-        "expiration_date": "15-sep-2019",
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
         "state": "future"
     },
     "motul.com": {
         "epoch": 1590537600,
         "expiration_date": "27-may-2020",
+        "state": "future"
+    },
+    "moventum.com.pl": {
+        "epoch": 1647820800,
+        "expiration_date": "21-mar-2022",
         "state": "future"
     },
     "mp.pl": {
@@ -8204,6 +8264,11 @@
         "expiration_date": "16-jan-2020",
         "state": "future"
     },
+    "musicexpert.pl": {
+        "epoch": 1575504000,
+        "expiration_date": "05-dec-2019",
+        "state": "future"
+    },
     "mustasz.com": {
         "epoch": 1594425600,
         "expiration_date": "11-jul-2020",
@@ -8224,9 +8289,14 @@
         "expiration_date": "04-jul-2020",
         "state": "future"
     },
+    "muzeumslaskie.pl": {
+        "epoch": 1661904000,
+        "expiration_date": "31-aug-2022",
+        "state": "future"
+    },
     "muzyczneradio.pl": {
-        "epoch": 1568332800,
-        "expiration_date": "13-sep-2019",
+        "epoch": 1599955200,
+        "expiration_date": "13-sep-2020",
         "state": "future"
     },
     "muzykabezkabli.pl": {
@@ -8260,8 +8330,8 @@
         "state": "future"
     },
     "myownconference.pl": {
-        "epoch": 1568764800,
-        "expiration_date": "18-sep-2019",
+        "epoch": 1600387200,
+        "expiration_date": "18-sep-2020",
         "state": "future"
     },
     "mytastepol.com": {
@@ -8357,6 +8427,11 @@
     "naziemna.info": {
         "epoch": 1582070400,
         "expiration_date": "19-feb-2020",
+        "state": "future"
+    },
+    "ncplusgo.pl": {
+        "epoch": 1662681600,
+        "expiration_date": "09-sep-2022",
         "state": "future"
     },
     "ndn.com.pl": {
@@ -8634,6 +8709,11 @@
         "expiration_date": "21-apr-2020",
         "state": "future"
     },
+    "o-c.pl": {
+        "epoch": 1584921600,
+        "expiration_date": "23-mar-2020",
+        "state": "future"
+    },
     "o2.pl": {
         "epoch": 1659744000,
         "expiration_date": "06-aug-2022",
@@ -8694,6 +8774,11 @@
         "expiration_date": "27-apr-2022",
         "state": "future"
     },
+    "odreklamy.pl": {
+        "epoch": 1593302400,
+        "expiration_date": "28-jun-2020",
+        "state": "future"
+    },
     "odrowaz24.pl": {
         "epoch": "1563062400",
         "expiration_date": "14-jul-2019",
@@ -8742,6 +8827,21 @@
     "ogloszeniowa.net": {
         "epoch": 1592611200,
         "expiration_date": "20-jun-2020",
+        "state": "future"
+    },
+    "ogradzamy.pl": {
+        "epoch": 1598832000,
+        "expiration_date": "31-aug-2020",
+        "state": "future"
+    },
+    "ogrzewanie-elektryczne.pl": {
+        "epoch": 1637020800,
+        "expiration_date": "16-nov-2021",
+        "state": "future"
+    },
+    "ok-kredyt.pl": {
+        "epoch": 1570752000,
+        "expiration_date": "11-oct-2019",
         "state": "future"
     },
     "oki.com": {
@@ -8812,6 +8912,11 @@
     "ongeo.pl": {
         "epoch": 1591315200,
         "expiration_date": "05-jun-2020",
+        "state": "future"
+    },
+    "onlinekredyty.pl": {
+        "epoch": 1598659200,
+        "expiration_date": "29-aug-2020",
         "state": "future"
     },
     "onlineradiobox.com": {
@@ -8909,6 +9014,11 @@
         "expiration_date": "27-mar-2021",
         "state": "future"
     },
+    "orientshop.com.pl": {
+        "epoch": 1574294400,
+        "expiration_date": "21-nov-2019",
+        "state": "future"
+    },
     "origin.com": {
         "epoch": 1575417600,
         "expiration_date": "04-dec-2019",
@@ -8970,8 +9080,8 @@
         "state": "future"
     },
     "oszczedzarka.co.uk": {
-        "epoch": 1568851200,
-        "expiration_date": "19-sep-2019",
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
         "state": "future"
     },
     "otodom.pl": {
@@ -9044,6 +9154,11 @@
         "expiration_date": "04-mar-2020",
         "state": "future"
     },
+    "panelex.pl": {
+        "epoch": 1584316800,
+        "expiration_date": "16-mar-2020",
+        "state": "future"
+    },
     "pantuniestal.com": {
         "epoch": 1594771200,
         "expiration_date": "15-jul-2020",
@@ -9064,6 +9179,11 @@
         "expiration_date": "31-jan-2020",
         "state": "future"
     },
+    "party.pl": {
+        "epoch": 1654300800,
+        "expiration_date": "04-jun-2022",
+        "state": "future"
+    },
     "pasazer.com": {
         "epoch": 1722816000,
         "expiration_date": "05-aug-2024",
@@ -9082,6 +9202,11 @@
     "patentujemy.com": {
         "epoch": 1580774400,
         "expiration_date": "04-feb-2020",
+        "state": "future"
+    },
+    "patronite.pl": {
+        "epoch": 1593907200,
+        "expiration_date": "05-jul-2020",
         "state": "future"
     },
     "paypal.com": {
@@ -9107,6 +9232,11 @@
     "pb.pl": {
         "epoch": 1580342400,
         "expiration_date": "30-jan-2020",
+        "state": "future"
+    },
+    "pbg-sa.pl": {
+        "epoch": 1576540800,
+        "expiration_date": "17-dec-2019",
         "state": "future"
     },
     "pch24.info": {
@@ -9877,6 +10007,11 @@
     "pragma.pl": {
         "epoch": 1576195200,
         "expiration_date": "13-dec-2019",
+        "state": "future"
+    },
+    "pragroup.pl": {
+        "epoch": 1653177600,
+        "expiration_date": "22-may-2022",
         "state": "future"
     },
     "prakreacja.pl": {
