@@ -4940,8 +4940,8 @@
         "state": "future"
     },
     "gr4cze.pl": {
-        "epoch": 1568592000,
-        "expiration_date": "16-sep-2019",
+        "epoch": 1600214400,
+        "expiration_date": "16-sep-2020",
         "state": "future"
     },
     "grafoteka.pl": {
@@ -4984,6 +4984,11 @@
         "expiration_date": "16-nov-2019",
         "state": "future"
     },
+    "grene.pl": {
+        "epoch": 1586217600,
+        "expiration_date": "07-apr-2020",
+        "state": "future"
+    },
     "grodzisk.pl": {
         "epoch": 1584662400,
         "expiration_date": "20-mar-2020",
@@ -5022,6 +5027,16 @@
     "grupakety.com": {
         "epoch": 1571097600,
         "expiration_date": "15-oct-2019",
+        "state": "future"
+    },
+    "grupapietrzak.pl": {
+        "epoch": 1574467200,
+        "expiration_date": "23-nov-2019",
+        "state": "future"
+    },
+    "grupapsb.com.pl": {
+        "epoch": 1579219200,
+        "expiration_date": "17-jan-2020",
         "state": "future"
     },
     "grupazywiec.pl": {
@@ -5119,6 +5134,11 @@
         "expiration_date": "07-feb-2021",
         "state": "future"
     },
+    "harmonia-masaz.pl": {
+        "epoch": 1582070400,
+        "expiration_date": "19-feb-2020",
+        "state": "future"
+    },
     "haszkod.pl": {
         "epoch": 1588291200,
         "expiration_date": "01-may-2020",
@@ -5157,6 +5177,11 @@
     "helikon-tex.com": {
         "epoch": 1583452800,
         "expiration_date": "06-mar-2020",
+        "state": "future"
+    },
+    "helio.pl": {
+        "epoch": 1575590400,
+        "expiration_date": "06-dec-2019",
         "state": "future"
     },
     "helios.pl": {
@@ -5369,6 +5394,11 @@
         "expiration_date": "04-may-2021",
         "state": "future"
     },
+    "hurtownia-24.pl": {
+        "epoch": 1576800000,
+        "expiration_date": "20-dec-2019",
+        "state": "future"
+    },
     "hurtownia-kosmetyczna.org": {
         "epoch": 1601769600,
         "expiration_date": "04-oct-2020",
@@ -5434,6 +5464,11 @@
         "expiration_date": "07-dec-2019",
         "state": "future"
     },
+    "idg.com.pl": {
+        "epoch": 1577750400,
+        "expiration_date": "31-dec-2019",
+        "state": "future"
+    },
     "idhosting.pl": {
         "epoch": 1573948800,
         "expiration_date": "17-nov-2019",
@@ -5469,6 +5504,11 @@
         "expiration_date": "23-nov-2019",
         "state": "future"
     },
+    "igomedia.pl": {
+        "epoch": 1573516800,
+        "expiration_date": "12-nov-2019",
+        "state": "future"
+    },
     "iiyama.com": {
         "epoch": 1586390400,
         "expiration_date": "09-apr-2020",
@@ -5502,6 +5542,11 @@
     "ilza.com.pl": {
         "epoch": 1589932800,
         "expiration_date": "20-may-2020",
+        "state": "future"
+    },
+    "imagazine.pl": {
+        "epoch": 1592438400,
+        "expiration_date": "18-jun-2020",
         "state": "future"
     },
     "imielski.net": {
@@ -5564,6 +5609,11 @@
         "expiration_date": "15-sep-2020",
         "state": "future"
     },
+    "info.elblag.pl": {
+        "epoch": 1599782400,
+        "expiration_date": "11-sep-2020",
+        "state": "future"
+    },
     "info24.rzeszow.pl": {
         "epoch": 1574640000,
         "expiration_date": "25-nov-2019",
@@ -5587,6 +5637,11 @@
     "infoludek.pl": {
         "epoch": 1581552000,
         "expiration_date": "13-feb-2020",
+        "state": "future"
+    },
+    "infomusic.pl": {
+        "epoch": 1586476800,
+        "expiration_date": "10-apr-2020",
         "state": "future"
     },
     "informatycznaobsluga.pl": {
@@ -5672,6 +5727,11 @@
     "instytutlogopedyczny.pl": {
         "epoch": 1578441600,
         "expiration_date": "08-jan-2020",
+        "state": "future"
+    },
+    "integart.com.pl": {
+        "epoch": 1577750400,
+        "expiration_date": "31-dec-2019",
         "state": "future"
     },
     "integracja.org": {
@@ -5869,6 +5929,11 @@
         "expiration_date": "31-oct-2019",
         "state": "future"
     },
+    "jackvision.pl": {
+        "epoch": 1633046400,
+        "expiration_date": "01-oct-2021",
+        "state": "future"
+    },
     "jajco.pl": {
         "epoch": 1584748800,
         "expiration_date": "21-mar-2020",
@@ -5904,6 +5969,11 @@
         "expiration_date": "26-jan-2020",
         "state": "future"
     },
+    "jamyoni.org.pl": {
+        "epoch": 1597536000,
+        "expiration_date": "16-aug-2020",
+        "state": "future"
+    },
     "jangar.pl": {
         "epoch": 1587168000,
         "expiration_date": "18-apr-2020",
@@ -5912,6 +5982,11 @@
     "januszebiznesu.pl": {
         "epoch": 1594080000,
         "expiration_date": "07-jul-2020",
+        "state": "future"
+    },
+    "japierpapier.pl": {
+        "epoch": 1594598400,
+        "expiration_date": "13-jul-2020",
         "state": "future"
     },
     "japrzedsiebiorca.biz": {
@@ -5967,6 +6042,11 @@
     "jcubic.pl": {
         "epoch": 1597795200,
         "expiration_date": "19-aug-2020",
+        "state": "future"
+    },
+    "jeanmueller.pl": {
+        "epoch": 1578528000,
+        "expiration_date": "09-jan-2020",
         "state": "future"
     },
     "jednoslad.pl": {
@@ -6039,6 +6119,11 @@
         "expiration_date": "11-jul-2020",
         "state": "future"
     },
+    "junkers.pl": {
+        "epoch": 1596585600,
+        "expiration_date": "05-aug-2020",
+        "state": "future"
+    },
     "jurajska.pl": {
         "epoch": 1596758400,
         "expiration_date": "07-aug-2020",
@@ -6077,6 +6162,16 @@
     "kabar.pl": {
         "epoch": 1595721600,
         "expiration_date": "26-jul-2020",
+        "state": "future"
+    },
+    "kacperkowalski.pl": {
+        "epoch": 1584144000,
+        "expiration_date": "14-mar-2020",
+        "state": "future"
+    },
+    "kadra.pl": {
+        "epoch": 1616803200,
+        "expiration_date": "27-mar-2021",
         "state": "future"
     },
     "kaercher.com": {
@@ -6134,6 +6229,11 @@
         "expiration_date": "22-jul-2020",
         "state": "future"
     },
+    "kancelaria-szip.pl": {
+        "epoch": 1598400000,
+        "expiration_date": "26-aug-2020",
+        "state": "future"
+    },
     "kappahl.com": {
         "epoch": 1603238400,
         "expiration_date": "21-oct-2020",
@@ -6159,6 +6259,11 @@
         "expiration_date": "17-aug-2020",
         "state": "future"
     },
+    "kartonwork.pl": {
+        "epoch": 1583452800,
+        "expiration_date": "06-mar-2020",
+        "state": "future"
+    },
     "kartunsy.pl": {
         "epoch": 1587772800,
         "expiration_date": "25-apr-2020",
@@ -6167,6 +6272,16 @@
     "kartuzy.info": {
         "epoch": 1574121600,
         "expiration_date": "19-nov-2019",
+        "state": "future"
+    },
+    "kastu.pl": {
+        "epoch": 1620172800,
+        "expiration_date": "05-may-2021",
+        "state": "future"
+    },
+    "katalogmsp.pl": {
+        "epoch": 1598140800,
+        "expiration_date": "23-aug-2020",
         "state": "future"
     },
     "katowice-airport.com": {
@@ -6219,6 +6334,11 @@
         "expiration_date": "11-jul-2020",
         "state": "future"
     },
+    "kiep.pl": {
+        "epoch": 1614816000,
+        "expiration_date": "04-mar-2021",
+        "state": "future"
+    },
     "kierunekspozywczy.pl": {
         "epoch": 1572134400,
         "expiration_date": "27-oct-2019",
@@ -6244,9 +6364,24 @@
         "expiration_date": "23-aug-2020",
         "state": "future"
     },
+    "kinonh.pl": {
+        "epoch": 1666569600,
+        "expiration_date": "24-oct-2022",
+        "state": "future"
+    },
     "kinoteka.pl": {
         "epoch": 1589760000,
         "expiration_date": "18-may-2020",
+        "state": "future"
+    },
+    "klinikaagd.pl": {
+        "epoch": 1572652800,
+        "expiration_date": "02-nov-2019",
+        "state": "future"
+    },
+    "klockolandia.pl": {
+        "epoch": 1580774400,
+        "expiration_date": "04-feb-2020",
         "state": "future"
     },
     "klubjagiellonski.pl": {
@@ -6262,6 +6397,11 @@
     "knockoutprod.net": {
         "epoch": 1596326400,
         "expiration_date": "02-aug-2020",
+        "state": "future"
+    },
+    "kobieceporady.pl": {
+        "epoch": 1603065600,
+        "expiration_date": "19-oct-2020",
         "state": "future"
     },
     "kochamwroclaw.pl": {
@@ -6349,6 +6489,11 @@
         "expiration_date": "31-mar-2020",
         "state": "future"
     },
+    "komorkomania.pl": {
+        "epoch": 1586649600,
+        "expiration_date": "12-apr-2020",
+        "state": "future"
+    },
     "komorkomat.pl": {
         "epoch": 1593388800,
         "expiration_date": "29-jun-2020",
@@ -6429,6 +6574,11 @@
         "expiration_date": "10-jan-2021",
         "state": "future"
     },
+    "kopel.pl": {
+        "epoch": 1573344000,
+        "expiration_date": "10-nov-2019",
+        "state": "future"
+    },
     "kopland.pl": {
         "epoch": 1590364800,
         "expiration_date": "25-may-2020",
@@ -6469,6 +6619,16 @@
         "expiration_date": "24-jan-2021",
         "state": "future"
     },
+    "kozy.pl": {
+        "epoch": 1575072000,
+        "expiration_date": "30-nov-2019",
+        "state": "future"
+    },
+    "kpcen-torun.edu.pl": {
+        "epoch": 1581811200,
+        "expiration_date": "16-feb-2020",
+        "state": "future"
+    },
     "kpim.pl": {
         "epoch": 1569542400,
         "expiration_date": "27-sep-2019",
@@ -6499,6 +6659,11 @@
         "expiration_date": "07-aug-2020",
         "state": "future"
     },
+    "kredito24.pl": {
+        "epoch": 1613692800,
+        "expiration_date": "19-feb-2021",
+        "state": "future"
+    },
     "kredytmarket.com": {
         "epoch": 1617235200,
         "expiration_date": "01-apr-2021",
@@ -6517,6 +6682,11 @@
     "krn.org.pl": {
         "epoch": 1585008000,
         "expiration_date": "24-mar-2020",
+        "state": "future"
+    },
+    "krnmedia.pl": {
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
         "state": "future"
     },
     "krokdozdrowia.com": {
@@ -6542,6 +6712,16 @@
     "krotoszynska.pl": {
         "epoch": 1613433600,
         "expiration_date": "16-feb-2021",
+        "state": "future"
+    },
+    "krsystem.pl": {
+        "epoch": 1593820800,
+        "expiration_date": "04-jul-2020",
+        "state": "future"
+    },
+    "krups.com.pl": {
+        "epoch": 1597795200,
+        "expiration_date": "19-aug-2020",
         "state": "future"
     },
     "krwinka.org": {
@@ -6577,6 +6757,16 @@
     "ksiegarniainternetowa.co.uk": {
         "epoch": 1596585600,
         "expiration_date": "05-aug-2020",
+        "state": "future"
+    },
+    "ksiegarnienaukowe.pl": {
+        "epoch": 1573776000,
+        "expiration_date": "15-nov-2019",
+        "state": "future"
+    },
+    "ksow.pl": {
+        "epoch": 1592524800,
+        "expiration_date": "19-jun-2020",
         "state": "future"
     },
     "kuchniapelnanagrod.pl": {
@@ -6624,9 +6814,19 @@
         "expiration_date": "11-mar-2020",
         "state": "future"
     },
+    "kuriergarwolinski.pl": {
+        "epoch": 1589587200,
+        "expiration_date": "16-may-2020",
+        "state": "future"
+    },
     "kurjerzy.pl": {
         "epoch": 1575849600,
         "expiration_date": "09-dec-2019",
+        "state": "future"
+    },
+    "kurspisania.pl": {
+        "epoch": 1593388800,
+        "expiration_date": "29-jun-2020",
         "state": "future"
     },
     "kuvert.com.pl": {
@@ -6667,6 +6867,11 @@
     "lagardere-tr.pl": {
         "epoch": 1585353600,
         "expiration_date": "28-mar-2020",
+        "state": "future"
+    },
+    "lahtipro.pl": {
+        "epoch": 1578873600,
+        "expiration_date": "13-jan-2020",
         "state": "future"
     },
     "lajfy.com": {
@@ -6829,6 +7034,11 @@
         "expiration_date": "15-dec-2019",
         "state": "future"
     },
+    "lekkoatletykadlakazdego.pl": {
+        "epoch": 1601769600,
+        "expiration_date": "04-oct-2020",
+        "state": "future"
+    },
     "lektury.gov.pl": {
         "epoch": 1567209600,
         "expiration_date": "31-aug-2019",
@@ -6854,9 +7064,19 @@
         "expiration_date": "17-jun-2020",
         "state": "future"
     },
+    "leroymerlin.pl": {
+        "epoch": 1711065600,
+        "expiration_date": "22-mar-2024",
+        "state": "future"
+    },
     "lesnydwor.net.pl": {
         "epoch": 1574553600,
         "expiration_date": "24-nov-2019",
+        "state": "future"
+    },
+    "lessmess.storage": {
+        "epoch": 1823472000,
+        "expiration_date": "14-oct-2027",
         "state": "future"
     },
     "letniskowo.pl": {
@@ -6992,7 +7212,7 @@
     "loma.com": {
         "epoch": 1568851200,
         "expiration_date": "19-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "lomianki.pl": {
         "epoch": 1647820800,
@@ -7049,6 +7269,11 @@
         "expiration_date": "02-mar-2020",
         "state": "future"
     },
+    "loveair.pl": {
+        "epoch": 1585267200,
+        "expiration_date": "27-mar-2020",
+        "state": "future"
+    },
     "lovekrakow.pl": {
         "epoch": 1591401600,
         "expiration_date": "06-jun-2020",
@@ -7079,6 +7304,11 @@
         "expiration_date": "22-sep-2020",
         "state": "future"
     },
+    "lubartow24.pl": {
+        "epoch": 1587859200,
+        "expiration_date": "26-apr-2020",
+        "state": "future"
+    },
     "lubawa.pl": {
         "epoch": 1587859200,
         "expiration_date": "26-apr-2020",
@@ -7087,6 +7317,11 @@
     "lubiegrac.pl": {
         "epoch": "1587254400",
         "expiration_date": "19-apr-2020",
+        "state": "future"
+    },
+    "lubimyczytac.pl": {
+        "epoch": 1636243200,
+        "expiration_date": "07-nov-2021",
         "state": "future"
     },
     "lublin112.pl": {
@@ -7107,6 +7342,11 @@
     "lubliniec.info": {
         "epoch": 1602720000,
         "expiration_date": "15-oct-2020",
+        "state": "future"
+    },
+    "lucatel.pl": {
+        "epoch": 1591574400,
+        "expiration_date": "08-jun-2020",
         "state": "future"
     },
     "lukasfinanse.pl": {
@@ -7132,6 +7372,11 @@
     "luqam.com": {
         "epoch": 1658448000,
         "expiration_date": "22-jul-2022",
+        "state": "future"
+    },
+    "luxmarket.pl": {
+        "epoch": 1582243200,
+        "expiration_date": "21-feb-2020",
         "state": "future"
     },
     "luzyce.info": {
@@ -7230,8 +7475,13 @@
         "state": "future"
     },
     "malybelgrad.pl": {
-        "epoch": 1568851200,
-        "expiration_date": "19-sep-2019",
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
+    },
+    "malygosc.pl": {
+        "epoch": 1579392000,
+        "expiration_date": "19-jan-2020",
         "state": "future"
     },
     "mamadha.pl": {
@@ -7254,14 +7504,29 @@
         "expiration_date": "19-aug-2020",
         "state": "future"
     },
+    "mammografia.elblag.pl": {
+        "epoch": 1577491200,
+        "expiration_date": "28-dec-2019",
+        "state": "future"
+    },
     "mamnewsa.pl": {
         "epoch": 1596672000,
         "expiration_date": "06-aug-2020",
         "state": "future"
     },
+    "mamoo.pl": {
+        "epoch": 1572739200,
+        "expiration_date": "03-nov-2019",
+        "state": "future"
+    },
     "mamotoja.pl": {
         "epoch": 1738368000,
         "expiration_date": "01-feb-2025",
+        "state": "future"
+    },
+    "mania4x4.pl": {
+        "epoch": 1585267200,
+        "expiration_date": "27-mar-2020",
         "state": "future"
     },
     "manusite.pl": {
