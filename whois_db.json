@@ -13574,6 +13574,11 @@
         "expiration_date": "13-jul-2020",
         "state": "future"
     },
+    "warsztat.pl": {
+        "epoch": 1710806400,
+        "expiration_date": "19-mar-2024",
+        "state": "future"
+    },
     "warsztatowski.com": {
         "epoch": 1578873600,
         "expiration_date": "13-jan-2020",
@@ -13642,6 +13647,11 @@
     "webprojekt.biz": {
         "epoch": 1569196800,
         "expiration_date": "23-sep-2019",
+        "state": "future"
+    },
+    "webster-studio.pl": {
+        "epoch": 1585958400,
+        "expiration_date": "04-apr-2020",
         "state": "future"
     },
     "weck.com.pl": {
@@ -13789,6 +13799,11 @@
         "expiration_date": "17-jun-2020",
         "state": "future"
     },
+    "wikar.pl": {
+        "epoch": 1595203200,
+        "expiration_date": "20-jul-2020",
+        "state": "future"
+    },
     "wikidot.com": {
         "epoch": 1588032000,
         "expiration_date": "28-apr-2020",
@@ -13797,6 +13812,16 @@
     "wikom.pl": {
         "epoch": 1574208000,
         "expiration_date": "20-nov-2019",
+        "state": "future"
+    },
+    "winad-bus.pl": {
+        "epoch": 1587859200,
+        "expiration_date": "26-apr-2020",
+        "state": "future"
+    },
+    "winawloskie.pl": {
+        "epoch": 1583971200,
+        "expiration_date": "12-mar-2020",
         "state": "future"
     },
     "winkhaus.com": {
@@ -14142,6 +14167,11 @@
     "zambrow.org": {
         "epoch": 1579824000,
         "expiration_date": "24-jan-2020",
+        "state": "future"
+    },
+    "zamek.malbork.pl": {
+        "epoch": 1590796800,
+        "expiration_date": "30-may-2020",
         "state": "future"
     },
     "zamow-myjnie.pl": {
