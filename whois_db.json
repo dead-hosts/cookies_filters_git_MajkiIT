@@ -5095,8 +5095,8 @@
         "state": "future"
     },
     "hael.pl": {
-        "epoch": 1568937600,
-        "expiration_date": "20-sep-2019",
+        "epoch": 1600560000,
+        "expiration_date": "20-sep-2020",
         "state": "future"
     },
     "hair-shop.pl": {
@@ -5482,7 +5482,7 @@
     "ifm.com": {
         "epoch": 1568937600,
         "expiration_date": "20-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "ifmglobalfunds.com": {
         "epoch": 1589500800,
@@ -6862,6 +6862,11 @@
     "laboratoria.net": {
         "epoch": 1570060800,
         "expiration_date": "03-oct-2019",
+        "state": "future"
+    },
+    "lafe.pl": {
+        "epoch": 1615334400,
+        "expiration_date": "10-mar-2021",
         "state": "future"
     },
     "lagardere-tr.pl": {
