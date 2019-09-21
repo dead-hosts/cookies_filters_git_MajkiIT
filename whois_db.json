@@ -9174,6 +9174,11 @@
         "expiration_date": "21-aug-2020",
         "state": "future"
     },
+    "oferia.pl": {
+        "epoch": 1635897600,
+        "expiration_date": "03-nov-2021",
+        "state": "future"
+    },
     "ofertypromocje.pl": {
         "epoch": 1574726400,
         "expiration_date": "26-nov-2019",
@@ -9187,6 +9192,11 @@
     "office.com": {
         "epoch": 1587340800,
         "expiration_date": "20-apr-2020",
+        "state": "future"
+    },
+    "offsklep.pl": {
+        "epoch": 1594425600,
+        "expiration_date": "11-jul-2020",
         "state": "future"
     },
     "ofix.pl": {
@@ -9244,6 +9254,11 @@
         "expiration_date": "04-apr-2022",
         "state": "future"
     },
+    "olekmotocykle.pl": {
+        "epoch": 1592352000,
+        "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
     "olesnica24.com": {
         "epoch": 1598572800,
         "expiration_date": "28-aug-2020",
@@ -9252,6 +9267,11 @@
     "olimpiasport.pl": {
         "epoch": 1591315200,
         "expiration_date": "05-jun-2020",
+        "state": "future"
+    },
+    "olimpijski.pl": {
+        "epoch": 1580774400,
+        "expiration_date": "04-feb-2020",
         "state": "future"
     },
     "olimpsport.com": {
@@ -9289,6 +9309,11 @@
         "expiration_date": "02-jul-2020",
         "state": "future"
     },
+    "onerqe-kredyt.pl": {
+        "epoch": 1573257600,
+        "expiration_date": "09-nov-2019",
+        "state": "future"
+    },
     "ongeo.pl": {
         "epoch": 1591315200,
         "expiration_date": "05-jun-2020",
@@ -9319,6 +9344,11 @@
         "expiration_date": "13-nov-2019",
         "state": "future"
     },
+    "opencraft.pl": {
+        "epoch": 1589673600,
+        "expiration_date": "17-may-2020",
+        "state": "future"
+    },
     "opensolution.org": {
         "epoch": 1621382400,
         "expiration_date": "19-may-2021",
@@ -9329,6 +9359,11 @@
         "expiration_date": "03-jul-2020",
         "state": "future"
     },
+    "opiekun.kalisz.pl": {
+        "epoch": 1583625600,
+        "expiration_date": "08-mar-2020",
+        "state": "future"
+    },
     "opineo.pl": {
         "epoch": 1579910400,
         "expiration_date": "25-jan-2020",
@@ -9337,6 +9372,11 @@
     "opinie.co": {
         "epoch": 1574899200,
         "expiration_date": "28-nov-2019",
+        "state": "future"
+    },
+    "opinie24.pl": {
+        "epoch": 1655337600,
+        "expiration_date": "16-jun-2022",
         "state": "future"
     },
     "opoczno.info": {
@@ -9357,6 +9397,11 @@
     "opowiecie.info": {
         "epoch": 1585958400,
         "expiration_date": "04-apr-2020",
+        "state": "future"
+    },
+    "optegra.com.pl": {
+        "epoch": 1571961600,
+        "expiration_date": "25-oct-2019",
         "state": "future"
     },
     "optima.szkola.pl": {
@@ -9409,9 +9454,19 @@
         "expiration_date": "01-mar-2020",
         "state": "future"
     },
+    "orle-gniazdo.pl": {
+        "epoch": 1599696000,
+        "expiration_date": "10-sep-2020",
+        "state": "future"
+    },
     "orliman.pl": {
         "epoch": 1598227200,
         "expiration_date": "24-aug-2020",
+        "state": "future"
+    },
+    "orpeg.pl": {
+        "epoch": 1576540800,
+        "expiration_date": "17-dec-2019",
         "state": "future"
     },
     "orpha.net": {
@@ -9464,9 +9519,19 @@
         "expiration_date": "19-sep-2020",
         "state": "future"
     },
+    "otabletach.pl": {
+        "epoch": 1597190400,
+        "expiration_date": "12-aug-2020",
+        "state": "future"
+    },
     "otodom.pl": {
         "epoch": 1584230400,
         "expiration_date": "15-mar-2020",
+        "state": "future"
+    },
+    "otolaryngolodzy24.pl": {
+        "epoch": 1578268800,
+        "expiration_date": "06-jan-2020",
         "state": "future"
     },
     "otouczelnie.pl": {
@@ -9484,6 +9549,16 @@
         "expiration_date": "08-feb-2025",
         "state": "future"
     },
+    "ovh.pl": {
+        "epoch": 1571184000,
+        "expiration_date": "16-oct-2019",
+        "state": "future"
+    },
+    "owocowydom.pl": {
+        "epoch": 1570233600,
+        "expiration_date": "05-oct-2019",
+        "state": "future"
+    },
     "pabianice.tv": {
         "epoch": 1588377600,
         "expiration_date": "02-may-2020",
@@ -9492,6 +9567,11 @@
     "pafere.org": {
         "epoch": 1583452800,
         "expiration_date": "06-mar-2020",
+        "state": "future"
+    },
+    "pajerosport.pl": {
+        "epoch": 1587772800,
+        "expiration_date": "25-apr-2020",
         "state": "future"
     },
     "paker.co.uk": {
@@ -9539,9 +9619,34 @@
         "expiration_date": "16-mar-2020",
         "state": "future"
     },
+    "panoramafirm.pl": {
+        "epoch": 1647388800,
+        "expiration_date": "16-mar-2022",
+        "state": "future"
+    },
     "pantuniestal.com": {
         "epoch": 1594771200,
         "expiration_date": "15-jul-2020",
+        "state": "future"
+    },
+    "pap.pl": {
+        "epoch": 1660780800,
+        "expiration_date": "18-aug-2022",
+        "state": "future"
+    },
+    "papciolandia.pl": {
+        "epoch": 1585526400,
+        "expiration_date": "30-mar-2020",
+        "state": "future"
+    },
+    "papercast.pl": {
+        "epoch": 1596844800,
+        "expiration_date": "08-aug-2020",
+        "state": "future"
+    },
+    "paralympic.org.pl": {
+        "epoch": 1580515200,
+        "expiration_date": "01-feb-2020",
         "state": "future"
     },
     "parfumclub.pl": {
@@ -9552,6 +9657,21 @@
     "parkerpen.com": {
         "epoch": 1596153600,
         "expiration_date": "31-jul-2020",
+        "state": "future"
+    },
+    "parkersklep.pl": {
+        "epoch": 1597881600,
+        "expiration_date": "20-aug-2020",
+        "state": "future"
+    },
+    "parkhotel.bydgoszcz.pl": {
+        "epoch": 1574467200,
+        "expiration_date": "23-nov-2019",
+        "state": "future"
+    },
+    "parkwodny.pl": {
+        "epoch": 1628812800,
+        "expiration_date": "13-aug-2021",
         "state": "future"
     },
     "parp.gov.pl": {
@@ -9617,6 +9737,11 @@
     "pbg-sa.pl": {
         "epoch": 1576540800,
         "expiration_date": "17-dec-2019",
+        "state": "future"
+    },
+    "pbgorski.pl": {
+        "epoch": 1575072000,
+        "expiration_date": "30-nov-2019",
         "state": "future"
     },
     "pch24.info": {
@@ -9819,6 +9944,11 @@
         "expiration_date": "30-jul-2020",
         "state": "future"
     },
+    "pkfszkolenia.pl": {
+        "epoch": 1589068800,
+        "expiration_date": "10-may-2020",
+        "state": "future"
+    },
     "pkn.net.pl": {
         "epoch": 1574726400,
         "expiration_date": "26-nov-2019",
@@ -9827,6 +9957,11 @@
     "pkobp.pl": {
         "epoch": 1571875200,
         "expiration_date": "24-oct-2019",
+        "state": "future"
+    },
+    "pkopte.pl": {
+        "epoch": 1574640000,
+        "expiration_date": "25-nov-2019",
         "state": "future"
     },
     "pkotfi.pl": {
@@ -9900,8 +10035,8 @@
         "state": "future"
     },
     "plusbank.pl": {
-        "epoch": 1568937600,
-        "expiration_date": "20-sep-2019",
+        "epoch": 1663632000,
+        "expiration_date": "20-sep-2022",
         "state": "future"
     },
     "pmi24.info": {
@@ -9952,6 +10087,11 @@
     "pod-okapnikiem.com": {
         "epoch": 1585267200,
         "expiration_date": "27-mar-2020",
+        "state": "future"
+    },
+    "podatekvat.pl": {
+        "epoch": 1589328000,
+        "expiration_date": "13-may-2020",
         "state": "future"
     },
     "podatnik.info": {
@@ -10037,6 +10177,11 @@
     "polemi.co.uk": {
         "epoch": 1619481600,
         "expiration_date": "27-apr-2021",
+        "state": "future"
+    },
+    "policja.pl": {
+        "epoch": 1605744000,
+        "expiration_date": "19-nov-2020",
         "state": "future"
     },
     "poligraf.com.pl": {
@@ -10160,8 +10305,8 @@
         "state": "future"
     },
     "polskiprawnik.pl": {
-        "epoch": 1568505600,
-        "expiration_date": "15-sep-2019",
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
         "state": "future"
     },
     "polskonepro.club": {
