@@ -6589,6 +6589,11 @@
         "expiration_date": "25-may-2020",
         "state": "future"
     },
+    "korepetycje.edu.pl": {
+        "epoch": 1597363200,
+        "expiration_date": "14-aug-2020",
+        "state": "future"
+    },
     "koscian.net": {
         "epoch": 1636156800,
         "expiration_date": "06-nov-2021",
@@ -6647,6 +6652,11 @@
     "krakowairport.pl": {
         "epoch": 1572393600,
         "expiration_date": "30-oct-2019",
+        "state": "future"
+    },
+    "krakownh.pl": {
+        "epoch": 1570752000,
+        "expiration_date": "11-oct-2019",
         "state": "future"
     },
     "krakowpost.com": {
@@ -6949,14 +6959,29 @@
         "expiration_date": "22-may-2020",
         "state": "future"
     },
+    "laskarzew.pl": {
+        "epoch": 1573603200,
+        "expiration_date": "13-nov-2019",
+        "state": "future"
+    },
     "laskonline.pl": {
         "epoch": 1571875200,
         "expiration_date": "24-oct-2019",
         "state": "future"
     },
+    "lasy.gov.pl": {
+        "epoch": 1587600000,
+        "expiration_date": "23-apr-2020",
+        "state": "future"
+    },
     "lazienka.pl": {
         "epoch": 1578614400,
         "expiration_date": "10-jan-2020",
+        "state": "future"
+    },
+    "laznianowa.pl": {
+        "epoch": 1582848000,
+        "expiration_date": "28-feb-2020",
         "state": "future"
     },
     "lbn.pl": {
@@ -7050,8 +7075,8 @@
         "state": "future"
     },
     "lektury.gov.pl": {
-        "epoch": 1567209600,
-        "expiration_date": "31-aug-2019",
+        "epoch": 1598832000,
+        "expiration_date": "31-aug-2020",
         "state": "future"
     },
     "lema15.pl": {
@@ -8134,6 +8159,11 @@
         "expiration_date": "31-oct-2019",
         "state": "future"
     },
+    "mmo.pl": {
+        "epoch": 1653436800,
+        "expiration_date": "25-may-2022",
+        "state": "future"
+    },
     "mmtv.pl": {
         "epoch": 1578355200,
         "expiration_date": "07-jan-2020",
@@ -8379,6 +8409,11 @@
         "expiration_date": "21-mar-2022",
         "state": "future"
     },
+    "moviesroom.pl": {
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
+        "state": "future"
+    },
     "mp.pl": {
         "epoch": 1580083200,
         "expiration_date": "27-jan-2020",
@@ -8387,6 +8422,11 @@
     "mpolska24.pl": {
         "epoch": 1590969600,
         "expiration_date": "01-jun-2020",
+        "state": "future"
+    },
+    "mpwik.com.pl": {
+        "epoch": 1685664000,
+        "expiration_date": "02-jun-2023",
         "state": "future"
     },
     "mragowo24.info": {
@@ -8429,6 +8469,16 @@
         "expiration_date": "04-mar-2020",
         "state": "future"
     },
+    "multikod.net.pl": {
+        "epoch": 1574812800,
+        "expiration_date": "27-nov-2019",
+        "state": "future"
+    },
+    "multikody.pl": {
+        "epoch": 1575936000,
+        "expiration_date": "10-dec-2019",
+        "state": "future"
+    },
     "multikomp.net": {
         "epoch": 1585785600,
         "expiration_date": "02-apr-2020",
@@ -8452,6 +8502,11 @@
     "musicexpert.pl": {
         "epoch": 1575504000,
         "expiration_date": "05-dec-2019",
+        "state": "future"
+    },
+    "musicexpress.pl": {
+        "epoch": 1595203200,
+        "expiration_date": "20-jul-2020",
         "state": "future"
     },
     "mustasz.com": {
@@ -8512,6 +8567,11 @@
     "mybank.pl": {
         "epoch": 1660348800,
         "expiration_date": "13-aug-2022",
+        "state": "future"
+    },
+    "myhome.pl": {
+        "epoch": 1662336000,
+        "expiration_date": "05-sep-2022",
         "state": "future"
     },
     "mymedic.pl": {
@@ -8644,6 +8704,11 @@
         "expiration_date": "11-sep-2020",
         "state": "future"
     },
+    "naukaireligia.pl": {
+        "epoch": 1596844800,
+        "expiration_date": "08-aug-2020",
+        "state": "future"
+    },
     "nazaruk.pl": {
         "epoch": 1587168000,
         "expiration_date": "18-apr-2020",
@@ -8652,6 +8717,11 @@
     "naziemna.info": {
         "epoch": 1582070400,
         "expiration_date": "19-feb-2020",
+        "state": "future"
+    },
+    "nck.pl": {
+        "epoch": 1611187200,
+        "expiration_date": "21-jan-2021",
         "state": "future"
     },
     "ncplusgo.pl": {
@@ -8692,6 +8762,11 @@
     "neobiznes.pl": {
         "epoch": 1582156800,
         "expiration_date": "20-feb-2020",
+        "state": "future"
+    },
+    "neonet.pl": {
+        "epoch": 1661299200,
+        "expiration_date": "24-aug-2022",
         "state": "future"
     },
     "nespresso.com": {
@@ -8764,6 +8839,11 @@
         "expiration_date": "13-feb-2020",
         "state": "future"
     },
+    "newsbook.pl": {
+        "epoch": 1572825600,
+        "expiration_date": "04-nov-2019",
+        "state": "future"
+    },
     "newsletter2go.pl": {
         "epoch": 1590796800,
         "expiration_date": "30-may-2020",
@@ -8787,6 +8867,11 @@
     "nfz-lodz.pl": {
         "epoch": 1647043200,
         "expiration_date": "12-mar-2022",
+        "state": "future"
+    },
+    "niania.pl": {
+        "epoch": 1610755200,
+        "expiration_date": "16-jan-2021",
         "state": "future"
     },
     "nickjr.com.pl": {
@@ -8844,6 +8929,11 @@
         "expiration_date": "03-jan-2020",
         "state": "future"
     },
+    "nj24.pl": {
+        "epoch": 1594684800,
+        "expiration_date": "14-jul-2020",
+        "state": "future"
+    },
     "nobiles.pl": {
         "epoch": 1589155200,
         "expiration_date": "11-may-2020",
@@ -8852,6 +8942,11 @@
     "noblehealth.pl": {
         "epoch": 1597795200,
         "expiration_date": "19-aug-2020",
+        "state": "future"
+    },
+    "noclegi24h.pl": {
+        "epoch": 1574467200,
+        "expiration_date": "23-nov-2019",
         "state": "future"
     },
     "nokaut.pl": {
@@ -8874,14 +8969,29 @@
         "expiration_date": "14-jul-2020",
         "state": "future"
     },
+    "nonsa.pl": {
+        "epoch": 1582848000,
+        "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
     "nonsensopedia.org": {
         "epoch": 1592006400,
         "expiration_date": "13-jun-2020",
         "state": "future"
     },
+    "norauto.pl": {
+        "epoch": 1787356800,
+        "expiration_date": "22-aug-2026",
+        "state": "future"
+    },
     "nordglass.pl": {
         "epoch": 1598745600,
         "expiration_date": "30-aug-2020",
+        "state": "future"
+    },
+    "noria.pl": {
+        "epoch": 1592438400,
+        "expiration_date": "18-jun-2020",
         "state": "future"
     },
     "norwegian.com": {
@@ -8897,6 +9007,31 @@
     "nowa.tv": {
         "epoch": 1581120000,
         "expiration_date": "08-feb-2020",
+        "state": "future"
+    },
+    "nowaostroleka.pl": {
+        "epoch": 1589155200,
+        "expiration_date": "11-may-2020",
+        "state": "future"
+    },
+    "nowapapiernia.pl": {
+        "epoch": 1575936000,
+        "expiration_date": "10-dec-2019",
+        "state": "future"
+    },
+    "nowaruda24.pl": {
+        "epoch": 1585094400,
+        "expiration_date": "25-mar-2020",
+        "state": "future"
+    },
+    "nowehoryzonty.pl": {
+        "epoch": 1685836800,
+        "expiration_date": "04-jun-2023",
+        "state": "future"
+    },
+    "nowemiasto.pl": {
+        "epoch": 1590969600,
+        "expiration_date": "01-jun-2020",
         "state": "future"
     },
     "noweprzetargi.pl": {
@@ -8922,6 +9057,11 @@
     "nowyteatr.org": {
         "epoch": 1598054400,
         "expiration_date": "22-aug-2020",
+        "state": "future"
+    },
+    "npa.pl": {
+        "epoch": 1602288000,
+        "expiration_date": "10-oct-2020",
         "state": "future"
     },
     "nuorder.pl": {
@@ -8984,6 +9124,11 @@
         "expiration_date": "10-may-2028",
         "state": "future"
     },
+    "oczamimlodych.pl": {
+        "epoch": 1583107200,
+        "expiration_date": "02-mar-2020",
+        "state": "future"
+    },
     "odjechani.com.pl": {
         "epoch": 1578614400,
         "expiration_date": "10-jan-2020",
@@ -8992,6 +9137,11 @@
     "odkrywamyzakryte.com": {
         "epoch": 1582675200,
         "expiration_date": "26-feb-2020",
+        "state": "future"
+    },
+    "odleglosci.pl": {
+        "epoch": 1605657600,
+        "expiration_date": "18-nov-2020",
         "state": "future"
     },
     "odmiana.net": {
@@ -9010,8 +9160,8 @@
         "state": "future"
     },
     "odrowaz24.pl": {
-        "epoch": "1563062400",
-        "expiration_date": "14-jul-2019",
+        "epoch": 1594684800,
+        "expiration_date": "14-jul-2020",
         "state": "future"
     },
     "oees.pl": {
