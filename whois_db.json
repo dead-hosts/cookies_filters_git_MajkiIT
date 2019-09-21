@@ -979,6 +979,11 @@
         "expiration_date": "25-sep-2020",
         "state": "future"
     },
+    "babytvchannel.info": {
+        "epoch": 1579737600,
+        "expiration_date": "23-jan-2020",
+        "state": "future"
+    },
     "bacca.pl": {
         "epoch": 1593043200,
         "expiration_date": "25-jun-2020",
