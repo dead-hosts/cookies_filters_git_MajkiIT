@@ -4050,8 +4050,8 @@
         "state": "future"
     },
     "firmamazur.pl": {
-        "epoch": 1569024000,
-        "expiration_date": "21-sep-2019",
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "firmyinzynieria.com": {
@@ -5485,9 +5485,9 @@
         "state": "future"
     },
     "ifm.com": {
-        "epoch": 1568937600,
-        "expiration_date": "20-sep-2019",
-        "state": "past"
+        "epoch": 1600560000,
+        "expiration_date": "20-sep-2020",
+        "state": "future"
     },
     "ifmglobalfunds.com": {
         "epoch": 1589500800,
@@ -5827,7 +5827,7 @@
     "iotwock.info": {
         "epoch": 1569024000,
         "expiration_date": "21-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "ip-sa.pl": {
         "epoch": 1571270400,
