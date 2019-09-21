@@ -2335,8 +2335,8 @@
         "state": "future"
     },
     "czluchow.com.pl": {
-        "epoch": 1569024000,
-        "expiration_date": "21-sep-2019",
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "czterylapysklep.com": {
@@ -2467,6 +2467,11 @@
     "decoliving.pl": {
         "epoch": 1583712000,
         "expiration_date": "09-mar-2020",
+        "state": "future"
+    },
+    "decyduj.online": {
+        "epoch": 1579824000,
+        "expiration_date": "24-jan-2020",
         "state": "future"
     },
     "deepl.com": {
