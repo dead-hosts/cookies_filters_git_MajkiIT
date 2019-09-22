@@ -5850,9 +5850,9 @@
         "state": "future"
     },
     "iotwock.info": {
-        "epoch": 1569024000,
-        "expiration_date": "21-sep-2019",
-        "state": "past"
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
+        "state": "future"
     },
     "ip-sa.pl": {
         "epoch": 1571270400,
@@ -6057,6 +6057,11 @@
     "java.com": {
         "epoch": 1591315200,
         "expiration_date": "05-jun-2020",
+        "state": "future"
+    },
+    "javappa.com": {
+        "epoch": 1582761600,
+        "expiration_date": "27-feb-2020",
         "state": "future"
     },
     "jazzsoul.pl": {
