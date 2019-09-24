@@ -1015,11 +1015,10 @@
         "1568719638": {},
         "1568928768": {},
         "1569072984": {},
-        "1569239559": {
-            "testujemy.biedronka.pl": "INACTIVE"
-        },
+        "1569239559": {},
         "1569363782": {
-            "stypendia.sejmik.kielce.pl": "INACTIVE"
+            "stypendia.sejmik.kielce.pl": "INACTIVE",
+            "testujemy.biedronka.pl": "INACTIVE"
         }
     }
 }
