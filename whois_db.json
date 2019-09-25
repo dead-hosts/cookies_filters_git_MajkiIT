@@ -11344,6 +11344,11 @@
         "expiration_date": "13-aug-2020",
         "state": "future"
     },
+    "retrotech.blog": {
+        "epoch": 1574899200,
+        "expiration_date": "28-nov-2019",
+        "state": "future"
+    },
     "revolut.com": {
         "epoch": 1588550400,
         "expiration_date": "04-may-2020",
