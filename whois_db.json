@@ -12790,9 +12790,9 @@
         "state": "future"
     },
     "szarakomorka.pl": {
-        "epoch": 1569369600,
-        "expiration_date": "25-sep-2019",
-        "state": "past"
+        "epoch": 1577145600,
+        "expiration_date": "24-dec-2019",
+        "state": "future"
     },
     "szczecinek.com": {
         "epoch": 1573603200,
@@ -14360,8 +14360,8 @@
         "state": "future"
     },
     "wolnekonopie.org": {
-        "epoch": 1569456000,
-        "expiration_date": "26-sep-2019",
+        "epoch": 1601078400,
+        "expiration_date": "26-sep-2020",
         "state": "future"
     },
     "woobykids.com": {
@@ -14522,7 +14522,7 @@
     "wygrywajcogodzine.pl": {
         "epoch": 1569456000,
         "expiration_date": "26-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "wykop.pl": {
         "epoch": 1640649600,
