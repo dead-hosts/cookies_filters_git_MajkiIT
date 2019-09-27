@@ -11060,8 +11060,8 @@
         "state": "future"
     },
     "radiohit.net.pl": {
-        "epoch": 1569542400,
-        "expiration_date": "27-sep-2019",
+        "epoch": 1601164800,
+        "expiration_date": "27-sep-2020",
         "state": "future"
     },
     "radiomerkury.pl": {
@@ -11417,6 +11417,11 @@
     "rolkom.net": {
         "epoch": 1584748800,
         "expiration_date": "21-mar-2020",
+        "state": "future"
+    },
+    "rolland.tech": {
+        "epoch": 1578441600,
+        "expiration_date": "08-jan-2020",
         "state": "future"
     },
     "rolpetrol.com.pl": {
@@ -13022,7 +13027,7 @@
     "techniline.com": {
         "epoch": 1569542400,
         "expiration_date": "27-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "techpedia.pl": {
         "epoch": 1595203200,
