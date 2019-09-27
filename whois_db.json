@@ -13655,8 +13655,8 @@
         "state": "future"
     },
     "tylkodywan.pl": {
-        "epoch": 1569542400,
-        "expiration_date": "27-sep-2019",
+        "epoch": 1601164800,
+        "expiration_date": "27-sep-2020",
         "state": "future"
     },
     "tylkohity.pl": {
@@ -14525,9 +14525,9 @@
         "state": "future"
     },
     "wygrywajcogodzine.pl": {
-        "epoch": 1569456000,
-        "expiration_date": "26-sep-2019",
-        "state": "past"
+        "epoch": 1572048000,
+        "expiration_date": "26-oct-2019",
+        "state": "future"
     },
     "wykop.pl": {
         "epoch": 1640649600,
