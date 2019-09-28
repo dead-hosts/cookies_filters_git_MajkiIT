@@ -1019,10 +1019,12 @@
         "1569363782": {},
         "1569451679": {},
         "1569580368": {
-            "jagodzianka.eu": "INACTIVE",
             "stypendia.sejmik.kielce.pl": "INACTIVE",
             "swiecie.eu": "INACTIVE",
             "testujemy.biedronka.pl": "INACTIVE"
+        },
+        "1569669239": {
+            "jagodzianka.eu": "INACTIVE"
         }
     }
 }
