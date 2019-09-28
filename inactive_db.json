@@ -1018,13 +1018,11 @@
         "1569239559": {},
         "1569363782": {},
         "1569451679": {},
-        "1569580368": {
-            "stypendia.sejmik.kielce.pl": "INACTIVE",
-            "swiecie.eu": "INACTIVE",
-            "testujemy.biedronka.pl": "INACTIVE"
-        },
+        "1569580368": {},
         "1569669239": {
-            "jagodzianka.eu": "INACTIVE"
+            "jagodzianka.eu": "INACTIVE",
+            "stypendia.sejmik.kielce.pl": "INACTIVE",
+            "testujemy.biedronka.pl": "INACTIVE"
         }
     }
 }

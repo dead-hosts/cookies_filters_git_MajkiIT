@@ -11872,7 +11872,7 @@
     "siemens.com": {
         "epoch": 1569628800,
         "expiration_date": "28-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "siemens.pl": {
         "epoch": 1591056000,
@@ -13025,9 +13025,9 @@
         "state": "future"
     },
     "techniline.com": {
-        "epoch": 1569542400,
-        "expiration_date": "27-sep-2019",
-        "state": "past"
+        "epoch": 1601164800,
+        "expiration_date": "27-sep-2020",
+        "state": "future"
     },
     "techpedia.pl": {
         "epoch": 1595203200,
