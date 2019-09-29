@@ -9409,6 +9409,11 @@
         "expiration_date": "19-may-2021",
         "state": "future"
     },
+    "openwire.tv": {
+        "epoch": 1596758400,
+        "expiration_date": "07-aug-2020",
+        "state": "future"
+    },
     "operon.pl": {
         "epoch": 1593734400,
         "expiration_date": "03-jul-2020",
