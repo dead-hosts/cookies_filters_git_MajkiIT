@@ -1021,12 +1021,12 @@
         "1569580368": {},
         "1569669239": {},
         "1569756317": {
-            "kantor.aliorbank.pl": "INACTIVE",
-            "testujemy.biedronka.pl": "INACTIVE"
+            "kantor.aliorbank.pl": "INACTIVE"
         },
         "1569843565": {
             "jagodzianka.eu": "INACTIVE",
-            "stypendia.sejmik.kielce.pl": "INACTIVE"
+            "stypendia.sejmik.kielce.pl": "INACTIVE",
+            "testujemy.biedronka.pl": "INACTIVE"
         }
     }
 }
