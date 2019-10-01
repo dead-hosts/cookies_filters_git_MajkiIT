@@ -12474,6 +12474,11 @@
         "expiration_date": "27-may-2020",
         "state": "future"
     },
+    "ssd-linuxpl.com": {
+        "epoch": 1578700800,
+        "expiration_date": "11-jan-2020",
+        "state": "future"
+    },
     "stalgorzow.pl": {
         "epoch": 1598572800,
         "expiration_date": "28-aug-2020",
@@ -12767,6 +12772,11 @@
     "swiatpodlog.com.pl": {
         "epoch": 1592611200,
         "expiration_date": "20-jun-2020",
+        "state": "future"
+    },
+    "swiatrolnika.info": {
+        "epoch": 1587772800,
+        "expiration_date": "25-apr-2020",
         "state": "future"
     },
     "swidnica24.pl": {
