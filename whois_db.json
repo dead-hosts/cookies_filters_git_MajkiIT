@@ -3575,8 +3575,8 @@
         "state": "future"
     },
     "entertheroom.pl": {
-        "epoch": 1569888000,
-        "expiration_date": "01-oct-2019",
+        "epoch": 1601510400,
+        "expiration_date": "01-oct-2020",
         "state": "future"
     },
     "enut.pl": {
@@ -6275,8 +6275,8 @@
         "state": "future"
     },
     "kameleonbutik.com": {
-        "epoch": 1569888000,
-        "expiration_date": "01-oct-2019",
+        "epoch": 1601510400,
+        "expiration_date": "01-oct-2020",
         "state": "future"
     },
     "kamery.live": {
@@ -6537,6 +6537,11 @@
     "kolorowyswiat.org": {
         "epoch": 1595808000,
         "expiration_date": "27-jul-2020",
+        "state": "future"
+    },
+    "kolporter.com.pl": {
+        "epoch": 1577750400,
+        "expiration_date": "31-dec-2019",
         "state": "future"
     },
     "komfort.pl": {
