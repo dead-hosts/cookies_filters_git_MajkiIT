@@ -1021,12 +1021,11 @@
         "1569580368": {},
         "1569669239": {},
         "1569756317": {},
-        "1569843565": {
-            "testujemy.biedronka.pl": "INACTIVE"
-        },
+        "1569843565": {},
         "1569966633": {
             "jagodzianka.eu": "INACTIVE",
-            "stypendia.sejmik.kielce.pl": "INACTIVE"
+            "stypendia.sejmik.kielce.pl": "INACTIVE",
+            "testujemy.biedronka.pl": "INACTIVE"
         }
     }
 }
