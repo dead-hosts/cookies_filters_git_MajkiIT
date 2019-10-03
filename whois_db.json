@@ -1510,8 +1510,8 @@
         "state": "future"
     },
     "bosch-extra.pl": {
-        "epoch": 1569974400,
-        "expiration_date": "02-oct-2019",
+        "epoch": 1601596800,
+        "expiration_date": "02-oct-2020",
         "state": "future"
     },
     "bosch-garden.com": {
@@ -1570,8 +1570,8 @@
         "state": "future"
     },
     "bramka-proxy.pl": {
-        "epoch": "1570060800",
-        "expiration_date": "03-oct-2019",
+        "epoch": 1601683200,
+        "expiration_date": "03-oct-2020",
         "state": "future"
     },
     "brewa.pl": {
@@ -1705,8 +1705,8 @@
         "state": "future"
     },
     "busfor.pl": {
-        "epoch": 1569974400,
-        "expiration_date": "02-oct-2019",
+        "epoch": 1601596800,
+        "expiration_date": "02-oct-2020",
         "state": "future"
     },
     "business.link": {
