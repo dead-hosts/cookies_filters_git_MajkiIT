@@ -3525,8 +3525,8 @@
         "state": "future"
     },
     "emito.net": {
-        "epoch": 1571184000,
-        "expiration_date": "16-oct-2019",
+        "epoch": 1602806400,
+        "expiration_date": "16-oct-2020",
         "state": "future"
     },
     "emocje.pro": {
@@ -3779,6 +3779,11 @@
         "expiration_date": "14-jun-2020",
         "state": "future"
     },
+    "eurosender.com": {
+        "epoch": 1614643200,
+        "expiration_date": "02-mar-2021",
+        "state": "future"
+    },
     "eurostyl.com.pl": {
         "epoch": 1577491200,
         "expiration_date": "28-dec-2019",
@@ -3845,8 +3850,8 @@
         "state": "future"
     },
     "exploder.pl": {
-        "epoch": "1570665600",
-        "expiration_date": "10-oct-2019",
+        "epoch": 1602288000,
+        "expiration_date": "10-oct-2020",
         "state": "future"
     },
     "expozdrowie.pl": {
@@ -4075,8 +4080,8 @@
         "state": "future"
     },
     "filozofiawnauce.pl": {
-        "epoch": 1571270400,
-        "expiration_date": "17-oct-2019",
+        "epoch": 1602892800,
+        "expiration_date": "17-oct-2020",
         "state": "future"
     },
     "finai.pl": {
@@ -4374,6 +4379,11 @@
         "expiration_date": "22-aug-2020",
         "state": "future"
     },
+    "fsmportal.pl": {
+        "epoch": 1581724800,
+        "expiration_date": "15-feb-2020",
+        "state": "future"
+    },
     "fuchs.com": {
         "epoch": 1708473600,
         "expiration_date": "21-feb-2024",
@@ -4415,8 +4425,8 @@
         "state": "future"
     },
     "funduszpomerania.pl": {
-        "epoch": 1570579200,
-        "expiration_date": "09-oct-2019",
+        "epoch": 1602201600,
+        "expiration_date": "09-oct-2020",
         "state": "future"
     },
     "funnygames.pl": {
@@ -4965,8 +4975,8 @@
         "state": "future"
     },
     "gostynin.info": {
-        "epoch": 1570838400,
-        "expiration_date": "12-oct-2019",
+        "epoch": 1602460800,
+        "expiration_date": "12-oct-2020",
         "state": "future"
     },
     "gostynska.pl": {
@@ -5015,8 +5025,8 @@
         "state": "future"
     },
     "gramwzielone.pl": {
-        "epoch": 1571097600,
-        "expiration_date": "15-oct-2019",
+        "epoch": 1602720000,
+        "expiration_date": "15-oct-2020",
         "state": "future"
     },
     "grawipol.pl": {
@@ -5085,8 +5095,8 @@
         "state": "future"
     },
     "grupakety.com": {
-        "epoch": 1571097600,
-        "expiration_date": "15-oct-2019",
+        "epoch": 1855180800,
+        "expiration_date": "15-oct-2028",
         "state": "future"
     },
     "grupapietrzak.pl": {
@@ -5400,8 +5410,8 @@
         "state": "future"
     },
     "hotelpanorama.pl": {
-        "epoch": 1570838400,
-        "expiration_date": "12-oct-2019",
+        "epoch": 1602460800,
+        "expiration_date": "12-oct-2020",
         "state": "future"
     },
     "hotmag.pl": {
@@ -5535,8 +5545,8 @@
         "state": "future"
     },
     "iem-expo.pl": {
-        "epoch": 1571270400,
-        "expiration_date": "17-oct-2019",
+        "epoch": 1602892800,
+        "expiration_date": "17-oct-2020",
         "state": "future"
     },
     "ifm.com": {
@@ -5860,8 +5870,8 @@
         "state": "future"
     },
     "inwestpark.pila.pl": {
-        "epoch": 1571270400,
-        "expiration_date": "17-oct-2019",
+        "epoch": 1602892800,
+        "expiration_date": "17-oct-2020",
         "state": "future"
     },
     "inwestycjebudowlane.biz": {
@@ -5890,8 +5900,8 @@
         "state": "future"
     },
     "ip-sa.pl": {
-        "epoch": 1571270400,
-        "expiration_date": "17-oct-2019",
+        "epoch": 1602892800,
+        "expiration_date": "17-oct-2020",
         "state": "future"
     },
     "ipa-katowice.org": {
@@ -6020,8 +6030,8 @@
         "state": "future"
     },
     "jakikredyt.pl": {
-        "epoch": 1570924800,
-        "expiration_date": "13-oct-2019",
+        "epoch": 1599955200,
+        "expiration_date": "13-sep-2020",
         "state": "future"
     },
     "jakoscobslugi.pl": {
@@ -6042,6 +6052,11 @@
     "jangar.pl": {
         "epoch": 1587168000,
         "expiration_date": "18-apr-2020",
+        "state": "future"
+    },
+    "janssenmed.pl": {
+        "epoch": 1587254400,
+        "expiration_date": "19-apr-2020",
         "state": "future"
     },
     "januszebiznesu.pl": {
@@ -6155,8 +6170,8 @@
         "state": "future"
     },
     "jestemfit.pl": {
-        "epoch": 1570233600,
-        "expiration_date": "05-oct-2019",
+        "epoch": 1601856000,
+        "expiration_date": "05-oct-2020",
         "state": "future"
     },
     "jim.org": {
@@ -6525,8 +6540,8 @@
         "state": "future"
     },
     "koleje-wielkopolskie.com.pl": {
-        "epoch": 1571356800,
-        "expiration_date": "18-oct-2019",
+        "epoch": 1602979200,
+        "expiration_date": "18-oct-2020",
         "state": "future"
     },
     "kolejeslaskie.com": {
@@ -6580,8 +6595,8 @@
         "state": "future"
     },
     "kompan.pl": {
-        "epoch": 1571356800,
-        "expiration_date": "18-oct-2019",
+        "epoch": 1602979200,
+        "expiration_date": "18-oct-2020",
         "state": "future"
     },
     "kompilo.com": {
@@ -6675,8 +6690,8 @@
         "state": "future"
     },
     "koscierzyna24.info": {
-        "epoch": 1571011200,
-        "expiration_date": "14-oct-2019",
+        "epoch": 1602633600,
+        "expiration_date": "14-oct-2020",
         "state": "future"
     },
     "kosmetyki.fr": {
@@ -6730,8 +6745,8 @@
         "state": "future"
     },
     "krakownh.pl": {
-        "epoch": 1570752000,
-        "expiration_date": "11-oct-2019",
+        "epoch": 1602374400,
+        "expiration_date": "11-oct-2020",
         "state": "future"
     },
     "krakowpost.com": {
