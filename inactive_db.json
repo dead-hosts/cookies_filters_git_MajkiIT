@@ -994,23 +994,8 @@
         "1568590262": {
             "rni24.eu": "INACTIVE"
         },
-        "1569966633": {
-            "stypendia.sejmik.kielce.pl": "INACTIVE",
-            "testujemy.biedronka.pl": "INACTIVE"
-        },
         "1570100475": {
             "jagodzianka.eu": "INACTIVE"
-        },
-        "1571350591": {
-            "powiat.okay.pl": "INVALID"
-        },
-        "1571350592": {
-            "rodo.agora.pl": "INVALID",
-            "rodo.rawlplug.com": "INVALID"
-        },
-        "1571350593": {
-            "satelita.phorum.pl": "INVALID",
-            "sdk.privacy-center.org": "INVALID"
         },
         "1571350595": {
             "www.aptekarzpolski.pl": "INVALID",
@@ -1055,6 +1040,21 @@
         },
         "1571441750": {
             "pl.farnell.com": "INACTIVE"
+        },
+        "1571446729": {
+            "pl.twich.tv": "INACTIVE"
+        },
+        "1571446944": {
+            "rma.asus-europe.eu": "INACTIVE"
+        },
+        "1571446946": {
+            "rodo.agora.pl": "INACTIVE"
+        },
+        "1571447181": {
+            "stypendia.sejmik.kielce.pl": "INACTIVE"
+        },
+        "1571447276": {
+            "testujemy.biedronka.pl": "INACTIVE"
         }
     }
 }
