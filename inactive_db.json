@@ -997,26 +997,6 @@
         "1570100475": {
             "jagodzianka.eu": "INACTIVE"
         },
-        "1571350595": {
-            "www.aptekarzpolski.pl": "INVALID",
-            "www.e-drewno.pl": "INVALID",
-            "www.forumsamochodowe.pl": "INVALID",
-            "www.granice.pl": "INVALID",
-            "www.mypolacy.de": "INVALID"
-        },
-        "1571350596": {
-            "www.odszkodowania-torun.pl": "INVALID",
-            "www.pryzmat.com.pl": "INVALID",
-            "www.serialowa.pl": "INVALID"
-        },
-        "1571350597": {
-            "www.tamizo.pl": "INVALID",
-            "www.twojapogoda.pl": "INVALID",
-            "www.vectra.pl": "INVALID"
-        },
-        "1571350598": {
-            "zgody.infor.pl": "INVALID"
-        },
         "1571436079": {
             "bip.kielce.eu": "INACTIVE"
         },
@@ -1055,6 +1035,18 @@
         },
         "1571447276": {
             "testujemy.biedronka.pl": "INACTIVE"
+        },
+        "1571448889": {
+            "vod.internetowa.ws": "INACTIVE"
+        },
+        "1571449001": {
+            "wrota.lubuskie.pl": "INACTIVE"
+        },
+        "1571449039": {
+            "www.multimedia-energia.pl": "INACTIVE"
+        },
+        "1571449058": {
+            "www.ssw-consulting.pl": "INACTIVE"
         }
     }
 }
