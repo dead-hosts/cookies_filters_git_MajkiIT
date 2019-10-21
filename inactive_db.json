@@ -997,15 +997,6 @@
         "1570100475": {
             "jagodzianka.eu": "INACTIVE"
         },
-        "1571567289": {
-            "forum.optymalizacja.com": "INACTIVE"
-        },
-        "1571567344": {
-            "gazeta.us.edu.pl": "INACTIVE"
-        },
-        "1571567378": {
-            "global.silnet.pl": "INACTIVE"
-        },
         "1571568537": {
             "pl.farnell.com": "INACTIVE"
         },
@@ -1038,6 +1029,12 @@
         },
         "1571694870": {
             "cookie.avt.pl": "INACTIVE"
+        },
+        "1571695893": {
+            "forum.optymalizacja.com": "INACTIVE"
+        },
+        "1571695980": {
+            "global.silnet.pl": "INACTIVE"
         }
     }
 }
