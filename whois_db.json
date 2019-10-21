@@ -1849,6 +1849,11 @@
         "expiration_date": "21-mar-2020",
         "state": "future"
     },
+    "cdaction.pl": {
+        "epoch": 1581292800,
+        "expiration_date": "10-feb-2020",
+        "state": "future"
+    },
     "cdr.gov.pl": {
         "epoch": 1599350400,
         "expiration_date": "06-sep-2020",
