@@ -997,12 +997,6 @@
         "1570100475": {
             "jagodzianka.eu": "INACTIVE"
         },
-        "1571568537": {
-            "pl.farnell.com": "INACTIVE"
-        },
-        "1571568552": {
-            "pl.twich.tv": "INACTIVE"
-        },
         "1571568855": {
             "rma.asus-europe.eu": "INACTIVE"
         },
@@ -1035,6 +1029,9 @@
         },
         "1571695980": {
             "global.silnet.pl": "INACTIVE"
+        },
+        "1571698585": {
+            "pl.farnell.com": "INACTIVE"
         }
     }
 }
