@@ -997,12 +997,6 @@
         "1570100475": {
             "jagodzianka.eu": "INACTIVE"
         },
-        "1571695893": {
-            "forum.optymalizacja.com": "INACTIVE"
-        },
-        "1571695980": {
-            "global.silnet.pl": "INACTIVE"
-        },
         "1571698585": {
             "pl.farnell.com": "INACTIVE"
         },
@@ -1041,6 +1035,18 @@
         },
         "1572035638": {
             "cookie.avt.pl": "INACTIVE"
+        },
+        "1572039680": {
+            "forum.optymalizacja.com": "INACTIVE"
+        },
+        "1572039728": {
+            "gdansk.rzgw.gov.pl": "INACTIVE"
+        },
+        "1572039758": {
+            "global.silnet.pl": "INACTIVE"
+        },
+        "1572039953": {
+            "jarocin.poznan.lasy.gov.pl": "INACTIVE"
         }
     }
 }
