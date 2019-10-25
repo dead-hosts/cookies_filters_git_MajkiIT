@@ -997,12 +997,6 @@
         "1570100475": {
             "jagodzianka.eu": "INACTIVE"
         },
-        "1571698585": {
-            "pl.farnell.com": "INACTIVE"
-        },
-        "1571700397": {
-            "poznan-nowemiasto.sr.gov.pl": "INACTIVE"
-        },
         "1571700526": {
             "rma.asus-europe.eu": "INACTIVE"
         },
@@ -1027,9 +1021,6 @@
         "1571702205": {
             "www.ssw-consulting.pl": "INACTIVE"
         },
-        "1571748407": {
-            "pl.aptoide.com": "INACTIVE"
-        },
         "1572035637": {
             "consent.truste.com": "INACTIVE"
         },
@@ -1047,6 +1038,12 @@
         },
         "1572039953": {
             "jarocin.poznan.lasy.gov.pl": "INACTIVE"
+        },
+        "1572043511": {
+            "pl.farnell.com": "INACTIVE"
+        },
+        "1572043529": {
+            "pl.twich.tv": "INACTIVE"
         }
     }
 }
