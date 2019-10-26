@@ -997,15 +997,6 @@
         "1570100475": {
             "jagodzianka.eu": "INACTIVE"
         },
-        "1571702146": {
-            "wrota.lubuskie.pl": "INACTIVE"
-        },
-        "1571702187": {
-            "www.multimedia-energia.pl": "INACTIVE"
-        },
-        "1571702205": {
-            "www.ssw-consulting.pl": "INACTIVE"
-        },
         "1572035637": {
             "consent.truste.com": "INACTIVE"
         },
@@ -1044,6 +1035,15 @@
         },
         "1572046452": {
             "vod.internetowa.ws": "INACTIVE"
+        },
+        "1572049242": {
+            "wrota.lubuskie.pl": "INACTIVE"
+        },
+        "1572049258": {
+            "www.biomedical.pl": "INACTIVE"
+        },
+        "1572049281": {
+            "www.multimedia-energia.pl": "INACTIVE"
         }
     }
 }

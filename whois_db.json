@@ -14642,7 +14642,7 @@
     "wygrywajcogodzine.pl": {
         "epoch": 1572048000,
         "expiration_date": "26-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "wykop.pl": {
         "epoch": 1640649600,
@@ -14950,8 +14950,8 @@
         "state": "future"
     },
     "zebra.com": {
-        "epoch": 1571788800,
-        "expiration_date": "23-oct-2019",
+        "epoch": 1603411200,
+        "expiration_date": "23-oct-2020",
         "state": "future"
     },
     "zegarkiipasja.pl": {
