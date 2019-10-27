@@ -14650,9 +14650,9 @@
         "state": "future"
     },
     "wygrywajcogodzine.pl": {
-        "epoch": 1572048000,
-        "expiration_date": "26-oct-2019",
-        "state": "past"
+        "epoch": 1573257600,
+        "expiration_date": "09-nov-2019",
+        "state": "future"
     },
     "wykop.pl": {
         "epoch": 1640649600,
@@ -15130,8 +15130,8 @@
         "state": "future"
     },
     "zosiaikevin.pl": {
-        "epoch": 1572134400,
-        "expiration_date": "27-oct-2019",
+        "epoch": 1603756800,
+        "expiration_date": "27-oct-2020",
         "state": "future"
     },
     "zott-dairy.com": {
