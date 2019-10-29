@@ -997,36 +997,6 @@
         "1570100475": {
             "jagodzianka.eu": "INACTIVE"
         },
-        "1572214931": {
-            "rma.asus-europe.eu": "INACTIVE"
-        },
-        "1572214932": {
-            "rodo.agora.pl": "INACTIVE"
-        },
-        "1572215042": {
-            "sklep.eltron.pl": "INACTIVE"
-        },
-        "1572215160": {
-            "stypendia.sejmik.kielce.pl": "INACTIVE"
-        },
-        "1572215240": {
-            "testujemy.biedronka.pl": "INACTIVE"
-        },
-        "1572215358": {
-            "vod.internetowa.ws": "INACTIVE"
-        },
-        "1572215572": {
-            "wrota.lubuskie.pl": "INACTIVE"
-        },
-        "1572215604": {
-            "www.biomedical.pl": "INACTIVE"
-        },
-        "1572215630": {
-            "www.joe.pl": "INACTIVE"
-        },
-        "1572215641": {
-            "www.multimedia-energia.pl": "INACTIVE"
-        },
         "1572215661": {
             "www.ssw-consulting.pl": "INACTIVE"
         },
@@ -1050,6 +1020,27 @@
         },
         "1572387390": {
             "pl.twich.tv": "INACTIVE"
+        },
+        "1572387695": {
+            "rma.asus-europe.eu": "INACTIVE"
+        },
+        "1572387697": {
+            "rodo.agora.pl": "INACTIVE"
+        },
+        "1572387893": {
+            "stypendia.sejmik.kielce.pl": "INACTIVE"
+        },
+        "1572387972": {
+            "testujemy.biedronka.pl": "INACTIVE"
+        },
+        "1572388084": {
+            "vod.internetowa.ws": "INACTIVE"
+        },
+        "1572388184": {
+            "wrota.lubuskie.pl": "INACTIVE"
+        },
+        "1572388225": {
+            "www.multimedia-energia.pl": "INACTIVE"
         }
     }
 }
