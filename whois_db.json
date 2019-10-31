@@ -13532,7 +13532,7 @@
     "treningkrakow.pl": {
         "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "trentino.pl": {
         "epoch": 1572825600,
@@ -13540,8 +13540,8 @@
         "state": "future"
     },
     "tridex.pl": {
-        "epoch": 1572393600,
-        "expiration_date": "30-oct-2019",
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
         "state": "future"
     },
     "trizer.pl": {
@@ -13657,6 +13657,11 @@
     "tuz.pl": {
         "epoch": 1578182400,
         "expiration_date": "05-jan-2020",
+        "state": "future"
+    },
+    "tv-trwam.pl": {
+        "epoch": 1708646400,
+        "expiration_date": "23-feb-2024",
         "state": "future"
     },
     "tvcsw.info": {
@@ -15155,8 +15160,8 @@
         "state": "future"
     },
     "zott-dairy.com": {
-        "epoch": 1572393600,
-        "expiration_date": "30-oct-2019",
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
         "state": "future"
     },
     "zottarella.com": {

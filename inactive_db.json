@@ -997,18 +997,6 @@
         "1570100475": {
             "jagodzianka.eu": "INACTIVE"
         },
-        "1572388084": {
-            "vod.internetowa.ws": "INACTIVE"
-        },
-        "1572388184": {
-            "wrota.lubuskie.pl": "INACTIVE"
-        },
-        "1572388225": {
-            "www.multimedia-energia.pl": "INACTIVE"
-        },
-        "1572388350": {
-            "www.ssw-consulting.pl": "INACTIVE"
-        },
         "1572518076": {
             "burze.dzis.net": "INACTIVE"
         },
@@ -1047,6 +1035,15 @@
         },
         "1572529064": {
             "testujemy.biedronka.pl": "INACTIVE"
+        },
+        "1572531351": {
+            "vod.internetowa.ws": "INACTIVE"
+        },
+        "1572531443": {
+            "wrota.lubuskie.pl": "INACTIVE"
+        },
+        "1572531478": {
+            "www.multimedia-energia.pl": "INACTIVE"
         }
     }
 }
