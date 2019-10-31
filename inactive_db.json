@@ -997,12 +997,6 @@
         "1570100475": {
             "jagodzianka.eu": "INACTIVE"
         },
-        "1572385867": {
-            "consent.truste.com": "INACTIVE"
-        },
-        "1572385868": {
-            "cookie.avt.pl": "INACTIVE"
-        },
         "1572386094": {
             "e-podlaskie.eu": "INACTIVE"
         },
@@ -1041,6 +1035,15 @@
         },
         "1572388350": {
             "www.ssw-consulting.pl": "INACTIVE"
+        },
+        "1572518076": {
+            "burze.dzis.net": "INACTIVE"
+        },
+        "1572518144": {
+            "consent.truste.com": "INACTIVE"
+        },
+        "1572518145": {
+            "cookie.avt.pl": "INACTIVE"
         }
     }
 }
