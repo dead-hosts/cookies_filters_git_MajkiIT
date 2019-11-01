@@ -4690,9 +4690,9 @@
         "state": "future"
     },
     "geotec.pl": {
-        "epoch": 1572480000,
-        "expiration_date": "31-oct-2019",
-        "state": "past"
+        "epoch": 1575072000,
+        "expiration_date": "30-nov-2019",
+        "state": "future"
     },
     "gerlach.org.pl": {
         "epoch": 1584748800,
@@ -5540,8 +5540,8 @@
         "state": "future"
     },
     "icube.pl": {
-        "epoch": 1572566400,
-        "expiration_date": "01-nov-2019",
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
         "state": "future"
     },
     "idcgames.com": {
