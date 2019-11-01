@@ -11740,8 +11740,8 @@
         "state": "future"
     },
     "sawataxi.pl": {
-        "epoch": 1572566400,
-        "expiration_date": "01-nov-2019",
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
         "state": "future"
     },
     "sbrbank.pl": {
@@ -12630,8 +12630,8 @@
         "state": "future"
     },
     "statoscope.pl": {
-        "epoch": 1572566400,
-        "expiration_date": "01-nov-2019",
+        "epoch": 1580342400,
+        "expiration_date": "30-jan-2020",
         "state": "future"
     },
     "staypoland.com": {
@@ -13530,9 +13530,9 @@
         "state": "future"
     },
     "treningkrakow.pl": {
-        "epoch": 1572480000,
-        "expiration_date": "31-oct-2019",
-        "state": "past"
+        "epoch": 1575072000,
+        "expiration_date": "30-nov-2019",
+        "state": "future"
     },
     "trentino.pl": {
         "epoch": 1572825600,
