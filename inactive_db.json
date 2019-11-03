@@ -997,15 +997,6 @@
         "1570100475": {
             "jagodzianka.eu": "INACTIVE"
         },
-        "1572645057": {
-            "bip.kielce.eu": "INACTIVE"
-        },
-        "1572645176": {
-            "consent.truste.com": "INACTIVE"
-        },
-        "1572645177": {
-            "cookie.avt.pl": "INACTIVE"
-        },
         "1572645653": {
             "forum.optymalizacja.com": "INACTIVE"
         },
@@ -1044,6 +1035,18 @@
         },
         "1572647787": {
             "www.ssw-consulting.pl": "INACTIVE"
+        },
+        "1572817950": {
+            "bip.kielce.eu": "INACTIVE"
+        },
+        "1572818067": {
+            "consent.truste.com": "INACTIVE"
+        },
+        "1572818068": {
+            "cookie.avt.pl": "INACTIVE"
+        },
+        "1572818302": {
+            "e-podlaskie.eu": "INACTIVE"
         }
     }
 }

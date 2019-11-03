@@ -10,8 +10,8 @@
         "state": "future"
     },
     "24opole.pl": {
-        "epoch": 1572739200,
-        "expiration_date": "03-nov-2019",
+        "epoch": 1575331200,
+        "expiration_date": "03-dec-2019",
         "state": "future"
     },
     "2x45.info": {
@@ -1314,6 +1314,11 @@
         "expiration_date": "11-sep-2020",
         "state": "future"
     },
+    "bispol.pl": {
+        "epoch": 1595203200,
+        "expiration_date": "20-jul-2020",
+        "state": "future"
+    },
     "bisset.pl": {
         "epoch": 1583625600,
         "expiration_date": "08-mar-2020",
@@ -1479,6 +1484,11 @@
         "expiration_date": "10-apr-2020",
         "state": "future"
     },
+    "bolsius.com": {
+        "epoch": 1583539200,
+        "expiration_date": "07-mar-2020",
+        "state": "future"
+    },
     "bonart.com.pl": {
         "epoch": 1575504000,
         "expiration_date": "05-dec-2019",
@@ -1505,8 +1515,8 @@
         "state": "future"
     },
     "bosch-automotive.com": {
-        "epoch": 1572739200,
-        "expiration_date": "03-nov-2019",
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "bosch-do-it.com": {
@@ -2652,6 +2662,11 @@
     "digitalhill.pl": {
         "epoch": 1596326400,
         "expiration_date": "02-aug-2020",
+        "state": "future"
+    },
+    "digitalvirgo.pl": {
+        "epoch": 1579996800,
+        "expiration_date": "26-jan-2020",
         "state": "future"
     },
     "digitmedia.pl": {
