@@ -997,15 +997,6 @@
         "1570100475": {
             "jagodzianka.eu": "INACTIVE"
         },
-        "1572647762": {
-            "www.multimedia-energia.pl": "INACTIVE"
-        },
-        "1572647772": {
-            "www.odszkodowania-torun.pl": "INACTIVE"
-        },
-        "1572647787": {
-            "www.ssw-consulting.pl": "INACTIVE"
-        },
         "1572817950": {
             "bip.kielce.eu": "INACTIVE"
         },
@@ -1047,6 +1038,12 @@
         },
         "1572820432": {
             "wrota.lubuskie.pl": "INACTIVE"
+        },
+        "1572820581": {
+            "www.multimedia-energia.pl": "INACTIVE"
+        },
+        "1572820600": {
+            "www.ssw-consulting.pl": "INACTIVE"
         }
     }
 }
