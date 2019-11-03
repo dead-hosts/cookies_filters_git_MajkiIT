@@ -997,12 +997,6 @@
         "1570100475": {
             "jagodzianka.eu": "INACTIVE"
         },
-        "1572645653": {
-            "forum.optymalizacja.com": "INACTIVE"
-        },
-        "1572645738": {
-            "global.silnet.pl": "INACTIVE"
-        },
         "1572646815": {
             "pl.farnell.com": "INACTIVE"
         },
@@ -1047,6 +1041,12 @@
         },
         "1572818302": {
             "e-podlaskie.eu": "INACTIVE"
+        },
+        "1572818526": {
+            "forum.optymalizacja.com": "INACTIVE"
+        },
+        "1572818603": {
+            "global.silnet.pl": "INACTIVE"
         }
     }
 }
