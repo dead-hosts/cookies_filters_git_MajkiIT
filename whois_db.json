@@ -7720,8 +7720,8 @@
         "state": "future"
     },
     "mamoo.pl": {
-        "epoch": 1572739200,
-        "expiration_date": "03-nov-2019",
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "mamotoja.pl": {
@@ -8105,8 +8105,8 @@
         "state": "future"
     },
     "mggp.com.pl": {
-        "epoch": 1572739200,
-        "expiration_date": "03-nov-2019",
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "mgr.farm": {
@@ -8919,6 +8919,11 @@
         "expiration_date": "24-aug-2022",
         "state": "future"
     },
+    "nerina2.pl": {
+        "epoch": 1592438400,
+        "expiration_date": "18-jun-2020",
+        "state": "future"
+    },
     "nespresso.com": {
         "epoch": 1580515200,
         "expiration_date": "01-feb-2020",
@@ -9585,8 +9590,8 @@
         "state": "future"
     },
     "orange.jobs": {
-        "epoch": 1572739200,
-        "expiration_date": "03-nov-2019",
+        "epoch": 1635897600,
+        "expiration_date": "03-nov-2021",
         "state": "future"
     },
     "orange.pl": {
@@ -9722,6 +9727,11 @@
     "pafere.org": {
         "epoch": 1583452800,
         "expiration_date": "06-mar-2020",
+        "state": "future"
+    },
+    "paintballmarket.pl": {
+        "epoch": 1588118400,
+        "expiration_date": "29-apr-2020",
         "state": "future"
     },
     "pajerosport.pl": {
