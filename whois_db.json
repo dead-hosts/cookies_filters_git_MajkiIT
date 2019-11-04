@@ -10467,7 +10467,7 @@
     "polskiportal.info": {
         "epoch": 1572825600,
         "expiration_date": "04-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "polskiprawnik.pl": {
         "epoch": 1600128000,
@@ -10605,8 +10605,8 @@
         "state": "future"
     },
     "potworek.com": {
-        "epoch": 1572825600,
-        "expiration_date": "04-nov-2019",
+        "epoch": 1604448000,
+        "expiration_date": "04-nov-2020",
         "state": "future"
     },
     "powerisback.pl": {
@@ -10760,8 +10760,8 @@
         "state": "future"
     },
     "prgok.pl": {
-        "epoch": 1572825600,
-        "expiration_date": "04-nov-2019",
+        "epoch": 1604448000,
+        "expiration_date": "04-nov-2020",
         "state": "future"
     },
     "pricelesso.pl": {
@@ -11545,8 +11545,8 @@
         "state": "future"
     },
     "rockwellautomation.com": {
-        "epoch": 1572825600,
-        "expiration_date": "04-nov-2019",
+        "epoch": 1604448000,
+        "expiration_date": "04-nov-2020",
         "state": "future"
     },
     "rogowskidevelopment.pl": {
@@ -13560,8 +13560,8 @@
         "state": "future"
     },
     "trentino.pl": {
-        "epoch": 1572825600,
-        "expiration_date": "04-nov-2019",
+        "epoch": 1604448000,
+        "expiration_date": "04-nov-2020",
         "state": "future"
     },
     "tridex.pl": {
