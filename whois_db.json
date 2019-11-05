@@ -7380,8 +7380,8 @@
         "state": "future"
     },
     "logitechg.com": {
-        "epoch": 1572912000,
-        "expiration_date": "05-nov-2019",
+        "epoch": 1604534400,
+        "expiration_date": "05-nov-2020",
         "state": "future"
     },
     "lokalna24.pl": {
@@ -9010,8 +9010,8 @@
         "state": "future"
     },
     "newstyling.pl": {
-        "epoch": 1572912000,
-        "expiration_date": "05-nov-2019",
+        "epoch": 1604534400,
+        "expiration_date": "05-nov-2020",
         "state": "future"
     },
     "nf.pl": {
@@ -9915,8 +9915,8 @@
         "state": "future"
     },
     "pcprwiecbork.pl": {
-        "epoch": 1572912000,
-        "expiration_date": "05-nov-2019",
+        "epoch": 1604534400,
+        "expiration_date": "05-nov-2020",
         "state": "future"
     },
     "pdinetwork.net": {
@@ -10465,9 +10465,9 @@
         "state": "future"
     },
     "polskiportal.info": {
-        "epoch": 1572825600,
-        "expiration_date": "04-nov-2019",
-        "state": "past"
+        "epoch": 1604448000,
+        "expiration_date": "04-nov-2020",
+        "state": "future"
     },
     "polskiprawnik.pl": {
         "epoch": 1600128000,

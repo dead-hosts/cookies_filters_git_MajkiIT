@@ -997,9 +997,6 @@
         "1570100475": {
             "jagodzianka.eu": "INACTIVE"
         },
-        "1572819607": {
-            "pl.farnell.com": "INACTIVE"
-        },
         "1572819711": {
             "powietrze.katowice.wios.gov.pl": "INACTIVE"
         },
@@ -1027,12 +1024,6 @@
         "1572820600": {
             "www.ssw-consulting.pl": "INACTIVE"
         },
-        "1572871917": {
-            "pl.thermaltake.com": "INACTIVE"
-        },
-        "1572871918": {
-            "pl.twich.tv": "INACTIVE"
-        },
         "1572990758": {
             "bip.kielce.eu": "INACTIVE"
         },
@@ -1050,6 +1041,18 @@
         },
         "1572991428": {
             "global.silnet.pl": "INACTIVE"
+        },
+        "1572992428": {
+            "pl.farnell.com": "INACTIVE"
+        },
+        "1572992449": {
+            "pl.thermaltake.com": "INACTIVE"
+        },
+        "1572992450": {
+            "pl.twich.tv": "INACTIVE"
+        },
+        "1572992453": {
+            "pma-laptops.eu": "INACTIVE"
         }
     }
 }
