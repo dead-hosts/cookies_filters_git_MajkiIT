@@ -997,15 +997,6 @@
         "1570100475": {
             "jagodzianka.eu": "INACTIVE"
         },
-        "1572820432": {
-            "wrota.lubuskie.pl": "INACTIVE"
-        },
-        "1572820581": {
-            "www.multimedia-energia.pl": "INACTIVE"
-        },
-        "1572820600": {
-            "www.ssw-consulting.pl": "INACTIVE"
-        },
         "1572990758": {
             "bip.kielce.eu": "INACTIVE"
         },
@@ -1053,6 +1044,12 @@
         },
         "1572993216": {
             "vod.internetowa.ws": "INACTIVE"
+        },
+        "1572993421": {
+            "wrota.lubuskie.pl": "INACTIVE"
+        },
+        "1572993462": {
+            "www.multimedia-energia.pl": "INACTIVE"
         }
     }
 }
