@@ -997,12 +997,6 @@
         "1570100475": {
             "jagodzianka.eu": "INACTIVE"
         },
-        "1572818526": {
-            "forum.optymalizacja.com": "INACTIVE"
-        },
-        "1572818603": {
-            "global.silnet.pl": "INACTIVE"
-        },
         "1572819607": {
             "pl.farnell.com": "INACTIVE"
         },
@@ -1033,9 +1027,6 @@
         "1572820600": {
             "www.ssw-consulting.pl": "INACTIVE"
         },
-        "1572868176": {
-            "instytuty.drirenaeris.com": "INACTIVE"
-        },
         "1572871917": {
             "pl.thermaltake.com": "INACTIVE"
         },
@@ -1053,6 +1044,12 @@
         },
         "1572991111": {
             "e-podlaskie.eu": "INACTIVE"
+        },
+        "1572991346": {
+            "forum.optymalizacja.com": "INACTIVE"
+        },
+        "1572991428": {
+            "global.silnet.pl": "INACTIVE"
         }
     }
 }
