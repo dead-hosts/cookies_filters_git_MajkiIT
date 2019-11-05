@@ -12664,6 +12664,11 @@
         "expiration_date": "23-apr-2020",
         "state": "future"
     },
+    "steemit.com": {
+        "epoch": 1771632000,
+        "expiration_date": "21-feb-2026",
+        "state": "future"
+    },
     "stefczyk.info": {
         "epoch": 1634342400,
         "expiration_date": "16-oct-2021",
@@ -13697,6 +13702,11 @@
     "tvgry.pl": {
         "epoch": 1596153600,
         "expiration_date": "31-jul-2020",
+        "state": "future"
+    },
+    "tvkaura.pl": {
+        "epoch": 1588809600,
+        "expiration_date": "07-may-2020",
         "state": "future"
     },
     "tvn24.pl": {
