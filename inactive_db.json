@@ -1006,9 +1006,6 @@
         "1573126761": {
             "e-podlaskie.eu": "INACTIVE"
         },
-        "1573126882": {
-            "forum.optymalizacja.com": "INACTIVE"
-        },
         "1573126932": {
             "gdansk.rzgw.gov.pl": "INACTIVE"
         },
@@ -1036,14 +1033,26 @@
         "1573133911": {
             "testujemy.biedronka.pl": "INACTIVE"
         },
-        "1573136265": {
-            "vod.internetowa.ws": "INACTIVE"
-        },
         "1573136370": {
             "wrota.lubuskie.pl": "INACTIVE"
         },
         "1573136412": {
             "www.multimedia-energia.pl": "INACTIVE"
+        },
+        "1573249901": {
+            "vod.internetowa.ws": "INACTIVE"
+        },
+        "1573250066": {
+            "gdynia.sr.gov.pl": "INACTIVE"
+        },
+        "1573250316": {
+            "recepcja.visionexpress.pl": "INACTIVE"
+        },
+        "1573250333": {
+            "sklep.visionexpress.pl": "INACTIVE"
+        },
+        "1573250359": {
+            "forum.optymalizacja.com": "INACTIVE"
         }
     }
 }
