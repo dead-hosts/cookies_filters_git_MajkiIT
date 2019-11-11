@@ -525,7 +525,7 @@
         "state": "future"
     },
     "amico.market": {
-        "epoch": 1585872000,
+        "epoch": 1585872000.0,
         "expiration_date": "03-apr-2020",
         "state": "future"
     },
@@ -770,7 +770,7 @@
         "state": "future"
     },
     "astronomia24.com": {
-        "epoch": 1584662400,
+        "epoch": 1584662400.0,
         "expiration_date": "20-mar-2020",
         "state": "future"
     },
@@ -1810,7 +1810,7 @@
         "state": "future"
     },
     "camprest.com": {
-        "epoch": 1658707200,
+        "epoch": 1658707200.0,
         "expiration_date": "25-jul-2022",
         "state": "future"
     },
@@ -2340,7 +2340,7 @@
         "state": "future"
     },
     "czarnkow.info": {
-        "epoch": 1594598400,
+        "epoch": 1594598400.0,
         "expiration_date": "13-jul-2020",
         "state": "future"
     },
