@@ -4390,8 +4390,8 @@
         "state": "future"
     },
     "fotoprint.pl": {
-        "epoch": 1574208000.0,
-        "expiration_date": "20-nov-2019",
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
         "state": "future"
     },
     "fotosik.pl": {
@@ -4457,7 +4457,7 @@
     "fundacja-wroclaw.org": {
         "epoch": 1574208000.0,
         "expiration_date": "20-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "fundacjabos.pl": {
         "epoch": 1576368000.0,
@@ -11030,8 +11030,8 @@
         "state": "future"
     },
     "puch-kotlowski.pl": {
-        "epoch": 1574208000.0,
-        "expiration_date": "20-nov-2019",
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
         "state": "future"
     },
     "pudliszki.pl": {
@@ -13020,8 +13020,8 @@
         "state": "future"
     },
     "szkolkikornickie.pl": {
-        "epoch": 1574208000.0,
-        "expiration_date": "20-nov-2019",
+        "epoch": 1576800000.0,
+        "expiration_date": "20-dec-2019",
         "state": "future"
     },
     "szlot.pl": {
@@ -14605,8 +14605,8 @@
         "state": "future"
     },
     "worldcam.live": {
-        "epoch": 1574208000.0,
-        "expiration_date": "20-nov-2019",
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
         "state": "future"
     },
     "wp.pl": {
