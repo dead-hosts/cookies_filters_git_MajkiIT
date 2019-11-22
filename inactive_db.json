@@ -997,32 +997,8 @@
         "1570100475": {
             "jagodzianka.eu": "INACTIVE"
         },
-        "1573122920": {
-            "consent.truste.com": "INACTIVE"
-        },
-        "1573122922": {
-            "cookie.avt.pl": "INACTIVE"
-        },
-        "1573126962": {
-            "global.silnet.pl": "INACTIVE"
-        },
         "1573133368": {
             "pma-laptops.eu": "INACTIVE"
-        },
-        "1573133608": {
-            "rodo.agora.pl": "INACTIVE"
-        },
-        "1573133820": {
-            "stypendia.sejmik.kielce.pl": "INACTIVE"
-        },
-        "1573133911": {
-            "testujemy.biedronka.pl": "INACTIVE"
-        },
-        "1573136412": {
-            "www.multimedia-energia.pl": "INACTIVE"
-        },
-        "1574332550": {
-            "wrota.lubuskie.pl": "INACTIVE"
         },
         "1574460583": {
             "sklep.visionexpress.pl": "INACTIVE"
@@ -1032,6 +1008,15 @@
         },
         "1574460634": {
             "rma.asus-europe.eu": "INACTIVE"
+        },
+        "1574461378": {
+            "stypendia.sejmik.kielce.pl": "INACTIVE"
+        },
+        "1574461380": {
+            "testujemy.biedronka.pl": "INACTIVE"
+        },
+        "1574461384": {
+            "www.multimedia-energia.pl": "INACTIVE"
         }
     }
 }
