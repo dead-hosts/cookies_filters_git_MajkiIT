@@ -1000,15 +1000,6 @@
         "1573133368": {
             "pma-laptops.eu": "INACTIVE"
         },
-        "1574460583": {
-            "sklep.visionexpress.pl": "INACTIVE"
-        },
-        "1574460600": {
-            "bdl.lasy.gov.pl": "INACTIVE"
-        },
-        "1574460634": {
-            "rma.asus-europe.eu": "INACTIVE"
-        },
         "1574461378": {
             "stypendia.sejmik.kielce.pl": "INACTIVE"
         },
@@ -1017,6 +1008,9 @@
         },
         "1574461384": {
             "www.multimedia-energia.pl": "INACTIVE"
+        },
+        "1574633468": {
+            "bdl.lasy.gov.pl": "INACTIVE"
         }
     }
 }
