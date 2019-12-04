@@ -2690,8 +2690,8 @@
         "state": "future"
     },
     "dietlux.pl": {
-        "epoch": 1575417600.0,
-        "expiration_date": "04-dec-2019",
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
         "state": "future"
     },
     "digitalhill.pl": {
@@ -3937,6 +3937,11 @@
     "extra-program.pl": {
         "epoch": 1581811200.0,
         "expiration_date": "16-feb-2020",
+        "state": "future"
+    },
+    "extradom.pl": {
+        "epoch": 1589760000.0,
+        "expiration_date": "18-may-2020",
         "state": "future"
     },
     "extraserv.pl": {
@@ -5355,8 +5360,8 @@
         "state": "future"
     },
     "herbaciani.pl": {
-        "epoch": 1575331200.0,
-        "expiration_date": "03-dec-2019",
+        "epoch": 1604361600.0,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "heroes-online.com": {
@@ -5835,8 +5840,8 @@
         "state": "future"
     },
     "inianie.pl": {
-        "epoch": 1575417600.0,
-        "expiration_date": "04-dec-2019",
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
         "state": "future"
     },
     "inijob.com": {
