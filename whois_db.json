@@ -1520,8 +1520,8 @@
         "state": "future"
     },
     "bonart.com.pl": {
-        "epoch": 1575504000.0,
-        "expiration_date": "05-dec-2019",
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
         "state": "future"
     },
     "booking.com": {
@@ -2277,7 +2277,7 @@
     "credit-suisse.com": {
         "epoch": 1575504000.0,
         "expiration_date": "05-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "credstepfunds.pl": {
         "epoch": 1602201600.0,
@@ -4845,8 +4845,8 @@
         "state": "future"
     },
     "gispartner.pl": {
-        "epoch": 1575504000.0,
-        "expiration_date": "05-dec-2019",
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
         "state": "future"
     },
     "gitara-sklep.pl": {
@@ -6252,7 +6252,7 @@
     "jedyna-taka.pl": {
         "epoch": 1575504000.0,
         "expiration_date": "05-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "jelenia.pl": {
         "epoch": 1580428800.0,
