@@ -920,8 +920,8 @@
         "state": "future"
     },
     "autogespot.pl": {
-        "epoch": 1575590400.0,
-        "expiration_date": "06-dec-2019",
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
         "state": "future"
     },
     "autogielda.pl": {
@@ -2275,9 +2275,9 @@
         "state": "future"
     },
     "credit-suisse.com": {
-        "epoch": 1575504000.0,
-        "expiration_date": "05-dec-2019",
-        "state": "past"
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
+        "state": "future"
     },
     "credstepfunds.pl": {
         "epoch": 1602201600.0,
@@ -3057,7 +3057,7 @@
     "dw.com": {
         "epoch": 1575590400.0,
         "expiration_date": "06-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "dystans.org": {
         "epoch": 1593129600.0,
@@ -6250,9 +6250,9 @@
         "state": "future"
     },
     "jedyna-taka.pl": {
-        "epoch": 1575504000.0,
-        "expiration_date": "05-dec-2019",
-        "state": "past"
+        "epoch": 1578096000.0,
+        "expiration_date": "04-jan-2020",
+        "state": "future"
     },
     "jelenia.pl": {
         "epoch": 1580428800.0,
