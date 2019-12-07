@@ -705,8 +705,8 @@
         "state": "future"
     },
     "areatour.pl": {
-        "epoch": 1575676800.0,
-        "expiration_date": "07-dec-2019",
+        "epoch": 1604707200.0,
+        "expiration_date": "07-nov-2020",
         "state": "future"
     },
     "arka.tv": {
@@ -1172,7 +1172,7 @@
     "benemedo.com": {
         "epoch": 1575676800.0,
         "expiration_date": "07-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "bershka.com": {
         "epoch": 1788307200.0,
@@ -3060,9 +3060,9 @@
         "state": "future"
     },
     "dw.com": {
-        "epoch": 1575590400.0,
-        "expiration_date": "06-dec-2019",
-        "state": "past"
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "state": "future"
     },
     "dystans.org": {
         "epoch": 1593129600.0,
@@ -15030,8 +15030,8 @@
         "state": "future"
     },
     "zamakmercator.pl": {
-        "epoch": 1575676800.0,
-        "expiration_date": "07-dec-2019",
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
         "state": "future"
     },
     "zambrow.org": {
