@@ -4850,8 +4850,8 @@
         "state": "future"
     },
     "gismeteo.pl": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "gispartner.pl": {
@@ -6280,8 +6280,8 @@
         "state": "future"
     },
     "jelonka.com": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "jestemfit.pl": {
