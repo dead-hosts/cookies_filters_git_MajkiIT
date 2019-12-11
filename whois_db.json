@@ -1635,8 +1635,8 @@
         "state": "future"
     },
     "brolerserwis.pl": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "brooklynbutik.pl": {
@@ -4197,6 +4197,11 @@
     "firmamazur.pl": {
         "epoch": 1600646400.0,
         "expiration_date": "21-sep-2020",
+        "state": "future"
+    },
+    "firmy-katalog.pl": {
+        "epoch": 1590278400.0,
+        "expiration_date": "24-may-2020",
         "state": "future"
     },
     "firmyinzynieria.com": {
@@ -8229,6 +8234,11 @@
         "expiration_date": "28-oct-2020",
         "state": "future"
     },
+    "miedzyrzec.info": {
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
+        "state": "future"
+    },
     "miedzyrzecz.biz": {
         "epoch": 1587081600.0,
         "expiration_date": "17-apr-2020",
@@ -9550,8 +9560,8 @@
         "state": "future"
     },
     "onerqe-kredyt.pl": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1577059200.0,
+        "expiration_date": "23-dec-2019",
         "state": "future"
     },
     "ongeo.pl": {
