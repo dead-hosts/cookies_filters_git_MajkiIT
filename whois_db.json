@@ -8414,6 +8414,11 @@
         "expiration_date": "31-oct-2020",
         "state": "future"
     },
+    "mlodziwlodzi.pl": {
+        "epoch": 1596067200.0,
+        "expiration_date": "30-jul-2020",
+        "state": "future"
+    },
     "mmo.pl": {
         "epoch": 1653436800.0,
         "expiration_date": "25-may-2022",
@@ -10825,8 +10830,8 @@
         "state": "future"
     },
     "pragma.pl": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "pragroup.pl": {
@@ -15420,8 +15425,8 @@
         "state": "future"
     },
     "zygzaksnow.pl": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "zysk.com.pl": {
