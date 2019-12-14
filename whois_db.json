@@ -5164,6 +5164,11 @@
         "expiration_date": "07-apr-2020",
         "state": "future"
     },
+    "grobla.net": {
+        "epoch": 1636848000.0,
+        "expiration_date": "14-nov-2021",
+        "state": "future"
+    },
     "grodzisk.pl": {
         "epoch": 1584662400.0,
         "expiration_date": "20-mar-2020",
@@ -7995,8 +8000,8 @@
         "state": "future"
     },
     "meble.com.pl": {
-        "epoch": 1576281600.0,
-        "expiration_date": "14-dec-2019",
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
         "state": "future"
     },
     "meblezet.com": {
@@ -8380,8 +8385,8 @@
         "state": "future"
     },
     "mjakmrowka.pl": {
-        "epoch": 1576281600.0,
-        "expiration_date": "14-dec-2019",
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
         "state": "future"
     },
     "mjm.com.pl": {
@@ -9400,8 +9405,8 @@
         "state": "future"
     },
     "odmiana.net": {
-        "epoch": 1576281600.0,
-        "expiration_date": "14-dec-2019",
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
         "state": "future"
     },
     "odo24.pl": {
@@ -9582,6 +9587,11 @@
     "onlineradiobox.com": {
         "epoch": 1634860800.0,
         "expiration_date": "22-oct-2021",
+        "state": "future"
+    },
+    "only4music.com": {
+        "epoch": 1579392000.0,
+        "expiration_date": "19-jan-2020",
         "state": "future"
     },
     "ono24.info": {
@@ -14752,6 +14762,11 @@
     "wsensie.pl": {
         "epoch": 1631145600.0,
         "expiration_date": "09-sep-2021",
+        "state": "future"
+    },
+    "wsiecihistorii.pl": {
+        "epoch": 1576886400.0,
+        "expiration_date": "21-dec-2019",
         "state": "future"
     },
     "wsieciprawdy.pl": {
