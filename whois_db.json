@@ -7305,8 +7305,8 @@
         "state": "future"
     },
     "leier.pl": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "leifheitsklep.pl": {
@@ -10019,6 +10019,11 @@
         "expiration_date": "12-mar-2021",
         "state": "future"
     },
+    "payukraine.com": {
+        "epoch": 1601078400.0,
+        "expiration_date": "26-sep-2020",
+        "state": "future"
+    },
     "payup.pl": {
         "epoch": 1658188800.0,
         "expiration_date": "19-jul-2022",
@@ -10752,6 +10757,11 @@
     "powiat-chrzanowski.pl": {
         "epoch": 1579305600.0,
         "expiration_date": "18-jan-2020",
+        "state": "future"
+    },
+    "powiat-gniezno.pl": {
+        "epoch": 1592006400.0,
+        "expiration_date": "13-jun-2020",
         "state": "future"
     },
     "powiat-miedzyrzecki.pl": {
@@ -12022,6 +12032,11 @@
     "selgros24.pl": {
         "epoch": 1621555200.0,
         "expiration_date": "21-may-2021",
+        "state": "future"
+    },
+    "sellero.pl": {
+        "epoch": 1604880000.0,
+        "expiration_date": "09-nov-2020",
         "state": "future"
     },
     "selsey.pl": {
