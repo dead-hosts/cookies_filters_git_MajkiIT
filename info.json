@@ -1,17 +1,17 @@
 {
-    "currently_under_test": true,
+    "currently_under_test": false,
     "custom_pyfunceble_config": {
         "adblock": true
     },
     "days_until_next_test": 0.0,
-    "finish_datetime": "1970-01-01T00:00:00",
-    "finish_timestamp": 0.0,
+    "finish_datetime": "2019-12-17T12:36:58.238486",
+    "finish_timestamp": 1576586218.238486,
     "last_download_datetime": "2019-12-17T10:24:16.145951",
     "last_download_timestamp": 1576578256.145951,
-    "latest_part_finish_datetime": "2019-12-17T12:06:30.662037",
-    "latest_part_finish_timestamp": 1576584390.662037,
-    "latest_part_start_datetime": "2019-12-17T11:56:03.141292",
-    "latest_part_start_timestamp": 1576583763.141292,
+    "latest_part_finish_datetime": "2019-12-17T12:36:58.238486",
+    "latest_part_finish_timestamp": 1576586218.238486,
+    "latest_part_start_datetime": "2019-12-17T12:31:33.643903",
+    "latest_part_start_timestamp": 1576585893.643903,
     "name": "cookies_filters_git_MajkiIT",
     "own_management": false,
     "ping": [
