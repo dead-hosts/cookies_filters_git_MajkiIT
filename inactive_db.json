@@ -1003,9 +1003,6 @@
         "1575113186": {
             "activ-investment.eu": "INACTIVE"
         },
-        "1576667051": {
-            "e-podlaskie.eu": "INACTIVE"
-        },
         "1576668868": {
             "powietrze.katowice.wios.gov.pl": "INACTIVE"
         },
@@ -1014,9 +1011,6 @@
         },
         "1576668875": {
             "poznan-nowemiasto.sr.gov.pl": "INACTIVE"
-        },
-        "1576711779": {
-            "gdansk.rzgw.gov.pl": "INACTIVE"
         },
         "1576713186": {
             "stypendia.sejmik.kielce.pl": "INACTIVE"
@@ -1032,6 +1026,9 @@
         },
         "1576881556": {
             "nasze-kino.eu": "INACTIVE"
+        },
+        "1576885030": {
+            "e-podlaskie.eu": "INACTIVE"
         }
     }
 }
