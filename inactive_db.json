@@ -1006,10 +1006,6 @@
         "1576667051": {
             "e-podlaskie.eu": "INACTIVE"
         },
-        "1576668862": {
-            "bdl.lasy.gov.pl": "INACTIVE",
-            "nasze-kino.eu": "INACTIVE"
-        },
         "1576668868": {
             "powietrze.katowice.wios.gov.pl": "INACTIVE"
         },
@@ -1018,9 +1014,6 @@
         },
         "1576668875": {
             "poznan-nowemiasto.sr.gov.pl": "INACTIVE"
-        },
-        "1576710131": {
-            "gdynia.sr.gov.pl": "INACTIVE"
         },
         "1576711779": {
             "gdansk.rzgw.gov.pl": "INACTIVE"
@@ -1033,6 +1026,12 @@
         },
         "1576713189": {
             "warszawa.rzgw.gov.pl": "INACTIVE"
+        },
+        "1576881552": {
+            "bdl.lasy.gov.pl": "INACTIVE"
+        },
+        "1576881556": {
+            "nasze-kino.eu": "INACTIVE"
         }
     }
 }
