@@ -1003,24 +1003,6 @@
         "1575113186": {
             "activ-investment.eu": "INACTIVE"
         },
-        "1576668868": {
-            "powietrze.katowice.wios.gov.pl": "INACTIVE"
-        },
-        "1576668872": {
-            "warszawa-pragapoludnie.sr.gov.pl": "INACTIVE"
-        },
-        "1576668875": {
-            "poznan-nowemiasto.sr.gov.pl": "INACTIVE"
-        },
-        "1576713186": {
-            "stypendia.sejmik.kielce.pl": "INACTIVE"
-        },
-        "1576713187": {
-            "testujemy.biedronka.pl": "INACTIVE"
-        },
-        "1576713189": {
-            "warszawa.rzgw.gov.pl": "INACTIVE"
-        },
         "1576881552": {
             "bdl.lasy.gov.pl": "INACTIVE"
         },
@@ -1029,6 +1011,12 @@
         },
         "1576885030": {
             "e-podlaskie.eu": "INACTIVE"
+        },
+        "1576887824": {
+            "stypendia.sejmik.kielce.pl": "INACTIVE"
+        },
+        "1576887826": {
+            "testujemy.biedronka.pl": "INACTIVE"
         }
     }
 }

@@ -9742,7 +9742,7 @@
     "orientshop.com.pl": {
         "epoch": 1576886400.0,
         "expiration_date": "21-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "origin.com": {
         "epoch": 1607040000.0,
@@ -13140,8 +13140,8 @@
         "state": "future"
     },
     "szajna.pl": {
-        "epoch": 1576800000.0,
-        "expiration_date": "20-dec-2019",
+        "epoch": 1671494400.0,
+        "expiration_date": "20-dec-2022",
         "state": "future"
     },
     "szansa-annopol.pl": {
