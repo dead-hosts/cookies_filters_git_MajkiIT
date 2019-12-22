@@ -4820,8 +4820,8 @@
         "state": "future"
     },
     "giercownia.pl": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
         "state": "future"
     },
     "gigabyte.pl": {
@@ -5794,6 +5794,11 @@
         "expiration_date": "12-mar-2021",
         "state": "future"
     },
+    "info-car.pl": {
+        "epoch": 1592524800.0,
+        "expiration_date": "19-jun-2020",
+        "state": "future"
+    },
     "info-instal.com": {
         "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
@@ -5810,8 +5815,8 @@
         "state": "future"
     },
     "infoaudio.pl": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
         "state": "future"
     },
     "infocredit-online.pl": {
@@ -8300,8 +8305,8 @@
         "state": "future"
     },
     "miles-and-more.com": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
         "state": "future"
     },
     "milk-tiger.com": {
