@@ -865,8 +865,8 @@
         "state": "future"
     },
     "aukso.pl": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
         "state": "future"
     },
     "austria.info": {
@@ -2420,13 +2420,13 @@
         "state": "future"
     },
     "daciajaworzno.pl": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
         "state": "future"
     },
     "daciakatowice.pl": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
         "state": "future"
     },
     "daciaswietochlowice.pl": {
@@ -2880,8 +2880,8 @@
         "state": "future"
     },
     "domnowoczesny.com": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
         "state": "future"
     },
     "domodi.pl": {
@@ -5860,8 +5860,8 @@
         "state": "future"
     },
     "ingtechpoland.com": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
         "state": "future"
     },
     "inianie.pl": {
@@ -12745,8 +12745,8 @@
         "state": "future"
     },
     "sprzetjezdziecki.com": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
         "state": "future"
     },
     "spsk2-szczecin.pl": {
@@ -13067,6 +13067,11 @@
     "swiatnauki.pl": {
         "epoch": 1596240000.0,
         "expiration_date": "01-aug-2020",
+        "state": "future"
+    },
+    "swiatopon.info": {
+        "epoch": 1606262400.0,
+        "expiration_date": "25-nov-2020",
         "state": "future"
     },
     "swiatpaneli.com": {
@@ -13527,6 +13532,11 @@
     "tfkable.com": {
         "epoch": 1606003200.0,
         "expiration_date": "22-nov-2020",
+        "state": "future"
+    },
+    "tg.shop": {
+        "epoch": 1650153600.0,
+        "expiration_date": "17-apr-2022",
         "state": "future"
     },
     "tge.com.pl": {
@@ -14017,6 +14027,11 @@
     "tygodnik-rolniczy.pl": {
         "epoch": 1591315200.0,
         "expiration_date": "05-jun-2020",
+        "state": "future"
+    },
+    "tygodnikkepinski.pl": {
+        "epoch": 1586822400.0,
+        "expiration_date": "14-apr-2020",
         "state": "future"
     },
     "tygodnikpowszechny.pl": {
@@ -14835,8 +14850,8 @@
         "state": "future"
     },
     "wsiecihistorii.pl": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
         "state": "future"
     },
     "wsieciprawdy.pl": {
