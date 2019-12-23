@@ -9610,9 +9610,9 @@
         "state": "future"
     },
     "onerqe-kredyt.pl": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
-        "state": "past"
+        "epoch": 1579651200.0,
+        "expiration_date": "22-jan-2020",
+        "state": "future"
     },
     "ongeo.pl": {
         "epoch": 1591315200.0,
