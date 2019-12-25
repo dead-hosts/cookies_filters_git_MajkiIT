@@ -829,6 +829,11 @@
         "expiration_date": "06-may-2020",
         "state": "future"
     },
+    "atrakcyjny-kredyt.pl": {
+        "epoch": 1594598400.0,
+        "expiration_date": "13-jul-2020",
+        "state": "future"
+    },
     "atramentowka.com": {
         "epoch": 1581292800.0,
         "expiration_date": "10-feb-2020",
@@ -3595,8 +3600,8 @@
         "state": "future"
     },
     "emisja.tv": {
-        "epoch": 1577145600.0,
-        "expiration_date": "24-dec-2019",
+        "epoch": 1640304000.0,
+        "expiration_date": "24-dec-2021",
         "state": "future"
     },
     "emito.net": {
@@ -11100,8 +11105,8 @@
         "state": "future"
     },
     "przepisy.pl": {
-        "epoch": 1577145600.0,
-        "expiration_date": "24-dec-2019",
+        "epoch": 1597708800.0,
+        "expiration_date": "18-aug-2020",
         "state": "future"
     },
     "przepisyjoli.com": {
