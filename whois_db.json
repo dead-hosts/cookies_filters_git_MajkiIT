@@ -13995,8 +13995,8 @@
         "state": "future"
     },
     "twoje-miasto.pl": {
-        "epoch": 1577145600.0,
-        "expiration_date": "24-dec-2019",
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
         "state": "future"
     },
     "twojeankiety.pl": {
@@ -14947,6 +14947,11 @@
     "wyczesani.com": {
         "epoch": 1579132800.0,
         "expiration_date": "16-jan-2020",
+        "state": "future"
+    },
+    "wydawnictwoolesiejuk.pl": {
+        "epoch": 1584576000.0,
+        "expiration_date": "19-mar-2020",
         "state": "future"
     },
     "wydawnictwopoznanskie.com": {
