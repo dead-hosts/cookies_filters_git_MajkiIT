@@ -400,8 +400,8 @@
         "state": "future"
     },
     "alesoczewki.com": {
-        "epoch": 1577577600.0,
-        "expiration_date": "29-dec-2019",
+        "epoch": 1609200000.0,
+        "expiration_date": "29-dec-2020",
         "state": "future"
     },
     "alga-shop.pl": {
@@ -1715,8 +1715,8 @@
         "state": "future"
     },
     "bspruszcz.pl": {
-        "epoch": 1577577600.0,
-        "expiration_date": "29-dec-2019",
+        "epoch": 1609200000.0,
+        "expiration_date": "29-dec-2020",
         "state": "future"
     },
     "btc-ag.pl": {
@@ -2215,8 +2215,8 @@
         "state": "future"
     },
     "contentstream.pl": {
-        "epoch": 1577664000.0,
-        "expiration_date": "30-dec-2019",
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
         "state": "future"
     },
     "convertcase.net": {
@@ -2460,8 +2460,8 @@
         "state": "future"
     },
     "dajnewsa.pl": {
-        "epoch": 1577577600.0,
-        "expiration_date": "29-dec-2019",
+        "epoch": 1580169600.0,
+        "expiration_date": "28-jan-2020",
         "state": "future"
     },
     "dalchemyskincare.com": {
@@ -2570,8 +2570,8 @@
         "state": "future"
     },
     "defra.pl": {
-        "epoch": 1577577600.0,
-        "expiration_date": "29-dec-2019",
+        "epoch": 1609200000.0,
+        "expiration_date": "29-dec-2020",
         "state": "future"
     },
     "deichmann.com": {
@@ -11695,8 +11695,8 @@
         "state": "future"
     },
     "rik.pl": {
-        "epoch": 1577664000.0,
-        "expiration_date": "30-dec-2019",
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
         "state": "future"
     },
     "rio.gov.pl": {
