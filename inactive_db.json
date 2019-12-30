@@ -1003,18 +1003,6 @@
         "1575113186": {
             "activ-investment.eu": "INACTIVE"
         },
-        "1577573710": {
-            "warszawa-pragapoludnie.sr.gov.pl": "INACTIVE"
-        },
-        "1577573718": {
-            "stypendia.sejmik.kielce.pl": "INACTIVE"
-        },
-        "1577573719": {
-            "testujemy.biedronka.pl": "INACTIVE"
-        },
-        "1577573721": {
-            "warszawa.rzgw.gov.pl": "INACTIVE"
-        },
         "1577744069": {
             "gdynia.sr.gov.pl": "INACTIVE"
         },
@@ -1035,6 +1023,12 @@
         },
         "1577744793": {
             "gdansk.rzgw.gov.pl": "INACTIVE"
+        },
+        "1577745418": {
+            "stypendia.sejmik.kielce.pl": "INACTIVE"
+        },
+        "1577745419": {
+            "testujemy.biedronka.pl": "INACTIVE"
         }
     }
 }
