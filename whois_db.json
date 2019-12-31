@@ -7967,7 +7967,7 @@
     "mazda.pl": {
         "epoch": 1577750400.0,
         "expiration_date": "31-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "mazda.warszawa.pl": {
         "epoch": 1595980800.0,
@@ -8155,8 +8155,8 @@
         "state": "future"
     },
     "mercedes-benz.pl": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
+        "epoch": 1735603200.0,
+        "expiration_date": "31-dec-2024",
         "state": "future"
     },
     "mercure.com": {
@@ -10515,8 +10515,8 @@
         "state": "future"
     },
     "poligraf.com.pl": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "polimex.net": {
@@ -11570,8 +11570,8 @@
         "state": "future"
     },
     "reflex.com.pl": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "refunder.pl": {
@@ -12100,8 +12100,8 @@
         "state": "future"
     },
     "senetic.pl": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
+        "epoch": 1703980800.0,
+        "expiration_date": "31-dec-2023",
         "state": "future"
     },
     "seni24.pl": {
@@ -14255,8 +14255,8 @@
         "state": "future"
     },
     "vigo.com.pl": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "vinci-play.com": {
@@ -14365,8 +14365,8 @@
         "state": "future"
     },
     "wacetob.com.pl": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "wader.toys": {
@@ -14415,8 +14415,8 @@
         "state": "future"
     },
     "warka.com.pl": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "wars.pl": {
@@ -14587,7 +14587,7 @@
     "whitemobile.pl": {
         "epoch": 1577750400.0,
         "expiration_date": "31-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "whitervbbit.com": {
         "epoch": 1599350400.0,
