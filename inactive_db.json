@@ -1003,12 +1003,6 @@
         "1575113186": {
             "activ-investment.eu": "INACTIVE"
         },
-        "1577745418": {
-            "stypendia.sejmik.kielce.pl": "INACTIVE"
-        },
-        "1577745419": {
-            "testujemy.biedronka.pl": "INACTIVE"
-        },
         "1577790364": {
             "powietrze.katowice.wios.gov.pl": "INACTIVE"
         },
@@ -1032,6 +1026,15 @@
         },
         "1577875987": {
             "nelrodata.eu": "INACTIVE"
+        },
+        "1577877113": {
+            "opac.wimbp.zgora.pl": "INACTIVE"
+        },
+        "1577877122": {
+            "stypendia.sejmik.kielce.pl": "INACTIVE"
+        },
+        "1577877123": {
+            "testujemy.biedronka.pl": "INACTIVE"
         }
     }
 }

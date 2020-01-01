@@ -12860,8 +12860,8 @@
         "state": "future"
     },
     "stat.gov.pl": {
-        "epoch": 1577836800.0,
-        "expiration_date": "01-jan-2020",
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
         "state": "future"
     },
     "statoscope.pl": {
@@ -14585,9 +14585,9 @@
         "state": "future"
     },
     "whitemobile.pl": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
-        "state": "past"
+        "epoch": 1578960000.0,
+        "expiration_date": "14-jan-2020",
+        "state": "future"
     },
     "whitervbbit.com": {
         "epoch": 1599350400.0,
