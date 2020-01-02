@@ -1009,9 +1009,6 @@
         "1577790368": {
             "warszawa-pragapoludnie.sr.gov.pl": "INACTIVE"
         },
-        "1577874257": {
-            "nasze-kino.eu": "INACTIVE"
-        },
         "1577875987": {
             "nelrodata.eu": "INACTIVE"
         },
@@ -1036,6 +1033,12 @@
         },
         "1577961943": {
             "bdl.lasy.gov.pl": "INACTIVE"
+        },
+        "1577964003": {
+            "nasze-kino.eu": "INACTIVE"
+        },
+        "1577964024": {
+            "gdansk.rzgw.gov.pl": "INACTIVE"
         }
     }
 }

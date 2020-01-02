@@ -2912,7 +2912,7 @@
     "domydziecka.org": {
         "epoch": 1577923200.0,
         "expiration_date": "02-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "domzdrowia.pl": {
         "epoch": 1587254400.0,
@@ -7045,8 +7045,8 @@
         "state": "future"
     },
     "kujawsko-pomorskie.pl": {
-        "epoch": 1577923200.0,
-        "expiration_date": "02-jan-2020",
+        "epoch": 1582588800.0,
+        "expiration_date": "25-feb-2020",
         "state": "future"
     },
     "kujawy.info": {
