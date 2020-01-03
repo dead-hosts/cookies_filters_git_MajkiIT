@@ -2910,9 +2910,9 @@
         "state": "future"
     },
     "domydziecka.org": {
-        "epoch": 1577923200.0,
-        "expiration_date": "02-jan-2020",
-        "state": "past"
+        "epoch": 1609545600.0,
+        "expiration_date": "02-jan-2021",
+        "state": "future"
     },
     "domzdrowia.pl": {
         "epoch": 1587254400.0,
@@ -8300,8 +8300,8 @@
         "state": "future"
     },
     "mikroznakowanie.pl": {
-        "epoch": 1578009600.0,
-        "expiration_date": "03-jan-2020",
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
         "state": "future"
     },
     "milanos.pl": {
@@ -9230,8 +9230,8 @@
         "state": "future"
     },
     "nizanskie.info": {
-        "epoch": 1578009600.0,
-        "expiration_date": "03-jan-2020",
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
         "state": "future"
     },
     "nj24.pl": {
@@ -15495,8 +15495,8 @@
         "state": "future"
     },
     "zw.pl": {
-        "epoch": 1577923200.0,
-        "expiration_date": "02-jan-2020",
+        "epoch": 1602979200.0,
+        "expiration_date": "18-oct-2020",
         "state": "future"
     },
     "zwielkopolski24.pl": {
