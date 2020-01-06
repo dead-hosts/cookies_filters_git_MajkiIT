@@ -6995,8 +6995,8 @@
         "state": "future"
     },
     "kryminalnapolska.pl": {
-        "epoch": 1578268800.0,
-        "expiration_date": "06-jan-2020",
+        "epoch": 1609891200.0,
+        "expiration_date": "06-jan-2021",
         "state": "future"
     },
     "kryminalni24.info": {
@@ -11857,7 +11857,7 @@
     "saabotage.pl": {
         "epoch": 1578268800.0,
         "expiration_date": "06-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "sadeczanin.info": {
         "epoch": 1607472000.0,
@@ -12405,8 +12405,8 @@
         "state": "future"
     },
     "skutecznie.tv": {
-        "epoch": 1578268800.0,
-        "expiration_date": "06-jan-2020",
+        "epoch": 1609891200.0,
+        "expiration_date": "06-jan-2021",
         "state": "future"
     },
     "skyscanner.net": {
@@ -13435,8 +13435,8 @@
         "state": "future"
     },
     "teledyski.info": {
-        "epoch": 1578268800.0,
-        "expiration_date": "06-jan-2020",
+        "epoch": 1609891200.0,
+        "expiration_date": "06-jan-2021",
         "state": "future"
     },
     "telefonylodz.com": {
@@ -13535,8 +13535,8 @@
         "state": "future"
     },
     "testigo.pl": {
-        "epoch": 1578268800.0,
-        "expiration_date": "06-jan-2020",
+        "epoch": 1609891200.0,
+        "expiration_date": "06-jan-2021",
         "state": "future"
     },
     "testo.com": {
@@ -14010,8 +14010,8 @@
         "state": "future"
     },
     "twojesoczewki.com": {
-        "epoch": 1578268800.0,
-        "expiration_date": "06-jan-2020",
+        "epoch": 1609891200.0,
+        "expiration_date": "06-jan-2021",
         "state": "future"
     },
     "twojezaglebie.pl": {
