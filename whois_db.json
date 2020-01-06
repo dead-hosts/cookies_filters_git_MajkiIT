@@ -680,8 +680,8 @@
         "state": "future"
     },
     "arachnea.org": {
-        "epoch": 1578268800.0,
-        "expiration_date": "06-jan-2020",
+        "epoch": 1609891200.0,
+        "expiration_date": "06-jan-2021",
         "state": "future"
     },
     "aranzujemy.pl": {
@@ -6230,8 +6230,8 @@
         "state": "future"
     },
     "jaskinianiedzwiedzia.pl": {
-        "epoch": 1578182400.0,
-        "expiration_date": "05-jan-2020",
+        "epoch": 1609804800.0,
+        "expiration_date": "05-jan-2021",
         "state": "future"
     },
     "jastrzebieonline.pl": {
@@ -7977,7 +7977,7 @@
     "mazowieckie.com.pl": {
         "epoch": 1578268800.0,
         "expiration_date": "06-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "mazurcompany.com": {
         "epoch": 1629331200.0,
