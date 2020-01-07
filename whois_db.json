@@ -3414,6 +3414,11 @@
         "expiration_date": "26-apr-2020",
         "state": "future"
     },
+    "eis.edu.pl": {
+        "epoch": 1588982400.0,
+        "expiration_date": "09-may-2020",
+        "state": "future"
+    },
     "ekko.com.pl": {
         "epoch": 1607472000.0,
         "expiration_date": "09-dec-2020",
@@ -7909,6 +7914,11 @@
         "expiration_date": "14-jun-2020",
         "state": "future"
     },
+    "marketing-automation.pl": {
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
+        "state": "future"
+    },
     "marketing-news.pl": {
         "epoch": 1605312000.0,
         "expiration_date": "14-nov-2020",
@@ -8465,8 +8475,8 @@
         "state": "future"
     },
     "mmtv.pl": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1580947200.0,
+        "expiration_date": "06-feb-2020",
         "state": "future"
     },
     "mniammniam.com": {
@@ -8917,6 +8927,11 @@
     "nadarzyn.tv": {
         "epoch": 1603238400.0,
         "expiration_date": "21-oct-2020",
+        "state": "future"
+    },
+    "nadrodze.info": {
+        "epoch": 1579564800.0,
+        "expiration_date": "21-jan-2020",
         "state": "future"
     },
     "naekranie.pl": {
@@ -9797,6 +9812,11 @@
     "ortograf.pl": {
         "epoch": 1590537600.0,
         "expiration_date": "27-may-2020",
+        "state": "future"
+    },
+    "ortografiadladzieci.pl": {
+        "epoch": 1604534400.0,
+        "expiration_date": "05-nov-2020",
         "state": "future"
     },
     "ose.gov.pl": {
