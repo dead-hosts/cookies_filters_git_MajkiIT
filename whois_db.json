@@ -59,6 +59,11 @@
         "expiration_date": "27-jun-2020",
         "state": "future"
     },
+    "4geek.co": {
+        "epoch": 1613347200.0,
+        "expiration_date": "15-feb-2021",
+        "state": "future"
+    },
     "4hifi.pl": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
@@ -650,8 +655,8 @@
         "state": "future"
     },
     "apra.pl": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "apspolska.pl": {
@@ -1480,8 +1485,8 @@
         "state": "future"
     },
     "bmc-switzerland.pl": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "bobrowniki.tv": {
@@ -2127,7 +2132,7 @@
     "clickmeeting.com": {
         "epoch": 1578355200.0,
         "expiration_date": "07-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "clineo.pl": {
         "epoch": 1588723200.0,
@@ -3945,8 +3950,8 @@
         "state": "future"
     },
     "expozdrowie.pl": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "extra-program.pl": {
@@ -7975,9 +7980,9 @@
         "state": "future"
     },
     "mazowieckie.com.pl": {
-        "epoch": 1578268800.0,
-        "expiration_date": "06-jan-2020",
-        "state": "past"
+        "epoch": 1609891200.0,
+        "expiration_date": "06-jan-2021",
+        "state": "future"
     },
     "mazurcompany.com": {
         "epoch": 1629331200.0,
@@ -11615,8 +11620,8 @@
         "state": "future"
     },
     "renaultkatowice.pl": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "renaultrybnik.pl": {
@@ -13050,8 +13055,8 @@
         "state": "future"
     },
     "supermemo.com": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "superstacja.tv": {
@@ -14570,8 +14575,8 @@
         "state": "future"
     },
     "wgospodarce.pl": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "wgrane.pl": {

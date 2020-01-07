@@ -1003,23 +1003,8 @@
         "1575113186": {
             "activ-investment.eu": "INACTIVE"
         },
-        "1578307418": {
-            "gdynia.sr.gov.pl": "INACTIVE"
-        },
-        "1578307422": {
-            "wifiki.eu": "INACTIVE"
-        },
-        "1578307424": {
-            "raciborz.sr.gov.pl": "INACTIVE"
-        },
         "1578307433": {
             "artdesigninteriors.eu": "INACTIVE"
-        },
-        "1578307438": {
-            "bdl.lasy.gov.pl": "INACTIVE"
-        },
-        "1578309625": {
-            "nasze-kino.eu": "INACTIVE"
         },
         "1578309645": {
             "gdansk.rzgw.gov.pl": "INACTIVE"
@@ -1035,6 +1020,15 @@
         },
         "1578311728": {
             "warszawa.rzgw.gov.pl": "INACTIVE"
+        },
+        "1578436312": {
+            "wifiki.eu": "INACTIVE"
+        },
+        "1578436328": {
+            "bdl.lasy.gov.pl": "INACTIVE"
+        },
+        "1578436333": {
+            "nasze-kino.eu": "INACTIVE"
         }
     }
 }
