@@ -9870,8 +9870,8 @@
         "state": "future"
     },
     "otolaryngolodzy24.pl": {
-        "epoch": 1578268800.0,
-        "expiration_date": "06-jan-2020",
+        "epoch": 1609891200.0,
+        "expiration_date": "06-jan-2021",
         "state": "future"
     },
     "otouczelnie.pl": {
@@ -10142,6 +10142,11 @@
     "perfectclima.pl": {
         "epoch": 1587427200.0,
         "expiration_date": "21-apr-2020",
+        "state": "future"
+    },
+    "perfumeria.pl": {
+        "epoch": 1604448000.0,
+        "expiration_date": "04-nov-2020",
         "state": "future"
     },
     "perfumyfm.biz": {
@@ -11802,7 +11807,7 @@
     "routex.com": {
         "epoch": 1578355200.0,
         "expiration_date": "07-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "rower.com.pl": {
         "epoch": 1638662400.0,
@@ -11880,9 +11885,9 @@
         "state": "future"
     },
     "saabotage.pl": {
-        "epoch": 1578268800.0,
-        "expiration_date": "06-jan-2020",
-        "state": "past"
+        "epoch": 1580860800.0,
+        "expiration_date": "05-feb-2020",
+        "state": "future"
     },
     "sadeczanin.info": {
         "epoch": 1607472000.0,
@@ -13424,9 +13429,19 @@
         "expiration_date": "12-nov-2020",
         "state": "future"
     },
+    "teb.pl": {
+        "epoch": 1583280000.0,
+        "expiration_date": "04-mar-2020",
+        "state": "future"
+    },
     "technetium.pl": {
         "epoch": 1593820800.0,
         "expiration_date": "04-jul-2020",
+        "state": "future"
+    },
+    "technikum.pl": {
+        "epoch": 1593648000.0,
+        "expiration_date": "02-jul-2020",
         "state": "future"
     },
     "techniline.com": {
