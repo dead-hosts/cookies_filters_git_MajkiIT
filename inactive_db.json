@@ -1009,15 +1009,6 @@
         "1578311713": {
             "nelrodata.eu": "INACTIVE"
         },
-        "1578436312": {
-            "wifiki.eu": "INACTIVE"
-        },
-        "1578436328": {
-            "bdl.lasy.gov.pl": "INACTIVE"
-        },
-        "1578436333": {
-            "nasze-kino.eu": "INACTIVE"
-        },
         "1578437117": {
             "gdansk.rzgw.gov.pl": "INACTIVE"
         },
@@ -1032,6 +1023,18 @@
         },
         "1578484123": {
             "warszawa.rzgw.gov.pl": "INACTIVE"
+        },
+        "1578609161": {
+            "gdynia.sr.gov.pl": "INACTIVE"
+        },
+        "1578609165": {
+            "wifiki.eu": "INACTIVE"
+        },
+        "1578609181": {
+            "bdl.lasy.gov.pl": "INACTIVE"
+        },
+        "1578609186": {
+            "nasze-kino.eu": "INACTIVE"
         }
     }
 }

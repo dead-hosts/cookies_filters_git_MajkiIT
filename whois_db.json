@@ -170,8 +170,8 @@
         "state": "future"
     },
     "acronis.com": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1736380800.0,
+        "expiration_date": "09-jan-2025",
         "state": "future"
     },
     "adata.com": {
@@ -1270,8 +1270,8 @@
         "state": "future"
     },
     "bielsko.info": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "bierhalle.pl": {
@@ -2152,7 +2152,7 @@
     "cmrev.com": {
         "epoch": 1578528000.0,
         "expiration_date": "09-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "cochrane.org": {
         "epoch": 1611187200.0,
@@ -6285,8 +6285,8 @@
         "state": "future"
     },
     "jeanmueller.pl": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "jednoslad.pl": {
@@ -11780,8 +11780,8 @@
         "state": "future"
     },
     "rolland.tech": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
         "state": "future"
     },
     "rolpetrol.com.pl": {
@@ -12460,8 +12460,8 @@
         "state": "future"
     },
     "slaskie.travel": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "slaskietargi.pl": {
@@ -13807,6 +13807,11 @@
     "trasa.info": {
         "epoch": 1591142400.0,
         "expiration_date": "03-jun-2020",
+        "state": "future"
+    },
+    "travelpl.pl": {
+        "epoch": 1588723200.0,
+        "expiration_date": "06-may-2020",
         "state": "future"
     },
     "travelplanet.pl": {
