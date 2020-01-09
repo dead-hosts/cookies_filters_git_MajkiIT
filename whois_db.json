@@ -8994,6 +8994,11 @@
         "expiration_date": "27-nov-2020",
         "state": "future"
     },
+    "naszbus.com": {
+        "epoch": 1602633600.0,
+        "expiration_date": "14-oct-2020",
+        "state": "future"
+    },
     "nasze-kino.tv": {
         "epoch": 1599696000.0,
         "expiration_date": "10-sep-2020",
@@ -12235,9 +12240,9 @@
         "state": "future"
     },
     "sick.com": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
-        "state": "past"
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
+        "state": "future"
     },
     "siemashop.pl": {
         "epoch": 1582502400.0,
@@ -15215,8 +15220,8 @@
         "state": "future"
     },
     "zalecane.pl": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "zamakmercator.pl": {
