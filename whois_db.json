@@ -885,8 +885,8 @@
         "state": "future"
     },
     "auto-czesci-lipiec.pl": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
         "state": "future"
     },
     "auto-sam.pl": {
@@ -1295,8 +1295,8 @@
         "state": "future"
     },
     "bike-parts-honda.pl": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
         "state": "future"
     },
     "bilera.pl": {
@@ -2150,9 +2150,9 @@
         "state": "future"
     },
     "cmrev.com": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
-        "state": "past"
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
+        "state": "future"
     },
     "cochrane.org": {
         "epoch": 1611187200.0,
@@ -2265,8 +2265,8 @@
         "state": "future"
     },
     "coremannet.com": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
         "state": "future"
     },
     "cos.pl": {
@@ -6900,8 +6900,8 @@
         "state": "future"
     },
     "kpzpn.pl": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
         "state": "future"
     },
     "krakowairport.pl": {
@@ -7255,8 +7255,8 @@
         "state": "future"
     },
     "lazienka.pl": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
         "state": "future"
     },
     "laznianowa.pl": {
@@ -10370,8 +10370,8 @@
         "state": "future"
     },
     "planetamarvel.net": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
         "state": "future"
     },
     "plantatekst.info": {
@@ -13935,8 +13935,8 @@
         "state": "future"
     },
     "tubawyszkowa.pl": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
         "state": "future"
     },
     "tulodz.pl": {
@@ -14650,8 +14650,8 @@
         "state": "future"
     },
     "wiara.pl": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
+        "epoch": 1594512000.0,
+        "expiration_date": "12-jul-2020",
         "state": "future"
     },
     "wici.info": {
