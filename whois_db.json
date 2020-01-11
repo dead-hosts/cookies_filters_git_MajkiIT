@@ -879,6 +879,11 @@
         "expiration_date": "21-dec-2020",
         "state": "future"
     },
+    "aura.pl": {
+        "epoch": 1585612800.0,
+        "expiration_date": "31-mar-2020",
+        "state": "future"
+    },
     "austria.info": {
         "epoch": 1595721600.0,
         "expiration_date": "26-jul-2020",
@@ -1820,8 +1825,8 @@
         "state": "future"
     },
     "bytzbiorowy.pl": {
-        "epoch": 1578700800.0,
-        "expiration_date": "11-jan-2020",
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
         "state": "future"
     },
     "bywajtu.pl": {
@@ -7020,8 +7025,8 @@
         "state": "future"
     },
     "krzyzowka.net": {
-        "epoch": 1578700800.0,
-        "expiration_date": "11-jan-2020",
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
         "state": "future"
     },
     "ksero-tecza.pl": {
@@ -11405,8 +11410,8 @@
         "state": "future"
     },
     "radioftb.net": {
-        "epoch": 1578700800.0,
-        "expiration_date": "11-jan-2020",
+        "epoch": 1799625600.0,
+        "expiration_date": "11-jan-2027",
         "state": "future"
     },
     "radiogdansk.pl": {
@@ -12820,8 +12825,8 @@
         "state": "future"
     },
     "ssd-linuxpl.com": {
-        "epoch": 1578700800.0,
-        "expiration_date": "11-jan-2020",
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
         "state": "future"
     },
     "stalgorzow.pl": {
@@ -13690,8 +13695,8 @@
         "state": "future"
     },
     "tomiicars.com.pl": {
-        "epoch": 1578700800.0,
-        "expiration_date": "11-jan-2020",
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
         "state": "future"
     },
     "tomtop.com": {
@@ -14155,8 +14160,8 @@
         "state": "future"
     },
     "ufs.pt": {
-        "epoch": 1571184000,
-        "expiration_date": "16-oct-2019",
+        "epoch": 1602806400.0,
+        "expiration_date": "16-oct-2020",
         "state": "future"
     },
     "ugporaj.pl": {
