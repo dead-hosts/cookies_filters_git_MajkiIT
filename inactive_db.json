@@ -1030,6 +1030,9 @@
         },
         "1578785378": {
             "testujemy.biedronka.pl": "INACTIVE"
+        },
+        "1578785688": {
+            "cmp.*.pl": "INVALID"
         }
     }
 }
