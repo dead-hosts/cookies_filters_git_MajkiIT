@@ -4289,6 +4289,11 @@
         "expiration_date": "03-oct-2020",
         "state": "future"
     },
+    "flixbus.pl": {
+        "epoch": 1605484800.0,
+        "expiration_date": "16-nov-2020",
+        "state": "future"
+    },
     "flordent.pl": {
         "epoch": 1582588800.0,
         "expiration_date": "25-feb-2020",
@@ -7300,8 +7305,8 @@
         "state": "future"
     },
     "leclerc.com.pl": {
-        "epoch": 1578700800.0,
-        "expiration_date": "11-jan-2020",
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
         "state": "future"
     },
     "leczeniekomorkamimacierzystymi.com": {
