@@ -7955,8 +7955,8 @@
         "state": "future"
     },
     "matematykainnegowymiaru.pl": {
-        "epoch": 1578700800.0,
-        "expiration_date": "11-jan-2020",
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
         "state": "future"
     },
     "mateuszgrzesiak.com": {
@@ -8167,6 +8167,11 @@
     "mental-power.pl": {
         "epoch": 1583712000.0,
         "expiration_date": "09-mar-2020",
+        "state": "future"
+    },
+    "mercbus.pl": {
+        "epoch": 1594080000.0,
+        "expiration_date": "07-jul-2020",
         "state": "future"
     },
     "mercedes-benz-trucks.com": {
@@ -8837,6 +8842,11 @@
     "mustasz.com": {
         "epoch": 1594425600.0,
         "expiration_date": "11-jul-2020",
+        "state": "future"
+    },
+    "muszkieter.pl": {
+        "epoch": 1690761600.0,
+        "expiration_date": "31-jul-2023",
         "state": "future"
     },
     "muszynianka.pl": {
@@ -9615,8 +9625,8 @@
         "state": "future"
     },
     "olimpsport.com": {
-        "epoch": 1578700800.0,
-        "expiration_date": "11-jan-2020",
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
         "state": "future"
     },
     "olivegreenthemovie.com": {
@@ -10055,8 +10065,8 @@
         "state": "future"
     },
     "passa.media.pl": {
-        "epoch": 1578700800.0,
-        "expiration_date": "11-jan-2020",
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
         "state": "future"
     },
     "paszport.info": {
@@ -11425,8 +11435,8 @@
         "state": "future"
     },
     "radiogol.pl": {
-        "epoch": 1578700800.0,
-        "expiration_date": "11-jan-2020",
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
         "state": "future"
     },
     "radiohit.net.pl": {
@@ -15460,9 +15470,9 @@
         "state": "future"
     },
     "zmkowalczyk.pl": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
-        "state": "past"
+        "epoch": 1581206400.0,
+        "expiration_date": "09-feb-2020",
+        "state": "future"
     },
     "znak.pl": {
         "epoch": 1589500800.0,
