@@ -4050,8 +4050,8 @@
         "state": "future"
     },
     "fansubs.pl": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "fantastyka.pl": {
@@ -4817,7 +4817,7 @@
     "germany.travel": {
         "epoch": 1578787200.0,
         "expiration_date": "12-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "getbybus.com": {
         "epoch": 1595548800.0,
@@ -4865,8 +4865,8 @@
         "state": "future"
     },
     "gih.grajewo.pl": {
-        "epoch": 1578787200.0,
-        "expiration_date": "12-jan-2020",
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
         "state": "future"
     },
     "ginekolog-darlowo.pl": {
@@ -7175,8 +7175,8 @@
         "state": "future"
     },
     "lahtipro.pl": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "lajfy.com": {
@@ -10680,8 +10680,8 @@
         "state": "future"
     },
     "polskieradio24.pl": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
         "state": "future"
     },
     "polskijubiler.pl": {
@@ -14515,8 +14515,8 @@
         "state": "future"
     },
     "waxclinic.pl": {
-        "epoch": 1578787200.0,
-        "expiration_date": "12-jan-2020",
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
         "state": "future"
     },
     "wayup.pl": {
