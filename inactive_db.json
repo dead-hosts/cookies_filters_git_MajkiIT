@@ -1009,18 +1009,6 @@
         "1578311713": {
             "nelrodata.eu": "INACTIVE"
         },
-        "1578912099": {
-            "gdynia.sr.gov.pl": "INACTIVE"
-        },
-        "1578912103": {
-            "wifiki.eu": "INACTIVE"
-        },
-        "1578912119": {
-            "bdl.lasy.gov.pl": "INACTIVE"
-        },
-        "1578912125": {
-            "nasze-kino.eu": "INACTIVE"
-        },
         "1578916292": {
             "stypendia.sejmik.kielce.pl": "INACTIVE"
         },
@@ -1029,6 +1017,21 @@
         },
         "1578916298": {
             "cmp.*.pl": "INVALID"
+        },
+        "1579004142": {
+            "kkm.ztm.kielce.pl": "INACTIVE"
+        },
+        "1579004144": {
+            "gdynia.sr.gov.pl": "INACTIVE"
+        },
+        "1579004148": {
+            "wifiki.eu": "INACTIVE"
+        },
+        "1579004164": {
+            "bdl.lasy.gov.pl": "INACTIVE"
+        },
+        "1579004169": {
+            "nasze-kino.eu": "INACTIVE"
         }
     }
 }
