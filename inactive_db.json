@@ -1009,9 +1009,6 @@
         "1578311713": {
             "nelrodata.eu": "INACTIVE"
         },
-        "1578916298": {
-            "cmp.*.pl": "INVALID"
-        },
         "1579004142": {
             "kkm.ztm.kielce.pl": "INACTIVE"
         },
@@ -1041,6 +1038,12 @@
         },
         "1579008178": {
             "testujemy.biedronka.pl": "INACTIVE"
+        },
+        "1579009827": {
+            "whitemobile.pl": "INACTIVE"
+        },
+        "1579009830": {
+            "cmp.*.pl": "INVALID"
         }
     }
 }
