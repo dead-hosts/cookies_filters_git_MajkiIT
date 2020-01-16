@@ -1009,26 +1009,11 @@
         "1578311713": {
             "nelrodata.eu": "INACTIVE"
         },
-        "1579008165": {
-            "powietrze.katowice.wios.gov.pl": "INACTIVE"
-        },
-        "1579008171": {
-            "poznan-nowemiasto.sr.gov.pl": "INACTIVE"
-        },
-        "1579008177": {
-            "stypendia.sejmik.kielce.pl": "INACTIVE"
-        },
-        "1579008178": {
-            "testujemy.biedronka.pl": "INACTIVE"
-        },
         "1579009827": {
             "whitemobile.pl": "INACTIVE"
         },
         "1579009830": {
             "cmp.*.pl": "INVALID"
-        },
-        "1579049516": {
-            "warszawa-pragapoludnie.sr.gov.pl": "INACTIVE"
         },
         "1579214236": {
             "gdynia.sr.gov.pl": "INACTIVE"
@@ -1047,6 +1032,21 @@
         },
         "1579214966": {
             "gdansk.rzgw.gov.pl": "INACTIVE"
+        },
+        "1579215681": {
+            "warszawa-pragapoludnie.sr.gov.pl": "INACTIVE"
+        },
+        "1579215683": {
+            "poznan-nowemiasto.sr.gov.pl": "INACTIVE"
+        },
+        "1579215689": {
+            "stypendia.sejmik.kielce.pl": "INACTIVE"
+        },
+        "1579215690": {
+            "testujemy.biedronka.pl": "INACTIVE"
+        },
+        "1579215693": {
+            "warszawa.rzgw.gov.pl": "INACTIVE"
         }
     }
 }
