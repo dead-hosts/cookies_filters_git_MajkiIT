@@ -1009,12 +1009,6 @@
         "1578311713": {
             "nelrodata.eu": "INACTIVE"
         },
-        "1579009827": {
-            "whitemobile.pl": "INACTIVE"
-        },
-        "1579009830": {
-            "cmp.*.pl": "INVALID"
-        },
         "1579214236": {
             "gdynia.sr.gov.pl": "INACTIVE"
         },
@@ -1047,6 +1041,12 @@
         },
         "1579215693": {
             "warszawa.rzgw.gov.pl": "INACTIVE"
+        },
+        "1579215979": {
+            "whitemobile.pl": "INACTIVE"
+        },
+        "1579215982": {
+            "cmp.*.pl": "INVALID"
         }
     }
 }
