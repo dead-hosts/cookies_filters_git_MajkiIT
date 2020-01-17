@@ -1009,18 +1009,6 @@
         "1578311713": {
             "nelrodata.eu": "INACTIVE"
         },
-        "1579214236": {
-            "gdynia.sr.gov.pl": "INACTIVE"
-        },
-        "1579214240": {
-            "wifiki.eu": "INACTIVE"
-        },
-        "1579214961": {
-            "e-podlaskie.eu": "INACTIVE"
-        },
-        "1579214966": {
-            "gdansk.rzgw.gov.pl": "INACTIVE"
-        },
         "1579215681": {
             "warszawa-pragapoludnie.sr.gov.pl": "INACTIVE"
         },
@@ -1050,6 +1038,10 @@
         },
         "1579300969": {
             "nasze-kino.eu": "INACTIVE"
+        },
+        "1579304651": {
+            "gdynia.sr.gov.pl": "INACTIVE",
+            "wifiki.eu": "INACTIVE"
         }
     }
 }
