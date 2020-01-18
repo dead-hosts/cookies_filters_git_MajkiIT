@@ -1009,15 +1009,6 @@
         "1578311713": {
             "nelrodata.eu": "INACTIVE"
         },
-        "1579300949": {
-            "raciborz.sr.gov.pl": "INACTIVE"
-        },
-        "1579300964": {
-            "bdl.lasy.gov.pl": "INACTIVE"
-        },
-        "1579300969": {
-            "nasze-kino.eu": "INACTIVE"
-        },
         "1579304651": {
             "gdynia.sr.gov.pl": "INACTIVE",
             "wifiki.eu": "INACTIVE"
@@ -1042,6 +1033,15 @@
         },
         "1579310912": {
             "cmp.*.pl": "INVALID"
+        },
+        "1579391329": {
+            "raciborz.sr.gov.pl": "INACTIVE"
+        },
+        "1579391331": {
+            "bdl.lasy.gov.pl": "INACTIVE"
+        },
+        "1579391336": {
+            "nasze-kino.eu": "INACTIVE"
         }
     }
 }
