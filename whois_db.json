@@ -4040,8 +4040,8 @@
         "state": "future"
     },
     "fan.pl": {
-        "epoch": 1579392000.0,
-        "expiration_date": "19-jan-2020",
+        "epoch": 1582588800.0,
+        "expiration_date": "25-feb-2020",
         "state": "future"
     },
     "fandk.com.pl": {
@@ -4725,8 +4725,8 @@
         "state": "future"
     },
     "gb.pl": {
-        "epoch": 1579392000.0,
-        "expiration_date": "19-jan-2020",
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
         "state": "future"
     },
     "gbritain.net": {
@@ -5550,8 +5550,8 @@
         "state": "future"
     },
     "hotele.pl": {
-        "epoch": 1579392000.0,
-        "expiration_date": "19-jan-2020",
+        "epoch": 1599004800.0,
+        "expiration_date": "02-sep-2020",
         "state": "future"
     },
     "hotelpanorama.pl": {
@@ -7439,6 +7439,11 @@
         "expiration_date": "07-mar-2024",
         "state": "future"
     },
+    "liber.pl": {
+        "epoch": 1583020800.0,
+        "expiration_date": "01-mar-2020",
+        "state": "future"
+    },
     "libertex.com": {
         "epoch": 1630281600.0,
         "expiration_date": "30-aug-2021",
@@ -7782,6 +7787,11 @@
     "madreklama.com": {
         "epoch": 1607212800.0,
         "expiration_date": "06-dec-2020",
+        "state": "future"
+    },
+    "mag-sklep.pl": {
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
         "state": "future"
     },
     "magazyn-hamag.pl": {
@@ -11105,8 +11115,8 @@
         "state": "future"
     },
     "promib.pl": {
-        "epoch": 1579305600.0,
-        "expiration_date": "18-jan-2020",
+        "epoch": 1610928000.0,
+        "expiration_date": "18-jan-2021",
         "state": "future"
     },
     "promocodius.com": {
