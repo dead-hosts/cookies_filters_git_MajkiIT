@@ -1009,23 +1009,11 @@
         "1578311713": {
             "nelrodata.eu": "INACTIVE"
         },
-        "1579308173": {
-            "warszawa-pragapoludnie.sr.gov.pl": "INACTIVE"
-        },
-        "1579308175": {
-            "poznan-nowemiasto.sr.gov.pl": "INACTIVE"
-        },
-        "1579308181": {
-            "stypendia.sejmik.kielce.pl": "INACTIVE"
-        },
         "1579310907": {
             "testujemy.biedronka.pl": "INACTIVE"
         },
         "1579310910": {
             "whitemobile.pl": "INACTIVE"
-        },
-        "1579310912": {
-            "cmp.*.pl": "INVALID"
         },
         "1579391329": {
             "raciborz.sr.gov.pl": "INACTIVE"
@@ -1045,6 +1033,12 @@
         },
         "1579394738": {
             "powietrze.katowice.wios.gov.pl": "INACTIVE"
+        },
+        "1579397472": {
+            "stypendia.sejmik.kielce.pl": "INACTIVE"
+        },
+        "1579397478": {
+            "cmp.*.pl": "INVALID"
         }
     }
 }
