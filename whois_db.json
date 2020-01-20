@@ -10950,8 +10950,8 @@
         "state": "future"
     },
     "pracownieorange.pl": {
-        "epoch": 1579478400.0,
-        "expiration_date": "20-jan-2020",
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
         "state": "future"
     },
     "pracuj.pl": {
@@ -11110,9 +11110,9 @@
         "state": "future"
     },
     "projektydomfort.pl": {
-        "epoch": 1579392000.0,
-        "expiration_date": "19-jan-2020",
-        "state": "past"
+        "epoch": 1581984000.0,
+        "expiration_date": "18-feb-2020",
+        "state": "future"
     },
     "proline-tools.com.pl": {
         "epoch": 1579651200.0,
@@ -14919,6 +14919,11 @@
         "expiration_date": "20-nov-2020",
         "state": "future"
     },
+    "wotore.tv": {
+        "epoch": 1600732800.0,
+        "expiration_date": "22-sep-2020",
+        "state": "future"
+    },
     "wp.pl": {
         "epoch": 1581292800.0,
         "expiration_date": "10-feb-2020",
@@ -14977,6 +14982,11 @@
     "wsieciprawdy.pl": {
         "epoch": 1593388800.0,
         "expiration_date": "29-jun-2020",
+        "state": "future"
+    },
+    "wsip.pl": {
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
         "state": "future"
     },
     "wspanialewesele.com.pl": {
@@ -15252,6 +15262,11 @@
     "zajefajna.com": {
         "epoch": 1606694400.0,
         "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
+    "zakamarki.pl": {
+        "epoch": 1580083200.0,
+        "expiration_date": "27-jan-2020",
         "state": "future"
     },
     "zakexpress.pl": {
