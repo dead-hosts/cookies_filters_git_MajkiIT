@@ -1009,19 +1009,6 @@
         "1578311713": {
             "nelrodata.eu": "INACTIVE"
         },
-        "1579391329": {
-            "raciborz.sr.gov.pl": "INACTIVE"
-        },
-        "1579391331": {
-            "bdl.lasy.gov.pl": "INACTIVE"
-        },
-        "1579391336": {
-            "nasze-kino.eu": "INACTIVE"
-        },
-        "1579394716": {
-            "gdynia.sr.gov.pl": "INACTIVE",
-            "wifiki.eu": "INACTIVE"
-        },
         "1579394717": {
             "e-podlaskie.eu": "INACTIVE"
         },
@@ -1042,6 +1029,18 @@
         },
         "1579435920": {
             "whitemobile.pl": "INACTIVE"
+        },
+        "1579560096": {
+            "wifiki.eu": "INACTIVE"
+        },
+        "1579560098": {
+            "raciborz.sr.gov.pl": "INACTIVE"
+        },
+        "1579560112": {
+            "bdl.lasy.gov.pl": "INACTIVE"
+        },
+        "1579560117": {
+            "nasze-kino.eu": "INACTIVE"
         }
     }
 }

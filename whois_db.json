@@ -955,8 +955,8 @@
         "state": "future"
     },
     "autos-motos.net": {
-        "epoch": 1579478400.0,
-        "expiration_date": "20-jan-2020",
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
         "state": "future"
     },
     "autostrada-a2.pl": {
@@ -3002,6 +3002,11 @@
     "dreammachines.pl": {
         "epoch": 1586822400.0,
         "expiration_date": "14-apr-2020",
+        "state": "future"
+    },
+    "dreamswydawnictwo.pl": {
+        "epoch": 1586649600.0,
+        "expiration_date": "12-apr-2020",
         "state": "future"
     },
     "dreamtours.pl": {
