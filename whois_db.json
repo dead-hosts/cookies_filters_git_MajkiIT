@@ -1270,9 +1270,9 @@
         "state": "future"
     },
     "bielskakraina.pl": {
-        "epoch": 1579564800.0,
-        "expiration_date": "21-jan-2020",
-        "state": "past"
+        "epoch": 1582156800.0,
+        "expiration_date": "20-feb-2020",
+        "state": "future"
     },
     "bielsko.info": {
         "epoch": 1610150400.0,
