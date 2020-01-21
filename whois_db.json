@@ -605,8 +605,8 @@
         "state": "future"
     },
     "antyradio.pl": {
-        "epoch": 1579564800.0,
-        "expiration_date": "21-jan-2020",
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
         "state": "future"
     },
     "antyweb.pl": {
@@ -870,8 +870,8 @@
         "state": "future"
     },
     "audiovideo.com.pl": {
-        "epoch": 1579564800.0,
-        "expiration_date": "21-jan-2020",
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
         "state": "future"
     },
     "aukso.pl": {
@@ -1272,7 +1272,7 @@
     "bielskakraina.pl": {
         "epoch": 1579564800.0,
         "expiration_date": "21-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "bielsko.info": {
         "epoch": 1610150400.0,
@@ -2095,8 +2095,8 @@
         "state": "future"
     },
     "circlek.pl": {
-        "epoch": 1579564800.0,
-        "expiration_date": "21-jan-2020",
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
         "state": "future"
     },
     "cisco.com": {
@@ -8975,8 +8975,8 @@
         "state": "future"
     },
     "nadrodze.info": {
-        "epoch": 1579564800.0,
-        "expiration_date": "21-jan-2020",
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
         "state": "future"
     },
     "naekranie.pl": {
@@ -9225,8 +9225,8 @@
         "state": "future"
     },
     "newsrm.tv": {
-        "epoch": 1579564800.0,
-        "expiration_date": "21-jan-2020",
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
         "state": "future"
     },
     "newstyling.pl": {
