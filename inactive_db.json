@@ -1021,10 +1021,6 @@
         "1579561898": {
             "cmp.*.pl": "INVALID"
         },
-        "1579696879": {
-            "benchmarking.silesia.org.pl": "INACTIVE",
-            "gdynia.sr.gov.pl": "INACTIVE"
-        },
         "1579736316": {
             "wifiki.eu": "INACTIVE"
         },
@@ -1049,6 +1045,9 @@
         },
         "1579781710": {
             "koronakaszub.eu": "INACTIVE"
+        },
+        "1579785991": {
+            "gdynia.sr.gov.pl": "INACTIVE"
         }
     }
 }
