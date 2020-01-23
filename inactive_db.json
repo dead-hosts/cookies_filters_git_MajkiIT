@@ -1021,9 +1021,6 @@
         "1579561898": {
             "cmp.*.pl": "INVALID"
         },
-        "1579692398": {
-            "koronakaszub.eu": "INACTIVE"
-        },
         "1579696879": {
             "benchmarking.silesia.org.pl": "INACTIVE",
             "gdynia.sr.gov.pl": "INACTIVE"
@@ -1049,6 +1046,9 @@
         },
         "1579773523": {
             "raciborz.sr.gov.pl": "INACTIVE"
+        },
+        "1579781710": {
+            "koronakaszub.eu": "INACTIVE"
         }
     }
 }
