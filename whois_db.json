@@ -1025,8 +1025,8 @@
         "state": "future"
     },
     "babytvchannel.info": {
-        "epoch": 1579737600.0,
-        "expiration_date": "23-jan-2020",
+        "epoch": 1642896000.0,
+        "expiration_date": "23-jan-2022",
         "state": "future"
     },
     "bacca.pl": {
@@ -5712,7 +5712,7 @@
     "ifmpl.com": {
         "epoch": 1579737600.0,
         "expiration_date": "23-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "ige-xao.com": {
         "epoch": 1585267200.0,
@@ -7920,8 +7920,8 @@
         "state": "future"
     },
     "marbo-sport.pl": {
-        "epoch": 1579737600.0,
-        "expiration_date": "23-jan-2020",
+        "epoch": 1611360000.0,
+        "expiration_date": "23-jan-2021",
         "state": "future"
     },
     "marcinjasinski.pl": {
