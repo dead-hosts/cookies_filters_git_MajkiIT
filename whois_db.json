@@ -1840,8 +1840,8 @@
         "state": "future"
     },
     "c-and-a.com": {
-        "epoch": 1579824000.0,
-        "expiration_date": "24-jan-2020",
+        "epoch": 1611446400.0,
+        "expiration_date": "24-jan-2021",
         "state": "future"
     },
     "cad2cad.com": {
@@ -3015,8 +3015,8 @@
         "state": "future"
     },
     "driverpack.io": {
-        "epoch": 1579824000.0,
-        "expiration_date": "24-jan-2020",
+        "epoch": 1611446400.0,
+        "expiration_date": "24-jan-2021",
         "state": "future"
     },
     "drony.net": {
@@ -4720,8 +4720,8 @@
         "state": "future"
     },
     "gazetaswietojanska.org": {
-        "epoch": 1579824000.0,
-        "expiration_date": "24-jan-2020",
+        "epoch": 1611446400.0,
+        "expiration_date": "24-jan-2021",
         "state": "future"
     },
     "gazetkipromocyjne.net": {
@@ -4875,8 +4875,8 @@
         "state": "future"
     },
     "ginekolog-darlowo.pl": {
-        "epoch": 1579824000.0,
-        "expiration_date": "24-jan-2020",
+        "epoch": 1611446400.0,
+        "expiration_date": "24-jan-2021",
         "state": "future"
     },
     "giorre.com": {
@@ -5710,9 +5710,9 @@
         "state": "future"
     },
     "ifmpl.com": {
-        "epoch": 1579737600.0,
-        "expiration_date": "23-jan-2020",
-        "state": "past"
+        "epoch": 1611360000.0,
+        "expiration_date": "23-jan-2021",
+        "state": "future"
     },
     "ige-xao.com": {
         "epoch": 1585267200.0,
@@ -9260,8 +9260,8 @@
         "state": "future"
     },
     "niezlasztuka.net": {
-        "epoch": 1579824000.0,
-        "expiration_date": "24-jan-2020",
+        "epoch": 1611446400.0,
+        "expiration_date": "24-jan-2021",
         "state": "future"
     },
     "nike.com": {
@@ -15295,8 +15295,8 @@
         "state": "future"
     },
     "zambrow.org": {
-        "epoch": 1579824000.0,
-        "expiration_date": "24-jan-2020",
+        "epoch": 1611446400.0,
+        "expiration_date": "24-jan-2021",
         "state": "future"
     },
     "zamek.malbork.pl": {
