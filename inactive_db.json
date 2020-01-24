@@ -1021,9 +1021,6 @@
         "1579561898": {
             "cmp.*.pl": "INVALID"
         },
-        "1579785991": {
-            "gdynia.sr.gov.pl": "INACTIVE"
-        },
         "1579790206": {
             "e-podlaskie.eu": "INACTIVE"
         },
@@ -1038,6 +1035,12 @@
         },
         "1579865710": {
             "raciborz.sr.gov.pl": "INACTIVE"
+        },
+        "1579876131": {
+            "gdynia.sr.gov.pl": "INACTIVE"
+        },
+        "1579876132": {
+            "waw.pl": "INACTIVE"
         }
     }
 }
