@@ -1021,12 +1021,6 @@
         "1579561898": {
             "cmp.*.pl": "INVALID"
         },
-        "1579953765": {
-            "raciborz.sr.gov.pl": "INACTIVE"
-        },
-        "1579953785": {
-            "chirurgia.plastyczna.eu": "INACTIVE"
-        },
         "1579957929": {
             "planeta.fm": "INACTIVE"
         },
@@ -1056,6 +1050,12 @@
         },
         "1580039774": {
             "nasze-kino.eu": "INACTIVE"
+        },
+        "1580043720": {
+            "raciborz.sr.gov.pl": "INACTIVE"
+        },
+        "1580043725": {
+            "sklep.mebloart.eu": "INACTIVE"
         }
     }
 }
