@@ -1021,22 +1021,6 @@
         "1579561898": {
             "cmp.*.pl": "INVALID"
         },
-        "1579949817": {
-            "wifiki.eu": "INACTIVE"
-        },
-        "1579949820": {
-            "forum.optymalizacja.com": "INACTIVE",
-            "osiedle-chelmonskiego.pl.tl": "INACTIVE"
-        },
-        "1579949825": {
-            "biodiv.gdos.gov.pl": "INACTIVE"
-        },
-        "1579949833": {
-            "bdl.lasy.gov.pl": "INACTIVE"
-        },
-        "1579949837": {
-            "nasze-kino.eu": "INACTIVE"
-        },
         "1579953765": {
             "raciborz.sr.gov.pl": "INACTIVE"
         },
@@ -1063,6 +1047,15 @@
         },
         "1580009935": {
             "capap.gugik.gov.pl": "INACTIVE"
+        },
+        "1580039752": {
+            "wifiki.eu": "INACTIVE"
+        },
+        "1580039768": {
+            "bdl.lasy.gov.pl": "INACTIVE"
+        },
+        "1580039774": {
+            "nasze-kino.eu": "INACTIVE"
         }
     }
 }
