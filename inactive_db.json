@@ -1021,9 +1021,6 @@
         "1579561898": {
             "cmp.*.pl": "INVALID"
         },
-        "1579920783": {
-            "sklep.antyk.org.pl": "INACTIVE"
-        },
         "1579925041": {
             "nysa.pl": "INACTIVE"
         },
@@ -1075,6 +1072,9 @@
         },
         "1580006125": {
             "transportnews.tk": "INACTIVE"
+        },
+        "1580009935": {
+            "capap.gugik.gov.pl": "INACTIVE"
         }
     }
 }
