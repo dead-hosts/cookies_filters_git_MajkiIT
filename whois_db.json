@@ -2252,7 +2252,7 @@
     "copernicuscenter.edu.pl": {
         "epoch": 1579996800.0,
         "expiration_date": "26-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "copernicusfestival.com": {
         "epoch": 1606521600.0,
@@ -2720,8 +2720,8 @@
         "state": "future"
     },
     "digitalvirgo.pl": {
-        "epoch": 1579996800.0,
-        "expiration_date": "26-jan-2020",
+        "epoch": 1643155200.0,
+        "expiration_date": "26-jan-2022",
         "state": "future"
     },
     "digitmedia.pl": {
@@ -6205,8 +6205,8 @@
         "state": "future"
     },
     "jakzalozycfirmenaukrainie.com": {
-        "epoch": 1579996800.0,
-        "expiration_date": "26-jan-2020",
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
         "state": "future"
     },
     "jamyoni.org.pl": {
@@ -14180,8 +14180,8 @@
         "state": "future"
     },
     "tygodnikzamojski.pl": {
-        "epoch": 1579996800.0,
-        "expiration_date": "26-jan-2020",
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
         "state": "future"
     },
     "tylkodywan.pl": {
