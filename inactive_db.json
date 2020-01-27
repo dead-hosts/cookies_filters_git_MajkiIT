@@ -1021,15 +1021,6 @@
         "1579561898": {
             "cmp.*.pl": "INVALID"
         },
-        "1580039752": {
-            "wifiki.eu": "INACTIVE"
-        },
-        "1580039768": {
-            "bdl.lasy.gov.pl": "INACTIVE"
-        },
-        "1580039774": {
-            "nasze-kino.eu": "INACTIVE"
-        },
         "1580043720": {
             "raciborz.sr.gov.pl": "INACTIVE"
         },
@@ -1062,6 +1053,15 @@
         },
         "1580126278": {
             "mammografia.elblag.pl": "INACTIVE"
+        },
+        "1580130070": {
+            "wifiki.eu": "INACTIVE"
+        },
+        "1580130086": {
+            "bdl.lasy.gov.pl": "INACTIVE"
+        },
+        "1580130090": {
+            "nasze-kino.eu": "INACTIVE"
         }
     }
 }
