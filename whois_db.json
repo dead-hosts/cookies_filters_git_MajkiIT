@@ -100,8 +100,8 @@
         "state": "future"
     },
     "90.pl": {
-        "epoch": 1580083200.0,
-        "expiration_date": "27-jan-2020",
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "99rent.pl": {
@@ -1040,8 +1040,8 @@
         "state": "future"
     },
     "badaniapsychologiczne.net": {
-        "epoch": 1580083200.0,
-        "expiration_date": "27-jan-2020",
+        "epoch": 1611705600.0,
+        "expiration_date": "27-jan-2021",
         "state": "future"
     },
     "badoo.com": {
@@ -7887,7 +7887,7 @@
     "mammografia.elblag.pl": {
         "epoch": 1580083200.0,
         "expiration_date": "27-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "mamnewsa.pl": {
         "epoch": 1596672000.0,
@@ -10782,7 +10782,7 @@
     "pons.com": {
         "epoch": 1580083200.0,
         "expiration_date": "27-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "popaopa.pl": {
         "epoch": 1592870400.0,
