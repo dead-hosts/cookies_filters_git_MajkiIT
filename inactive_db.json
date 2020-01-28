@@ -1021,17 +1021,6 @@
         "1579561898": {
             "cmp.*.pl": "INVALID"
         },
-        "1580107153": {
-            "60sekund.tytan.pl": "INACTIVE"
-        },
-        "1580107155": {
-            "gdynia.sr.gov.pl": "INACTIVE",
-            "nysa.pl": "INACTIVE",
-            "waw.pl": "INACTIVE"
-        },
-        "1580107180": {
-            "wroclaw.pl": "INACTIVE"
-        },
         "1580110932": {
             "studiuje.eu": "INACTIVE"
         },
@@ -1064,6 +1053,9 @@
         },
         "1580191543": {
             "sklep.visionexpress.pl": "INACTIVE"
+        },
+        "1580195649": {
+            "gdynia.sr.gov.pl": "INACTIVE"
         }
     }
 }
