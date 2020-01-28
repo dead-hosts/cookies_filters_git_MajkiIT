@@ -1021,15 +1021,6 @@
         "1579561898": {
             "cmp.*.pl": "INVALID"
         },
-        "1580130070": {
-            "wifiki.eu": "INACTIVE"
-        },
-        "1580130086": {
-            "bdl.lasy.gov.pl": "INACTIVE"
-        },
-        "1580130090": {
-            "nasze-kino.eu": "INACTIVE"
-        },
         "1580141526": {
             "raciborz.sr.gov.pl": "INACTIVE"
         },
@@ -1056,6 +1047,20 @@
         },
         "1580216203": {
             "mammografia.elblag.pl": "INACTIVE"
+        },
+        "1580219803": {
+            "aukcje.pkoleasing.pl": "INACTIVE",
+            "benchmarking.silesia.org.pl": "INACTIVE",
+            "www.mtp.pl": "INACTIVE"
+        },
+        "1580219806": {
+            "wifiki.eu": "INACTIVE"
+        },
+        "1580219822": {
+            "bdl.lasy.gov.pl": "INACTIVE"
+        },
+        "1580219827": {
+            "nasze-kino.eu": "INACTIVE"
         }
     }
 }
