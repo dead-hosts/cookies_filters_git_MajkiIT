@@ -615,8 +615,8 @@
         "state": "future"
     },
     "antywindyk.pl": {
-        "epoch": 1580169600.0,
-        "expiration_date": "28-jan-2020",
+        "epoch": 1611792000.0,
+        "expiration_date": "28-jan-2021",
         "state": "future"
     },
     "antywirus.biz": {
@@ -6890,8 +6890,8 @@
         "state": "future"
     },
     "koszyki.com": {
-        "epoch": 1580169600.0,
-        "expiration_date": "28-jan-2020",
+        "epoch": 1674864000.0,
+        "expiration_date": "28-jan-2023",
         "state": "future"
     },
     "koty24.pl": {
@@ -8377,7 +8377,7 @@
     "milk-tiger.com": {
         "epoch": 1580169600.0,
         "expiration_date": "28-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "millymally.pl": {
         "epoch": 1600473600.0,
@@ -13675,8 +13675,8 @@
         "state": "future"
     },
     "tge.com.pl": {
-        "epoch": 1580169600.0,
-        "expiration_date": "28-jan-2020",
+        "epoch": 1611792000.0,
+        "expiration_date": "28-jan-2021",
         "state": "future"
     },
     "thebushybeard.com": {
