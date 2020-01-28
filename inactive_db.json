@@ -1021,12 +1021,6 @@
         "1579561898": {
             "cmp.*.pl": "INVALID"
         },
-        "1580141526": {
-            "raciborz.sr.gov.pl": "INACTIVE"
-        },
-        "1580141564": {
-            "e-podlaskie.eu": "INACTIVE"
-        },
         "1580170655": {
             "dajnewsa.pl": "INACTIVE"
         },
@@ -1061,6 +1055,12 @@
         },
         "1580219827": {
             "nasze-kino.eu": "INACTIVE"
+        },
+        "1580230947": {
+            "raciborz.sr.gov.pl": "INACTIVE"
+        },
+        "1580230988": {
+            "gdansk.rzgw.gov.pl": "INACTIVE"
         }
     }
 }
