@@ -10790,9 +10790,9 @@
         "state": "future"
     },
     "pons.com": {
-        "epoch": 1580083200.0,
-        "expiration_date": "27-jan-2020",
-        "state": "past"
+        "epoch": 1611705600.0,
+        "expiration_date": "27-jan-2021",
+        "state": "future"
     },
     "popaopa.pl": {
         "epoch": 1592870400.0,
