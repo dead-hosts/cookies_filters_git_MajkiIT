@@ -1021,9 +1021,6 @@
         "1579561898": {
             "cmp.*.pl": "INVALID"
         },
-        "1580126278": {
-            "mammografia.elblag.pl": "INACTIVE"
-        },
         "1580130070": {
             "wifiki.eu": "INACTIVE"
         },
@@ -1056,6 +1053,9 @@
         },
         "1580199806": {
             "waw.pl": "INACTIVE"
+        },
+        "1580216203": {
+            "mammografia.elblag.pl": "INACTIVE"
         }
     }
 }
