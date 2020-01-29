@@ -1021,9 +1021,6 @@
         "1579561898": {
             "cmp.*.pl": "INVALID"
         },
-        "1580187349": {
-            "lighting.philips.pl": "INACTIVE"
-        },
         "1580191543": {
             "sklep.visionexpress.pl": "INACTIVE"
         },
@@ -1065,6 +1062,9 @@
         "1580265453": {
             "amrest.eu": "INACTIVE",
             "klodzko24.eu": "INACTIVE"
+        },
+        "1580276398": {
+            "programtv.naziemna.info": "INACTIVE"
         }
     }
 }
