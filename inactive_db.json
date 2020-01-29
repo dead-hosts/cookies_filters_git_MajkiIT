@@ -1021,9 +1021,6 @@
         "1579561898": {
             "cmp.*.pl": "INVALID"
         },
-        "1580216203": {
-            "mammografia.elblag.pl": "INACTIVE"
-        },
         "1580219803": {
             "aukcje.pkoleasing.pl": "INACTIVE",
             "benchmarking.silesia.org.pl": "INACTIVE",
@@ -1064,6 +1061,9 @@
         },
         "1580297551": {
             "fabrykazabawek.eu": "INACTIVE"
+        },
+        "1580304411": {
+            "mammografia.elblag.pl": "INACTIVE"
         }
     }
 }
