@@ -1021,9 +1021,6 @@
         "1579561898": {
             "cmp.*.pl": "INVALID"
         },
-        "1580170655": {
-            "dajnewsa.pl": "INACTIVE"
-        },
         "1580178969": {
             "promocja.chojnow.eu": "INACTIVE"
         },
@@ -1061,6 +1058,9 @@
         },
         "1580230988": {
             "gdansk.rzgw.gov.pl": "INACTIVE"
+        },
+        "1580257726": {
+            "dajnewsa.pl": "INACTIVE"
         }
     }
 }
