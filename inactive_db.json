@@ -1024,9 +1024,6 @@
         "1580230988": {
             "gdansk.rzgw.gov.pl": "INACTIVE"
         },
-        "1580276398": {
-            "programtv.naziemna.info": "INACTIVE"
-        },
         "1580291025": {
             "forum.benchmark.pl": "INACTIVE",
             "forum.radioparty.pl": "INACTIVE",
@@ -1070,6 +1067,14 @@
             "kamienieczabkowicki.eu": "INACTIVE",
             "kreatywna-europa.eu": "INACTIVE",
             "ponglish.eu": "INACTIVE"
+        },
+        "1580366392": {
+            "baldauf-kaese.de": "INACTIVE",
+            "europeana.eu": "INACTIVE",
+            "forum.optymalizacja.com": "INACTIVE",
+            "ftt.roto-frank.com": "INACTIVE",
+            "osiedle-chelmonskiego.pl.tl": "INACTIVE",
+            "techsklep.eu": "INACTIVE"
         }
     }
 }
