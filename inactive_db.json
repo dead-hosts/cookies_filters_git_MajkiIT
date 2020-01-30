@@ -1024,18 +1024,6 @@
         "1580230988": {
             "gdansk.rzgw.gov.pl": "INACTIVE"
         },
-        "1580304411": {
-            "mammografia.elblag.pl": "INACTIVE"
-        },
-        "1580307457": {
-            "wifiki.eu": "INACTIVE"
-        },
-        "1580307473": {
-            "bdl.lasy.gov.pl": "INACTIVE"
-        },
-        "1580307478": {
-            "nasze-kino.eu": "INACTIVE"
-        },
         "1580320953": {
             "gdynia.sr.gov.pl": "INACTIVE"
         },
@@ -1086,6 +1074,15 @@
         },
         "1580381971": {
             "dobrebistro.eatbu.com": "INACTIVE"
+        },
+        "1580394699": {
+            "wifiki.eu": "INACTIVE"
+        },
+        "1580394720": {
+            "nasze-kino.eu": "INACTIVE"
+        },
+        "1580394721": {
+            "mammografia.elblag.pl": "INACTIVE"
         }
     }
 }
