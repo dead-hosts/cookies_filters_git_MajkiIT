@@ -1024,9 +1024,6 @@
         "1580230988": {
             "gdansk.rzgw.gov.pl": "INACTIVE"
         },
-        "1580257726": {
-            "dajnewsa.pl": "INACTIVE"
-        },
         "1580265439": {
             "60sekund.tytan.pl": "INACTIVE"
         },
@@ -1062,6 +1059,9 @@
         },
         "1580320959": {
             "raciborz.sr.gov.pl": "INACTIVE"
+        },
+        "1580347251": {
+            "dajnewsa.pl": "INACTIVE"
         }
     }
 }
