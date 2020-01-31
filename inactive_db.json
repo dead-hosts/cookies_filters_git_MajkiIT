@@ -1024,15 +1024,6 @@
         "1580230988": {
             "gdansk.rzgw.gov.pl": "INACTIVE"
         },
-        "1580394699": {
-            "wifiki.eu": "INACTIVE"
-        },
-        "1580394720": {
-            "nasze-kino.eu": "INACTIVE"
-        },
-        "1580394721": {
-            "mammografia.elblag.pl": "INACTIVE"
-        },
         "1580398894": {
             "bdl.lasy.gov.pl": "INACTIVE"
         },
@@ -1110,6 +1101,15 @@
             "cdn.ampproject.org": "INACTIVE",
             "portal.legnica.eu": "INACTIVE",
             "sklep.genos.com.pl": "INACTIVE"
+        },
+        "1580483869": {
+            "wifiki.eu": "INACTIVE"
+        },
+        "1580483889": {
+            "nasze-kino.eu": "INACTIVE"
+        },
+        "1580483890": {
+            "mammografia.elblag.pl": "INACTIVE"
         }
     }
 }
