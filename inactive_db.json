@@ -1024,12 +1024,6 @@
         "1580230988": {
             "gdansk.rzgw.gov.pl": "INACTIVE"
         },
-        "1580358639": {
-            "andrychow.eu": "INACTIVE",
-            "kamienieczabkowicki.eu": "INACTIVE",
-            "kreatywna-europa.eu": "INACTIVE",
-            "ponglish.eu": "INACTIVE"
-        },
         "1580366392": {
             "baldauf-kaese.de": "INACTIVE",
             "europeana.eu": "INACTIVE",
@@ -1113,6 +1107,12 @@
             "recepcja.visionexpress.pl": "INACTIVE",
             "sklep.antyk.org.pl": "INACTIVE",
             "sklep.visionexpress.pl": "INACTIVE"
+        },
+        "1580448947": {
+            "51015kids.eu": "INACTIVE"
+        },
+        "1580448958": {
+            "amrest.eu": "INACTIVE"
         }
     }
 }
