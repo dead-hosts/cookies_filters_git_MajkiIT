@@ -1024,9 +1024,6 @@
         "1580230988": {
             "gdansk.rzgw.gov.pl": "INACTIVE"
         },
-        "1580347251": {
-            "dajnewsa.pl": "INACTIVE"
-        },
         "1580354882": {
             "60sekund.tytan.pl": "INACTIVE"
         },
@@ -1116,6 +1113,9 @@
             "pl.plsn.eu": "INACTIVE",
             "rpo.pomorskie.eu": "INACTIVE",
             "wiatraczek.nl": "INACTIVE"
+        },
+        "1580437122": {
+            "dajnewsa.pl": "INACTIVE"
         }
     }
 }
