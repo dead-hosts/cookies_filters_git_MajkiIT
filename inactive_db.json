@@ -1024,15 +1024,6 @@
         "1580230988": {
             "gdansk.rzgw.gov.pl": "INACTIVE"
         },
-        "1580354882": {
-            "60sekund.tytan.pl": "INACTIVE"
-        },
-        "1580354887": {
-            "lighting.philips.pl": "INACTIVE"
-        },
-        "1580354892": {
-            "bip.um.rybnik.eu": "INACTIVE"
-        },
         "1580358639": {
             "andrychow.eu": "INACTIVE",
             "kamienieczabkowicki.eu": "INACTIVE",
@@ -1116,6 +1107,12 @@
         },
         "1580437122": {
             "dajnewsa.pl": "INACTIVE"
+        },
+        "1580444855": {
+            "miechow.eu": "INACTIVE",
+            "recepcja.visionexpress.pl": "INACTIVE",
+            "sklep.antyk.org.pl": "INACTIVE",
+            "sklep.visionexpress.pl": "INACTIVE"
         }
     }
 }
