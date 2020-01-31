@@ -192,7 +192,7 @@
     "addnature.pl": {
         "epoch": 1580428800.0,
         "expiration_date": "31-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "addthis.com": {
         "epoch": 1590364800.0,
@@ -460,8 +460,8 @@
         "state": "future"
     },
     "allekoszyk.pl": {
-        "epoch": 1580428800.0,
-        "expiration_date": "31-jan-2020",
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
         "state": "future"
     },
     "alles-bhp.pl": {
@@ -3480,8 +3480,8 @@
         "state": "future"
     },
     "ekspedyt.org": {
-        "epoch": 1580428800.0,
-        "expiration_date": "31-jan-2020",
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
         "state": "future"
     },
     "ekstraklasa.org": {
@@ -8675,8 +8675,8 @@
         "state": "future"
     },
     "mooodstudio.com": {
-        "epoch": 1580428800.0,
-        "expiration_date": "31-jan-2020",
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
         "state": "future"
     },
     "morele.net": {
@@ -8917,7 +8917,7 @@
     "muzykoholicy.com": {
         "epoch": 1580428800.0,
         "expiration_date": "31-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "myadventure.com.pl": {
         "epoch": 1583798400.0,
