@@ -1024,12 +1024,6 @@
         "1580230988": {
             "gdansk.rzgw.gov.pl": "INACTIVE"
         },
-        "1580374128": {
-            "olsztyn.eu": "INACTIVE"
-        },
-        "1580374136": {
-            "parafiabrzezinka.eu": "INACTIVE"
-        },
         "1580381960": {
             "grupaimage.eu": "INACTIVE",
             "rafalbil.eu": "INACTIVE"
@@ -1111,6 +1105,13 @@
         },
         "1580460452": {
             "wordlist.eu": "INACTIVE"
+        },
+        "1580464658": {
+            "60sekund.tytan.pl": "INACTIVE"
+        },
+        "1580464666": {
+            "pl.fotolia.com": "INACTIVE",
+            "www.unilever.pl": "INACTIVE"
         }
     }
 }
