@@ -1024,12 +1024,6 @@
         "1580230988": {
             "gdansk.rzgw.gov.pl": "INACTIVE"
         },
-        "1580370361": {
-            "programtv.naziemna.info": "INACTIVE"
-        },
-        "1580370368": {
-            "blog.j-labs.pl": "INACTIVE"
-        },
         "1580374128": {
             "olsztyn.eu": "INACTIVE"
         },
@@ -1114,6 +1108,9 @@
         },
         "1580456735": {
             "fabrykazabawek.eu": "INACTIVE"
+        },
+        "1580460452": {
+            "wordlist.eu": "INACTIVE"
         }
     }
 }
