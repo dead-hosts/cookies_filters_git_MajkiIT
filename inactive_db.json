@@ -1024,13 +1024,6 @@
         "1580230988": {
             "gdansk.rzgw.gov.pl": "INACTIVE"
         },
-        "1580381960": {
-            "grupaimage.eu": "INACTIVE",
-            "rafalbil.eu": "INACTIVE"
-        },
-        "1580381971": {
-            "dobrebistro.eatbu.com": "INACTIVE"
-        },
         "1580394699": {
             "wifiki.eu": "INACTIVE"
         },
@@ -1112,6 +1105,11 @@
         "1580464666": {
             "pl.fotolia.com": "INACTIVE",
             "www.unilever.pl": "INACTIVE"
+        },
+        "1580472424": {
+            "cdn.ampproject.org": "INACTIVE",
+            "portal.legnica.eu": "INACTIVE",
+            "sklep.genos.com.pl": "INACTIVE"
         }
     }
 }
