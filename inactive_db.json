@@ -1024,19 +1024,6 @@
         "1580230988": {
             "gdansk.rzgw.gov.pl": "INACTIVE"
         },
-        "1580433286": {
-            "waw.pl": "INACTIVE",
-            "wielkopolska.eu": "INACTIVE"
-        },
-        "1580433293": {
-            "lokalny.eu": "INACTIVE",
-            "pl.plsn.eu": "INACTIVE",
-            "rpo.pomorskie.eu": "INACTIVE",
-            "wiatraczek.nl": "INACTIVE"
-        },
-        "1580437122": {
-            "dajnewsa.pl": "INACTIVE"
-        },
         "1580444855": {
             "miechow.eu": "INACTIVE",
             "recepcja.visionexpress.pl": "INACTIVE",
@@ -1116,6 +1103,9 @@
         "1580519719": {
             "akademie.elring.de": "INACTIVE",
             "inwex.eu": "INACTIVE"
+        },
+        "1580523779": {
+            "dajnewsa.pl": "INACTIVE"
         }
     }
 }
