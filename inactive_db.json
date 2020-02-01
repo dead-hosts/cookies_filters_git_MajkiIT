@@ -1024,11 +1024,6 @@
         "1580230988": {
             "gdansk.rzgw.gov.pl": "INACTIVE"
         },
-        "1580472424": {
-            "cdn.ampproject.org": "INACTIVE",
-            "portal.legnica.eu": "INACTIVE",
-            "sklep.genos.com.pl": "INACTIVE"
-        },
         "1580483869": {
             "wifiki.eu": "INACTIVE"
         },
@@ -1088,6 +1083,18 @@
             "olsztyn.eu": "INACTIVE",
             "programtv.naziemna.info": "INACTIVE",
             "rafalbil.eu": "INACTIVE"
+        },
+        "1580562598": {
+            "60sekund.tytan.pl": "INACTIVE"
+        },
+        "1580562606": {
+            "blog.j-labs.pl": "INACTIVE",
+            "miechow.eu": "INACTIVE",
+            "recepcja.visionexpress.pl": "INACTIVE",
+            "shop.ticketpro.pl": "INACTIVE",
+            "sklep.antyk.org.pl": "INACTIVE",
+            "sklep.kutnik.com.pl": "INACTIVE",
+            "sklep.visionexpress.pl": "INACTIVE"
         }
     }
 }
