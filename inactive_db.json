@@ -1024,9 +1024,6 @@
         "1580230988": {
             "gdansk.rzgw.gov.pl": "INACTIVE"
         },
-        "1580487810": {
-            "bdl.lasy.gov.pl": "INACTIVE"
-        },
         "1580507783": {
             "obserwatore.eu": "INACTIVE",
             "piaseczno.eu": "INACTIVE",
@@ -1095,6 +1092,12 @@
         },
         "1580574012": {
             "mammografia.elblag.pl": "INACTIVE"
+        },
+        "1580577833": {
+            "decoratorium.eu": "INACTIVE"
+        },
+        "1580577839": {
+            "forum.optymalizacja.com": "INACTIVE"
         }
     }
 }
