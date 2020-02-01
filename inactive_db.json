@@ -1024,22 +1024,6 @@
         "1580230988": {
             "gdansk.rzgw.gov.pl": "INACTIVE"
         },
-        "1580507783": {
-            "obserwatore.eu": "INACTIVE",
-            "piaseczno.eu": "INACTIVE",
-            "polako.eu": "INACTIVE",
-            "settlersonlinewiki.eu": "INACTIVE",
-            "urbanium.eu": "INACTIVE"
-        },
-        "1580507785": {
-            "gdynia.sr.gov.pl": "INACTIVE"
-        },
-        "1580507792": {
-            "zs1mm.home.pl": "INACTIVE"
-        },
-        "1580507811": {
-            "tvdami.eu": "INACTIVE"
-        },
         "1580511622": {
             "benchmarking.silesia.org.pl": "INACTIVE",
             "nysa.pl": "INACTIVE",
@@ -1109,6 +1093,13 @@
             "eurolines.de": "INACTIVE",
             "europeana.eu": "INACTIVE",
             "techsklep.eu": "INACTIVE"
+        },
+        "1580597453": {
+            "aukcje.pkoleasing.pl": "INACTIVE",
+            "gdynia.sr.gov.pl": "INACTIVE"
+        },
+        "1580597459": {
+            "sklep.genos.com.pl": "INACTIVE"
         }
     }
 }
