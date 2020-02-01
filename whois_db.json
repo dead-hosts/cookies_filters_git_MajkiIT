@@ -1452,7 +1452,7 @@
     "blog-pozyczoneiniebieskie.pl": {
         "epoch": 1580515200.0,
         "expiration_date": "01-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "blog4u.pl": {
         "epoch": 1651968000.0,
@@ -3375,8 +3375,8 @@
         "state": "future"
     },
     "edeklaracje.info": {
-        "epoch": 1580515200.0,
-        "expiration_date": "01-feb-2020",
+        "epoch": 1612137600.0,
+        "expiration_date": "01-feb-2021",
         "state": "future"
     },
     "edimax.pl": {
@@ -5387,7 +5387,7 @@
     "heineken.com.pl": {
         "epoch": 1580515200.0,
         "expiration_date": "01-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "helikon-tex.com": {
         "epoch": 1583452800.0,
@@ -6885,8 +6885,8 @@
         "state": "future"
     },
     "koszulkolandia.com": {
-        "epoch": 1580515200.0,
-        "expiration_date": "01-feb-2020",
+        "epoch": 1612137600.0,
+        "expiration_date": "01-feb-2021",
         "state": "future"
     },
     "koszyki.com": {
@@ -9145,8 +9145,8 @@
         "state": "future"
     },
     "nespresso.com": {
-        "epoch": 1580515200.0,
-        "expiration_date": "01-feb-2020",
+        "epoch": 1612137600.0,
+        "expiration_date": "01-feb-2021",
         "state": "future"
     },
     "nessi-sport.com": {
@@ -10415,8 +10415,8 @@
         "state": "future"
     },
     "pks-leszno.pl": {
-        "epoch": 1580515200.0,
-        "expiration_date": "01-feb-2020",
+        "epoch": 1612137600.0,
+        "expiration_date": "01-feb-2021",
         "state": "future"
     },
     "pks.elblag.pl": {

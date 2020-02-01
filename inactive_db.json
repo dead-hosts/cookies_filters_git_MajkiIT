@@ -1024,19 +1024,6 @@
         "1580230988": {
             "gdansk.rzgw.gov.pl": "INACTIVE"
         },
-        "1580425597": {
-            "rozmowy.eu": "INACTIVE",
-            "skwerwolnosci.eu": "INACTIVE",
-            "skymaster.de": "INACTIVE",
-            "sp8obe.eu": "INACTIVE",
-            "szpitalepomorskie.eu": "INACTIVE"
-        },
-        "1580425605": {
-            "www.knorr.pl": "INACTIVE"
-        },
-        "1580425610": {
-            "www.sygnity.pl": "INACTIVE"
-        },
         "1580433286": {
             "waw.pl": "INACTIVE",
             "wielkopolska.eu": "INACTIVE"
@@ -1119,6 +1106,9 @@
             "nysa.pl": "INACTIVE",
             "radioznin.fm": "INACTIVE",
             "www.mtp.pl": "INACTIVE"
+        },
+        "1580515810": {
+            "airkiosk.lot.com": "INACTIVE"
         }
     }
 }
