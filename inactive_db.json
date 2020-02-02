@@ -1024,12 +1024,6 @@
         "1580230988": {
             "gdansk.rzgw.gov.pl": "INACTIVE"
         },
-        "1580511622": {
-            "benchmarking.silesia.org.pl": "INACTIVE",
-            "nysa.pl": "INACTIVE",
-            "radioznin.fm": "INACTIVE",
-            "www.mtp.pl": "INACTIVE"
-        },
         "1580515810": {
             "airkiosk.lot.com": "INACTIVE"
         },
@@ -1100,6 +1094,15 @@
         },
         "1580597459": {
             "sklep.genos.com.pl": "INACTIVE"
+        },
+        "1580602005": {
+            "nysa.pl": "INACTIVE",
+            "radioznin.fm": "INACTIVE",
+            "wielkopolska.eu": "INACTIVE",
+            "www.mtp.pl": "INACTIVE"
+        },
+        "1580602016": {
+            "biodiv.gdos.gov.pl": "INACTIVE"
         }
     }
 }
