@@ -1024,15 +1024,6 @@
         "1580230988": {
             "gdansk.rzgw.gov.pl": "INACTIVE"
         },
-        "1580573990": {
-            "wifiki.eu": "INACTIVE"
-        },
-        "1580574011": {
-            "nasze-kino.eu": "INACTIVE"
-        },
-        "1580574012": {
-            "mammografia.elblag.pl": "INACTIVE"
-        },
         "1580577833": {
             "decoratorium.eu": "INACTIVE"
         },
@@ -1109,6 +1100,13 @@
             "andrespol.bip.cc": "INACTIVE",
             "bip.chorzow.eu": "INACTIVE",
             "ug.tomaszow.maz.bip.cc": "INACTIVE"
+        },
+        "1580661018": {
+            "wifiki.eu": "INACTIVE"
+        },
+        "1580661040": {
+            "mammografia.elblag.pl": "INACTIVE",
+            "nasze-kino.eu": "INACTIVE"
         }
     }
 }
