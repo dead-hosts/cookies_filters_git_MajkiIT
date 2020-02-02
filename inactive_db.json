@@ -1024,9 +1024,6 @@
         "1580230988": {
             "gdansk.rzgw.gov.pl": "INACTIVE"
         },
-        "1580523779": {
-            "dajnewsa.pl": "INACTIVE"
-        },
         "1580558578": {
             "fabrykazabawek.eu": "INACTIVE",
             "grupaimage.eu": "INACTIVE",
@@ -1093,6 +1090,9 @@
         },
         "1580642025": {
             "bioenergiadlaregionu.eu": "INACTIVE"
+        },
+        "1580644182": {
+            "dajnewsa.pl": "INACTIVE"
         }
     }
 }
