@@ -1024,9 +1024,6 @@
         "1580230988": {
             "gdansk.rzgw.gov.pl": "INACTIVE"
         },
-        "1580646246": {
-            "zs1mm.home.pl": "INACTIVE"
-        },
         "1580648339": {
             "welcome2poland.eu": "INACTIVE"
         },
@@ -1119,6 +1116,15 @@
         },
         "1580731028": {
             "dajnewsa.pl": "INACTIVE"
+        },
+        "1580734964": {
+            "radioznin.fm": "INACTIVE",
+            "waw.pl": "INACTIVE",
+            "www.mtp.pl": "INACTIVE"
+        },
+        "1580734977": {
+            "kamienieczabkowicki.eu": "INACTIVE",
+            "kreatywna-europa.eu": "INACTIVE"
         }
     }
 }
