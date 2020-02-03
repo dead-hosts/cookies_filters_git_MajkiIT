@@ -1024,15 +1024,6 @@
         "1580230988": {
             "gdansk.rzgw.gov.pl": "INACTIVE"
         },
-        "1580642019": {
-            "waw.pl": "INACTIVE"
-        },
-        "1580642025": {
-            "bioenergiadlaregionu.eu": "INACTIVE"
-        },
-        "1580644182": {
-            "dajnewsa.pl": "INACTIVE"
-        },
         "1580646246": {
             "zs1mm.home.pl": "INACTIVE"
         },
@@ -1125,6 +1116,9 @@
         },
         "1580720267": {
             "sklep.genos.com.pl": "INACTIVE"
+        },
+        "1580731028": {
+            "dajnewsa.pl": "INACTIVE"
         }
     }
 }
