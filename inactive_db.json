@@ -1024,9 +1024,6 @@
         "1580230988": {
             "gdansk.rzgw.gov.pl": "INACTIVE"
         },
-        "1580672144": {
-            "bdl.lasy.gov.pl": "INACTIVE"
-        },
         "1580674944": {
             "fabrykazabawek.eu": "INACTIVE"
         },
@@ -1092,6 +1089,9 @@
         },
         "1580751110": {
             "mammografia.elblag.pl": "INACTIVE"
+        },
+        "1580759162": {
+            "raciborz.sr.gov.pl": "INACTIVE"
         }
     }
 }
