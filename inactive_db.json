@@ -1024,13 +1024,6 @@
         "1580230988": {
             "gdansk.rzgw.gov.pl": "INACTIVE"
         },
-        "1580661018": {
-            "wifiki.eu": "INACTIVE"
-        },
-        "1580661040": {
-            "mammografia.elblag.pl": "INACTIVE",
-            "nasze-kino.eu": "INACTIVE"
-        },
         "1580666467": {
             "dobrebistro.eatbu.com": "INACTIVE"
         },
@@ -1093,6 +1086,15 @@
         "1580734977": {
             "kamienieczabkowicki.eu": "INACTIVE",
             "kreatywna-europa.eu": "INACTIVE"
+        },
+        "1580751088": {
+            "wifiki.eu": "INACTIVE"
+        },
+        "1580751109": {
+            "nasze-kino.eu": "INACTIVE"
+        },
+        "1580751110": {
+            "mammografia.elblag.pl": "INACTIVE"
         }
     }
 }
