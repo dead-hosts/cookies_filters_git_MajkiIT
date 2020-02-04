@@ -1024,9 +1024,6 @@
         "1580230988": {
             "gdansk.rzgw.gov.pl": "INACTIVE"
         },
-        "1580720267": {
-            "sklep.genos.com.pl": "INACTIVE"
-        },
         "1580731028": {
             "dajnewsa.pl": "INACTIVE"
         },
@@ -1059,6 +1056,15 @@
             "osiedle-chelmonskiego.pl.tl": "INACTIVE",
             "pl.kingofsat.net": "INACTIVE",
             "sachsen-tourismus.de": "INACTIVE"
+        },
+        "1580807370": {
+            "blog.j-labs.pl": "INACTIVE",
+            "miechow.eu": "INACTIVE",
+            "recepcja.visionexpress.pl": "INACTIVE",
+            "shop.ticketpro.pl": "INACTIVE",
+            "sklep.antyk.org.pl": "INACTIVE",
+            "sklep.kutnik.com.pl": "INACTIVE",
+            "sklep.visionexpress.pl": "INACTIVE"
         }
     }
 }
