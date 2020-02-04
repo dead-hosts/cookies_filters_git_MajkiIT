@@ -1024,15 +1024,6 @@
         "1580230988": {
             "gdansk.rzgw.gov.pl": "INACTIVE"
         },
-        "1580751088": {
-            "wifiki.eu": "INACTIVE"
-        },
-        "1580751109": {
-            "nasze-kino.eu": "INACTIVE"
-        },
-        "1580751110": {
-            "mammografia.elblag.pl": "INACTIVE"
-        },
         "1580759162": {
             "raciborz.sr.gov.pl": "INACTIVE"
         },
@@ -1072,6 +1063,15 @@
         },
         "1580823875": {
             "antenki.eu": "INACTIVE"
+        },
+        "1580839976": {
+            "wifiki.eu": "INACTIVE"
+        },
+        "1580839998": {
+            "nasze-kino.eu": "INACTIVE"
+        },
+        "1580839999": {
+            "mammografia.elblag.pl": "INACTIVE"
         }
     }
 }
