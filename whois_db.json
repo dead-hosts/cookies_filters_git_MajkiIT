@@ -290,8 +290,8 @@
         "state": "future"
     },
     "agencjagazeta.pl": {
-        "epoch": 1580774400.0,
-        "expiration_date": "04-feb-2020",
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
         "state": "future"
     },
     "agmar.com": {
@@ -315,8 +315,8 @@
         "state": "future"
     },
     "agusto.pl": {
-        "epoch": 1580774400.0,
-        "expiration_date": "04-feb-2020",
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
         "state": "future"
     },
     "ahrefs.com": {
@@ -825,8 +825,8 @@
         "state": "future"
     },
     "atlascopco.com": {
-        "epoch": 1580774400.0,
-        "expiration_date": "04-feb-2020",
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
         "state": "future"
     },
     "atomic.com": {
@@ -6652,7 +6652,7 @@
     "klockolandia.pl": {
         "epoch": 1580774400.0,
         "expiration_date": "04-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "klubjagiellonski.pl": {
         "epoch": 1588118400.0,
@@ -9665,8 +9665,8 @@
         "state": "future"
     },
     "olimpijski.pl": {
-        "epoch": 1580774400.0,
-        "expiration_date": "04-feb-2020",
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
         "state": "future"
     },
     "olimpsport.com": {
@@ -10127,7 +10127,7 @@
     "patentujemy.com": {
         "epoch": 1580774400.0,
         "expiration_date": "04-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "patronite.pl": {
         "epoch": 1593907200.0,

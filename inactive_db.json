@@ -1024,14 +1024,6 @@
         "1580230988": {
             "gdansk.rzgw.gov.pl": "INACTIVE"
         },
-        "1580688301": {
-            "pl.plsn.eu": "INACTIVE",
-            "rpo.pomorskie.eu": "INACTIVE"
-        },
-        "1580688305": {
-            "amrest.eu": "INACTIVE",
-            "klodzko24.eu": "INACTIVE"
-        },
         "1580704126": {
             "aukcje.pkoleasing.pl": "INACTIVE",
             "benchmarking.silesia.org.pl": "INACTIVE",
@@ -1073,6 +1065,9 @@
         },
         "1580759162": {
             "raciborz.sr.gov.pl": "INACTIVE"
+        },
+        "1580775747": {
+            "nysa.pl": "INACTIVE"
         }
     }
 }
