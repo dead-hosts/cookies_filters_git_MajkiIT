@@ -1024,9 +1024,6 @@
         "1580230988": {
             "gdansk.rzgw.gov.pl": "INACTIVE"
         },
-        "1580819837": {
-            "dajnewsa.pl": "INACTIVE"
-        },
         "1580823875": {
             "antenki.eu": "INACTIVE"
         },
@@ -1065,6 +1062,9 @@
             "pl.kingofsat.net": "INACTIVE",
             "sachsen-tourismus.de": "INACTIVE",
             "techsklep.eu": "INACTIVE"
+        },
+        "1580908680": {
+            "dajnewsa.pl": "INACTIVE"
         }
     }
 }
