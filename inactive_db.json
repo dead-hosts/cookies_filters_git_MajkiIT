@@ -1024,15 +1024,6 @@
         "1580230988": {
             "gdansk.rzgw.gov.pl": "INACTIVE"
         },
-        "1580807370": {
-            "blog.j-labs.pl": "INACTIVE",
-            "miechow.eu": "INACTIVE",
-            "recepcja.visionexpress.pl": "INACTIVE",
-            "shop.ticketpro.pl": "INACTIVE",
-            "sklep.antyk.org.pl": "INACTIVE",
-            "sklep.kutnik.com.pl": "INACTIVE",
-            "sklep.visionexpress.pl": "INACTIVE"
-        },
         "1580811179": {
             "aukcje.pkoleasing.pl": "INACTIVE",
             "benchmarking.silesia.org.pl": "INACTIVE",
@@ -1074,6 +1065,19 @@
             "pl.plsn.eu": "INACTIVE",
             "rpo.pomorskie.eu": "INACTIVE",
             "wiatraczek.nl": "INACTIVE"
+        },
+        "1580897221": {
+            "forum.radioparty.pl": "INACTIVE"
+        },
+        "1580897227": {
+            "baldauf-kaese.de": "INACTIVE",
+            "eurolines.de": "INACTIVE",
+            "forum.optymalizacja.com": "INACTIVE",
+            "ftt.roto-frank.com": "INACTIVE",
+            "osiedle-chelmonskiego.pl.tl": "INACTIVE",
+            "pl.kingofsat.net": "INACTIVE",
+            "sachsen-tourismus.de": "INACTIVE",
+            "techsklep.eu": "INACTIVE"
         }
     }
 }
