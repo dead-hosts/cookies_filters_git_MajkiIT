@@ -1024,9 +1024,6 @@
         "1580230988": {
             "gdansk.rzgw.gov.pl": "INACTIVE"
         },
-        "1580908680": {
-            "dajnewsa.pl": "INACTIVE"
-        },
         "1580912779": {
             "urbanium.eu": "INACTIVE"
         },
@@ -1058,6 +1055,9 @@
         },
         "1580993484": {
             "bdl.lasy.gov.pl": "INACTIVE"
+        },
+        "1580997156": {
+            "dajnewsa.pl": "INACTIVE"
         }
     }
 }
