@@ -1024,16 +1024,6 @@
         "1580230988": {
             "gdansk.rzgw.gov.pl": "INACTIVE"
         },
-        "1580860312": {
-            "waw.pl": "INACTIVE",
-            "www.mtp.pl": "INACTIVE"
-        },
-        "1580860319": {
-            "lokalny.eu": "INACTIVE",
-            "pl.plsn.eu": "INACTIVE",
-            "rpo.pomorskie.eu": "INACTIVE",
-            "wiatraczek.nl": "INACTIVE"
-        },
         "1580897221": {
             "forum.radioparty.pl": "INACTIVE"
         },
@@ -1067,6 +1057,13 @@
         },
         "1580932167": {
             "raciborz.sr.gov.pl": "INACTIVE"
+        },
+        "1580948336": {
+            "fabrykazabawek.eu": "INACTIVE",
+            "grupaimage.eu": "INACTIVE",
+            "olsztyn.eu": "INACTIVE",
+            "programtv.naziemna.info": "INACTIVE",
+            "rafalbil.eu": "INACTIVE"
         }
     }
 }
