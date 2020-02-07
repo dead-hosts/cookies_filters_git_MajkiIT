@@ -627,7 +627,7 @@
     "anydesk.com": {
         "epoch": 1581033600.0,
         "expiration_date": "07-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "apartamentychorwacja.pl": {
         "epoch": 1597881600.0,
@@ -1790,8 +1790,8 @@
         "state": "future"
     },
     "buyblo.com": {
-        "epoch": 1581033600.0,
-        "expiration_date": "07-feb-2020",
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
         "state": "future"
     },
     "buziak.pl": {
@@ -2180,8 +2180,8 @@
         "state": "future"
     },
     "cojestgrane.pl": {
-        "epoch": 1581033600.0,
-        "expiration_date": "07-feb-2020",
+        "epoch": 1600214400.0,
+        "expiration_date": "16-sep-2020",
         "state": "future"
     },
     "colores.pl": {
@@ -4617,7 +4617,7 @@
     "galeriaveneda.com.pl": {
         "epoch": 1581033600.0,
         "expiration_date": "07-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "gamedot.pl": {
         "epoch": 1583712000.0,
@@ -10670,8 +10670,8 @@
         "state": "future"
     },
     "polonuspartner.pl": {
-        "epoch": 1581033600.0,
-        "expiration_date": "07-feb-2020",
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
         "state": "future"
     },
     "polopiryna.pl": {
@@ -12670,8 +12670,8 @@
         "state": "future"
     },
     "sokolka.com.pl": {
-        "epoch": 1581033600.0,
-        "expiration_date": "07-feb-2020",
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
         "state": "future"
     },
     "sokolow.pl": {
