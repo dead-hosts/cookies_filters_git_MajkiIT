@@ -3089,6 +3089,11 @@
         "expiration_date": "26-jun-2020",
         "state": "future"
     },
+    "dzialoszyn.pl": {
+        "epoch": 1589673600.0,
+        "expiration_date": "17-may-2020",
+        "state": "future"
+    },
     "dziary.com": {
         "epoch": 1634083200.0,
         "expiration_date": "13-oct-2021",
@@ -11100,8 +11105,8 @@
         "state": "future"
     },
     "programatory.com": {
-        "epoch": 1580860800.0,
-        "expiration_date": "05-feb-2020",
+        "epoch": 1644019200.0,
+        "expiration_date": "05-feb-2022",
         "state": "future"
     },
     "programistka.com": {
