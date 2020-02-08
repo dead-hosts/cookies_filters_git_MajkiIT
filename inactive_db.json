@@ -1030,10 +1030,6 @@
         "1581018719": {
             "mammografia.elblag.pl": "INACTIVE"
         },
-        "1581112727": {
-            "nysa.pl": "INACTIVE",
-            "wielkopolska.eu": "INACTIVE"
-        },
         "1581123992": {
             "waw.pl": "INACTIVE",
             "www.mtp.pl": "INACTIVE"
@@ -1085,6 +1081,14 @@
         },
         "1581195758": {
             "nasze-kino.eu": "INACTIVE"
+        },
+        "1581203500": {
+            "aukcje.pkoleasing.pl": "INACTIVE",
+            "benchmarking.silesia.org.pl": "INACTIVE",
+            "decoratorium.eu": "INACTIVE",
+            "nysa.pl": "INACTIVE",
+            "radioznin.fm": "INACTIVE",
+            "wielkopolska.eu": "INACTIVE"
         }
     }
 }
