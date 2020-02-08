@@ -1030,9 +1030,6 @@
         "1581018719": {
             "mammografia.elblag.pl": "INACTIVE"
         },
-        "1581085154": {
-            "bdl.lasy.gov.pl": "INACTIVE"
-        },
         "1581106526": {
             "wifiki.eu": "INACTIVE"
         },
@@ -1069,6 +1066,16 @@
         "1581152567": {
             "wordlist.eu": "INACTIVE",
             "zs1mm.home.pl": "INACTIVE"
+        },
+        "1581172213": {
+            "60sekund.tytan.pl": "INACTIVE"
+        },
+        "1581172221": {
+            "pl.fotolia.com": "INACTIVE",
+            "www.unilever.pl": "INACTIVE"
+        },
+        "1581172226": {
+            "www.sygnity.pl": "INACTIVE"
         }
     }
 }
