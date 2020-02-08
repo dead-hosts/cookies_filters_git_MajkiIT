@@ -1030,12 +1030,6 @@
         "1581018719": {
             "mammografia.elblag.pl": "INACTIVE"
         },
-        "1581106526": {
-            "wifiki.eu": "INACTIVE"
-        },
-        "1581106548": {
-            "nasze-kino.eu": "INACTIVE"
-        },
         "1581112727": {
             "nysa.pl": "INACTIVE",
             "wielkopolska.eu": "INACTIVE"
@@ -1085,6 +1079,12 @@
         },
         "1581179979": {
             "mail.bremex.pl": "INACTIVE"
+        },
+        "1581195736": {
+            "wifiki.eu": "INACTIVE"
+        },
+        "1581195758": {
+            "nasze-kino.eu": "INACTIVE"
         }
     }
 }
