@@ -842,7 +842,7 @@
     "atramentowka.com": {
         "epoch": 1581292800.0,
         "expiration_date": "10-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "atskaner.pl": {
         "epoch": 1715904000.0,
@@ -2247,7 +2247,7 @@
     "cooltura24.co.uk": {
         "epoch": 1581292800.0,
         "expiration_date": "10-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "copernicuscenter.edu.pl": {
         "epoch": 1582588800.0,
@@ -14005,8 +14005,8 @@
         "state": "future"
     },
     "tubamarek.pl": {
-        "epoch": 1581292800.0,
-        "expiration_date": "10-feb-2020",
+        "epoch": 1612915200.0,
+        "expiration_date": "10-feb-2021",
         "state": "future"
     },
     "tubaostrowa.pl": {
@@ -14692,7 +14692,7 @@
     "wesclan.com.pl": {
         "epoch": 1581292800.0,
         "expiration_date": "10-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "westgate.com.pl": {
         "epoch": 1593388800.0,
