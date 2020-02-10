@@ -1484,6 +1484,11 @@
         "expiration_date": "12-aug-2020",
         "state": "future"
     },
+    "bluestilo.com": {
+        "epoch": 1664064000.0,
+        "expiration_date": "25-sep-2022",
+        "state": "future"
+    },
     "blyskawicznakorekta.pl": {
         "epoch": 1581724800.0,
         "expiration_date": "15-feb-2020",
@@ -1642,6 +1647,11 @@
     "bricomarche.pl": {
         "epoch": 1601769600.0,
         "expiration_date": "04-oct-2020",
+        "state": "future"
+    },
+    "bridle.com.pl": {
+        "epoch": 1599091200.0,
+        "expiration_date": "03-sep-2020",
         "state": "future"
     },
     "brodnica.net": {
@@ -11084,6 +11094,11 @@
         "expiration_date": "19-dec-2020",
         "state": "future"
     },
+    "prochnik.com": {
+        "epoch": 1597622400.0,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
     "profilki.pl": {
         "epoch": 1582502400,
         "expiration_date": "24-feb-2020",
@@ -11837,6 +11852,11 @@
     "rockpapershotgun.com": {
         "epoch": 1657411200.0,
         "expiration_date": "10-jul-2022",
+        "state": "future"
+    },
+    "rocks-jeans.com": {
+        "epoch": 1601164800.0,
+        "expiration_date": "27-sep-2020",
         "state": "future"
     },
     "rockwellautomation.com": {
@@ -13422,6 +13442,11 @@
     "talbud.pl": {
         "epoch": 1587600000.0,
         "expiration_date": "23-apr-2020",
+        "state": "future"
+    },
+    "tally-weijl.com": {
+        "epoch": 1588464000.0,
+        "expiration_date": "03-may-2020",
         "state": "future"
     },
     "tanibus.com": {
