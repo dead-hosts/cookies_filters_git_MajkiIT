@@ -1030,9 +1030,6 @@
         "1581018719": {
             "mammografia.elblag.pl": "INACTIVE"
         },
-        "1581355806": {
-            "bdl.lasy.gov.pl": "INACTIVE"
-        },
         "1581376327": {
             "wifiki.eu": "INACTIVE"
         },
@@ -1050,6 +1047,9 @@
         },
         "1581435430": {
             "gdynia.sr.gov.pl": "INACTIVE"
+        },
+        "1581443381": {
+            "bdl.lasy.gov.pl": "INACTIVE"
         }
     }
 }
