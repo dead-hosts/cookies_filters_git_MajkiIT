@@ -1787,7 +1787,7 @@
     "busradar.pl": {
         "epoch": 1581379200.0,
         "expiration_date": "11-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "buty-smile.pl": {
         "epoch": 1592697600.0,
@@ -2020,8 +2020,8 @@
         "state": "future"
     },
     "chojnice24.pl": {
-        "epoch": 1581379200.0,
-        "expiration_date": "11-feb-2020",
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
         "state": "future"
     },
     "chomikuj.pl": {
