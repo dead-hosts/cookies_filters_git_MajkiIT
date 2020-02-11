@@ -1030,12 +1030,6 @@
         "1581018719": {
             "mammografia.elblag.pl": "INACTIVE"
         },
-        "1581376327": {
-            "wifiki.eu": "INACTIVE"
-        },
-        "1581376349": {
-            "nasze-kino.eu": "INACTIVE"
-        },
         "1581392448": {
             "poid.eu": "INACTIVE"
         },
@@ -1064,6 +1058,18 @@
         "1581451819": {
             "adeste.eu": "INACTIVE",
             "lighting.philips.pl": "INACTIVE"
+        },
+        "1581463351": {
+            "nysa.pl": "INACTIVE",
+            "radioznin.fm": "INACTIVE",
+            "waw.pl": "INACTIVE",
+            "www.mtp.pl": "INACTIVE"
+        },
+        "1581463354": {
+            "wifiki.eu": "INACTIVE"
+        },
+        "1581463376": {
+            "nasze-kino.eu": "INACTIVE"
         }
     }
 }
