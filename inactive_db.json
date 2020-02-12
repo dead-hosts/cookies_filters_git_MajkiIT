@@ -1030,9 +1030,6 @@
         "1581018719": {
             "mammografia.elblag.pl": "INACTIVE"
         },
-        "1581435430": {
-            "gdynia.sr.gov.pl": "INACTIVE"
-        },
         "1581443381": {
             "bdl.lasy.gov.pl": "INACTIVE"
         },
@@ -1074,6 +1071,9 @@
         },
         "1581513407": {
             "raciborz.sr.gov.pl": "INACTIVE"
+        },
+        "1581524392": {
+            "gdynia.sr.gov.pl": "INACTIVE"
         }
     }
 }
