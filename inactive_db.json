@@ -1030,9 +1030,6 @@
         "1581018719": {
             "mammografia.elblag.pl": "INACTIVE"
         },
-        "1581392448": {
-            "poid.eu": "INACTIVE"
-        },
         "1581415588": {
             "bip.um.rybnik.eu": "INACTIVE"
         },
@@ -1070,6 +1067,16 @@
         },
         "1581463376": {
             "nasze-kino.eu": "INACTIVE"
+        },
+        "1581482563": {
+            "wielkopolska.eu": "INACTIVE"
+        },
+        "1581482569": {
+            "wordlist.eu": "INACTIVE"
+        },
+        "1581482576": {
+            "lambre.eu": "INACTIVE",
+            "mdkmikolow.eu": "INACTIVE"
         }
     }
 }
