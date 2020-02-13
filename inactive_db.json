@@ -1030,9 +1030,6 @@
         "1581018719": {
             "mammografia.elblag.pl": "INACTIVE"
         },
-        "1581513407": {
-            "raciborz.sr.gov.pl": "INACTIVE"
-        },
         "1581524392": {
             "gdynia.sr.gov.pl": "INACTIVE"
         },
@@ -1114,6 +1111,9 @@
             "aircon.panasonic.eu": "INACTIVE",
             "pl.vivre.eu": "INACTIVE",
             "ztm.lublin.eu": "INACTIVE"
+        },
+        "1581600845": {
+            "poid.eu": "INACTIVE"
         }
     }
 }
