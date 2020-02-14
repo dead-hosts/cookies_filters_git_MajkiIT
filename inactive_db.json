@@ -1030,15 +1030,6 @@
         "1581018719": {
             "mammografia.elblag.pl": "INACTIVE"
         },
-        "1581585243": {
-            "aukcje.pkoleasing.pl": "INACTIVE",
-            "benchmarking.silesia.org.pl": "INACTIVE"
-        },
-        "1581585250": {
-            "aircon.panasonic.eu": "INACTIVE",
-            "pl.vivre.eu": "INACTIVE",
-            "ztm.lublin.eu": "INACTIVE"
-        },
         "1581600845": {
             "poid.eu": "INACTIVE"
         },
@@ -1082,6 +1073,27 @@
         "1581651674": {
             "answers.ea.com": "INACTIVE",
             "antenki.eu": "INACTIVE"
+        },
+        "1581674628": {
+            "aukcje.pkoleasing.pl": "INACTIVE",
+            "benchmarking.silesia.org.pl": "INACTIVE",
+            "decoratorium.eu": "INACTIVE",
+            "nysa.pl": "INACTIVE",
+            "radioznin.fm": "INACTIVE",
+            "waw.pl": "INACTIVE",
+            "www.mtp.pl": "INACTIVE"
+        },
+        "1581674635": {
+            "aircon.panasonic.eu": "INACTIVE",
+            "ecreo.eu": "INACTIVE",
+            "pl.vivre.eu": "INACTIVE",
+            "rybnik.eu": "INACTIVE",
+            "ztm.lublin.eu": "INACTIVE"
+        },
+        "1581674647": {
+            "imready.eu": "INACTIVE",
+            "pl-store.acer.com": "INACTIVE",
+            "sklep.trefl.com": "INACTIVE"
         }
     }
 }
