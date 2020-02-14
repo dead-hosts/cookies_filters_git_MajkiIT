@@ -1030,15 +1030,6 @@
         "1581018719": {
             "mammografia.elblag.pl": "INACTIVE"
         },
-        "1581551635": {
-            "wifiki.eu": "INACTIVE"
-        },
-        "1581551646": {
-            "twojaapteka.eu": "INACTIVE"
-        },
-        "1581551657": {
-            "nasze-kino.eu": "INACTIVE"
-        },
         "1581563206": {
             "adbl.eu": "INACTIVE",
             "arhn.eu": "INACTIVE",
@@ -1120,6 +1111,12 @@
         },
         "1581624440": {
             "gdynia.sr.gov.pl": "INACTIVE"
+        },
+        "1581640028": {
+            "wifiki.eu": "INACTIVE"
+        },
+        "1581640050": {
+            "nasze-kino.eu": "INACTIVE"
         }
     }
 }
