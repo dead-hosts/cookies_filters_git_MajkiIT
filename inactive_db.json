@@ -1030,9 +1030,6 @@
         "1581018719": {
             "mammografia.elblag.pl": "INACTIVE"
         },
-        "1581604624": {
-            "raciborz.sr.gov.pl": "INACTIVE"
-        },
         "1581616511": {
             "60sekund.tytan.pl": "INACTIVE"
         },
@@ -1091,6 +1088,9 @@
             "imready.eu": "INACTIVE",
             "pl-store.acer.com": "INACTIVE",
             "sklep.trefl.com": "INACTIVE"
+        },
+        "1581694829": {
+            "raciborz.sr.gov.pl": "INACTIVE"
         }
     }
 }
