@@ -1030,9 +1030,6 @@
         "1581018719": {
             "mammografia.elblag.pl": "INACTIVE"
         },
-        "1581710729": {
-            "bdl.lasy.gov.pl": "INACTIVE"
-        },
         "1581726498": {
             "gdynia.sr.gov.pl": "INACTIVE"
         },
@@ -1093,6 +1090,9 @@
             "pl.fotolia.com": "INACTIVE",
             "www.knorr.pl": "INACTIVE",
             "www.unilever.pl": "INACTIVE"
+        },
+        "1581801088": {
+            "bdl.lasy.gov.pl": "INACTIVE"
         }
     }
 }
