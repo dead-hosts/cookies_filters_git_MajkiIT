@@ -1492,7 +1492,7 @@
     "blyskawicznakorekta.pl": {
         "epoch": 1581724800.0,
         "expiration_date": "15-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "bmc-switzerland.pl": {
         "epoch": 1609977600.0,
@@ -2055,8 +2055,8 @@
         "state": "future"
     },
     "ciasta.net": {
-        "epoch": 1581724800.0,
-        "expiration_date": "15-feb-2020",
+        "epoch": 1613347200.0,
+        "expiration_date": "15-feb-2021",
         "state": "future"
     },
     "ciasteczka.org.pl": {
@@ -2275,8 +2275,8 @@
         "state": "future"
     },
     "copyrightpolska.pl": {
-        "epoch": 1581724800.0,
-        "expiration_date": "15-feb-2020",
+        "epoch": 1613347200.0,
+        "expiration_date": "15-feb-2021",
         "state": "future"
     },
     "coremannet.com": {
@@ -12315,8 +12315,8 @@
         "state": "future"
     },
     "shoper.pl": {
-        "epoch": 1581724800.0,
-        "expiration_date": "15-feb-2020",
+        "epoch": 1644883200.0,
+        "expiration_date": "15-feb-2022",
         "state": "future"
     },
     "shoplo.com": {
@@ -14515,8 +14515,8 @@
         "state": "future"
     },
     "wabrzezno.com": {
-        "epoch": 1581724800.0,
-        "expiration_date": "15-feb-2020",
+        "epoch": 1613347200.0,
+        "expiration_date": "15-feb-2021",
         "state": "future"
     },
     "wacetob.com.pl": {
