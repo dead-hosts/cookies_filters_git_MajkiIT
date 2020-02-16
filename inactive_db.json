@@ -1030,9 +1030,6 @@
         "1581018719": {
             "mammografia.elblag.pl": "INACTIVE"
         },
-        "1581738457": {
-            "blyskawicznakorekta.pl": "INACTIVE"
-        },
         "1581746266": {
             "carfax.eu": "INACTIVE",
             "gliwice.eu": "INACTIVE",
@@ -1119,6 +1116,9 @@
             "mm-gazeta.de": "INACTIVE",
             "pimot.eu": "INACTIVE",
             "rynek.de": "INACTIVE"
+        },
+        "1581828650": {
+            "blyskawicznakorekta.pl": "INACTIVE"
         }
     }
 }
