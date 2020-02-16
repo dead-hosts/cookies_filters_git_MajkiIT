@@ -1024,6 +1024,11 @@
         "expiration_date": "25-sep-2020",
         "state": "future"
     },
+    "baborow.pl": {
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
+        "state": "future"
+    },
     "babytvchannel.info": {
         "epoch": 1642896000.0,
         "expiration_date": "23-jan-2022",
