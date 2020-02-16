@@ -1030,9 +1030,6 @@
         "1581018719": {
             "mammografia.elblag.pl": "INACTIVE"
         },
-        "1581801088": {
-            "bdl.lasy.gov.pl": "INACTIVE"
-        },
         "1581805147": {
             "sklep.genos.com.pl": "INACTIVE"
         },
@@ -1092,6 +1089,9 @@
             "aircon.panasonic.eu": "INACTIVE",
             "pl.vivre.eu": "INACTIVE",
             "ztm.lublin.eu": "INACTIVE"
+        },
+        "1581891434": {
+            "bdl.lasy.gov.pl": "INACTIVE"
         }
     }
 }
