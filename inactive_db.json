@@ -1030,13 +1030,6 @@
         "1581018719": {
             "mammografia.elblag.pl": "INACTIVE"
         },
-        "1581805147": {
-            "sklep.genos.com.pl": "INACTIVE"
-        },
-        "1581805152": {
-            "lambre.eu": "INACTIVE",
-            "mdkmikolow.eu": "INACTIVE"
-        },
         "1581808853": {
             "60sekund.tytan.pl": "INACTIVE"
         },
@@ -1092,6 +1085,9 @@
         },
         "1581891434": {
             "bdl.lasy.gov.pl": "INACTIVE"
+        },
+        "1581895303": {
+            "raciborz.sr.gov.pl": "INACTIVE"
         }
     }
 }
