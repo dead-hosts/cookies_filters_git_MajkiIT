@@ -1030,9 +1030,6 @@
         "1581018719": {
             "mammografia.elblag.pl": "INACTIVE"
         },
-        "1581891434": {
-            "bdl.lasy.gov.pl": "INACTIVE"
-        },
         "1581895303": {
             "raciborz.sr.gov.pl": "INACTIVE"
         },
@@ -1075,6 +1072,13 @@
         },
         "1581977618": {
             "waw.pl": "INACTIVE"
+        },
+        "1581981880": {
+            "busy-kielce.eu": "INACTIVE",
+            "busy-wroclaw.eu": "INACTIVE"
+        },
+        "1581981897": {
+            "bdl.lasy.gov.pl": "INACTIVE"
         }
     }
 }
