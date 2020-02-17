@@ -30,8 +30,8 @@
         "state": "future"
     },
     "3dom.pro": {
-        "epoch": 1581897600.0,
-        "expiration_date": "17-feb-2020",
+        "epoch": 1708128000.0,
+        "expiration_date": "17-feb-2024",
         "state": "future"
     },
     "3mpolska.pl": {
@@ -2185,8 +2185,8 @@
         "state": "future"
     },
     "coinquista.com": {
-        "epoch": 1581897600.0,
-        "expiration_date": "17-feb-2020",
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
         "state": "future"
     },
     "coinroom.com": {
@@ -6382,7 +6382,7 @@
     "jogobella.com": {
         "epoch": 1581897600.0,
         "expiration_date": "17-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "johnsoncontrols.com": {
         "epoch": 1603324800.0,
@@ -7435,8 +7435,8 @@
         "state": "future"
     },
     "letniskowo.pl": {
-        "epoch": 1581897600.0,
-        "expiration_date": "17-feb-2020",
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
         "state": "future"
     },
     "lexus-polska.pl": {
@@ -11040,8 +11040,8 @@
         "state": "future"
     },
     "prawo-mieszkaniowe.info": {
-        "epoch": 1581897600.0,
-        "expiration_date": "17-feb-2020",
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
         "state": "future"
     },
     "prestashop.com": {
@@ -14457,7 +14457,7 @@
     "vivala.pizza": {
         "epoch": 1581897600.0,
         "expiration_date": "17-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "vivaldi.com": {
         "epoch": 1697328000.0,
