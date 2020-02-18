@@ -1030,20 +1030,6 @@
         "1581018719": {
             "mammografia.elblag.pl": "INACTIVE"
         },
-        "1581918229": {
-            "aukcje.pkoleasing.pl": "INACTIVE",
-            "benchmarking.silesia.org.pl": "INACTIVE",
-            "decoratorium.eu": "INACTIVE",
-            "gdynia.sr.gov.pl": "INACTIVE",
-            "radioznin.fm": "INACTIVE"
-        },
-        "1581918240": {
-            "amrest.eu": "INACTIVE",
-            "klodzko24.eu": "INACTIVE"
-        },
-        "1581918250": {
-            "blyskawicznakorekta.pl": "INACTIVE"
-        },
         "1581922127": {
             "wielkopolska.eu": "INACTIVE",
             "www.mtp.pl": "INACTIVE"
@@ -1079,6 +1065,15 @@
         },
         "1581997537": {
             "nasze-kino.eu": "INACTIVE"
+        },
+        "1582005405": {
+            "60sekund.tytan.pl": "INACTIVE"
+        },
+        "1582005410": {
+            "adeste.eu": "INACTIVE"
+        },
+        "1582005429": {
+            "blyskawicznakorekta.pl": "INACTIVE"
         }
     }
 }
