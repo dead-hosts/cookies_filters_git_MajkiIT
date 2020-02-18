@@ -2520,8 +2520,8 @@
         "state": "future"
     },
     "darmowekontobankowe.org": {
-        "epoch": 1581984000.0,
-        "expiration_date": "18-feb-2020",
+        "epoch": 1613606400.0,
+        "expiration_date": "18-feb-2021",
         "state": "future"
     },
     "darnatury.pl": {
@@ -6840,8 +6840,8 @@
         "state": "future"
     },
     "konin24.info": {
-        "epoch": 1581984000.0,
-        "expiration_date": "18-feb-2020",
+        "epoch": 1613606400.0,
+        "expiration_date": "18-feb-2021",
         "state": "future"
     },
     "konopny-sklep.com": {
@@ -15025,8 +15025,8 @@
         "state": "future"
     },
     "wseit.edu.pl": {
-        "epoch": 1581984000.0,
-        "expiration_date": "18-feb-2020",
+        "epoch": 1613606400.0,
+        "expiration_date": "18-feb-2021",
         "state": "future"
     },
     "wsensie.pl": {
