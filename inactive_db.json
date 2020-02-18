@@ -1030,12 +1030,6 @@
         "1581018719": {
             "mammografia.elblag.pl": "INACTIVE"
         },
-        "1581910549": {
-            "wifiki.eu": "INACTIVE"
-        },
-        "1581910571": {
-            "nasze-kino.eu": "INACTIVE"
-        },
         "1581918229": {
             "aukcje.pkoleasing.pl": "INACTIVE",
             "benchmarking.silesia.org.pl": "INACTIVE",
@@ -1079,6 +1073,12 @@
         },
         "1581989701": {
             "raciborz.sr.gov.pl": "INACTIVE"
+        },
+        "1581997515": {
+            "wifiki.eu": "INACTIVE"
+        },
+        "1581997537": {
+            "nasze-kino.eu": "INACTIVE"
         }
     }
 }
