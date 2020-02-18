@@ -1030,15 +1030,9 @@
         "1581018719": {
             "mammografia.elblag.pl": "INACTIVE"
         },
-        "1581977618": {
-            "waw.pl": "INACTIVE"
-        },
         "1581981880": {
             "busy-kielce.eu": "INACTIVE",
             "busy-wroclaw.eu": "INACTIVE"
-        },
-        "1581981897": {
-            "bdl.lasy.gov.pl": "INACTIVE"
         },
         "1581989701": {
             "raciborz.sr.gov.pl": "INACTIVE"
@@ -1081,6 +1075,9 @@
             "pl.kingofsat.net": "INACTIVE",
             "sachsen-tourismus.de": "INACTIVE",
             "techsklep.eu": "INACTIVE"
+        },
+        "1582068666": {
+            "bdl.lasy.gov.pl": "INACTIVE"
         }
     }
 }
