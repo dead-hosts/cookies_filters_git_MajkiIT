@@ -1033,9 +1033,6 @@
         "1581997515": {
             "wifiki.eu": "INACTIVE"
         },
-        "1581997537": {
-            "nasze-kino.eu": "INACTIVE"
-        },
         "1582005405": {
             "60sekund.tytan.pl": "INACTIVE"
         },
@@ -1081,6 +1078,9 @@
             "pl.vivre.eu": "INACTIVE",
             "rybnik.eu": "INACTIVE",
             "ztm.lublin.eu": "INACTIVE"
+        },
+        "1582084208": {
+            "nasze-kino.eu": "INACTIVE"
         }
     }
 }
