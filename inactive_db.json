@@ -1030,9 +1030,6 @@
         "1581018719": {
             "mammografia.elblag.pl": "INACTIVE"
         },
-        "1581997515": {
-            "wifiki.eu": "INACTIVE"
-        },
         "1582005405": {
             "60sekund.tytan.pl": "INACTIVE"
         },
@@ -1081,6 +1078,22 @@
         },
         "1582084208": {
             "nasze-kino.eu": "INACTIVE"
+        },
+        "1582088346": {
+            "fabrykazabawek.eu": "INACTIVE",
+            "grupaimage.eu": "INACTIVE",
+            "olsztyn.eu": "INACTIVE",
+            "programtv.naziemna.info": "INACTIVE",
+            "rafalbil.eu": "INACTIVE"
+        },
+        "1582088351": {
+            "wifiki.eu": "INACTIVE"
+        },
+        "1582088355": {
+            "agro-bis.eu": "INACTIVE",
+            "eldom.eu": "INACTIVE",
+            "iletutego.eu": "INACTIVE",
+            "prawniktorun.eu": "INACTIVE"
         }
     }
 }
