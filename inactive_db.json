@@ -1036,9 +1036,6 @@
         "1582005410": {
             "adeste.eu": "INACTIVE"
         },
-        "1582005429": {
-            "blyskawicznakorekta.pl": "INACTIVE"
-        },
         "1582013154": {
             "aukcje.pkoleasing.pl": "INACTIVE",
             "benchmarking.silesia.org.pl": "INACTIVE",
@@ -1094,6 +1091,9 @@
             "eldom.eu": "INACTIVE",
             "iletutego.eu": "INACTIVE",
             "prawniktorun.eu": "INACTIVE"
+        },
+        "1582092067": {
+            "blyskawicznakorekta.pl": "INACTIVE"
         }
     }
 }
