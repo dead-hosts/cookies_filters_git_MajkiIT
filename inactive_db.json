@@ -1030,19 +1030,6 @@
         "1581018719": {
             "mammografia.elblag.pl": "INACTIVE"
         },
-        "1582088346": {
-            "fabrykazabawek.eu": "INACTIVE",
-            "grupaimage.eu": "INACTIVE",
-            "olsztyn.eu": "INACTIVE",
-            "programtv.naziemna.info": "INACTIVE",
-            "rafalbil.eu": "INACTIVE"
-        },
-        "1582088351": {
-            "wifiki.eu": "INACTIVE"
-        },
-        "1582092067": {
-            "blyskawicznakorekta.pl": "INACTIVE"
-        },
         "1582100127": {
             "sp8obe.eu": "INACTIVE"
         },
@@ -1100,6 +1087,12 @@
         },
         "1582171750": {
             "nasze-kino.eu": "INACTIVE"
+        },
+        "1582178799": {
+            "wifiki.eu": "INACTIVE"
+        },
+        "1582178818": {
+            "blyskawicznakorekta.pl": "INACTIVE"
         }
     }
 }
