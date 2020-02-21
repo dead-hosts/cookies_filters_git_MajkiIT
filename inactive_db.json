@@ -1030,12 +1030,6 @@
         "1581018719": {
             "mammografia.elblag.pl": "INACTIVE"
         },
-        "1582178799": {
-            "wifiki.eu": "INACTIVE"
-        },
-        "1582178818": {
-            "blyskawicznakorekta.pl": "INACTIVE"
-        },
         "1582182207": {
             "waw.pl": "INACTIVE"
         },
@@ -1088,6 +1082,20 @@
         "1582265022": {
             "amrest.eu": "INACTIVE",
             "klodzko24.eu": "INACTIVE"
+        },
+        "1582268304": {
+            "grupaimage.eu": "INACTIVE",
+            "programtv.naziemna.info": "INACTIVE"
+        },
+        "1582268309": {
+            "wifiki.eu": "INACTIVE"
+        },
+        "1582268313": {
+            "agro-bis.eu": "INACTIVE",
+            "prawniktorun.eu": "INACTIVE"
+        },
+        "1582268329": {
+            "blyskawicznakorekta.pl": "INACTIVE"
         }
     }
 }
