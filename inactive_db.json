@@ -1030,9 +1030,6 @@
         "1581018719": {
             "mammografia.elblag.pl": "INACTIVE"
         },
-        "1582213154": {
-            "raciborz.sr.gov.pl": "INACTIVE"
-        },
         "1582245085": {
             "bdl.lasy.gov.pl": "INACTIVE"
         },
@@ -1087,6 +1084,9 @@
             "fabrykazabawek.eu": "INACTIVE",
             "olsztyn.eu": "INACTIVE",
             "rafalbil.eu": "INACTIVE"
+        },
+        "1582301768": {
+            "raciborz.sr.gov.pl": "INACTIVE"
         }
     }
 }
