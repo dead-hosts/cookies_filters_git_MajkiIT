@@ -1309,6 +1309,11 @@
         "expiration_date": "10-jan-2021",
         "state": "future"
     },
+    "biker.wroclaw.pl": {
+        "epoch": 1603584000.0,
+        "expiration_date": "25-oct-2020",
+        "state": "future"
+    },
     "bilera.pl": {
         "epoch": 1586304000.0,
         "expiration_date": "08-apr-2020",
@@ -7539,6 +7544,11 @@
         "expiration_date": "10-mar-2020",
         "state": "future"
     },
+    "livenet.online": {
+        "epoch": 1588809600.0,
+        "expiration_date": "07-may-2020",
+        "state": "future"
+    },
     "livesmarter.pl": {
         "epoch": 1612656000.0,
         "expiration_date": "07-feb-2021",
@@ -8717,6 +8727,11 @@
     "mos.gov.pl": {
         "epoch": 1609459200.0,
         "expiration_date": "01-jan-2021",
+        "state": "future"
+    },
+    "motoakcesoria.com": {
+        "epoch": 1618617600.0,
+        "expiration_date": "17-apr-2021",
         "state": "future"
     },
     "motofocus.pl": {
