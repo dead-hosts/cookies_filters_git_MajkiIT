@@ -1030,22 +1030,6 @@
         "1581018719": {
             "mammografia.elblag.pl": "INACTIVE"
         },
-        "1582251923": {
-            "nysa.pl": "INACTIVE",
-            "radioznin.fm": "INACTIVE",
-            "wielkopolska.eu": "INACTIVE",
-            "www.mtp.pl": "INACTIVE"
-        },
-        "1582251928": {
-            "recepcja.visionexpress.pl": "INACTIVE",
-            "shop.ticketpro.pl": "INACTIVE",
-            "sklep.antyk.org.pl": "INACTIVE",
-            "sklep.kutnik.com.pl": "INACTIVE",
-            "sklep.visionexpress.pl": "INACTIVE"
-        },
-        "1582251934": {
-            "aluzja.gorzow.pl": "INACTIVE"
-        },
         "1582258454": {
             "nasze-kino.eu": "INACTIVE"
         },
@@ -1099,6 +1083,15 @@
         },
         "1582338247": {
             "www.sygnity.pl": "INACTIVE"
+        },
+        "1582341767": {
+            "nysa.pl": "INACTIVE"
+        },
+        "1582341785": {
+            "ksiazki-medyczne.eu": "INACTIVE",
+            "nails.silcare.com": "INACTIVE",
+            "pl.coccodrillo.eu": "INACTIVE",
+            "sklep.charaktery.eu": "INACTIVE"
         }
     }
 }
