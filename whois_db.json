@@ -1685,8 +1685,8 @@
         "state": "future"
     },
     "brtvp.pl": {
-        "epoch": 1582329600.0,
-        "expiration_date": "22-feb-2020",
+        "epoch": 1645488000.0,
+        "expiration_date": "22-feb-2022",
         "state": "future"
     },
     "bryk.pl": {
@@ -2845,8 +2845,8 @@
         "state": "future"
     },
     "doktorania.pl": {
-        "epoch": 1582329600.0,
-        "expiration_date": "22-feb-2020",
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
         "state": "future"
     },
     "dolcar.auto.pl": {
@@ -11540,8 +11540,8 @@
         "state": "future"
     },
     "radiostacja.pl": {
-        "epoch": 1582329600.0,
-        "expiration_date": "22-feb-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
         "state": "future"
     },
     "radiotaxitg.pl": {
