@@ -1030,9 +1030,6 @@
         "1581018719": {
             "mammografia.elblag.pl": "INACTIVE"
         },
-        "1582245085": {
-            "bdl.lasy.gov.pl": "INACTIVE"
-        },
         "1582251923": {
             "nysa.pl": "INACTIVE",
             "radioznin.fm": "INACTIVE",
@@ -1093,6 +1090,9 @@
         },
         "1582316750": {
             "pl.plsn.eu": "INACTIVE"
+        },
+        "1582334674": {
+            "bdl.lasy.gov.pl": "INACTIVE"
         }
     }
 }
