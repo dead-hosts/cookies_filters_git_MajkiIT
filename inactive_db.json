@@ -1030,9 +1030,6 @@
         "1581018719": {
             "mammografia.elblag.pl": "INACTIVE"
         },
-        "1582345358": {
-            "nasze-kino.eu": "INACTIVE"
-        },
         "1582356499": {
             "gdynia.sr.gov.pl": "INACTIVE"
         },
@@ -1085,6 +1082,17 @@
         },
         "1582422699": {
             "bdl.lasy.gov.pl": "INACTIVE"
+        },
+        "1582435189": {
+            "radioznin.fm": "INACTIVE",
+            "waw.pl": "INACTIVE"
+        },
+        "1582435197": {
+            "mm-gazeta.de": "INACTIVE",
+            "rynek.de": "INACTIVE"
+        },
+        "1582435213": {
+            "nasze-kino.eu": "INACTIVE"
         }
     }
 }
