@@ -1033,14 +1033,6 @@
         "1582356523": {
             "blyskawicznakorekta.pl": "INACTIVE"
         },
-        "1582371826": {
-            "olsztyn.eu": "INACTIVE",
-            "programtv.naziemna.info": "INACTIVE",
-            "rafalbil.eu": "INACTIVE"
-        },
-        "1582371834": {
-            "sklep.genos.com.pl": "INACTIVE"
-        },
         "1582383834": {
             "baldauf-kaese.de": "INACTIVE",
             "forum.optymalizacja.com": "INACTIVE"
@@ -1108,6 +1100,15 @@
             "oblicz.to": "INACTIVE",
             "potak.eu": "INACTIVE",
             "ug.tomaszow.maz.bip.cc": "INACTIVE"
+        },
+        "1582459316": {
+            "programtv.naziemna.info": "INACTIVE",
+            "rafalbil.eu": "INACTIVE"
+        },
+        "1582459328": {
+            "fotmar.eu": "INACTIVE",
+            "krzysztof-bus.eu": "INACTIVE",
+            "mensahome.eu": "INACTIVE"
         }
     }
 }
