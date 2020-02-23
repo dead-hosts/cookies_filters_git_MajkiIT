@@ -1030,13 +1030,6 @@
         "1581018719": {
             "mammografia.elblag.pl": "INACTIVE"
         },
-        "1582356499": {
-            "gdynia.sr.gov.pl": "INACTIVE"
-        },
-        "1582356500": {
-            "wielkopolska.eu": "INACTIVE",
-            "www.mtp.pl": "INACTIVE"
-        },
         "1582356523": {
             "blyskawicznakorekta.pl": "INACTIVE"
         },
@@ -1103,6 +1096,9 @@
             "x-moto.eu": "INACTIVE",
             "yuliyababich.eu": "INACTIVE",
             "zsgoreczyno.eu": "INACTIVE"
+        },
+        "1582447604": {
+            "gdynia.sr.gov.pl": "INACTIVE"
         }
     }
 }
