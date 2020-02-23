@@ -1033,10 +1033,6 @@
         "1582356523": {
             "blyskawicznakorekta.pl": "INACTIVE"
         },
-        "1582383834": {
-            "baldauf-kaese.de": "INACTIVE",
-            "forum.optymalizacja.com": "INACTIVE"
-        },
         "1582387962": {
             "forum.benchmark.pl": "INACTIVE",
             "forum.radioparty.pl": "INACTIVE",
@@ -1119,6 +1115,13 @@
         },
         "1582463291": {
             "planeta.fm": "INACTIVE"
+        },
+        "1582471466": {
+            "60sekund.tytan.pl": "INACTIVE"
+        },
+        "1582471471": {
+            "adeste.eu": "INACTIVE",
+            "um.jaslo.pl": "INACTIVE"
         }
     }
 }
