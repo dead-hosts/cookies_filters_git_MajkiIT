@@ -1033,15 +1033,6 @@
         "1582356523": {
             "blyskawicznakorekta.pl": "INACTIVE"
         },
-        "1582387962": {
-            "forum.benchmark.pl": "INACTIVE",
-            "forum.radioparty.pl": "INACTIVE",
-            "pfmrc.eu": "INACTIVE"
-        },
-        "1582387970": {
-            "blog.atrakcjenaimprezy.pl": "INACTIVE",
-            "mail.bremex.pl": "INACTIVE"
-        },
         "1582414201": {
             "fabrykazabawek.eu": "INACTIVE",
             "grupaimage.eu": "INACTIVE"
@@ -1122,6 +1113,9 @@
         "1582471471": {
             "adeste.eu": "INACTIVE",
             "um.jaslo.pl": "INACTIVE"
+        },
+        "1582475692": {
+            "sklep.genos.com.pl": "INACTIVE"
         }
     }
 }
