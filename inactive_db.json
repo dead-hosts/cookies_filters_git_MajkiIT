@@ -1037,12 +1037,6 @@
             "wielkopolska.eu": "INACTIVE",
             "www.mtp.pl": "INACTIVE"
         },
-        "1582356503": {
-            "wifiki.eu": "INACTIVE"
-        },
-        "1582356507": {
-            "rpo.pomorskie.eu": "INACTIVE"
-        },
         "1582356523": {
             "blyskawicznakorekta.pl": "INACTIVE"
         },
@@ -1093,6 +1087,22 @@
         },
         "1582435213": {
             "nasze-kino.eu": "INACTIVE"
+        },
+        "1582443408": {
+            "benchmarking.silesia.org.pl": "INACTIVE",
+            "decoratorium.eu": "INACTIVE",
+            "nysa.pl": "INACTIVE"
+        },
+        "1582443410": {
+            "wifiki.eu": "INACTIVE"
+        },
+        "1582443417": {
+            "transportnews.eu": "INACTIVE",
+            "visitwroclaw.eu": "INACTIVE",
+            "wagrowiec.eu": "INACTIVE",
+            "x-moto.eu": "INACTIVE",
+            "yuliyababich.eu": "INACTIVE",
+            "zsgoreczyno.eu": "INACTIVE"
         }
     }
 }
