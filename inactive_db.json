@@ -1033,9 +1033,6 @@
         "1582356523": {
             "blyskawicznakorekta.pl": "INACTIVE"
         },
-        "1582422699": {
-            "bdl.lasy.gov.pl": "INACTIVE"
-        },
         "1582435189": {
             "radioznin.fm": "INACTIVE",
             "waw.pl": "INACTIVE"
@@ -1133,6 +1130,9 @@
         "1582504117": {
             "fabrykazabawek.eu": "INACTIVE",
             "grupaimage.eu": "INACTIVE"
+        },
+        "1582512517": {
+            "bdl.lasy.gov.pl": "INACTIVE"
         }
     }
 }
