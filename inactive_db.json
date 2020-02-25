@@ -1033,9 +1033,6 @@
         "1582356523": {
             "blyskawicznakorekta.pl": "INACTIVE"
         },
-        "1582512517": {
-            "bdl.lasy.gov.pl": "INACTIVE"
-        },
         "1582516689": {
             "raciborz.sr.gov.pl": "INACTIVE"
         },
@@ -1061,6 +1058,16 @@
         },
         "1582595402": {
             "zs1mm.home.pl": "INACTIVE"
+        },
+        "1582599405": {
+            "sklep.genos.com.pl": "INACTIVE"
+        },
+        "1582599411": {
+            "lambre.eu": "INACTIVE",
+            "mdkmikolow.eu": "INACTIVE"
+        },
+        "1582599418": {
+            "bdl.lasy.gov.pl": "INACTIVE"
         }
     }
 }
