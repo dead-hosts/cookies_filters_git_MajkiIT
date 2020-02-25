@@ -1033,9 +1033,6 @@
         "1582356523": {
             "blyskawicznakorekta.pl": "INACTIVE"
         },
-        "1582516689": {
-            "raciborz.sr.gov.pl": "INACTIVE"
-        },
         "1582525215": {
             "nasze-kino.eu": "INACTIVE"
         },
@@ -1084,6 +1081,19 @@
         },
         "1582603407": {
             "planeta.fm": "INACTIVE"
+        },
+        "1582607364": {
+            "wielkopolska.eu": "INACTIVE"
+        },
+        "1582607368": {
+            "raciborz.sr.gov.pl": "INACTIVE"
+        },
+        "1582607370": {
+            "wordlist.eu": "INACTIVE"
+        },
+        "1582607376": {
+            "answers.ea.com": "INACTIVE",
+            "antenki.eu": "INACTIVE"
         }
     }
 }
