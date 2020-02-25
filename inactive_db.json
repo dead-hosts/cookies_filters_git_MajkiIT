@@ -1033,9 +1033,6 @@
         "1582356523": {
             "blyskawicznakorekta.pl": "INACTIVE"
         },
-        "1582525215": {
-            "nasze-kino.eu": "INACTIVE"
-        },
         "1582533285": {
             "benchmarking.silesia.org.pl": "INACTIVE",
             "nysa.pl": "INACTIVE",
@@ -1097,6 +1094,12 @@
         },
         "1582611415": {
             "poid.eu": "INACTIVE"
+        },
+        "1582615609": {
+            "logopeda-lodz.eu": "INACTIVE"
+        },
+        "1582615637": {
+            "nasze-kino.eu": "INACTIVE"
         }
     }
 }
