@@ -2270,8 +2270,8 @@
         "state": "future"
     },
     "copernicuscenter.edu.pl": {
-        "epoch": 1582588800.0,
-        "expiration_date": "25-feb-2020",
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
         "state": "future"
     },
     "copernicusfestival.com": {
@@ -2875,8 +2875,8 @@
         "state": "future"
     },
     "dolnysopot.pl": {
-        "epoch": 1582588800.0,
-        "expiration_date": "25-feb-2020",
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
         "state": "future"
     },
     "domd.pl": {
@@ -4410,8 +4410,8 @@
         "state": "future"
     },
     "fortoresse.com": {
-        "epoch": 1582588800.0,
-        "expiration_date": "25-feb-2020",
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
         "state": "future"
     },
     "forum-bron.pl": {
@@ -11452,7 +11452,7 @@
     "quertes.com": {
         "epoch": 1582588800.0,
         "expiration_date": "25-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "quizme.pl": {
         "epoch": 1640822400.0,
