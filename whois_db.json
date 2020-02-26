@@ -4610,8 +4610,8 @@
         "state": "future"
     },
     "fzz.pl": {
-        "epoch": 1582675200.0,
-        "expiration_date": "26-feb-2020",
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
         "state": "future"
     },
     "gadzetomania.pl": {
@@ -11450,9 +11450,9 @@
         "state": "future"
     },
     "quertes.com": {
-        "epoch": 1582588800.0,
-        "expiration_date": "25-feb-2020",
-        "state": "past"
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
+        "state": "future"
     },
     "quizme.pl": {
         "epoch": 1640822400.0,
@@ -12702,7 +12702,7 @@
     "sofly.club": {
         "epoch": 1582675200.0,
         "expiration_date": "26-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "softon.pl": {
         "epoch": 1600214400.0,
