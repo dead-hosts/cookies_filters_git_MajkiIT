@@ -1255,8 +1255,8 @@
         "state": "future"
     },
     "biblioteki.org": {
-        "epoch": 1582761600.0,
-        "expiration_date": "27-feb-2020",
+        "epoch": 1614384000.0,
+        "expiration_date": "27-feb-2021",
         "state": "future"
     },
     "bieganieuskrzydla.pl": {
@@ -2450,8 +2450,8 @@
         "state": "future"
     },
     "czterylapysklep.com": {
-        "epoch": 1582761600.0,
-        "expiration_date": "27-feb-2020",
+        "epoch": 1614384000.0,
+        "expiration_date": "27-feb-2021",
         "state": "future"
     },
     "daciajaworzno.pl": {
@@ -15112,7 +15112,7 @@
     "wwl24.info": {
         "epoch": 1582761600.0,
         "expiration_date": "27-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "www.pisz.pl": {
         "epoch": 1600905600.0,
