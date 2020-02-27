@@ -12700,9 +12700,9 @@
         "state": "future"
     },
     "sofly.club": {
-        "epoch": 1582675200.0,
-        "expiration_date": "26-feb-2020",
-        "state": "past"
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
+        "state": "future"
     },
     "softon.pl": {
         "epoch": 1600214400.0,
