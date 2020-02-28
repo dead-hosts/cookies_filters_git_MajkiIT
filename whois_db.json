@@ -40,8 +40,8 @@
         "state": "future"
     },
     "3s.pl": {
-        "epoch": 1582848000.0,
-        "expiration_date": "28-feb-2020",
+        "epoch": 1605916800.0,
+        "expiration_date": "21-nov-2020",
         "state": "future"
     },
     "40latki.pl": {
@@ -5010,8 +5010,8 @@
         "state": "future"
     },
     "gniezno24.com": {
-        "epoch": 1582848000.0,
-        "expiration_date": "28-feb-2020",
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
         "state": "future"
     },
     "goal.pl": {
@@ -14715,8 +14715,8 @@
         "state": "future"
     },
     "wejherowo24.info": {
-        "epoch": 1582848000.0,
-        "expiration_date": "28-feb-2020",
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
         "state": "future"
     },
     "weldon.pl": {
@@ -15110,9 +15110,9 @@
         "state": "future"
     },
     "wwl24.info": {
-        "epoch": 1582761600.0,
-        "expiration_date": "27-feb-2020",
-        "state": "past"
+        "epoch": 1614384000.0,
+        "expiration_date": "27-feb-2021",
+        "state": "future"
     },
     "www.pisz.pl": {
         "epoch": 1600905600.0,
