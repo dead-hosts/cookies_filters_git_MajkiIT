@@ -1535,8 +1535,8 @@
         "state": "future"
     },
     "bogatyelblag.pl": {
-        "epoch": 1583366400.0,
-        "expiration_date": "05-mar-2020",
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
         "state": "future"
     },
     "bolec.info": {
@@ -6675,8 +6675,8 @@
         "state": "future"
     },
     "klockolandia.pl": {
-        "epoch": 1583366400.0,
-        "expiration_date": "05-mar-2020",
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
         "state": "future"
     },
     "klubjagiellonski.pl": {
@@ -12807,7 +12807,7 @@
     "spece.it": {
         "epoch": 1583366400.0,
         "expiration_date": "05-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "specialized.com": {
         "epoch": 1856649600.0,
