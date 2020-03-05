@@ -1033,9 +1033,6 @@
         "1582356523": {
             "blyskawicznakorekta.pl": "INACTIVE"
         },
-        "1583344158": {
-            "gdynia.sr.gov.pl": "INACTIVE"
-        },
         "1583377519": {
             "bdl.lasy.gov.pl": "INACTIVE"
         },
@@ -1047,6 +1044,9 @@
         },
         "1583405705": {
             "raciborz.sr.gov.pl": "INACTIVE"
+        },
+        "1583431812": {
+            "gdynia.sr.gov.pl": "INACTIVE"
         }
     }
 }
