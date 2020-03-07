@@ -1547,7 +1547,7 @@
     "bolsius.com": {
         "epoch": 1583539200.0,
         "expiration_date": "07-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "bonart.com.pl": {
         "epoch": 1607126400.0,
@@ -6717,7 +6717,7 @@
     "kociadolina.pl": {
         "epoch": 1583539200.0,
         "expiration_date": "07-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "kodeksspolek.pl": {
         "epoch": 1611532800.0,
@@ -14187,7 +14187,7 @@
     "twojeapteki.com": {
         "epoch": 1583539200.0,
         "expiration_date": "07-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "twojesoczewki.com": {
         "epoch": 1609891200.0,
@@ -14665,8 +14665,8 @@
         "state": "future"
     },
     "webd.pl": {
-        "epoch": 1583539200.0,
-        "expiration_date": "07-mar-2020",
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
         "state": "future"
     },
     "webdev20.pl": {
