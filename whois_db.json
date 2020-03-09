@@ -2784,6 +2784,11 @@
         "expiration_date": "24-aug-2020",
         "state": "future"
     },
+    "distortstudios.com": {
+        "epoch": 1591920000.0,
+        "expiration_date": "12-jun-2020",
+        "state": "future"
+    },
     "diyaudio.pl": {
         "epoch": 1592438400.0,
         "expiration_date": "18-jun-2020",
@@ -7539,6 +7544,11 @@
         "expiration_date": "29-jul-2020",
         "state": "future"
     },
+    "lipton.com": {
+        "epoch": 1591315200.0,
+        "expiration_date": "05-jun-2020",
+        "state": "future"
+    },
     "liptonicetea.com": {
         "epoch": 1589414400.0,
         "expiration_date": "14-may-2020",
@@ -11719,6 +11729,11 @@
         "expiration_date": "27-apr-2020",
         "state": "future"
     },
+    "reebook.pl": {
+        "epoch": 1587427200.0,
+        "expiration_date": "21-apr-2020",
+        "state": "future"
+    },
     "reedukacja.pl": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
@@ -15322,6 +15337,11 @@
     "zaffiro.shop": {
         "epoch": 1590710400.0,
         "expiration_date": "29-may-2020",
+        "state": "future"
+    },
+    "zagadkidladzieci.net": {
+        "epoch": 1616889600.0,
+        "expiration_date": "28-mar-2021",
         "state": "future"
     },
     "zagielmed.pl": {
