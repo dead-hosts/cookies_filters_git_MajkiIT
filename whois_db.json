@@ -4544,6 +4544,11 @@
         "expiration_date": "22-jan-2021",
         "state": "future"
     },
+    "frezmar.pl": {
+        "epoch": 1597276800.0,
+        "expiration_date": "13-aug-2020",
+        "state": "future"
+    },
     "frisco.pl": {
         "epoch": 1590451200.0,
         "expiration_date": "26-may-2020",
@@ -4802,6 +4807,11 @@
     "gdziewpolsce.pl": {
         "epoch": 1604880000.0,
         "expiration_date": "09-nov-2020",
+        "state": "future"
+    },
+    "ge.com": {
+        "epoch": 1608422400.0,
+        "expiration_date": "20-dec-2020",
         "state": "future"
     },
     "gearbest.com": {
@@ -9082,6 +9092,11 @@
     "narew.info": {
         "epoch": 1584921600.0,
         "expiration_date": "23-mar-2020",
+        "state": "future"
+    },
+    "narzedzia.cz": {
+        "epoch": 1596153600.0,
+        "expiration_date": "31-jul-2020",
         "state": "future"
     },
     "nastopy.pl": {
