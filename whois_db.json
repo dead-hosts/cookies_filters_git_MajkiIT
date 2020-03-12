@@ -3420,9 +3420,9 @@
         "state": "future"
     },
     "edrone.me": {
-        "epoch": 1583971200.0,
-        "expiration_date": "12-mar-2020",
-        "state": "past"
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
     },
     "edupage.org": {
         "epoch": 1605052800.0,
