@@ -6210,8 +6210,8 @@
         "state": "future"
     },
     "jack.pl": {
-        "epoch": 1584144000.0,
-        "expiration_date": "14-mar-2020",
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
         "state": "future"
     },
     "jackvision.pl": {
@@ -6475,8 +6475,8 @@
         "state": "future"
     },
     "kacperkowalski.pl": {
-        "epoch": 1584144000.0,
-        "expiration_date": "14-mar-2020",
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
         "state": "future"
     },
     "kadra.pl": {
@@ -10792,7 +10792,7 @@
     "polskieligi.net": {
         "epoch": 1584144000.0,
         "expiration_date": "14-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "polskieradio.pl": {
         "epoch": 1633996800.0,
