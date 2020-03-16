@@ -7697,7 +7697,7 @@
     "lovoo.com": {
         "epoch": 1584316800.0,
         "expiration_date": "16-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "lowiczanin.info": {
         "epoch": 1595203200.0,
