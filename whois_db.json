@@ -1960,8 +1960,8 @@
         "state": "future"
     },
     "centrumdobrejterapii.pl": {
-        "epoch": 1584316800.0,
-        "expiration_date": "16-mar-2020",
+        "epoch": 1615852800.0,
+        "expiration_date": "16-mar-2021",
         "state": "future"
     },
     "centrumklima.pl": {
@@ -5142,7 +5142,7 @@
     "goryonline.com": {
         "epoch": 1584316800.0,
         "expiration_date": "16-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "gosc.pl": {
         "epoch": 1628812800.0,
@@ -8665,8 +8665,8 @@
         "state": "future"
     },
     "mojawww.com": {
-        "epoch": 1584316800.0,
-        "expiration_date": "16-mar-2020",
+        "epoch": 1678924800.0,
+        "expiration_date": "16-mar-2023",
         "state": "future"
     },
     "mojehobby.pl": {
@@ -10105,8 +10105,8 @@
         "state": "future"
     },
     "panelex.pl": {
-        "epoch": 1584316800.0,
-        "expiration_date": "16-mar-2020",
+        "epoch": 1647388800.0,
+        "expiration_date": "16-mar-2022",
         "state": "future"
     },
     "panoramafirm.pl": {
@@ -13585,8 +13585,8 @@
         "state": "future"
     },
     "teatr-maly.pl": {
-        "epoch": 1584316800.0,
-        "expiration_date": "16-mar-2020",
+        "epoch": 1615852800.0,
+        "expiration_date": "16-mar-2021",
         "state": "future"
     },
     "teatrpalladium.com": {
