@@ -1033,12 +1033,6 @@
         "1582356523": {
             "blyskawicznakorekta.pl": "INACTIVE"
         },
-        "1584272045": {
-            "wifiki.eu": "INACTIVE"
-        },
-        "1584272047": {
-            "raciborz.sr.gov.pl": "INACTIVE"
-        },
         "1584289062": {
             "nasze-kino.eu": "INACTIVE"
         },
@@ -1050,6 +1044,9 @@
         },
         "1584354787": {
             "bdl.lasy.gov.pl": "INACTIVE"
+        },
+        "1584362721": {
+            "wifiki.eu": "INACTIVE"
         }
     }
 }
