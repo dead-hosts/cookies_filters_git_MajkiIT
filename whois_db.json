@@ -1212,7 +1212,7 @@
     "beskidy.news": {
         "epoch": 1584403200.0,
         "expiration_date": "17-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "beskidzkapilka.pl": {
         "epoch": 1663113600.0,
@@ -9800,8 +9800,8 @@
         "state": "future"
     },
     "ono24.info": {
-        "epoch": 1584403200.0,
-        "expiration_date": "17-mar-2020",
+        "epoch": 1615939200.0,
+        "expiration_date": "17-mar-2021",
         "state": "future"
     },
     "ontrack.com": {
@@ -12590,8 +12590,8 @@
         "state": "future"
     },
     "skup-laptopow.com": {
-        "epoch": 1584403200.0,
-        "expiration_date": "17-mar-2020",
+        "epoch": 1615939200.0,
+        "expiration_date": "17-mar-2021",
         "state": "future"
     },
     "skutecznie.tv": {
@@ -13785,8 +13785,8 @@
         "state": "future"
     },
     "ticketclub.pl": {
-        "epoch": 1584403200.0,
-        "expiration_date": "17-mar-2020",
+        "epoch": 1615939200.0,
+        "expiration_date": "17-mar-2021",
         "state": "future"
     },
     "ticketco.events": {
