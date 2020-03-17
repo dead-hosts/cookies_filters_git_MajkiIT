@@ -1210,9 +1210,9 @@
         "state": "future"
     },
     "beskidy.news": {
-        "epoch": 1584403200.0,
-        "expiration_date": "17-mar-2020",
-        "state": "past"
+        "epoch": 1615939200.0,
+        "expiration_date": "17-mar-2021",
+        "state": "future"
     },
     "beskidzkapilka.pl": {
         "epoch": 1663113600.0,
