@@ -2024,6 +2024,11 @@
         "expiration_date": "12-aug-2020",
         "state": "future"
     },
+    "chevan.pl": {
+        "epoch": 1585526400.0,
+        "expiration_date": "30-mar-2020",
+        "state": "future"
+    },
     "chillizet.pl": {
         "epoch": 1588118400.0,
         "expiration_date": "29-apr-2020",
@@ -8252,6 +8257,11 @@
     "mental-power.pl": {
         "epoch": 1583712000.0,
         "expiration_date": "09-mar-2020",
+        "state": "future"
+    },
+    "merametal.pl": {
+        "epoch": 1590019200.0,
+        "expiration_date": "21-may-2020",
         "state": "future"
     },
     "mercbus.pl": {
