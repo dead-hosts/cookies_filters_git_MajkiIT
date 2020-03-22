@@ -1017,7 +1017,7 @@
     "awangardashoes.com": {
         "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "azjatyckibazar.com": {
         "epoch": 1651622400.0,
@@ -1302,7 +1302,7 @@
     "bigstar.pl": {
         "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "bik.pl": {
         "epoch": 1646179200.0,
@@ -2995,8 +2995,8 @@
         "state": "future"
     },
     "dosukcesu.pl": {
-        "epoch": 1584835200.0,
-        "expiration_date": "22-mar-2020",
+        "epoch": 1616371200.0,
+        "expiration_date": "22-mar-2021",
         "state": "future"
     },
     "dotsport.pl": {
@@ -13402,7 +13402,7 @@
     "szkolenia-semper.pl": {
         "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "szkolenia24h.pl": {
         "epoch": 1592697600.0,
@@ -15082,7 +15082,7 @@
     "wrosip.pl": {
         "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "wrota-swietokrzyskie.pl": {
         "epoch": 1587859200.0,
@@ -15342,7 +15342,7 @@
     "zabart.com": {
         "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "zabieganamama.com": {
         "epoch": 1595030400.0,
