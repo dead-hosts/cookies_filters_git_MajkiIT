@@ -1300,9 +1300,9 @@
         "state": "future"
     },
     "bigstar.pl": {
-        "epoch": 1584835200.0,
-        "expiration_date": "22-mar-2020",
-        "state": "past"
+        "epoch": 1616371200.0,
+        "expiration_date": "22-mar-2021",
+        "state": "future"
     },
     "bik.pl": {
         "epoch": 1646179200.0,
@@ -13400,9 +13400,9 @@
         "state": "future"
     },
     "szkolenia-semper.pl": {
-        "epoch": 1584835200.0,
-        "expiration_date": "22-mar-2020",
-        "state": "past"
+        "epoch": 1616371200.0,
+        "expiration_date": "22-mar-2021",
+        "state": "future"
     },
     "szkolenia24h.pl": {
         "epoch": 1592697600.0,
@@ -15080,9 +15080,9 @@
         "state": "future"
     },
     "wrosip.pl": {
-        "epoch": 1584835200.0,
-        "expiration_date": "22-mar-2020",
-        "state": "past"
+        "epoch": 1616371200.0,
+        "expiration_date": "22-mar-2021",
+        "state": "future"
     },
     "wrota-swietokrzyskie.pl": {
         "epoch": 1587859200.0,
@@ -15340,9 +15340,9 @@
         "state": "future"
     },
     "zabart.com": {
-        "epoch": 1584835200.0,
-        "expiration_date": "22-mar-2020",
-        "state": "past"
+        "epoch": 1616371200.0,
+        "expiration_date": "22-mar-2021",
+        "state": "future"
     },
     "zabieganamama.com": {
         "epoch": 1595030400.0,
