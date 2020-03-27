@@ -2735,8 +2735,8 @@
         "state": "future"
     },
     "dieta.pl": {
-        "epoch": 1585267200.0,
-        "expiration_date": "27-mar-2020",
+        "epoch": 1594425600.0,
+        "expiration_date": "11-jul-2020",
         "state": "future"
     },
     "dietlux.pl": {
@@ -7690,8 +7690,8 @@
         "state": "future"
     },
     "loveair.pl": {
-        "epoch": 1585267200.0,
-        "expiration_date": "27-mar-2020",
+        "epoch": 1806105600.0,
+        "expiration_date": "27-mar-2027",
         "state": "future"
     },
     "lovekrakow.pl": {
@@ -7970,8 +7970,8 @@
         "state": "future"
     },
     "mania4x4.pl": {
-        "epoch": 1585267200.0,
-        "expiration_date": "27-mar-2020",
+        "epoch": 1616803200.0,
+        "expiration_date": "27-mar-2021",
         "state": "future"
     },
     "manusite.pl": {
@@ -11545,8 +11545,8 @@
         "state": "future"
     },
     "radioem.pl": {
-        "epoch": 1585267200.0,
-        "expiration_date": "27-mar-2020",
+        "epoch": 1616803200.0,
+        "expiration_date": "27-mar-2021",
         "state": "future"
     },
     "radioemu.com": {
