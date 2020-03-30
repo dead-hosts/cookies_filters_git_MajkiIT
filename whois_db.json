@@ -2027,7 +2027,7 @@
     "chevan.pl": {
         "epoch": 1585526400.0,
         "expiration_date": "30-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "chillizet.pl": {
         "epoch": 1588118400.0,
@@ -2415,8 +2415,8 @@
         "state": "future"
     },
     "cyfrowarepublika.pl": {
-        "epoch": 1585526400.0,
-        "expiration_date": "30-mar-2020",
+        "epoch": 1617062400.0,
+        "expiration_date": "30-mar-2021",
         "state": "future"
     },
     "czarnkow.info": {
@@ -2552,7 +2552,7 @@
     "dating-services-singles.com": {
         "epoch": 1585526400.0,
         "expiration_date": "30-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "davbol.com": {
         "epoch": 1649635200.0,
@@ -4312,7 +4312,7 @@
     "fitandyummy.pl": {
         "epoch": 1585526400.0,
         "expiration_date": "30-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "fitbox4you.pl": {
         "epoch": 1590537600.0,
@@ -8137,7 +8137,7 @@
     "mckplonsk.pl": {
         "epoch": 1585526400.0,
         "expiration_date": "30-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "mcksokol.pl": {
         "epoch": 1608076800.0,
@@ -10392,7 +10392,7 @@
     "photonrobot.com": {
         "epoch": 1585526400.0,
         "expiration_date": "30-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "phrasal-verbs.pl": {
         "epoch": 1593907200.0,
@@ -12165,8 +12165,8 @@
         "state": "future"
     },
     "sandecja.tv": {
-        "epoch": 1585526400.0,
-        "expiration_date": "30-mar-2020",
+        "epoch": 1617062400.0,
+        "expiration_date": "30-mar-2021",
         "state": "future"
     },
     "sanprobi-superformula.pl": {
