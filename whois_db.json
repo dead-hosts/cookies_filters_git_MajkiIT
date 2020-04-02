@@ -1229,6 +1229,11 @@
         "expiration_date": "04-mar-2028",
         "state": "future"
     },
+    "betsson22.com": {
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
+        "state": "future"
+    },
     "bezpieczny.blog": {
         "epoch": 1603584000.0,
         "expiration_date": "25-oct-2020",
@@ -7262,6 +7267,11 @@
     "lak-auto.pl": {
         "epoch": 1601942400.0,
         "expiration_date": "06-oct-2020",
+        "state": "future"
+    },
+    "lamillou.com": {
+        "epoch": 1590192000.0,
+        "expiration_date": "23-may-2020",
         "state": "future"
     },
     "lampy.pl": {
