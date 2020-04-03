@@ -1033,9 +1033,6 @@
         "1582356523": {
             "blyskawicznakorekta.pl": "INACTIVE"
         },
-        "1585851218": {
-            "smarttrans.eu": "INACTIVE"
-        },
         "1585867952": {
             "bdl.lasy.gov.pl": "INACTIVE"
         },
@@ -1053,6 +1050,9 @@
         },
         "1585907683": {
             "gdynia.sr.gov.pl": "INACTIVE"
+        },
+        "1585941638": {
+            "smarttrans.eu": "INACTIVE"
         }
     }
 }
