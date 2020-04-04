@@ -1033,9 +1033,6 @@
         "1582356523": {
             "blyskawicznakorekta.pl": "INACTIVE"
         },
-        "1585907683": {
-            "gdynia.sr.gov.pl": "INACTIVE"
-        },
         "1585941638": {
             "smarttrans.eu": "INACTIVE"
         },
@@ -1059,6 +1056,9 @@
         },
         "1585986665": {
             "raciborz.sr.gov.pl": "INACTIVE"
+        },
+        "1585997170": {
+            "gdynia.sr.gov.pl": "INACTIVE"
         }
     }
 }
