@@ -1332,7 +1332,7 @@
     "bileteria-online.pl": {
         "epoch": 1586044800.0,
         "expiration_date": "05-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "bilka.com.pl": {
         "epoch": 1587600000.0,
@@ -2070,8 +2070,8 @@
         "state": "future"
     },
     "chwilowkomat.pl": {
-        "epoch": 1586044800.0,
-        "expiration_date": "05-apr-2020",
+        "epoch": 1593907200.0,
+        "expiration_date": "05-jul-2020",
         "state": "future"
     },
     "ciam.pl": {
