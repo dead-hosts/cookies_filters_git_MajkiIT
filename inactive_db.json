@@ -1039,12 +1039,6 @@
         "1586054696": {
             "obserwatore.eu": "INACTIVE"
         },
-        "1586058602": {
-            "wifiki.eu": "INACTIVE"
-        },
-        "1586062576": {
-            "nasze-kino.eu": "INACTIVE"
-        },
         "1586079387": {
             "raciborz.sr.gov.pl": "INACTIVE"
         },
@@ -1053,6 +1047,12 @@
         },
         "1586141632": {
             "bdl.lasy.gov.pl": "INACTIVE"
+        },
+        "1586149369": {
+            "wifiki.eu": "INACTIVE"
+        },
+        "1586149390": {
+            "nasze-kino.eu": "INACTIVE"
         }
     }
 }
