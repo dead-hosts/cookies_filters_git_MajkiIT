@@ -125,8 +125,8 @@
         "state": "future"
     },
     "abctygodnik.pl": {
-        "epoch": 1586304000.0,
-        "expiration_date": "08-apr-2020",
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
         "state": "future"
     },
     "abfoto.pl": {
@@ -135,8 +135,8 @@
         "state": "future"
     },
     "absbank.pl": {
-        "epoch": 1586304000.0,
-        "expiration_date": "08-apr-2020",
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
         "state": "future"
     },
     "absolvent.pl": {
@@ -1325,8 +1325,8 @@
         "state": "future"
     },
     "bilera.pl": {
-        "epoch": 1586304000.0,
-        "expiration_date": "08-apr-2020",
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
         "state": "future"
     },
     "bileteria-online.pl": {
@@ -1970,8 +1970,8 @@
         "state": "future"
     },
     "centrumklima.pl": {
-        "epoch": 1586304000.0,
-        "expiration_date": "08-apr-2020",
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
         "state": "future"
     },
     "centrumkurierskie.pl": {
@@ -5085,8 +5085,8 @@
         "state": "future"
     },
     "goganet.com": {
-        "epoch": 1586304000.0,
-        "expiration_date": "08-apr-2020",
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
         "state": "future"
     },
     "goin.pl": {
@@ -7157,7 +7157,7 @@
     "kukko.com": {
         "epoch": 1586304000.0,
         "expiration_date": "08-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "kula.gov.pl": {
         "epoch": 1597363200.0,
@@ -13205,8 +13205,8 @@
         "state": "future"
     },
     "stressfree.pl": {
-        "epoch": 1586304000.0,
-        "expiration_date": "08-apr-2020",
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
         "state": "future"
     },
     "stroer.pl": {
