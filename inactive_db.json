@@ -1039,23 +1039,20 @@
         "1586054696": {
             "obserwatore.eu": "INACTIVE"
         },
-        "1586386868": {
-            "poid.eu": "INACTIVE"
-        },
-        "1586386869": {
-            "wifiki.eu": "INACTIVE"
-        },
-        "1586386890": {
-            "nasze-kino.eu": "INACTIVE"
-        },
-        "1586390018": {
-            "bdl.lasy.gov.pl": "INACTIVE"
-        },
         "1586417256": {
             "gdynia.sr.gov.pl": "INACTIVE"
         },
         "1586431410": {
             "raciborz.sr.gov.pl": "INACTIVE"
+        },
+        "1586476766": {
+            "wifiki.eu": "INACTIVE"
+        },
+        "1586476776": {
+            "antenki.eu": "INACTIVE"
+        },
+        "1586476788": {
+            "nasze-kino.eu": "INACTIVE"
         }
     }
 }
