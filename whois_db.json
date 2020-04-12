@@ -3052,7 +3052,7 @@
     "dreamswydawnictwo.pl": {
         "epoch": 1586649600.0,
         "expiration_date": "12-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "dreamtours.pl": {
         "epoch": 1598054400.0,
@@ -4592,7 +4592,7 @@
     "fum.info.pl": {
         "epoch": 1586649600.0,
         "expiration_date": "12-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "funcik.co.uk": {
         "epoch": 1599436800.0,
@@ -6837,7 +6837,7 @@
     "komorkomania.pl": {
         "epoch": 1586649600.0,
         "expiration_date": "12-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "komorkomat.pl": {
         "epoch": 1593388800.0,
@@ -12372,7 +12372,7 @@
     "serialowa.pl": {
         "epoch": 1586649600.0,
         "expiration_date": "12-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "seriea.pl": {
         "epoch": 1633651200.0,
