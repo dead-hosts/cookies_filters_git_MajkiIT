@@ -1369,6 +1369,11 @@
         "expiration_date": "13-jan-2021",
         "state": "future"
     },
+    "biotebal.pl": {
+        "epoch": 1628035200.0,
+        "expiration_date": "04-aug-2021",
+        "state": "future"
+    },
     "bip.org.pl": {
         "epoch": 1608163200.0,
         "expiration_date": "17-dec-2020",
@@ -3952,6 +3957,11 @@
     "eurostyl.com.pl": {
         "epoch": 1609113600.0,
         "expiration_date": "28-dec-2020",
+        "state": "future"
+    },
+    "eurotargetshow.pl": {
+        "epoch": 1597190400.0,
+        "expiration_date": "12-aug-2020",
         "state": "future"
     },
     "eurowizja.org": {
@@ -8929,6 +8939,11 @@
         "expiration_date": "25-jul-2020",
         "state": "future"
     },
+    "mtp.pl": {
+        "epoch": 1599004800.0,
+        "expiration_date": "02-sep-2020",
+        "state": "future"
+    },
     "multiconsult-polska.com": {
         "epoch": 1614816000.0,
         "expiration_date": "04-mar-2021",
@@ -11912,6 +11927,11 @@
     "restauracjabiesiada.com": {
         "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
+        "state": "future"
+    },
+    "retromotorshow.pl": {
+        "epoch": 1621900800.0,
+        "expiration_date": "25-may-2021",
         "state": "future"
     },
     "retrotech.blog": {
