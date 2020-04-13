@@ -417,7 +417,7 @@
     "alga-shop.pl": {
         "epoch": 1586736000.0,
         "expiration_date": "13-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "aliexpress.com": {
         "epoch": 1618531200.0,
@@ -1900,8 +1900,8 @@
         "state": "future"
     },
     "capri-lublin.pl": {
-        "epoch": 1586736000.0,
-        "expiration_date": "13-apr-2020",
+        "epoch": 1618272000.0,
+        "expiration_date": "13-apr-2021",
         "state": "future"
     },
     "castrol.com": {
@@ -2372,7 +2372,7 @@
     "cubik.pl": {
         "epoch": 1586736000.0,
         "expiration_date": "13-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "cubus.com": {
         "epoch": 1599523200.0,
@@ -2982,7 +2982,7 @@
     "doradcarestrukturyzacyjny.info": {
         "epoch": 1586736000.0,
         "expiration_date": "13-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "doradcasmaku.pl": {
         "epoch": 1588032000.0,
@@ -8762,7 +8762,7 @@
     "monsieur-cuisine.com": {
         "epoch": 1586736000.0,
         "expiration_date": "13-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "monsterpolska.pl": {
         "epoch": 1635638400.0,
