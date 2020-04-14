@@ -235,8 +235,8 @@
         "state": "future"
     },
     "adra.pl": {
-        "epoch": 1586822400.0,
-        "expiration_date": "14-apr-2020",
+        "epoch": 1618358400.0,
+        "expiration_date": "14-apr-2021",
         "state": "future"
     },
     "advatus.pl": {
@@ -360,8 +360,8 @@
         "state": "future"
     },
     "akpolbaby.pl": {
-        "epoch": 1586822400.0,
-        "expiration_date": "14-apr-2020",
+        "epoch": 1618358400.0,
+        "expiration_date": "14-apr-2021",
         "state": "future"
     },
     "aktualnyodpis.pl": {
@@ -1425,8 +1425,8 @@
         "state": "future"
     },
     "bizin.pl": {
-        "epoch": 1586822400.0,
-        "expiration_date": "14-apr-2020",
+        "epoch": 1681430400.0,
+        "expiration_date": "14-apr-2023",
         "state": "future"
     },
     "biznes-firma.pl": {
@@ -3052,7 +3052,7 @@
     "dreammachines.pl": {
         "epoch": 1586822400.0,
         "expiration_date": "14-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "dreamswydawnictwo.pl": {
         "epoch": 1618185600.0,
@@ -13240,8 +13240,8 @@
         "state": "future"
     },
     "strzelnicabojowa.pl": {
-        "epoch": 1586822400.0,
-        "expiration_date": "14-apr-2020",
+        "epoch": 1618358400.0,
+        "expiration_date": "14-apr-2021",
         "state": "future"
     },
     "stskurier.com": {
@@ -14350,8 +14350,8 @@
         "state": "future"
     },
     "tygodnikkepinski.pl": {
-        "epoch": 1586822400.0,
-        "expiration_date": "14-apr-2020",
+        "epoch": 1618358400.0,
+        "expiration_date": "14-apr-2021",
         "state": "future"
     },
     "tygodnikpowszechny.pl": {
