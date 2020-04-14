@@ -2639,6 +2639,11 @@
         "expiration_date": "14-nov-2020",
         "state": "future"
     },
+    "dekoret.pl": {
+        "epoch": 1591833600.0,
+        "expiration_date": "11-jun-2020",
+        "state": "future"
+    },
     "delicjapolska.pl": {
         "epoch": 1602115200.0,
         "expiration_date": "08-oct-2020",
@@ -12417,6 +12422,11 @@
     "sew-eurodrive.pl": {
         "epoch": 1604880000.0,
         "expiration_date": "09-nov-2020",
+        "state": "future"
+    },
+    "sferazabawek.pl": {
+        "epoch": 1619395200.0,
+        "expiration_date": "26-apr-2021",
         "state": "future"
     },
     "sfinks.pl": {
