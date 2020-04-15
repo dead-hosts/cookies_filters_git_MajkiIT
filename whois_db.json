@@ -2062,7 +2062,7 @@
     "chreptiow.pl": {
         "epoch": 1586908800.0,
         "expiration_date": "15-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "chroma.pl": {
         "epoch": 1610582400.0,
@@ -6675,8 +6675,8 @@
         "state": "future"
     },
     "kia.com": {
-        "epoch": 1586908800.0,
-        "expiration_date": "15-apr-2020",
+        "epoch": 1618444800.0,
+        "expiration_date": "15-apr-2021",
         "state": "future"
     },
     "kiddabadam.com": {
@@ -9260,8 +9260,8 @@
         "state": "future"
     },
     "nekodancer.com": {
-        "epoch": 1586908800.0,
-        "expiration_date": "15-apr-2020",
+        "epoch": 1618444800.0,
+        "expiration_date": "15-apr-2021",
         "state": "future"
     },
     "neo-net.com.pl": {
