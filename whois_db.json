@@ -1570,8 +1570,8 @@
         "state": "future"
     },
     "booking.com": {
-        "epoch": 1586995200.0,
-        "expiration_date": "16-apr-2020",
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
         "state": "future"
     },
     "bookmaster.com.pl": {
@@ -6115,8 +6115,8 @@
         "state": "future"
     },
     "inwestycjebudowlane.biz": {
-        "epoch": 1586995200.0,
-        "expiration_date": "16-apr-2020",
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
         "state": "future"
     },
     "inzynieria.com": {
