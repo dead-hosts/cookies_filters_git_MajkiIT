@@ -1039,12 +1039,6 @@
         "1586054696": {
             "obserwatore.eu": "INACTIVE"
         },
-        "1586925917": {
-            "dlafirm.eu": "INACTIVE"
-        },
-        "1586925918": {
-            "wifiki.eu": "INACTIVE"
-        },
         "1586943729": {
             "raciborz.sr.gov.pl": "INACTIVE"
         },
@@ -1053,6 +1047,9 @@
         },
         "1587008400": {
             "nasze-kino.eu": "INACTIVE"
+        },
+        "1587012925": {
+            "wifiki.eu": "INACTIVE"
         }
     }
 }
