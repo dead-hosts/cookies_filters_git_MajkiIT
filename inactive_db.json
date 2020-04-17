@@ -1039,9 +1039,6 @@
         "1586054696": {
             "obserwatore.eu": "INACTIVE"
         },
-        "1587012925": {
-            "wifiki.eu": "INACTIVE"
-        },
         "1587017440": {
             "recepcja.visionexpress.pl": "INACTIVE"
         },
@@ -1059,6 +1056,9 @@
         },
         "1587098457": {
             "nasze-kino.eu": "INACTIVE"
+        },
+        "1587103001": {
+            "wifiki.eu": "INACTIVE"
         }
     }
 }
