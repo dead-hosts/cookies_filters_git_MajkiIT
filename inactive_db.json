@@ -65,6 +65,13 @@
             "last_retested_at_iso": "2020-04-04T19:57:49",
             "status": "INACTIVE"
         },
+        "studiuje.eu": {
+            "included_at_epoch": 1587969464.325962,
+            "included_at_iso": "2020-04-27T06:37:44.325962",
+            "last_retested_at_epoch": 1587969464.325962,
+            "last_retested_at_iso": "2020-04-27T06:37:44.325962",
+            "status": "INACTIVE"
+        },
         "wifiki.eu": {
             "included_at_epoch": 1587192685.0,
             "included_at_iso": "2020-04-18T06:51:25",
