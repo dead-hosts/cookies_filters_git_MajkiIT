@@ -3235,8 +3235,8 @@
         "state": "future"
     },
     "e-farmacja.net": {
-        "epoch": 1586995200.0,
-        "expiration_date": "16-apr-2020",
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
         "state": "future"
     },
     "e-hak24.pl": {
@@ -3250,8 +3250,8 @@
         "state": "future"
     },
     "e-hotelarz.pl": {
-        "epoch": 1583884800.0,
-        "expiration_date": "11-mar-2020",
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
         "state": "future"
     },
     "e-kolo.pl": {
@@ -3260,8 +3260,8 @@
         "state": "future"
     },
     "e-konferencje.pl": {
-        "epoch": 1584662400.0,
-        "expiration_date": "20-mar-2020",
+        "epoch": 1616198400.0,
+        "expiration_date": "20-mar-2021",
         "state": "future"
     },
     "e-konkursy.info": {
@@ -3270,8 +3270,8 @@
         "state": "future"
     },
     "e-kwiaciarz.pl": {
-        "epoch": 1585353600.0,
-        "expiration_date": "28-mar-2020",
+        "epoch": 1616889600.0,
+        "expiration_date": "28-mar-2021",
         "state": "future"
     },
     "e-lakiernik.net": {
@@ -3295,8 +3295,8 @@
         "state": "future"
     },
     "e-metalzbyt.pl": {
-        "epoch": 1585440000.0,
-        "expiration_date": "29-mar-2020",
+        "epoch": 1616976000.0,
+        "expiration_date": "29-mar-2021",
         "state": "future"
     },
     "e-monki.pl": {
@@ -3315,8 +3315,8 @@
         "state": "future"
     },
     "e-podroznik.pl": {
-        "epoch": 1587686400.0,
-        "expiration_date": "24-apr-2020",
+        "epoch": 1619222400.0,
+        "expiration_date": "24-apr-2021",
         "state": "future"
     },
     "e-programy.pl": {
@@ -4025,13 +4025,18 @@
         "state": "future"
     },
     "ewl.com.pl": {
-        "epoch": 1583971200.0,
-        "expiration_date": "12-mar-2020",
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
         "state": "future"
     },
     "exactsystems.pl": {
-        "epoch": 1580860800.0,
-        "expiration_date": "05-feb-2020",
+        "epoch": 1644019200.0,
+        "expiration_date": "05-feb-2022",
+        "state": "future"
+    },
+    "excodus.com": {
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
         "state": "future"
     },
     "expander.net.pl": {
@@ -4070,8 +4075,8 @@
         "state": "future"
     },
     "extraserv.pl": {
-        "epoch": 1581552000.0,
-        "expiration_date": "13-feb-2020",
+        "epoch": 1613174400.0,
+        "expiration_date": "13-feb-2021",
         "state": "future"
     },
     "extraswiecie.pl": {
@@ -4095,8 +4100,8 @@
         "state": "future"
     },
     "fabrykamemow.pl": {
-        "epoch": 1583712000.0,
-        "expiration_date": "09-mar-2020",
+        "epoch": 1615248000.0,
+        "expiration_date": "09-mar-2021",
         "state": "future"
     },
     "facebook.com": {
@@ -4125,18 +4130,18 @@
         "state": "future"
     },
     "famemma.tv": {
-        "epoch": 1587686400.0,
-        "expiration_date": "24-apr-2020",
+        "epoch": 1619222400.0,
+        "expiration_date": "24-apr-2021",
         "state": "future"
     },
     "familiasa.pl": {
-        "epoch": 1587513600.0,
-        "expiration_date": "22-apr-2020",
+        "epoch": 1619049600.0,
+        "expiration_date": "22-apr-2021",
         "state": "future"
     },
     "fan.pl": {
-        "epoch": 1582588800.0,
-        "expiration_date": "25-feb-2020",
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
         "state": "future"
     },
     "fandk.com.pl": {
@@ -4155,8 +4160,8 @@
         "state": "future"
     },
     "farbykabe.pl": {
-        "epoch": 1580947200.0,
-        "expiration_date": "06-feb-2020",
+        "epoch": 1738800000.0,
+        "expiration_date": "06-feb-2025",
         "state": "future"
     },
     "farmacja.edu.pl": {
@@ -4190,8 +4195,8 @@
         "state": "future"
     },
     "felgdent.com": {
-        "epoch": 1582761600.0,
-        "expiration_date": "27-feb-2020",
+        "epoch": 1614384000.0,
+        "expiration_date": "27-feb-2021",
         "state": "future"
     },
     "feriogaj.com": {
@@ -4225,8 +4230,8 @@
         "state": "future"
     },
     "festiwaldzieciecy.pl": {
-        "epoch": 1583539200.0,
-        "expiration_date": "07-mar-2020",
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
         "state": "future"
     },
     "festo.com": {
@@ -4235,13 +4240,13 @@
         "state": "future"
     },
     "fhunetcom.pl": {
-        "epoch": 1580947200.0,
-        "expiration_date": "06-feb-2020",
+        "epoch": 1612569600.0,
+        "expiration_date": "06-feb-2021",
         "state": "future"
     },
     "fiatklubpolska.pl": {
-        "epoch": 1584144000.0,
-        "expiration_date": "14-mar-2020",
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
         "state": "future"
     },
     "fibaro.com": {
@@ -4250,8 +4255,8 @@
         "state": "future"
     },
     "figowesmaki.pl": {
-        "epoch": 1583193600.0,
-        "expiration_date": "03-mar-2020",
+        "epoch": 1614729600.0,
+        "expiration_date": "03-mar-2021",
         "state": "future"
     },
     "filehippo.com": {
@@ -4315,8 +4320,8 @@
         "state": "future"
     },
     "firecash.org": {
-        "epoch": 1582070400.0,
-        "expiration_date": "19-feb-2020",
+        "epoch": 1613692800.0,
+        "expiration_date": "19-feb-2021",
         "state": "future"
     },
     "firmamazur.pl": {
@@ -4365,8 +4370,8 @@
         "state": "future"
     },
     "fitomento.com": {
-        "epoch": 1587772800.0,
-        "expiration_date": "25-apr-2020",
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
         "state": "future"
     },
     "fiufiu.co": {
@@ -4390,8 +4395,8 @@
         "state": "future"
     },
     "flordent.pl": {
-        "epoch": 1582588800.0,
-        "expiration_date": "25-feb-2020",
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
         "state": "future"
     },
     "fly-sky.pl": {
@@ -4410,8 +4415,8 @@
         "state": "future"
     },
     "fogo.pl": {
-        "epoch": 1582070400.0,
-        "expiration_date": "19-feb-2020",
+        "epoch": 1613692800.0,
+        "expiration_date": "19-feb-2021",
         "state": "future"
     },
     "fokus.tv": {
@@ -4450,8 +4455,8 @@
         "state": "future"
     },
     "foreca.pl": {
-        "epoch": 1586995200.0,
-        "expiration_date": "16-apr-2020",
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
         "state": "future"
     },
     "forguides.pl": {
@@ -4465,8 +4470,8 @@
         "state": "future"
     },
     "fors.pl": {
-        "epoch": 1580515200.0,
-        "expiration_date": "01-feb-2020",
+        "epoch": 1612137600.0,
+        "expiration_date": "01-feb-2021",
         "state": "future"
     },
     "forte.com.pl": {
@@ -4495,8 +4500,8 @@
         "state": "future"
     },
     "forumdarczyncow.pl": {
-        "epoch": 1583625600.0,
-        "expiration_date": "08-mar-2020",
+        "epoch": 1615161600.0,
+        "expiration_date": "08-mar-2021",
         "state": "future"
     },
     "forumdermatologiczne.pl": {
@@ -4505,13 +4510,13 @@
         "state": "future"
     },
     "forumlekarza.pl": {
-        "epoch": 1581120000.0,
-        "expiration_date": "08-feb-2020",
+        "epoch": 1612742400.0,
+        "expiration_date": "08-feb-2021",
         "state": "future"
     },
     "forumneurologiczne.pl": {
-        "epoch": 1584576000.0,
-        "expiration_date": "19-mar-2020",
+        "epoch": 1616112000.0,
+        "expiration_date": "19-mar-2021",
         "state": "future"
     },
     "forumpediatryczne.pl": {
@@ -4520,8 +4525,8 @@
         "state": "future"
     },
     "forumplay.pl": {
-        "epoch": 1581206400.0,
-        "expiration_date": "09-feb-2020",
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
         "state": "future"
     },
     "forumrowerowe.org": {
@@ -4530,8 +4535,8 @@
         "state": "future"
     },
     "forumstomatologiczne.pl": {
-        "epoch": 1587600000.0,
-        "expiration_date": "23-apr-2020",
+        "epoch": 1619136000.0,
+        "expiration_date": "23-apr-2021",
         "state": "future"
     },
     "forumtransportu.pl": {
@@ -4550,8 +4555,8 @@
         "state": "future"
     },
     "foto4u.pl": {
-        "epoch": 1585008000.0,
-        "expiration_date": "24-mar-2020",
+        "epoch": 1616544000.0,
+        "expiration_date": "24-mar-2021",
         "state": "future"
     },
     "fotoblogia.pl": {
@@ -4615,8 +4620,8 @@
         "state": "future"
     },
     "fsmportal.pl": {
-        "epoch": 1581724800.0,
-        "expiration_date": "15-feb-2020",
+        "epoch": 1613347200.0,
+        "expiration_date": "15-feb-2021",
         "state": "future"
     },
     "fuchs.com": {
@@ -4665,13 +4670,13 @@
         "state": "future"
     },
     "funnygames.pl": {
-        "epoch": 1583971200.0,
-        "expiration_date": "12-mar-2020",
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
         "state": "future"
     },
     "futu.pl": {
-        "epoch": 1587772800.0,
-        "expiration_date": "25-apr-2020",
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
         "state": "future"
     },
     "fyrestore.com": {
@@ -4690,8 +4695,8 @@
         "state": "future"
     },
     "gaj-stal.com": {
-        "epoch": 1582156800.0,
-        "expiration_date": "20-feb-2020",
+        "epoch": 1613779200.0,
+        "expiration_date": "20-feb-2021",
         "state": "future"
     },
     "galaxy-centrum.pl": {
@@ -4715,8 +4720,13 @@
         "state": "future"
     },
     "gamedot.pl": {
-        "epoch": 1583712000.0,
-        "expiration_date": "09-mar-2020",
+        "epoch": 1615248000.0,
+        "expiration_date": "09-mar-2021",
+        "state": "future"
+    },
+    "gamepedia.com": {
+        "epoch": 1780272000.0,
+        "expiration_date": "01-jun-2026",
         "state": "future"
     },
     "gameplay.pl": {
@@ -4730,8 +4740,8 @@
         "state": "future"
     },
     "gamisport.pl": {
-        "epoch": 1584057600.0,
-        "expiration_date": "13-mar-2020",
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
         "state": "future"
     },
     "ganjamafiashop.com": {
@@ -4800,8 +4810,8 @@
         "state": "future"
     },
     "gazetainformator.pl": {
-        "epoch": 1587081600.0,
-        "expiration_date": "17-apr-2020",
+        "epoch": 1618617600.0,
+        "expiration_date": "17-apr-2021",
         "state": "future"
     },
     "gazetalokalna.com": {
@@ -4855,8 +4865,8 @@
         "state": "future"
     },
     "gdsport.pl": {
-        "epoch": 1586649600.0,
-        "expiration_date": "12-apr-2020",
+        "epoch": 1618185600.0,
+        "expiration_date": "12-apr-2021",
         "state": "future"
     },
     "gdziewpolsce.pl": {
@@ -4900,8 +4910,8 @@
         "state": "future"
     },
     "geoblog.pl": {
-        "epoch": 1587254400.0,
-        "expiration_date": "19-apr-2020",
+        "epoch": 1618790400.0,
+        "expiration_date": "19-apr-2021",
         "state": "future"
     },
     "geopoz.pl": {
@@ -4915,14 +4925,14 @@
         "state": "future"
     },
     "gerlach.org.pl": {
-        "epoch": 1584748800.0,
-        "expiration_date": "21-mar-2020",
+        "epoch": 1616284800.0,
+        "expiration_date": "21-mar-2021",
         "state": "future"
     },
     "germany.travel": {
-        "epoch": 1578787200.0,
-        "expiration_date": "12-jan-2020",
-        "state": "past"
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
+        "state": "future"
     },
     "getbybus.com": {
         "epoch": 1595548800.0,
@@ -5010,8 +5020,8 @@
         "state": "future"
     },
     "gksjastrzebie.com": {
-        "epoch": 1582675200.0,
-        "expiration_date": "26-feb-2020",
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
         "state": "future"
     },
     "gkstychy.info": {
@@ -5295,8 +5305,8 @@
         "state": "future"
     },
     "grene.pl": {
-        "epoch": 1586217600.0,
-        "expiration_date": "07-apr-2020",
+        "epoch": 1617753600.0,
+        "expiration_date": "07-apr-2021",
         "state": "future"
     },
     "grobla.net": {
@@ -6455,8 +6465,8 @@
         "state": "future"
     },
     "joemonster.org": {
-        "epoch": 1584144000.0,
-        "expiration_date": "14-mar-2020",
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
         "state": "future"
     },
     "jogobella.com": {
@@ -7180,8 +7190,8 @@
         "state": "future"
     },
     "kujawsko-pomorskie.pl": {
-        "epoch": 1582588800.0,
-        "expiration_date": "25-feb-2020",
+        "epoch": 1645747200.0,
+        "expiration_date": "25-feb-2022",
         "state": "future"
     },
     "kujawy.info": {
@@ -7365,8 +7375,8 @@
         "state": "future"
     },
     "lasery.biz": {
-        "epoch": 1581379200.0,
-        "expiration_date": "11-feb-2020",
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
         "state": "future"
     },
     "laskarzew.pl": {
@@ -8120,8 +8130,8 @@
         "state": "future"
     },
     "maxior.pl": {
-        "epoch": 1581811200.0,
-        "expiration_date": "16-feb-2020",
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
         "state": "future"
     },
     "maxonactive.pl": {
@@ -8590,8 +8600,8 @@
         "state": "future"
     },
     "mistrzowie.org": {
-        "epoch": 1587600000.0,
-        "expiration_date": "23-apr-2020",
+        "epoch": 1619136000.0,
+        "expiration_date": "23-apr-2021",
         "state": "future"
     },
     "mitsubishielectric.com": {
@@ -8767,6 +8777,11 @@
     "mol.pl": {
         "epoch": 1643328000.0,
         "expiration_date": "28-jan-2022",
+        "state": "future"
+    },
+    "monacollection.pl": {
+        "epoch": 1618704000.0,
+        "expiration_date": "18-apr-2021",
         "state": "future"
     },
     "mondeoklubpolska.pl": {
@@ -9440,8 +9455,8 @@
         "state": "future"
     },
     "nike.com": {
-        "epoch": 1583366400.0,
-        "expiration_date": "05-mar-2020",
+        "epoch": 1646438400.0,
+        "expiration_date": "05-mar-2022",
         "state": "future"
     },
     "nina.gov.pl": {
@@ -10155,8 +10170,8 @@
         "state": "future"
     },
     "pajerosport.pl": {
-        "epoch": 1587772800.0,
-        "expiration_date": "25-apr-2020",
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
         "state": "future"
     },
     "paker.co.uk": {
@@ -10220,8 +10235,8 @@
         "state": "future"
     },
     "papciolandia.pl": {
-        "epoch": 1585526400.0,
-        "expiration_date": "30-mar-2020",
+        "epoch": 1617062400.0,
+        "expiration_date": "30-mar-2021",
         "state": "future"
     },
     "papercast.pl": {
@@ -11415,8 +11430,8 @@
         "state": "future"
     },
     "psychiatria-poradnie.pl": {
-        "epoch": 1581379200.0,
-        "expiration_date": "11-feb-2020",
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
         "state": "future"
     },
     "psychiatria.pl": {
@@ -11842,7 +11857,7 @@
     "reebok.pl": {
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "reebook.pl": {
         "epoch": 1590019200.0,
@@ -11865,8 +11880,8 @@
         "state": "future"
     },
     "regionwielkopolska.pl": {
-        "epoch": 1581292800.0,
-        "expiration_date": "10-feb-2020",
+        "epoch": 1612915200.0,
+        "expiration_date": "10-feb-2021",
         "state": "future"
     },
     "rejestr.io": {
@@ -12455,8 +12470,8 @@
         "state": "future"
     },
     "sggik.pl": {
-        "epoch": 1586563200.0,
-        "expiration_date": "11-apr-2020",
+        "epoch": 1618099200.0,
+        "expiration_date": "11-apr-2021",
         "state": "future"
     },
     "sgurp.pl": {
@@ -12785,8 +12800,8 @@
         "state": "future"
     },
     "smakizycia.pl": {
-        "epoch": 1580515200.0,
-        "expiration_date": "01-feb-2020",
+        "epoch": 1612137600.0,
+        "expiration_date": "01-feb-2021",
         "state": "future"
     },
     "smart.com": {
@@ -12845,8 +12860,8 @@
         "state": "future"
     },
     "sochaczewianin.pl": {
-        "epoch": 1582156800.0,
-        "expiration_date": "20-feb-2020",
+        "epoch": 1613779200.0,
+        "expiration_date": "20-feb-2021",
         "state": "future"
     },
     "socialwifi.com": {
@@ -12975,8 +12990,8 @@
         "state": "future"
     },
     "speedtest.com.pl": {
-        "epoch": 1587945600.0,
-        "expiration_date": "27-apr-2020",
+        "epoch": 1619481600.0,
+        "expiration_date": "27-apr-2021",
         "state": "future"
     },
     "speedtest.net": {
@@ -13115,8 +13130,8 @@
         "state": "future"
     },
     "staltech.biz": {
-        "epoch": 1584144000.0,
-        "expiration_date": "14-mar-2020",
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
         "state": "future"
     },
     "starachowice-net.pl": {
@@ -14422,7 +14437,7 @@
     "tywent.pl": {
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "u-jazdowski.pl": {
         "epoch": 1585699200.0,
@@ -14592,6 +14607,11 @@
     "vigo.com.pl": {
         "epoch": 1609372800.0,
         "expiration_date": "31-dec-2020",
+        "state": "future"
+    },
+    "vilohome.com": {
+        "epoch": 1609113600.0,
+        "expiration_date": "28-dec-2020",
         "state": "future"
     },
     "vinci-play.com": {
@@ -14835,8 +14855,8 @@
         "state": "future"
     },
     "webelite.pl": {
-        "epoch": 1585785600.0,
-        "expiration_date": "02-apr-2020",
+        "epoch": 1617321600.0,
+        "expiration_date": "02-apr-2021",
         "state": "future"
     },
     "webmade.org": {
