@@ -5245,8 +5245,8 @@
         "state": "future"
     },
     "gotujmy.pl": {
-        "epoch": 1585180800.0,
-        "expiration_date": "26-mar-2020",
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
         "state": "future"
     },
     "gowork.pl": {
@@ -5260,8 +5260,8 @@
         "state": "future"
     },
     "gplshop.pl": {
-        "epoch": 1587340800.0,
-        "expiration_date": "20-apr-2020",
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
         "state": "future"
     },
     "gr4cze.pl": {
@@ -5320,8 +5320,8 @@
         "state": "future"
     },
     "grodzisk.pl": {
-        "epoch": 1584662400.0,
-        "expiration_date": "20-mar-2020",
+        "epoch": 1616198400.0,
+        "expiration_date": "20-mar-2021",
         "state": "future"
     },
     "groj.pl": {
@@ -5335,8 +5335,8 @@
         "state": "future"
     },
     "groman.pl": {
-        "epoch": 1581984000.0,
-        "expiration_date": "18-feb-2020",
+        "epoch": 1613606400.0,
+        "expiration_date": "18-feb-2021",
         "state": "future"
     },
     "groupon.pl": {
@@ -14207,6 +14207,11 @@
     "tryton-tools.pl": {
         "epoch": 1579651200.0,
         "expiration_date": "22-jan-2020",
+        "state": "future"
+    },
+    "trzyjeze.pl": {
+        "epoch": 1591401600.0,
+        "expiration_date": "06-jun-2020",
         "state": "future"
     },
     "tspodbeskidzie.pl": {
