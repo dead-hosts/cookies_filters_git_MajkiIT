@@ -9820,8 +9820,8 @@
         "state": "future"
     },
     "oko.press": {
-        "epoch": 1585612800.0,
-        "expiration_date": "31-mar-2020",
+        "epoch": 1617148800.0,
+        "expiration_date": "31-mar-2021",
         "state": "future"
     },
     "oktawave.com": {
@@ -11855,9 +11855,9 @@
         "state": "future"
     },
     "reebok.pl": {
-        "epoch": 1587945600.0,
-        "expiration_date": "27-apr-2020",
-        "state": "past"
+        "epoch": 1619481600.0,
+        "expiration_date": "27-apr-2021",
+        "state": "future"
     },
     "reebook.pl": {
         "epoch": 1590019200.0,
@@ -14435,9 +14435,9 @@
         "state": "future"
     },
     "tywent.pl": {
-        "epoch": 1587945600.0,
-        "expiration_date": "27-apr-2020",
-        "state": "past"
+        "epoch": 1619481600.0,
+        "expiration_date": "27-apr-2021",
+        "state": "future"
     },
     "u-jazdowski.pl": {
         "epoch": 1585699200.0,
