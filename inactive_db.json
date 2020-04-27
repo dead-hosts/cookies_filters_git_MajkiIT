@@ -12,8 +12,8 @@
         "antenki.eu": {
             "included_at_epoch": 1587188396.0,
             "included_at_iso": "2020-04-18T05:39:56",
-            "last_retested_at_epoch": 1587941148.489639,
-            "last_retested_at_iso": "2020-04-26T22:45:48.489639",
+            "last_retested_at_epoch": 1588031780.272108,
+            "last_retested_at_iso": "2020-04-27T23:56:20.272108",
             "status": "INACTIVE"
         },
         "eecpoland.eu": {
@@ -23,32 +23,11 @@
             "last_retested_at_iso": "2020-04-27T20:21:41.239088",
             "status": "INACTIVE"
         },
-        "informacja-turystyczna.starachowice.eu": {
-            "included_at_epoch": 1587941129.276889,
-            "included_at_iso": "2020-04-26T22:45:29.276889",
-            "last_retested_at_epoch": 1587941129.276889,
-            "last_retested_at_iso": "2020-04-26T22:45:29.276889",
-            "status": "INACTIVE"
-        },
-        "jezewo.eu": {
-            "included_at_epoch": 1587941129.275758,
-            "included_at_iso": "2020-04-26T22:45:29.275758",
-            "last_retested_at_epoch": 1587941129.275758,
-            "last_retested_at_iso": "2020-04-26T22:45:29.275758",
-            "status": "INACTIVE"
-        },
         "nasze-kino.eu": {
             "included_at_epoch": 1587188408.0,
             "included_at_iso": "2020-04-18T05:40:08",
-            "last_retested_at_epoch": 1587941160.661301,
-            "last_retested_at_iso": "2020-04-26T22:46:00.661301",
-            "status": "INACTIVE"
-        },
-        "naszefutrzaki.eu": {
-            "included_at_epoch": 1587941129.944285,
-            "included_at_iso": "2020-04-26T22:45:29.944285",
-            "last_retested_at_epoch": 1587941129.944285,
-            "last_retested_at_iso": "2020-04-26T22:45:29.944285",
+            "last_retested_at_epoch": 1588031792.599064,
+            "last_retested_at_iso": "2020-04-27T23:56:32.599064",
             "status": "INACTIVE"
         },
         "obserwatore.eu": {
@@ -56,13 +35,6 @@
             "included_at_iso": "2020-04-05T02:44:56",
             "last_retested_at_epoch": 1586054696.0,
             "last_retested_at_iso": "2020-04-05T02:44:56",
-            "status": "INACTIVE"
-        },
-        "profit-plus.eu": {
-            "included_at_epoch": 1587941129.94592,
-            "included_at_iso": "2020-04-26T22:45:29.945920",
-            "last_retested_at_epoch": 1587941129.94592,
-            "last_retested_at_iso": "2020-04-26T22:45:29.945920",
             "status": "INACTIVE"
         },
         "smarttrans.eu": {
@@ -82,8 +54,8 @@
         "wifiki.eu": {
             "included_at_epoch": 1587192685.0,
             "included_at_iso": "2020-04-18T06:51:25",
-            "last_retested_at_epoch": 1587941138.610511,
-            "last_retested_at_iso": "2020-04-26T22:45:38.610511",
+            "last_retested_at_epoch": 1588031770.198212,
+            "last_retested_at_iso": "2020-04-27T23:56:10.198212",
             "status": "INACTIVE"
         },
         "www.obozytenisowe.pl": {
@@ -96,8 +68,8 @@
         "zory.dlawas.pl": {
             "included_at_epoch": 1587941170.694397,
             "included_at_iso": "2020-04-26T22:46:10.694397",
-            "last_retested_at_epoch": 1587941170.694397,
-            "last_retested_at_iso": "2020-04-26T22:46:10.694397",
+            "last_retested_at_epoch": 1588031802.772572,
+            "last_retested_at_iso": "2020-04-27T23:56:42.772572",
             "status": "INACTIVE"
         }
     }
