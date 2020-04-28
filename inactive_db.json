@@ -23,6 +23,13 @@
             "last_retested_at_iso": "2020-04-27T20:21:41.239088",
             "status": "INACTIVE"
         },
+        "isokolka.eu": {
+            "included_at_epoch": 1588043937.477587,
+            "included_at_iso": "2020-04-28T03:18:57.477587",
+            "last_retested_at_epoch": 1588043937.477587,
+            "last_retested_at_iso": "2020-04-28T03:18:57.477587",
+            "status": "INACTIVE"
+        },
         "nasze-kino.eu": {
             "included_at_epoch": 1587188408.0,
             "included_at_iso": "2020-04-18T05:40:08",
