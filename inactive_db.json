@@ -16,13 +16,6 @@
             "last_retested_at_iso": "2020-04-27T23:56:20.272108",
             "status": "INACTIVE"
         },
-        "eecpoland.eu": {
-            "included_at_epoch": 1588018901.239088,
-            "included_at_iso": "2020-04-27T20:21:41.239088",
-            "last_retested_at_epoch": 1588018901.239088,
-            "last_retested_at_iso": "2020-04-27T20:21:41.239088",
-            "status": "INACTIVE"
-        },
         "gdynia.sr.gov.pl": {
             "included_at_epoch": 1588060411.292562,
             "included_at_iso": "2020-04-28T07:53:31.292562",
@@ -63,13 +56,6 @@
             "included_at_iso": "2020-04-18T06:51:25",
             "last_retested_at_epoch": 1588031770.198212,
             "last_retested_at_iso": "2020-04-27T23:56:10.198212",
-            "status": "INACTIVE"
-        },
-        "www.obozytenisowe.pl": {
-            "included_at_epoch": 1588018900.963889,
-            "included_at_iso": "2020-04-27T20:21:40.963889",
-            "last_retested_at_epoch": 1588018900.963889,
-            "last_retested_at_iso": "2020-04-27T20:21:40.963889",
             "status": "INACTIVE"
         },
         "zory.dlawas.pl": {
