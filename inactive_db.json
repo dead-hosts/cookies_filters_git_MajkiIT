@@ -23,6 +23,13 @@
             "last_retested_at_iso": "2020-04-27T20:21:41.239088",
             "status": "INACTIVE"
         },
+        "gdynia.sr.gov.pl": {
+            "included_at_epoch": 1588060411.292562,
+            "included_at_iso": "2020-04-28T07:53:31.292562",
+            "last_retested_at_epoch": 1588060411.292562,
+            "last_retested_at_iso": "2020-04-28T07:53:31.292562",
+            "status": "INACTIVE"
+        },
         "isokolka.eu": {
             "included_at_epoch": 1588043937.477587,
             "included_at_iso": "2020-04-28T03:18:57.477587",
@@ -49,13 +56,6 @@
             "included_at_iso": "2020-04-04T19:57:49",
             "last_retested_at_epoch": 1586030269.0,
             "last_retested_at_iso": "2020-04-04T19:57:49",
-            "status": "INACTIVE"
-        },
-        "studiuje.eu": {
-            "included_at_epoch": 1587969464.325962,
-            "included_at_iso": "2020-04-27T06:37:44.325962",
-            "last_retested_at_epoch": 1587969464.325962,
-            "last_retested_at_iso": "2020-04-27T06:37:44.325962",
             "status": "INACTIVE"
         },
         "wifiki.eu": {
