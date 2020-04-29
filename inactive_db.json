@@ -23,6 +23,13 @@
             "last_retested_at_iso": "2020-04-29T00:27:16.026096",
             "status": "INACTIVE"
         },
+        "capslook.eu": {
+            "included_at_epoch": 1588160552.837264,
+            "included_at_iso": "2020-04-29T11:42:32.837264",
+            "last_retested_at_epoch": 1588160552.837264,
+            "last_retested_at_iso": "2020-04-29T11:42:32.837264",
+            "status": "INACTIVE"
+        },
         "nasze-kino.eu": {
             "included_at_epoch": 1587188408.0,
             "included_at_iso": "2020-04-18T05:40:08",
