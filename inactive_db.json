@@ -23,13 +23,6 @@
             "last_retested_at_iso": "2020-04-29T00:27:16.026096",
             "status": "INACTIVE"
         },
-        "gdynia.sr.gov.pl": {
-            "included_at_epoch": 1588060411.292562,
-            "included_at_iso": "2020-04-28T07:53:31.292562",
-            "last_retested_at_epoch": 1588060411.292562,
-            "last_retested_at_iso": "2020-04-28T07:53:31.292562",
-            "status": "INACTIVE"
-        },
         "nasze-kino.eu": {
             "included_at_epoch": 1587188408.0,
             "included_at_iso": "2020-04-18T05:40:08",
