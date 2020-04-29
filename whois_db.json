@@ -1065,8 +1065,8 @@
         "state": "future"
     },
     "baldowski.pl": {
-        "epoch": 1588118400.0,
-        "expiration_date": "29-apr-2020",
+        "epoch": 1651190400.0,
+        "expiration_date": "29-apr-2022",
         "state": "future"
     },
     "balladine.com": {
@@ -1500,8 +1500,8 @@
         "state": "future"
     },
     "bludshop.com": {
-        "epoch": 1588118400.0,
-        "expiration_date": "29-apr-2020",
+        "epoch": 1619654400.0,
+        "expiration_date": "29-apr-2021",
         "state": "future"
     },
     "bluecity.pl": {
@@ -2040,13 +2040,13 @@
         "state": "future"
     },
     "chevan.pl": {
-        "epoch": 1588118400.0,
-        "expiration_date": "29-apr-2020",
+        "epoch": 1617062400.0,
+        "expiration_date": "30-mar-2021",
         "state": "future"
     },
     "chillizet.pl": {
-        "epoch": 1588118400.0,
-        "expiration_date": "29-apr-2020",
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
         "state": "future"
     },
     "chocholowydwor.pl": {
@@ -4335,8 +4335,8 @@
         "state": "future"
     },
     "firmyinzynieria.com": {
-        "epoch": 1588118400.0,
-        "expiration_date": "29-apr-2020",
+        "epoch": 1619654400.0,
+        "expiration_date": "29-apr-2021",
         "state": "future"
     },
     "firmymiesne.pl": {
@@ -4522,7 +4522,7 @@
     "forumpediatryczne.pl": {
         "epoch": 1588118400.0,
         "expiration_date": "29-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "forumplay.pl": {
         "epoch": 1610236800.0,
@@ -12630,8 +12630,8 @@
         "state": "future"
     },
     "skionline.pl": {
-        "epoch": 1588118400.0,
-        "expiration_date": "29-apr-2020",
+        "epoch": 1619654400.0,
+        "expiration_date": "29-apr-2021",
         "state": "future"
     },
     "skk.com.pl": {
@@ -13172,7 +13172,7 @@
     "start.me": {
         "epoch": 1588118400.0,
         "expiration_date": "29-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "starterek.pl": {
         "epoch": 1580083200.0,
@@ -14775,8 +14775,8 @@
         "state": "future"
     },
     "wanika.pl": {
-        "epoch": 1588118400.0,
-        "expiration_date": "29-apr-2020",
+        "epoch": 1619654400.0,
+        "expiration_date": "29-apr-2021",
         "state": "future"
     },
     "wapteka.pl": {

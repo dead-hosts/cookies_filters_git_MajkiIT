@@ -12,8 +12,8 @@
         "antenki.eu": {
             "included_at_epoch": 1587188396.0,
             "included_at_iso": "2020-04-18T05:39:56",
-            "last_retested_at_epoch": 1588031780.272108,
-            "last_retested_at_iso": "2020-04-27T23:56:20.272108",
+            "last_retested_at_epoch": 1588120036.026096,
+            "last_retested_at_iso": "2020-04-29T00:27:16.026096",
             "status": "INACTIVE"
         },
         "gdynia.sr.gov.pl": {
@@ -33,8 +33,8 @@
         "nasze-kino.eu": {
             "included_at_epoch": 1587188408.0,
             "included_at_iso": "2020-04-18T05:40:08",
-            "last_retested_at_epoch": 1588031792.599064,
-            "last_retested_at_iso": "2020-04-27T23:56:32.599064",
+            "last_retested_at_epoch": 1588120048.300299,
+            "last_retested_at_iso": "2020-04-29T00:27:28.300299",
             "status": "INACTIVE"
         },
         "obserwatore.eu": {
@@ -54,15 +54,15 @@
         "wifiki.eu": {
             "included_at_epoch": 1587192685.0,
             "included_at_iso": "2020-04-18T06:51:25",
-            "last_retested_at_epoch": 1588031770.198212,
-            "last_retested_at_iso": "2020-04-27T23:56:10.198212",
+            "last_retested_at_epoch": 1588120026.095803,
+            "last_retested_at_iso": "2020-04-29T00:27:06.095803",
             "status": "INACTIVE"
         },
         "zory.dlawas.pl": {
             "included_at_epoch": 1587941170.694397,
             "included_at_iso": "2020-04-26T22:46:10.694397",
-            "last_retested_at_epoch": 1588031802.772572,
-            "last_retested_at_iso": "2020-04-27T23:56:42.772572",
+            "last_retested_at_epoch": 1588120058.354279,
+            "last_retested_at_iso": "2020-04-29T00:27:38.354279",
             "status": "INACTIVE"
         }
     }
