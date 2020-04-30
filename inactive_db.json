@@ -9,18 +9,11 @@
         }
     },
     "/home/travis/build/dead-hosts/cookies_filters_git_MajkiIT/domains.list": {
-        "akwarysta.eu": {
-            "included_at_epoch": 1588139745.279002,
-            "included_at_iso": "2020-04-29T05:55:45.279002",
-            "last_retested_at_epoch": 1588139745.279002,
-            "last_retested_at_iso": "2020-04-29T05:55:45.279002",
-            "status": "INACTIVE"
-        },
         "antenki.eu": {
             "included_at_epoch": 1587188396.0,
             "included_at_iso": "2020-04-18T05:39:56",
-            "last_retested_at_epoch": 1588120036.026096,
-            "last_retested_at_iso": "2020-04-29T00:27:16.026096",
+            "last_retested_at_epoch": 1588247905.590264,
+            "last_retested_at_iso": "2020-04-30T11:58:25.590264",
             "status": "INACTIVE"
         },
         "aukcje.pkoleasing.pl": {
@@ -30,18 +23,11 @@
             "last_retested_at_iso": "2020-04-29T15:09:47.582412",
             "status": "INACTIVE"
         },
-        "capslook.eu": {
-            "included_at_epoch": 1588160552.837264,
-            "included_at_iso": "2020-04-29T11:42:32.837264",
-            "last_retested_at_epoch": 1588160552.837264,
-            "last_retested_at_iso": "2020-04-29T11:42:32.837264",
-            "status": "INACTIVE"
-        },
         "nasze-kino.eu": {
             "included_at_epoch": 1587188408.0,
             "included_at_iso": "2020-04-18T05:40:08",
-            "last_retested_at_epoch": 1588120048.300299,
-            "last_retested_at_iso": "2020-04-29T00:27:28.300299",
+            "last_retested_at_epoch": 1588247918.246724,
+            "last_retested_at_iso": "2020-04-30T11:58:38.246724",
             "status": "INACTIVE"
         },
         "obserwatore.eu": {
@@ -68,15 +54,15 @@
         "wifiki.eu": {
             "included_at_epoch": 1587192685.0,
             "included_at_iso": "2020-04-18T06:51:25",
-            "last_retested_at_epoch": 1588120026.095803,
-            "last_retested_at_iso": "2020-04-29T00:27:06.095803",
+            "last_retested_at_epoch": 1588247895.232079,
+            "last_retested_at_iso": "2020-04-30T11:58:15.232079",
             "status": "INACTIVE"
         },
         "zory.dlawas.pl": {
             "included_at_epoch": 1587941170.694397,
             "included_at_iso": "2020-04-26T22:46:10.694397",
-            "last_retested_at_epoch": 1588120058.354279,
-            "last_retested_at_iso": "2020-04-29T00:27:38.354279",
+            "last_retested_at_epoch": 1588247928.659885,
+            "last_retested_at_iso": "2020-04-30T11:58:48.659885",
             "status": "INACTIVE"
         }
     }
