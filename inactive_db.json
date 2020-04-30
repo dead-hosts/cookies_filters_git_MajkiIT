@@ -16,13 +16,6 @@
             "last_retested_at_iso": "2020-04-30T11:58:25.590264",
             "status": "INACTIVE"
         },
-        "aukcje.pkoleasing.pl": {
-            "included_at_epoch": 1588172987.582412,
-            "included_at_iso": "2020-04-29T15:09:47.582412",
-            "last_retested_at_epoch": 1588172987.582412,
-            "last_retested_at_iso": "2020-04-29T15:09:47.582412",
-            "status": "INACTIVE"
-        },
         "nasze-kino.eu": {
             "included_at_epoch": 1587188408.0,
             "included_at_iso": "2020-04-18T05:40:08",
@@ -35,13 +28,6 @@
             "included_at_iso": "2020-04-05T02:44:56",
             "last_retested_at_epoch": 1586054696.0,
             "last_retested_at_iso": "2020-04-05T02:44:56",
-            "status": "INACTIVE"
-        },
-        "skwerwolnosci.eu": {
-            "included_at_epoch": 1588172984.424813,
-            "included_at_iso": "2020-04-29T15:09:44.424813",
-            "last_retested_at_epoch": 1588172984.424813,
-            "last_retested_at_iso": "2020-04-29T15:09:44.424813",
             "status": "INACTIVE"
         },
         "smarttrans.eu": {
