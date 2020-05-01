@@ -12,8 +12,8 @@
         "antenki.eu": {
             "included_at_epoch": 1587188396.0,
             "included_at_iso": "2020-04-18T05:39:56",
-            "last_retested_at_epoch": 1588247905.590264,
-            "last_retested_at_iso": "2020-04-30T11:58:25.590264",
+            "last_retested_at_epoch": 1588336070.463978,
+            "last_retested_at_iso": "2020-05-01T12:27:50.463978",
             "status": "INACTIVE"
         },
         "aukcje.pkoleasing.pl": {
@@ -33,8 +33,8 @@
         "nasze-kino.eu": {
             "included_at_epoch": 1587188408.0,
             "included_at_iso": "2020-04-18T05:40:08",
-            "last_retested_at_epoch": 1588247918.246724,
-            "last_retested_at_iso": "2020-04-30T11:58:38.246724",
+            "last_retested_at_epoch": 1588336082.301179,
+            "last_retested_at_iso": "2020-05-01T12:28:02.301179",
             "status": "INACTIVE"
         },
         "obserwatore.eu": {
@@ -54,15 +54,15 @@
         "wifiki.eu": {
             "included_at_epoch": 1587192685.0,
             "included_at_iso": "2020-04-18T06:51:25",
-            "last_retested_at_epoch": 1588247895.232079,
-            "last_retested_at_iso": "2020-04-30T11:58:15.232079",
+            "last_retested_at_epoch": 1588336060.841663,
+            "last_retested_at_iso": "2020-05-01T12:27:40.841663",
             "status": "INACTIVE"
         },
         "zory.dlawas.pl": {
             "included_at_epoch": 1587941170.694397,
             "included_at_iso": "2020-04-26T22:46:10.694397",
-            "last_retested_at_epoch": 1588247928.659885,
-            "last_retested_at_iso": "2020-04-30T11:58:48.659885",
+            "last_retested_at_epoch": 1588336092.163802,
+            "last_retested_at_iso": "2020-05-01T12:28:12.163802",
             "status": "INACTIVE"
         }
     }
