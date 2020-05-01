@@ -23,6 +23,13 @@
             "last_retested_at_iso": "2020-04-30T20:06:33.185946",
             "status": "INACTIVE"
         },
+        "cmp.*.pl": {
+            "included_at_epoch": 1588351804.486785,
+            "included_at_iso": "2020-05-01T16:50:04.486785",
+            "last_retested_at_epoch": 1588351804.486785,
+            "last_retested_at_iso": "2020-05-01T16:50:04.486785",
+            "status": "INVALID"
+        },
         "eecpoland.eu": {
             "included_at_epoch": 1588316514.179979,
             "included_at_iso": "2020-05-01T07:01:54.179979",
@@ -70,6 +77,13 @@
             "included_at_iso": "2020-04-18T06:51:25",
             "last_retested_at_epoch": 1588336060.841663,
             "last_retested_at_iso": "2020-05-01T12:27:40.841663",
+            "status": "INACTIVE"
+        },
+        "www.multimedia-energia.pl": {
+            "included_at_epoch": 1588351802.878417,
+            "included_at_iso": "2020-05-01T16:50:02.878417",
+            "last_retested_at_epoch": 1588351802.878417,
+            "last_retested_at_iso": "2020-05-01T16:50:02.878417",
             "status": "INACTIVE"
         },
         "zory.dlawas.pl": {
