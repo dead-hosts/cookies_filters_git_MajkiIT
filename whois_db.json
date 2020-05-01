@@ -10820,8 +10820,8 @@
         "state": "future"
     },
     "polishteam.ru": {
-        "epoch": 1588291200.0,
-        "expiration_date": "01-may-2020",
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
         "state": "future"
     },
     "polityka.pl": {
@@ -13887,7 +13887,7 @@
     "testo.com": {
         "epoch": 1588291200.0,
         "expiration_date": "01-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "tewa-sensors.com": {
         "epoch": 1610064000.0,
