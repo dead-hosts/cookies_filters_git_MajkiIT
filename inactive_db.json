@@ -23,6 +23,13 @@
             "last_retested_at_iso": "2020-04-30T20:06:33.185946",
             "status": "INACTIVE"
         },
+        "eecpoland.eu": {
+            "included_at_epoch": 1588316514.179979,
+            "included_at_iso": "2020-05-01T07:01:54.179979",
+            "last_retested_at_epoch": 1588316514.179979,
+            "last_retested_at_iso": "2020-05-01T07:01:54.179979",
+            "status": "INACTIVE"
+        },
         "nasze-kino.eu": {
             "included_at_epoch": 1587188408.0,
             "included_at_iso": "2020-04-18T05:40:08",
