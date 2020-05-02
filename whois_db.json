@@ -2930,8 +2930,8 @@
         "state": "future"
     },
     "domena.pl": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1652918400.0,
+        "expiration_date": "19-may-2022",
         "state": "future"
     },
     "domesta.com.pl": {
@@ -3467,6 +3467,11 @@
     "edrone.me": {
         "epoch": 1615507200.0,
         "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "eduelo.pl": {
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
         "state": "future"
     },
     "edupage.org": {
@@ -10297,7 +10302,7 @@
     "pabianice.tv": {
         "epoch": 1588377600.0,
         "expiration_date": "02-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "pafere.org": {
         "epoch": 1678060800.0,
@@ -14135,9 +14140,9 @@
         "state": "future"
     },
     "testo.com": {
-        "epoch": 1588291200.0,
-        "expiration_date": "01-may-2020",
-        "state": "past"
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
+        "state": "future"
     },
     "tewa-sensors.com": {
         "epoch": 1610064000.0,

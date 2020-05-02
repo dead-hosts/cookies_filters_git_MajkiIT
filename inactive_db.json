@@ -12,15 +12,8 @@
         "antenki.eu": {
             "included_at_epoch": 1587188396.0,
             "included_at_iso": "2020-04-18T05:39:56",
-            "last_retested_at_epoch": 1588336070.463978,
-            "last_retested_at_iso": "2020-05-01T12:27:50.463978",
-            "status": "INACTIVE"
-        },
-        "aukcje.pkoleasing.pl": {
-            "included_at_epoch": 1588277193.185946,
-            "included_at_iso": "2020-04-30T20:06:33.185946",
-            "last_retested_at_epoch": 1588277193.185946,
-            "last_retested_at_iso": "2020-04-30T20:06:33.185946",
+            "last_retested_at_epoch": 1588462719.395897,
+            "last_retested_at_iso": "2020-05-02T23:38:39.395897",
             "status": "INACTIVE"
         },
         "cmp.*.pl": {
@@ -30,18 +23,11 @@
             "last_retested_at_iso": "2020-05-01T16:50:04.486785",
             "status": "INVALID"
         },
-        "eecpoland.eu": {
-            "included_at_epoch": 1588316514.179979,
-            "included_at_iso": "2020-05-01T07:01:54.179979",
-            "last_retested_at_epoch": 1588316514.179979,
-            "last_retested_at_iso": "2020-05-01T07:01:54.179979",
-            "status": "INACTIVE"
-        },
         "nasze-kino.eu": {
             "included_at_epoch": 1587188408.0,
             "included_at_iso": "2020-04-18T05:40:08",
-            "last_retested_at_epoch": 1588336082.301179,
-            "last_retested_at_iso": "2020-05-01T12:28:02.301179",
+            "last_retested_at_epoch": 1588462731.991307,
+            "last_retested_at_iso": "2020-05-02T23:38:51.991307",
             "status": "INACTIVE"
         },
         "obserwatore.eu": {
@@ -49,13 +35,6 @@
             "included_at_iso": "2020-04-05T02:44:56",
             "last_retested_at_epoch": 1586054696.0,
             "last_retested_at_iso": "2020-04-05T02:44:56",
-            "status": "INACTIVE"
-        },
-        "smarttrans.eu": {
-            "included_at_epoch": 1586030269.0,
-            "included_at_iso": "2020-04-04T19:57:49",
-            "last_retested_at_epoch": 1586030269.0,
-            "last_retested_at_iso": "2020-04-04T19:57:49",
             "status": "INACTIVE"
         },
         "stypendia.sejmik.kielce.pl": {
@@ -75,8 +54,8 @@
         "wifiki.eu": {
             "included_at_epoch": 1587192685.0,
             "included_at_iso": "2020-04-18T06:51:25",
-            "last_retested_at_epoch": 1588336060.841663,
-            "last_retested_at_iso": "2020-05-01T12:27:40.841663",
+            "last_retested_at_epoch": 1588462709.106623,
+            "last_retested_at_iso": "2020-05-02T23:38:29.106623",
             "status": "INACTIVE"
         },
         "www.multimedia-energia.pl": {
@@ -89,8 +68,8 @@
         "zory.dlawas.pl": {
             "included_at_epoch": 1587941170.694397,
             "included_at_iso": "2020-04-26T22:46:10.694397",
-            "last_retested_at_epoch": 1588336092.163802,
-            "last_retested_at_iso": "2020-05-01T12:28:12.163802",
+            "last_retested_at_epoch": 1588462742.414301,
+            "last_retested_at_iso": "2020-05-02T23:39:02.414301",
             "status": "INACTIVE"
         }
     }
