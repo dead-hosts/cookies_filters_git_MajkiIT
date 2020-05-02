@@ -19,8 +19,8 @@
         "cmp.*.pl": {
             "included_at_epoch": 1588351804.486785,
             "included_at_iso": "2020-05-01T16:50:04.486785",
-            "last_retested_at_epoch": 1588351804.486785,
-            "last_retested_at_iso": "2020-05-01T16:50:04.486785",
+            "last_retested_at_epoch": 1588463893.867787,
+            "last_retested_at_iso": "2020-05-02T23:58:13.867787",
             "status": "INVALID"
         },
         "firmy.lu": {
@@ -47,15 +47,15 @@
         "stypendia.sejmik.kielce.pl": {
             "included_at_epoch": 1588348424.216819,
             "included_at_iso": "2020-05-01T15:53:44.216819",
-            "last_retested_at_epoch": 1588348424.216819,
-            "last_retested_at_iso": "2020-05-01T15:53:44.216819",
+            "last_retested_at_epoch": 1588463886.890061,
+            "last_retested_at_iso": "2020-05-02T23:58:06.890061",
             "status": "INACTIVE"
         },
         "testujemy.biedronka.pl": {
             "included_at_epoch": 1588348425.574088,
             "included_at_iso": "2020-05-01T15:53:45.574088",
-            "last_retested_at_epoch": 1588348425.574088,
-            "last_retested_at_iso": "2020-05-01T15:53:45.574088",
+            "last_retested_at_epoch": 1588463888.286495,
+            "last_retested_at_iso": "2020-05-02T23:58:08.286495",
             "status": "INACTIVE"
         },
         "wifiki.eu": {
@@ -68,8 +68,8 @@
         "www.multimedia-energia.pl": {
             "included_at_epoch": 1588351802.878417,
             "included_at_iso": "2020-05-01T16:50:02.878417",
-            "last_retested_at_epoch": 1588351802.878417,
-            "last_retested_at_iso": "2020-05-01T16:50:02.878417",
+            "last_retested_at_epoch": 1588463892.130035,
+            "last_retested_at_iso": "2020-05-02T23:58:12.130035",
             "status": "INACTIVE"
         },
         "zory.dlawas.pl": {
