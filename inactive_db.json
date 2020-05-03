@@ -37,13 +37,6 @@
             "last_retested_at_iso": "2020-05-02T23:38:51.991307",
             "status": "INACTIVE"
         },
-        "obserwatore.eu": {
-            "included_at_epoch": 1586054696.0,
-            "included_at_iso": "2020-04-05T02:44:56",
-            "last_retested_at_epoch": 1586054696.0,
-            "last_retested_at_iso": "2020-04-05T02:44:56",
-            "status": "INACTIVE"
-        },
         "stypendia.sejmik.kielce.pl": {
             "included_at_epoch": 1588348424.216819,
             "included_at_iso": "2020-05-01T15:53:44.216819",
