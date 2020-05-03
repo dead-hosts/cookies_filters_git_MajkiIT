@@ -12,8 +12,8 @@
         "antenki.eu": {
             "included_at_epoch": 1587188396.0,
             "included_at_iso": "2020-04-18T05:39:56",
-            "last_retested_at_epoch": 1588462719.395897,
-            "last_retested_at_iso": "2020-05-02T23:38:39.395897",
+            "last_retested_at_epoch": 1588550066.638857,
+            "last_retested_at_iso": "2020-05-03T23:54:26.638857",
             "status": "INACTIVE"
         },
         "cmp.*.pl": {
@@ -33,8 +33,8 @@
         "nasze-kino.eu": {
             "included_at_epoch": 1587188408.0,
             "included_at_iso": "2020-04-18T05:40:08",
-            "last_retested_at_epoch": 1588462731.991307,
-            "last_retested_at_iso": "2020-05-02T23:38:51.991307",
+            "last_retested_at_epoch": 1588550066.642082,
+            "last_retested_at_iso": "2020-05-03T23:54:26.642082",
             "status": "INACTIVE"
         },
         "stypendia.sejmik.kielce.pl": {
@@ -54,8 +54,8 @@
         "wifiki.eu": {
             "included_at_epoch": 1587192685.0,
             "included_at_iso": "2020-04-18T06:51:25",
-            "last_retested_at_epoch": 1588462709.106623,
-            "last_retested_at_iso": "2020-05-02T23:38:29.106623",
+            "last_retested_at_epoch": 1588550066.635398,
+            "last_retested_at_iso": "2020-05-03T23:54:26.635398",
             "status": "INACTIVE"
         },
         "www.multimedia-energia.pl": {
@@ -68,8 +68,8 @@
         "zory.dlawas.pl": {
             "included_at_epoch": 1587941170.694397,
             "included_at_iso": "2020-04-26T22:46:10.694397",
-            "last_retested_at_epoch": 1588462742.414301,
-            "last_retested_at_iso": "2020-05-02T23:39:02.414301",
+            "last_retested_at_epoch": 1588550066.676473,
+            "last_retested_at_iso": "2020-05-03T23:54:26.676473",
             "status": "INACTIVE"
         }
     }
