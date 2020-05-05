@@ -530,8 +530,8 @@
         "state": "future"
     },
     "amarone.pl": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1591228800.0,
+        "expiration_date": "04-jun-2020",
         "state": "future"
     },
     "ambermarine.pl": {
@@ -1010,8 +1010,8 @@
         "state": "future"
     },
     "avon.pl": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "awangardashoes.com": {
@@ -1330,8 +1330,8 @@
         "state": "future"
     },
     "bileteria-online.pl": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1617580800.0,
+        "expiration_date": "05-apr-2021",
         "state": "future"
     },
     "bilka.com.pl": {
@@ -3360,8 +3360,8 @@
         "state": "future"
     },
     "e24cloud.com": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
         "state": "future"
     },
     "ea.com": {
@@ -8385,8 +8385,8 @@
         "state": "future"
     },
     "meloradio.pl": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
         "state": "future"
     },
     "memoinfo.pl": {
@@ -11740,8 +11740,8 @@
         "state": "future"
     },
     "qkiz.pl": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
         "state": "future"
     },
     "qnap.com": {
@@ -13900,9 +13900,9 @@
         "state": "future"
     },
     "tally-weijl.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
-        "state": "past"
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
+        "state": "future"
     },
     "tanibus.com": {
         "epoch": 1613347200.0,
@@ -13910,8 +13910,8 @@
         "state": "future"
     },
     "tanidrut.com": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
         "state": "future"
     },
     "tanie-loty.com.pl": {
@@ -14660,8 +14660,8 @@
         "state": "future"
     },
     "tyflopodcast.net": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
         "state": "future"
     },
     "tygodnik-krapkowicki.info": {
@@ -15155,8 +15155,8 @@
         "state": "future"
     },
     "webster-studio.pl": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
+        "epoch": 1617494400.0,
+        "expiration_date": "04-apr-2021",
         "state": "future"
     },
     "weck.com.pl": {
