@@ -30,13 +30,6 @@
             "last_retested_at_iso": "2020-05-07T23:42:04.587158",
             "status": "INACTIVE"
         },
-        "firmy.lu": {
-            "included_at_epoch": 1588463498.835713,
-            "included_at_iso": "2020-05-02T23:51:38.835713",
-            "last_retested_at_epoch": 1588722020.717179,
-            "last_retested_at_iso": "2020-05-05T23:40:20.717179",
-            "status": "INACTIVE"
-        },
         "nasze-kino.eu": {
             "included_at_epoch": 1587188408.0,
             "included_at_iso": "2020-04-18T05:40:08",
