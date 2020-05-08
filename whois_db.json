@@ -2095,8 +2095,8 @@
         "state": "future"
     },
     "ciasteczka.org.pl": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "ciasteczkowapolityka.pl": {
@@ -13362,7 +13362,7 @@
     "stalowemiasto.pl": {
         "epoch": 1588896000.0,
         "expiration_date": "08-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "stalowka.net": {
         "epoch": 1608508800.0,
@@ -13687,7 +13687,7 @@
     "swidnica24.pl": {
         "epoch": 1588896000.0,
         "expiration_date": "08-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "swietawdomu.pl": {
         "epoch": 1616112000.0,

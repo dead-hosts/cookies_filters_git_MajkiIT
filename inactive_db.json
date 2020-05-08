@@ -19,8 +19,8 @@
         "cmp.*.pl": {
             "included_at_epoch": 1588351804.486785,
             "included_at_iso": "2020-05-01T16:50:04.486785",
-            "last_retested_at_epoch": 1588723162.946787,
-            "last_retested_at_iso": "2020-05-05T23:59:22.946787",
+            "last_retested_at_epoch": 1588896060.603201,
+            "last_retested_at_iso": "2020-05-08T00:01:00.603201",
             "status": "INVALID"
         },
         "eecpoland.eu": {
@@ -40,15 +40,15 @@
         "stypendia.sejmik.kielce.pl": {
             "included_at_epoch": 1588348424.216819,
             "included_at_iso": "2020-05-01T15:53:44.216819",
-            "last_retested_at_epoch": 1588723156.443737,
-            "last_retested_at_iso": "2020-05-05T23:59:16.443737",
+            "last_retested_at_epoch": 1588896053.855631,
+            "last_retested_at_iso": "2020-05-08T00:00:53.855631",
             "status": "INACTIVE"
         },
         "testujemy.biedronka.pl": {
             "included_at_epoch": 1588348425.574088,
             "included_at_iso": "2020-05-01T15:53:45.574088",
-            "last_retested_at_epoch": 1588723157.794783,
-            "last_retested_at_iso": "2020-05-05T23:59:17.794783",
+            "last_retested_at_epoch": 1588896055.280103,
+            "last_retested_at_iso": "2020-05-08T00:00:55.280103",
             "status": "INACTIVE"
         },
         "wifiki.eu": {
@@ -58,11 +58,18 @@
             "last_retested_at_iso": "2020-05-07T23:41:28.992897",
             "status": "INACTIVE"
         },
+        "wleczycy.pl": {
+            "included_at_epoch": 1588896058.374479,
+            "included_at_iso": "2020-05-08T00:00:58.374479",
+            "last_retested_at_epoch": 1588896058.374479,
+            "last_retested_at_iso": "2020-05-08T00:00:58.374479",
+            "status": "INACTIVE"
+        },
         "www.multimedia-energia.pl": {
             "included_at_epoch": 1588351802.878417,
             "included_at_iso": "2020-05-01T16:50:02.878417",
-            "last_retested_at_epoch": 1588723161.3486,
-            "last_retested_at_iso": "2020-05-05T23:59:21.348600",
+            "last_retested_at_epoch": 1588896058.954317,
+            "last_retested_at_iso": "2020-05-08T00:00:58.954317",
             "status": "INACTIVE"
         },
         "zory.dlawas.pl": {
