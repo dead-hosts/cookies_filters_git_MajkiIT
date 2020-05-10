@@ -19,8 +19,8 @@
         "cmp.*.pl": {
             "included_at_epoch": 1588351804.486785,
             "included_at_iso": "2020-05-01T16:50:04.486785",
-            "last_retested_at_epoch": 1588982935.164087,
-            "last_retested_at_iso": "2020-05-09T00:08:55.164087",
+            "last_retested_at_epoch": 1589111920.715205,
+            "last_retested_at_iso": "2020-05-10T11:58:40.715205",
             "status": "INVALID"
         },
         "dekoracjeweselne.eu": {
@@ -35,13 +35,6 @@
             "included_at_iso": "2020-04-18T05:40:08",
             "last_retested_at_epoch": 1589107584.571831,
             "last_retested_at_iso": "2020-05-10T10:46:24.571831",
-            "status": "INACTIVE"
-        },
-        "rodo.rawlplug.com": {
-            "included_at_epoch": 1588982936.011294,
-            "included_at_iso": "2020-05-09T00:08:56.011294",
-            "last_retested_at_epoch": 1588982936.011294,
-            "last_retested_at_iso": "2020-05-09T00:08:56.011294",
             "status": "INACTIVE"
         },
         "stypendia.sejmik.kielce.pl": {
@@ -68,15 +61,15 @@
         "wleczycy.pl": {
             "included_at_epoch": 1588896058.374479,
             "included_at_iso": "2020-05-08T00:00:58.374479",
-            "last_retested_at_epoch": 1588982933.002657,
-            "last_retested_at_iso": "2020-05-09T00:08:53.002657",
+            "last_retested_at_epoch": 1589111918.573826,
+            "last_retested_at_iso": "2020-05-10T11:58:38.573826",
             "status": "INACTIVE"
         },
         "www.multimedia-energia.pl": {
             "included_at_epoch": 1588351802.878417,
             "included_at_iso": "2020-05-01T16:50:02.878417",
-            "last_retested_at_epoch": 1588982933.541782,
-            "last_retested_at_iso": "2020-05-09T00:08:53.541782",
+            "last_retested_at_epoch": 1589111919.134388,
+            "last_retested_at_iso": "2020-05-10T11:58:39.134388",
             "status": "INACTIVE"
         },
         "zory.dlawas.pl": {
