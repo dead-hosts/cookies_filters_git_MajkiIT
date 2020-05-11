@@ -7910,8 +7910,8 @@
         "state": "future"
     },
     "lullalove.com": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
         "state": "future"
     },
     "lunch24.com": {
@@ -8860,8 +8860,8 @@
         "state": "future"
     },
     "mojeinstalacje.com": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
         "state": "future"
     },
     "mojekatowice.pl": {
@@ -9722,7 +9722,7 @@
     "nowaostroleka.pl": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "nowapapiernia.pl": {
         "epoch": 1607558400.0,
@@ -10677,7 +10677,7 @@
     "pilz.com": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "pingpong.com.pl": {
         "epoch": 1605139200.0,
