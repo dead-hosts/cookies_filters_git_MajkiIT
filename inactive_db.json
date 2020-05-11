@@ -12,8 +12,8 @@
         "antenki.eu": {
             "included_at_epoch": 1587188396.0,
             "included_at_iso": "2020-04-18T05:39:56",
-            "last_retested_at_epoch": 1589107572.791259,
-            "last_retested_at_iso": "2020-05-10T10:46:12.791259",
+            "last_retested_at_epoch": 1589196025.111539,
+            "last_retested_at_iso": "2020-05-11T11:20:25.111539",
             "status": "INACTIVE"
         },
         "cmp.*.pl": {
@@ -23,18 +23,11 @@
             "last_retested_at_iso": "2020-05-10T11:58:40.715205",
             "status": "INVALID"
         },
-        "dekoracjeweselne.eu": {
-            "included_at_epoch": 1589107590.911415,
-            "included_at_iso": "2020-05-10T10:46:30.911415",
-            "last_retested_at_epoch": 1589107590.911415,
-            "last_retested_at_iso": "2020-05-10T10:46:30.911415",
-            "status": "INACTIVE"
-        },
         "nasze-kino.eu": {
             "included_at_epoch": 1587188408.0,
             "included_at_iso": "2020-04-18T05:40:08",
-            "last_retested_at_epoch": 1589107584.571831,
-            "last_retested_at_iso": "2020-05-10T10:46:24.571831",
+            "last_retested_at_epoch": 1589196025.114485,
+            "last_retested_at_iso": "2020-05-11T11:20:25.114485",
             "status": "INACTIVE"
         },
         "stypendia.sejmik.kielce.pl": {
@@ -54,8 +47,8 @@
         "wifiki.eu": {
             "included_at_epoch": 1587192685.0,
             "included_at_iso": "2020-04-18T06:51:25",
-            "last_retested_at_epoch": 1589107563.152061,
-            "last_retested_at_iso": "2020-05-10T10:46:03.152061",
+            "last_retested_at_epoch": 1589196025.108562,
+            "last_retested_at_iso": "2020-05-11T11:20:25.108562",
             "status": "INACTIVE"
         },
         "wleczycy.pl": {
@@ -75,8 +68,8 @@
         "zory.dlawas.pl": {
             "included_at_epoch": 1587941170.694397,
             "included_at_iso": "2020-04-26T22:46:10.694397",
-            "last_retested_at_epoch": 1589107594.331989,
-            "last_retested_at_iso": "2020-05-10T10:46:34.331989",
+            "last_retested_at_epoch": 1589196025.116902,
+            "last_retested_at_iso": "2020-05-11T11:20:25.116902",
             "status": "INACTIVE"
         }
     }
