@@ -239,6 +239,11 @@
         "expiration_date": "14-apr-2021",
         "state": "future"
     },
+    "adrenaline.pl": {
+        "epoch": 1749772800.0,
+        "expiration_date": "13-jun-2025",
+        "state": "future"
+    },
     "advatus.pl": {
         "epoch": 1605571200.0,
         "expiration_date": "17-nov-2020",
@@ -1150,8 +1155,8 @@
         "state": "future"
     },
     "becek.pl": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
         "state": "future"
     },
     "bechtle.com": {
@@ -3640,8 +3645,8 @@
         "state": "future"
     },
     "elevensports.pl": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
         "state": "future"
     },
     "elita-magazyn.pl": {
@@ -6479,6 +6484,11 @@
         "expiration_date": "05-dec-2021",
         "state": "future"
     },
+    "jejsklep.pl": {
+        "epoch": 1592179200.0,
+        "expiration_date": "15-jun-2020",
+        "state": "future"
+    },
     "jelenia.pl": {
         "epoch": 1612051200.0,
         "expiration_date": "31-jan-2021",
@@ -8720,8 +8730,8 @@
         "state": "future"
     },
     "mklr.pl": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
         "state": "future"
     },
     "mleczarze.pl": {
@@ -9720,9 +9730,9 @@
         "state": "future"
     },
     "nowaostroleka.pl": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
-        "state": "past"
+        "epoch": 1591747200.0,
+        "expiration_date": "10-jun-2020",
+        "state": "future"
     },
     "nowapapiernia.pl": {
         "epoch": 1607558400.0,
@@ -10675,9 +10685,9 @@
         "state": "future"
     },
     "pilz.com": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
-        "state": "past"
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
+        "state": "future"
     },
     "pingpong.com.pl": {
         "epoch": 1605139200.0,
@@ -12825,8 +12835,8 @@
         "state": "future"
     },
     "siteor.pl": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
         "state": "future"
     },
     "sitn.pl": {
@@ -14962,6 +14972,11 @@
     "vodflix.tv": {
         "epoch": 1614816000.0,
         "expiration_date": "04-mar-2021",
+        "state": "future"
+    },
+    "vodi.cc": {
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
         "state": "future"
     },
     "volcano.pl": {

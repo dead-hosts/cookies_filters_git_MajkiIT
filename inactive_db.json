@@ -26,8 +26,8 @@
         "nasze-kino.eu": {
             "included_at_epoch": 1587188408.0,
             "included_at_iso": "2020-04-18T05:40:08",
-            "last_retested_at_epoch": 1589196025.114485,
-            "last_retested_at_iso": "2020-05-11T11:20:25.114485",
+            "last_retested_at_epoch": 1589327097.357529,
+            "last_retested_at_iso": "2020-05-12T23:44:57.357529",
             "status": "INACTIVE"
         },
         "stypendia.sejmik.kielce.pl": {
@@ -47,8 +47,8 @@
         "wifiki.eu": {
             "included_at_epoch": 1587192685.0,
             "included_at_iso": "2020-04-18T06:51:25",
-            "last_retested_at_epoch": 1589196025.108562,
-            "last_retested_at_iso": "2020-05-11T11:20:25.108562",
+            "last_retested_at_epoch": 1589327075.602185,
+            "last_retested_at_iso": "2020-05-12T23:44:35.602185",
             "status": "INACTIVE"
         },
         "wleczycy.pl": {
@@ -68,8 +68,8 @@
         "zory.dlawas.pl": {
             "included_at_epoch": 1587941170.694397,
             "included_at_iso": "2020-04-26T22:46:10.694397",
-            "last_retested_at_epoch": 1589196025.116902,
-            "last_retested_at_iso": "2020-05-11T11:20:25.116902",
+            "last_retested_at_epoch": 1589327107.305787,
+            "last_retested_at_iso": "2020-05-12T23:45:07.305787",
             "status": "INACTIVE"
         }
     }
