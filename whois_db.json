@@ -13284,6 +13284,11 @@
         "expiration_date": "03-aug-2020",
         "state": "future"
     },
+    "spolem.olawa.pl": {
+        "epoch": 1602201600.0,
+        "expiration_date": "09-oct-2020",
+        "state": "future"
+    },
     "sportowiec.com": {
         "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
@@ -13490,8 +13495,8 @@
         "state": "future"
     },
     "stopgender.pl": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
         "state": "future"
     },
     "stoprocent.com": {
@@ -14502,7 +14507,7 @@
     "tspodbeskidzie.pl": {
         "epoch": 1589328000.0,
         "expiration_date": "13-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "ttv.pl": {
         "epoch": 1620432000.0,
@@ -14645,8 +14650,8 @@
         "state": "future"
     },
     "twojeankiety.pl": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
         "state": "future"
     },
     "twojeapteki.com": {
@@ -15907,6 +15912,11 @@
     "zamow-myjnie.pl": {
         "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
+        "state": "future"
+    },
+    "zapytaj-lekarza.pl": {
+        "epoch": 1599091200.0,
+        "expiration_date": "03-sep-2020",
         "state": "future"
     },
     "zara.com": {
