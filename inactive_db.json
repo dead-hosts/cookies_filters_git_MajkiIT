@@ -9,13 +9,6 @@
         }
     },
     "/home/travis/build/dead-hosts/cookies_filters_git_MajkiIT/domains.list": {
-        "antenki.eu": {
-            "included_at_epoch": 1587188396.0,
-            "included_at_iso": "2020-04-18T05:39:56",
-            "last_retested_at_epoch": 1589196025.111539,
-            "last_retested_at_iso": "2020-05-11T11:20:25.111539",
-            "status": "INACTIVE"
-        },
         "cmp.*.pl": {
             "included_at_epoch": 1588351804.486785,
             "included_at_iso": "2020-05-01T16:50:04.486785",
@@ -24,10 +17,10 @@
             "status": "INVALID"
         },
         "nasze-kino.eu": {
-            "included_at_epoch": 1587188408.0,
-            "included_at_iso": "2020-04-18T05:40:08",
-            "last_retested_at_epoch": 1589499510.866503,
-            "last_retested_at_iso": "2020-05-14T23:38:30.866503",
+            "included_at_epoch": 1589672767.894193,
+            "included_at_iso": "2020-05-16T23:46:07.894193",
+            "last_retested_at_epoch": 1589672767.894193,
+            "last_retested_at_iso": "2020-05-16T23:46:07.894193",
             "status": "INACTIVE"
         },
         "penguingamers.eu": {
@@ -52,10 +45,10 @@
             "status": "INACTIVE"
         },
         "wifiki.eu": {
-            "included_at_epoch": 1587192685.0,
-            "included_at_iso": "2020-04-18T06:51:25",
-            "last_retested_at_epoch": 1589499510.862721,
-            "last_retested_at_iso": "2020-05-14T23:38:30.862721",
+            "included_at_epoch": 1589672744.385424,
+            "included_at_iso": "2020-05-16T23:45:44.385424",
+            "last_retested_at_epoch": 1589672744.385424,
+            "last_retested_at_iso": "2020-05-16T23:45:44.385424",
             "status": "INACTIVE"
         },
         "wleczycy.pl": {
@@ -75,8 +68,8 @@
         "zory.dlawas.pl": {
             "included_at_epoch": 1587941170.694397,
             "included_at_iso": "2020-04-26T22:46:10.694397",
-            "last_retested_at_epoch": 1589499510.873045,
-            "last_retested_at_iso": "2020-05-14T23:38:30.873045",
+            "last_retested_at_epoch": 1589672778.499849,
+            "last_retested_at_iso": "2020-05-16T23:46:18.499849",
             "status": "INACTIVE"
         }
     }

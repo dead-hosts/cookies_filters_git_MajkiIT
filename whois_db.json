@@ -485,8 +485,8 @@
         "state": "future"
     },
     "allnet24.pl": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "allplay.pl": {
@@ -905,8 +905,8 @@
         "state": "future"
     },
     "auto-sam.pl": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
         "state": "future"
     },
     "auto-swiat.pl": {
@@ -1535,8 +1535,8 @@
         "state": "future"
     },
     "bobryk.pl": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "boca.com": {
@@ -1855,8 +1855,8 @@
         "state": "future"
     },
     "byinsomnia.com": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
         "state": "future"
     },
     "bytom.com.pl": {
@@ -2380,8 +2380,8 @@
         "state": "future"
     },
     "csir.pl": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
         "state": "future"
     },
     "cubik.pl": {
@@ -3070,8 +3070,8 @@
         "state": "future"
     },
     "dreammachines.pl": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1618358400.0,
+        "expiration_date": "14-apr-2021",
         "state": "future"
     },
     "dreamswydawnictwo.pl": {
@@ -3360,8 +3360,8 @@
         "state": "future"
     },
     "e-wiklinowy-sklep.pl": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "e24cloud.com": {
@@ -3390,8 +3390,8 @@
         "state": "future"
     },
     "eaton.com": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1652659200.0,
+        "expiration_date": "16-may-2022",
         "state": "future"
     },
     "ebay.pl": {
@@ -3440,8 +3440,8 @@
         "state": "future"
     },
     "eco-driving.info": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
         "state": "future"
     },
     "economist.com": {
@@ -5855,8 +5855,8 @@
         "state": "future"
     },
     "ifmglobalfunds.com": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
         "state": "future"
     },
     "ifmpl.com": {
@@ -7980,8 +7980,8 @@
         "state": "future"
     },
     "maamstyle.com": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
         "state": "future"
     },
     "maciuszek.com": {
@@ -12440,8 +12440,8 @@
         "state": "future"
     },
     "samouczek.info": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
         "state": "future"
     },
     "samsonite.pl": {
@@ -13217,7 +13217,7 @@
     "sowlofficial.com": {
         "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "soyoustart.com": {
         "epoch": 1603497600.0,
@@ -16130,8 +16130,8 @@
         "state": "future"
     },
     "znak.pl": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "znanylekarz.pl": {
