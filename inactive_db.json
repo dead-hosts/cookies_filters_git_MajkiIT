@@ -12,8 +12,8 @@
         "cmp.*.pl": {
             "included_at_epoch": 1588351804.486785,
             "included_at_iso": "2020-05-01T16:50:04.486785",
-            "last_retested_at_epoch": 1589499513.527483,
-            "last_retested_at_iso": "2020-05-14T23:38:33.527483",
+            "last_retested_at_epoch": 1589674119.596818,
+            "last_retested_at_iso": "2020-05-17T00:08:39.596818",
             "status": "INVALID"
         },
         "nasze-kino.eu": {
@@ -33,15 +33,15 @@
         "stypendia.sejmik.kielce.pl": {
             "included_at_epoch": 1588348424.216819,
             "included_at_iso": "2020-05-01T15:53:44.216819",
-            "last_retested_at_epoch": 1589499510.879487,
-            "last_retested_at_iso": "2020-05-14T23:38:30.879487",
+            "last_retested_at_epoch": 1589674113.183577,
+            "last_retested_at_iso": "2020-05-17T00:08:33.183577",
             "status": "INACTIVE"
         },
         "testujemy.biedronka.pl": {
             "included_at_epoch": 1588348425.574088,
             "included_at_iso": "2020-05-01T15:53:45.574088",
-            "last_retested_at_epoch": 1589499510.876348,
-            "last_retested_at_iso": "2020-05-14T23:38:30.876348",
+            "last_retested_at_epoch": 1589674114.490243,
+            "last_retested_at_iso": "2020-05-17T00:08:34.490243",
             "status": "INACTIVE"
         },
         "wifiki.eu": {
