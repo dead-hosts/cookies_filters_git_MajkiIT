@@ -165,8 +165,8 @@
         "state": "future"
     },
     "acer.com": {
-        "epoch": 1589673600.0,
-        "expiration_date": "17-may-2020",
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
         "state": "future"
     },
     "aclari.pl": {
@@ -225,8 +225,8 @@
         "state": "future"
     },
     "adobe.com": {
-        "epoch": 1589673600.0,
-        "expiration_date": "17-may-2020",
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
         "state": "future"
     },
     "adocean-global.com": {
@@ -242,6 +242,11 @@
     "adrenaline.pl": {
         "epoch": 1749772800.0,
         "expiration_date": "13-jun-2025",
+        "state": "future"
+    },
+    "adresowo.pl": {
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
         "state": "future"
     },
     "advatus.pl": {
@@ -1460,8 +1465,8 @@
         "state": "future"
     },
     "blablacar.pl": {
-        "epoch": 1589673600.0,
-        "expiration_date": "17-may-2020",
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
         "state": "future"
     },
     "blackpearlszczecin.pl": {
@@ -2077,6 +2082,11 @@
     "chroma.pl": {
         "epoch": 1610582400.0,
         "expiration_date": "14-jan-2021",
+        "state": "future"
+    },
+    "chronpesel.pl": {
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
         "state": "future"
     },
     "chrzanow.pl": {
@@ -2750,8 +2760,8 @@
         "state": "future"
     },
     "diagmed.info.pl": {
-        "epoch": 1589673600.0,
-        "expiration_date": "17-may-2020",
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
         "state": "future"
     },
     "diagprog4.com": {
@@ -3167,7 +3177,7 @@
     "dzialoszyn.pl": {
         "epoch": 1589673600.0,
         "expiration_date": "17-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "dziary.com": {
         "epoch": 1634083200.0,
@@ -3519,6 +3529,11 @@
         "expiration_date": "09-may-2021",
         "state": "future"
     },
+    "eitc.online": {
+        "epoch": 1594080000.0,
+        "expiration_date": "07-jul-2020",
+        "state": "future"
+    },
     "ekko.com.pl": {
         "epoch": 1607472000.0,
         "expiration_date": "09-dec-2020",
@@ -3627,6 +3642,11 @@
     "elektroinstalacje.info": {
         "epoch": 1591660800.0,
         "expiration_date": "09-jun-2020",
+        "state": "future"
+    },
+    "elektroniksc.com.pl": {
+        "epoch": 1616457600.0,
+        "expiration_date": "23-mar-2021",
         "state": "future"
     },
     "elektroonline.pl": {
@@ -7155,8 +7175,8 @@
         "state": "future"
     },
     "kropka.audio": {
-        "epoch": 1589673600.0,
-        "expiration_date": "17-may-2020",
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
         "state": "future"
     },
     "kropleinternetu.biz": {
@@ -10620,8 +10640,8 @@
         "state": "future"
     },
     "pgn.com.pl": {
-        "epoch": 1589673600.0,
-        "expiration_date": "17-may-2020",
+        "epoch": 1652745600.0,
+        "expiration_date": "17-may-2022",
         "state": "future"
     },
     "philips.pl": {
@@ -11955,9 +11975,9 @@
         "state": "future"
     },
     "rallypl.com": {
-        "epoch": 1589673600.0,
-        "expiration_date": "17-may-2020",
-        "state": "past"
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
+        "state": "future"
     },
     "ramboll.pl": {
         "epoch": 1596240000.0,
@@ -13215,9 +13235,9 @@
         "state": "future"
     },
     "sowlofficial.com": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
-        "state": "past"
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
+        "state": "future"
     },
     "soyoustart.com": {
         "epoch": 1603497600.0,
@@ -14359,6 +14379,11 @@
         "expiration_date": "23-mar-2021",
         "state": "future"
     },
+    "totalmoney.pl": {
+        "epoch": 1651276800.0,
+        "expiration_date": "30-apr-2022",
+        "state": "future"
+    },
     "tp-link.com": {
         "epoch": 1601251200.0,
         "expiration_date": "28-sep-2020",
@@ -14785,8 +14810,8 @@
         "state": "future"
     },
     "uniaeuropejska.org": {
-        "epoch": 1589673600.0,
-        "expiration_date": "17-may-2020",
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
         "state": "future"
     },
     "unifiedfactory.com": {
