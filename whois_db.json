@@ -6215,9 +6215,9 @@
         "state": "future"
     },
     "ioki.pl": {
-        "epoch": 1589673600.0,
-        "expiration_date": "17-may-2020",
-        "state": "past"
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
+        "state": "future"
     },
     "iom.pl": {
         "epoch": 1590624000.0,
@@ -8969,6 +8969,11 @@
         "expiration_date": "01-dec-2020",
         "state": "future"
     },
+    "montersi.pl": {
+        "epoch": 1666569600.0,
+        "expiration_date": "24-oct-2022",
+        "state": "future"
+    },
     "mooodstudio.com": {
         "epoch": 1612051200.0,
         "expiration_date": "31-jan-2021",
@@ -9172,6 +9177,11 @@
     "multiplay.pl": {
         "epoch": 1618099200.0,
         "expiration_date": "11-apr-2021",
+        "state": "future"
+    },
+    "multisort.pl": {
+        "epoch": 1609804800.0,
+        "expiration_date": "05-jan-2021",
         "state": "future"
     },
     "muscat.pl": {
@@ -11400,9 +11410,9 @@
         "state": "future"
     },
     "prawdaobiektywna.pl": {
-        "epoch": 1589673600.0,
-        "expiration_date": "17-may-2020",
-        "state": "past"
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
+        "state": "future"
     },
     "prawnik-rodzinny.pl": {
         "epoch": 1608681600.0,
