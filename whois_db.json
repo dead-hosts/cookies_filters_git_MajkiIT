@@ -5670,8 +5670,8 @@
         "state": "future"
     },
     "horex.pl": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "horizon.tv": {
@@ -6197,7 +6197,7 @@
     "ioki.pl": {
         "epoch": 1589673600.0,
         "expiration_date": "17-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "iom.pl": {
         "epoch": 1590624000.0,
@@ -7295,8 +7295,8 @@
         "state": "future"
     },
     "kuriergarwolinski.pl": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "kurjerzy.pl": {
@@ -11382,7 +11382,7 @@
     "prawdaobiektywna.pl": {
         "epoch": 1589673600.0,
         "expiration_date": "17-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "prawnik-rodzinny.pl": {
         "epoch": 1608681600.0,
@@ -11957,7 +11957,7 @@
     "rallypl.com": {
         "epoch": 1589673600.0,
         "expiration_date": "17-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "ramboll.pl": {
         "epoch": 1596240000.0,
@@ -12815,8 +12815,8 @@
         "state": "future"
     },
     "simba.com.pl": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
         "state": "future"
     },
     "simplesurance.pl": {
@@ -12950,8 +12950,8 @@
         "state": "future"
     },
     "skokinarciarskie.pl": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
         "state": "future"
     },
     "skorzecin.pl": {
