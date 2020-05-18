@@ -3175,9 +3175,9 @@
         "state": "future"
     },
     "dzialoszyn.pl": {
-        "epoch": 1589673600.0,
-        "expiration_date": "17-may-2020",
-        "state": "past"
+        "epoch": 1592265600.0,
+        "expiration_date": "16-jun-2020",
+        "state": "future"
     },
     "dziary.com": {
         "epoch": 1634083200.0,
@@ -4110,8 +4110,8 @@
         "state": "future"
     },
     "extradom.pl": {
-        "epoch": 1589760000.0,
-        "expiration_date": "18-may-2020",
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "extraserv.pl": {
@@ -4705,8 +4705,8 @@
         "state": "future"
     },
     "fundacjawolnosci.org": {
-        "epoch": 1589760000.0,
-        "expiration_date": "18-may-2020",
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "funduszpomerania.pl": {
@@ -6830,8 +6830,8 @@
         "state": "future"
     },
     "kinoteka.pl": {
-        "epoch": 1589760000.0,
-        "expiration_date": "18-may-2020",
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "klinikaagd.pl": {
@@ -9542,7 +9542,7 @@
     "netcompany.com": {
         "epoch": 1589760000.0,
         "expiration_date": "18-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "netflix.com": {
         "epoch": 1636502400.0,
@@ -13885,8 +13885,8 @@
         "state": "future"
     },
     "sztukawyciszania.pl": {
-        "epoch": 1589760000.0,
-        "expiration_date": "18-may-2020",
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "szukacz.pl": {
@@ -15682,7 +15682,7 @@
     "wyczes.net": {
         "epoch": 1589760000.0,
         "expiration_date": "18-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "wyczesani.com": {
         "epoch": 1610755200.0,
