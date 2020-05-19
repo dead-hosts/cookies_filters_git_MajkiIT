@@ -30,6 +30,13 @@
             "last_retested_at_iso": "2020-05-19T00:00:44.199332",
             "status": "INACTIVE"
         },
+        "poid.eu": {
+            "included_at_epoch": 1589885256.319278,
+            "included_at_iso": "2020-05-19T10:47:36.319278",
+            "last_retested_at_epoch": 1589885256.319278,
+            "last_retested_at_iso": "2020-05-19T10:47:36.319278",
+            "status": "INACTIVE"
+        },
         "radioznin.fm": {
             "included_at_epoch": 1589845586.659551,
             "included_at_iso": "2020-05-18T23:46:26.659551",

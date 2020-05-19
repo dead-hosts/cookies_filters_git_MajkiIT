@@ -5610,8 +5610,8 @@
         "state": "future"
     },
     "hifi.pl": {
-        "epoch": 1589846400.0,
-        "expiration_date": "19-may-2020",
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
         "state": "future"
     },
     "hihonor.com": {
@@ -6745,8 +6745,8 @@
         "state": "future"
     },
     "katowice24.info": {
-        "epoch": 1589846400.0,
-        "expiration_date": "19-may-2020",
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
         "state": "future"
     },
     "kawasaki.pl": {
@@ -9540,9 +9540,9 @@
         "state": "future"
     },
     "netcompany.com": {
-        "epoch": 1589760000.0,
-        "expiration_date": "18-may-2020",
-        "state": "past"
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
+        "state": "future"
     },
     "netflix.com": {
         "epoch": 1636502400.0,
@@ -14020,8 +14020,8 @@
         "state": "future"
     },
     "tbnpolska.tv": {
-        "epoch": 1589846400.0,
-        "expiration_date": "19-may-2020",
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
         "state": "future"
     },
     "tcz.pl": {
@@ -14525,8 +14525,8 @@
         "state": "future"
     },
     "truso.tv": {
-        "epoch": 1589846400.0,
-        "expiration_date": "19-may-2020",
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
         "state": "future"
     },
     "trustpilot.com": {
@@ -15680,9 +15680,9 @@
         "state": "future"
     },
     "wyczes.net": {
-        "epoch": 1589760000.0,
-        "expiration_date": "18-may-2020",
-        "state": "past"
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
+        "state": "future"
     },
     "wyczesani.com": {
         "epoch": 1610755200.0,
@@ -15830,8 +15830,8 @@
         "state": "future"
     },
     "yorkedukacja.pl": {
-        "epoch": 1589846400.0,
-        "expiration_date": "19-may-2020",
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
         "state": "future"
     },
     "youtube.com": {
