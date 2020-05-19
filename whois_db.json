@@ -4832,7 +4832,7 @@
     "gastromaniacy.pl": {
         "epoch": 1589846400.0,
         "expiration_date": "19-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "gastrowypozyczalnia.pl": {
         "epoch": 1609632000.0,
@@ -5627,7 +5627,7 @@
     "hillsvet.pl": {
         "epoch": 1589846400.0,
         "expiration_date": "19-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "hipotekadlaciebie.com": {
         "epoch": 1590537600.0,
@@ -5802,7 +5802,7 @@
     "husqvarna.com": {
         "epoch": 1589846400.0,
         "expiration_date": "19-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "hydrem-online.com": {
         "epoch": 1599609600.0,
@@ -8077,7 +8077,7 @@
     "mall.pl": {
         "epoch": 1589846400.0,
         "expiration_date": "19-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "malopolskie-media.info": {
         "epoch": 1605657600.0,
@@ -11800,8 +11800,8 @@
         "state": "future"
     },
     "qpony.pl": {
-        "epoch": 1589760000.0,
-        "expiration_date": "18-may-2020",
+        "epoch": 1652832000.0,
+        "expiration_date": "18-may-2022",
         "state": "future"
     },
     "quadralite.pl": {
@@ -14090,8 +14090,8 @@
         "state": "future"
     },
     "tekstowo.pl": {
-        "epoch": 1589760000.0,
-        "expiration_date": "18-may-2020",
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "tektorado.com": {
