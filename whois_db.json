@@ -14420,8 +14420,8 @@
         "state": "future"
     },
     "trakt.tv": {
-        "epoch": 1589760000.0,
-        "expiration_date": "18-may-2020",
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "transatlantyk.org": {
@@ -14745,8 +14745,8 @@
         "state": "future"
     },
     "tygodnikpowszechny.pl": {
-        "epoch": 1589760000.0,
-        "expiration_date": "18-may-2020",
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "tygodniksiedlecki.com": {
@@ -15210,8 +15210,8 @@
         "state": "future"
     },
     "webmade.org": {
-        "epoch": 1589846400.0,
-        "expiration_date": "19-may-2020",
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
         "state": "future"
     },
     "webniusy.com": {

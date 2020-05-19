@@ -12,8 +12,8 @@
         "cmp.*.pl": {
             "included_at_epoch": 1588351804.486785,
             "included_at_iso": "2020-05-01T16:50:04.486785",
-            "last_retested_at_epoch": 1589674119.596818,
-            "last_retested_at_iso": "2020-05-17T00:08:39.596818",
+            "last_retested_at_epoch": 1589846793.443052,
+            "last_retested_at_iso": "2020-05-19T00:06:33.443052",
             "status": "INVALID"
         },
         "nasze-kino.eu": {
@@ -47,8 +47,8 @@
         "testujemy.biedronka.pl": {
             "included_at_epoch": 1588348425.574088,
             "included_at_iso": "2020-05-01T15:53:45.574088",
-            "last_retested_at_epoch": 1589674114.490243,
-            "last_retested_at_iso": "2020-05-17T00:08:34.490243",
+            "last_retested_at_epoch": 1589846787.882757,
+            "last_retested_at_iso": "2020-05-19T00:06:27.882757",
             "status": "INACTIVE"
         },
         "wifiki.eu": {
