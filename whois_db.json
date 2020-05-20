@@ -1264,6 +1264,11 @@
         "expiration_date": "19-mar-2022",
         "state": "future"
     },
+    "biblio.edu.pl": {
+        "epoch": 1599523200.0,
+        "expiration_date": "08-sep-2020",
+        "state": "future"
+    },
     "biblioteka.nowaruda.pl": {
         "epoch": 1592524800.0,
         "expiration_date": "19-jun-2020",
@@ -1720,8 +1725,8 @@
         "state": "future"
     },
     "bryk.pl": {
-        "epoch": 1589932800.0,
-        "expiration_date": "20-may-2020",
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
         "state": "future"
     },
     "bs.olawa.pl": {
@@ -3304,6 +3309,11 @@
         "expiration_date": "27-apr-2021",
         "state": "future"
     },
+    "e-marcom.pl": {
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
+        "state": "future"
+    },
     "e-marketbudowlany.pl": {
         "epoch": 1603065600.0,
         "expiration_date": "19-oct-2020",
@@ -3330,8 +3340,8 @@
         "state": "future"
     },
     "e-podatnik.pl": {
-        "epoch": 1589932800.0,
-        "expiration_date": "20-may-2020",
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
         "state": "future"
     },
     "e-podroznik.pl": {
@@ -3477,6 +3487,11 @@
     "edimax.pl": {
         "epoch": 1603411200.0,
         "expiration_date": "23-oct-2020",
+        "state": "future"
+    },
+    "edoapp.pl": {
+        "epoch": 1615852800.0,
+        "expiration_date": "16-mar-2021",
         "state": "future"
     },
     "edrone.me": {
@@ -4265,8 +4280,8 @@
         "state": "future"
     },
     "ferrariwarszawa.com": {
-        "epoch": 1589932800.0,
-        "expiration_date": "20-may-2020",
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
         "state": "future"
     },
     "feryster.pl": {
@@ -12915,8 +12930,8 @@
         "state": "future"
     },
     "sklep-bmw.pl": {
-        "epoch": 1589932800.0,
-        "expiration_date": "20-may-2020",
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
         "state": "future"
     },
     "sklep-domwhisky.pl": {
@@ -14985,8 +15000,8 @@
         "state": "future"
     },
     "visiton.pl": {
-        "epoch": 1589932800.0,
-        "expiration_date": "20-may-2020",
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
         "state": "future"
     },
     "vitberg.com": {
