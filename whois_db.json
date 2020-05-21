@@ -25,8 +25,8 @@
         "state": "future"
     },
     "321sprzedane.pl": {
-        "epoch": 1590019200.0,
-        "expiration_date": "21-may-2020",
+        "epoch": 1621555200.0,
+        "expiration_date": "21-may-2021",
         "state": "future"
     },
     "360studio.org": {
@@ -4485,8 +4485,8 @@
         "state": "future"
     },
     "foodjobs.pl": {
-        "epoch": 1590019200.0,
-        "expiration_date": "21-may-2020",
+        "epoch": 1592611200.0,
+        "expiration_date": "20-jun-2020",
         "state": "future"
     },
     "footballpark.pl": {
@@ -5555,8 +5555,8 @@
         "state": "future"
     },
     "hbo.pl": {
-        "epoch": 1590019200.0,
-        "expiration_date": "21-may-2020",
+        "epoch": 1621555200.0,
+        "expiration_date": "21-may-2021",
         "state": "future"
     },
     "hbogo.pl": {
@@ -8470,8 +8470,8 @@
         "state": "future"
     },
     "merametal.pl": {
-        "epoch": 1590019200.0,
-        "expiration_date": "21-may-2020",
+        "epoch": 1621555200.0,
+        "expiration_date": "21-may-2021",
         "state": "future"
     },
     "mercbus.pl": {
@@ -8840,8 +8840,8 @@
         "state": "future"
     },
     "mocnopomocni.pl": {
-        "epoch": 1590019200.0,
-        "expiration_date": "21-may-2020",
+        "epoch": 1621555200.0,
+        "expiration_date": "21-may-2021",
         "state": "future"
     },
     "moda-pol.com": {
@@ -9172,6 +9172,11 @@
     "mtp.pl": {
         "epoch": 1599004800.0,
         "expiration_date": "02-sep-2020",
+        "state": "future"
+    },
+    "mtv.pl": {
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
         "state": "future"
     },
     "multiconsult-polska.com": {
@@ -12132,7 +12137,7 @@
     "reebook.pl": {
         "epoch": 1590019200.0,
         "expiration_date": "21-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "reedukacja.pl": {
         "epoch": 1595116800.0,
@@ -13565,8 +13570,8 @@
         "state": "future"
     },
     "stoprocent.com": {
-        "epoch": 1590019200.0,
-        "expiration_date": "21-may-2020",
+        "epoch": 1621555200.0,
+        "expiration_date": "21-may-2021",
         "state": "future"
     },
     "stopwariatom.pl": {
@@ -15602,7 +15607,7 @@
     "wringu.net": {
         "epoch": 1590019200.0,
         "expiration_date": "21-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "wrobelekelemelek.com": {
         "epoch": 1599264000.0,

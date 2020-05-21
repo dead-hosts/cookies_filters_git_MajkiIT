@@ -16,6 +16,13 @@
             "last_retested_at_iso": "2020-05-21T00:05:49.196265",
             "status": "INVALID"
         },
+        "e-podlaskie.eu": {
+            "included_at_epoch": 1590057738.662738,
+            "included_at_iso": "2020-05-21T10:42:18.662738",
+            "last_retested_at_epoch": 1590057738.662738,
+            "last_retested_at_iso": "2020-05-21T10:42:18.662738",
+            "status": "INACTIVE"
+        },
         "nasze-kino.eu": {
             "included_at_epoch": 1589672767.894193,
             "included_at_iso": "2020-05-16T23:46:07.894193",
