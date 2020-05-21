@@ -4894,6 +4894,11 @@
         "expiration_date": "16-jul-2020",
         "state": "future"
     },
+    "gazetkowo.pl": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
     "gb.pl": {
         "epoch": 1607126400.0,
         "expiration_date": "05-dec-2020",
@@ -5824,6 +5829,11 @@
         "expiration_date": "09-sep-2020",
         "state": "future"
     },
+    "hydro.com": {
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
+        "state": "future"
+    },
     "iab.org.pl": {
         "epoch": 1611446400.0,
         "expiration_date": "24-jan-2021",
@@ -5955,8 +5965,8 @@
         "state": "future"
     },
     "ilza.com.pl": {
-        "epoch": 1589932800.0,
-        "expiration_date": "20-may-2020",
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
         "state": "future"
     },
     "imagazine.pl": {
@@ -10097,6 +10107,11 @@
     "onerqe-kredyt.pl": {
         "epoch": 1579651200.0,
         "expiration_date": "22-jan-2020",
+        "state": "future"
+    },
+    "onet.pl": {
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "ongeo.pl": {
