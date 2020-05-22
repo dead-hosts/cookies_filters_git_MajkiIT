@@ -16,18 +16,11 @@
             "last_retested_at_iso": "2020-05-21T00:05:49.196265",
             "status": "INVALID"
         },
-        "e-podlaskie.eu": {
-            "included_at_epoch": 1590057738.662738,
-            "included_at_iso": "2020-05-21T10:42:18.662738",
-            "last_retested_at_epoch": 1590057738.662738,
-            "last_retested_at_iso": "2020-05-21T10:42:18.662738",
-            "status": "INACTIVE"
-        },
         "nasze-kino.eu": {
             "included_at_epoch": 1589672767.894193,
             "included_at_iso": "2020-05-16T23:46:07.894193",
-            "last_retested_at_epoch": 1590018449.051681,
-            "last_retested_at_iso": "2020-05-20T23:47:29.051681",
+            "last_retested_at_epoch": 1590145261.820718,
+            "last_retested_at_iso": "2020-05-22T11:01:01.820718",
             "status": "INACTIVE"
         },
         "penguingamers.eu": {
@@ -54,8 +47,8 @@
         "wifiki.eu": {
             "included_at_epoch": 1589672744.385424,
             "included_at_iso": "2020-05-16T23:45:44.385424",
-            "last_retested_at_epoch": 1590018425.810627,
-            "last_retested_at_iso": "2020-05-20T23:47:05.810627",
+            "last_retested_at_epoch": 1590145239.098855,
+            "last_retested_at_iso": "2020-05-22T11:00:39.098855",
             "status": "INACTIVE"
         },
         "wleczycy.pl": {
@@ -75,8 +68,8 @@
         "zory.dlawas.pl": {
             "included_at_epoch": 1587941170.694397,
             "included_at_iso": "2020-04-26T22:46:10.694397",
-            "last_retested_at_epoch": 1590018459.736437,
-            "last_retested_at_iso": "2020-05-20T23:47:39.736437",
+            "last_retested_at_epoch": 1590145271.987652,
+            "last_retested_at_iso": "2020-05-22T11:01:11.987652",
             "status": "INACTIVE"
         }
     }
