@@ -4952,7 +4952,7 @@
     "geekbuying.com": {
         "epoch": 1590278400.0,
         "expiration_date": "24-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "geekbuying.pl": {
         "epoch": 1609027200.0,
@@ -5665,8 +5665,8 @@
         "state": "future"
     },
     "hmb.pl": {
-        "epoch": 1590192000.0,
-        "expiration_date": "23-may-2020",
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
         "state": "future"
     },
     "hoegert.com": {
@@ -7457,7 +7457,7 @@
     "lampywcentrum.pl": {
         "epoch": 1590278400.0,
         "expiration_date": "24-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "lancerto.com": {
         "epoch": 1597104000.0,
@@ -8825,9 +8825,9 @@
         "state": "future"
     },
     "mobilitynews.pl": {
-        "epoch": 1590105600.0,
-        "expiration_date": "22-may-2020",
-        "state": "past"
+        "epoch": 1592697600.0,
+        "expiration_date": "21-jun-2020",
+        "state": "future"
     },
     "mobilitytrends.pl": {
         "epoch": 1609718400.0,
@@ -9835,8 +9835,8 @@
         "state": "future"
     },
     "nowgeo.pl": {
-        "epoch": 1590192000.0,
-        "expiration_date": "23-may-2020",
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
         "state": "future"
     },
     "nowy-sacz.info": {
@@ -10035,8 +10035,8 @@
         "state": "future"
     },
     "oki.com": {
-        "epoch": 1590278400.0,
-        "expiration_date": "24-may-2020",
+        "epoch": 1621814400.0,
+        "expiration_date": "24-may-2021",
         "state": "future"
     },
     "oknajachimczak.com": {
@@ -10430,8 +10430,8 @@
         "state": "future"
     },
     "panasonic.com": {
-        "epoch": 1590192000.0,
-        "expiration_date": "23-may-2020",
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
         "state": "future"
     },
     "panasonic.pl": {

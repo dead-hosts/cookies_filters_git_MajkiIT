@@ -30,13 +30,6 @@
             "last_retested_at_iso": "2020-05-19T00:00:44.199332",
             "status": "INACTIVE"
         },
-        "powietrze.katowice.wios.gov.pl": {
-            "included_at_epoch": 1590147470.005232,
-            "included_at_iso": "2020-05-22T11:37:50.005232",
-            "last_retested_at_epoch": 1590147470.005232,
-            "last_retested_at_iso": "2020-05-22T11:37:50.005232",
-            "status": "INACTIVE"
-        },
         "stypendia.sejmik.kielce.pl": {
             "included_at_epoch": 1588348424.216819,
             "included_at_iso": "2020-05-01T15:53:44.216819",
