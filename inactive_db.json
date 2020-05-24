@@ -16,6 +16,13 @@
             "last_retested_at_iso": "2020-05-24T00:11:12.754672",
             "status": "INVALID"
         },
+        "muzeumplock.eu": {
+            "included_at_epoch": 1590362518.133332,
+            "included_at_iso": "2020-05-24T23:21:58.133332",
+            "last_retested_at_epoch": 1590362518.133332,
+            "last_retested_at_iso": "2020-05-24T23:21:58.133332",
+            "status": "INACTIVE"
+        },
         "nasze-kino.eu": {
             "included_at_epoch": 1589672767.894193,
             "included_at_iso": "2020-05-16T23:46:07.894193",
@@ -66,10 +73,10 @@
             "status": "INACTIVE"
         },
         "zory.dlawas.pl": {
-            "included_at_epoch": 1587941170.694397,
-            "included_at_iso": "2020-04-26T22:46:10.694397",
-            "last_retested_at_epoch": 1590277717.691425,
-            "last_retested_at_iso": "2020-05-23T23:48:37.691425",
+            "included_at_epoch": 1590362495.614898,
+            "included_at_iso": "2020-05-24T23:21:35.614898",
+            "last_retested_at_epoch": 1590362495.614898,
+            "last_retested_at_iso": "2020-05-24T23:21:35.614898",
             "status": "INACTIVE"
         }
     }
