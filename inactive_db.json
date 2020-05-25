@@ -16,6 +16,13 @@
             "last_retested_at_iso": "2020-05-25T11:52:08.263073",
             "status": "INVALID"
         },
+        "e-podlaskie.eu": {
+            "included_at_epoch": 1590447378.516559,
+            "included_at_iso": "2020-05-25T22:56:18.516559",
+            "last_retested_at_epoch": 1590447378.516559,
+            "last_retested_at_iso": "2020-05-25T22:56:18.516559",
+            "status": "INACTIVE"
+        },
         "muzeumplock.eu": {
             "included_at_epoch": 1590362518.133332,
             "included_at_iso": "2020-05-24T23:21:58.133332",
