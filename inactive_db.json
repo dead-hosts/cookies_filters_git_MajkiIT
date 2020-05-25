@@ -12,8 +12,8 @@
         "cmp.*.pl": {
             "included_at_epoch": 1588351804.486785,
             "included_at_iso": "2020-05-01T16:50:04.486785",
-            "last_retested_at_epoch": 1590279072.754672,
-            "last_retested_at_iso": "2020-05-24T00:11:12.754672",
+            "last_retested_at_epoch": 1590407528.263073,
+            "last_retested_at_iso": "2020-05-25T11:52:08.263073",
             "status": "INVALID"
         },
         "muzeumplock.eu": {
@@ -70,6 +70,13 @@
             "included_at_iso": "2020-05-01T16:50:02.878417",
             "last_retested_at_epoch": 1589111919.134388,
             "last_retested_at_iso": "2020-05-10T11:58:39.134388",
+            "status": "INACTIVE"
+        },
+        "www.teamprevent.pl": {
+            "included_at_epoch": 1590407526.669331,
+            "included_at_iso": "2020-05-25T11:52:06.669331",
+            "last_retested_at_epoch": 1590407526.669331,
+            "last_retested_at_iso": "2020-05-25T11:52:06.669331",
             "status": "INACTIVE"
         },
         "zory.dlawas.pl": {
