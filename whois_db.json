@@ -5455,8 +5455,8 @@
         "state": "future"
     },
     "grzegorz-michalek.pl": {
-        "epoch": 1590364800.0,
-        "expiration_date": "25-may-2020",
+        "epoch": 1621900800.0,
+        "expiration_date": "25-may-2021",
         "state": "future"
     },
     "gsbk.pl": {
@@ -5565,8 +5565,8 @@
         "state": "future"
     },
     "hebe.pl": {
-        "epoch": 1590364800.0,
-        "expiration_date": "25-may-2020",
+        "epoch": 1735776000.0,
+        "expiration_date": "02-jan-2025",
         "state": "future"
     },
     "hebeapteka.pl": {
@@ -7050,8 +7050,8 @@
         "state": "future"
     },
     "konsbud-hifi.com.pl": {
-        "epoch": 1590364800.0,
-        "expiration_date": "25-may-2020",
+        "epoch": 1621900800.0,
+        "expiration_date": "25-may-2021",
         "state": "future"
     },
     "konserwatyzm.pl": {
@@ -7080,8 +7080,8 @@
         "state": "future"
     },
     "kopland.pl": {
-        "epoch": 1590364800.0,
-        "expiration_date": "25-may-2020",
+        "epoch": 1621900800.0,
+        "expiration_date": "25-may-2021",
         "state": "future"
     },
     "korepetycje.edu.pl": {
@@ -13840,8 +13840,8 @@
         "state": "future"
     },
     "systemair.com": {
-        "epoch": 1590364800.0,
-        "expiration_date": "25-may-2020",
+        "epoch": 1621900800.0,
+        "expiration_date": "25-may-2021",
         "state": "future"
     },
     "szajna.pl": {
@@ -14142,7 +14142,7 @@
     "telefonylodz.com": {
         "epoch": 1590364800.0,
         "expiration_date": "25-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "telegazeta.pl": {
         "epoch": 1639353600.0,
