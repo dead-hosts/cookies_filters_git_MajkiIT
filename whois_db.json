@@ -8350,8 +8350,8 @@
         "state": "future"
     },
     "meble-jarocin.com": {
-        "epoch": 1590451200.0,
-        "expiration_date": "26-may-2020",
+        "epoch": 1653523200.0,
+        "expiration_date": "26-may-2022",
         "state": "future"
     },
     "meble.com.pl": {
@@ -8852,7 +8852,7 @@
     "modecom.com": {
         "epoch": 1590451200.0,
         "expiration_date": "26-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "modecom.pl": {
         "epoch": 1611100800.0,
@@ -12100,8 +12100,8 @@
         "state": "future"
     },
     "reactor.pl": {
-        "epoch": 1590451200.0,
-        "expiration_date": "26-may-2020",
+        "epoch": 1619395200.0,
+        "expiration_date": "26-apr-2021",
         "state": "future"
     },
     "rebe1scum.com": {
@@ -16220,8 +16220,8 @@
         "state": "future"
     },
     "zoliborzkrasinskiego.pl": {
-        "epoch": 1590451200.0,
-        "expiration_date": "26-may-2020",
+        "epoch": 1619395200.0,
+        "expiration_date": "26-apr-2021",
         "state": "future"
     },
     "zomato.com": {
