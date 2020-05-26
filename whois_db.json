@@ -14140,9 +14140,9 @@
         "state": "future"
     },
     "telefonylodz.com": {
-        "epoch": 1590364800.0,
-        "expiration_date": "25-may-2020",
-        "state": "past"
+        "epoch": 1621900800.0,
+        "expiration_date": "25-may-2021",
+        "state": "future"
     },
     "telegazeta.pl": {
         "epoch": 1639353600.0,

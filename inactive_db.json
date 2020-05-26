@@ -40,15 +40,15 @@
         "stypendia.sejmik.kielce.pl": {
             "included_at_epoch": 1588348424.216819,
             "included_at_iso": "2020-05-01T15:53:44.216819",
-            "last_retested_at_epoch": 1590405842.913583,
-            "last_retested_at_iso": "2020-05-25T11:24:02.913583",
+            "last_retested_at_epoch": 1590493853.451671,
+            "last_retested_at_iso": "2020-05-26T11:50:53.451671",
             "status": "INACTIVE"
         },
         "testujemy.biedronka.pl": {
             "included_at_epoch": 1588348425.574088,
             "included_at_iso": "2020-05-01T15:53:45.574088",
-            "last_retested_at_epoch": 1590405844.352731,
-            "last_retested_at_iso": "2020-05-25T11:24:04.352731",
+            "last_retested_at_epoch": 1590493854.902192,
+            "last_retested_at_iso": "2020-05-26T11:50:54.902192",
             "status": "INACTIVE"
         },
         "wifiki.eu": {
