@@ -9,18 +9,11 @@
         }
     },
     "/home/travis/build/dead-hosts/cookies_filters_git_MajkiIT/domains.list": {
-        "cmp.*.pl": {
-            "included_at_epoch": 1588351804.486785,
-            "included_at_iso": "2020-05-01T16:50:04.486785",
-            "last_retested_at_epoch": 1590624863.942129,
-            "last_retested_at_iso": "2020-05-28T00:14:23.942129",
-            "status": "INVALID"
-        },
         "nasze-kino.eu": {
             "included_at_epoch": 1589672767.894193,
             "included_at_iso": "2020-05-16T23:46:07.894193",
-            "last_retested_at_epoch": 1590623395.908159,
-            "last_retested_at_iso": "2020-05-27T23:49:55.908159",
+            "last_retested_at_epoch": 1590792960.632342,
+            "last_retested_at_iso": "2020-05-29T22:56:00.632342",
             "status": "INACTIVE"
         },
         "penguingamers.eu": {
@@ -37,25 +30,11 @@
             "last_retested_at_iso": "2020-05-28T00:14:24.709573",
             "status": "INACTIVE"
         },
-        "stypendia.sejmik.kielce.pl": {
-            "included_at_epoch": 1588348424.216819,
-            "included_at_iso": "2020-05-01T15:53:44.216819",
-            "last_retested_at_epoch": 1590624857.514389,
-            "last_retested_at_iso": "2020-05-28T00:14:17.514389",
-            "status": "INACTIVE"
-        },
-        "testujemy.biedronka.pl": {
-            "included_at_epoch": 1588348425.574088,
-            "included_at_iso": "2020-05-01T15:53:45.574088",
-            "last_retested_at_epoch": 1590624858.844974,
-            "last_retested_at_iso": "2020-05-28T00:14:18.844974",
-            "status": "INACTIVE"
-        },
         "wifiki.eu": {
             "included_at_epoch": 1589672744.385424,
             "included_at_iso": "2020-05-16T23:45:44.385424",
-            "last_retested_at_epoch": 1590623373.401938,
-            "last_retested_at_iso": "2020-05-27T23:49:33.401938",
+            "last_retested_at_epoch": 1590792938.00895,
+            "last_retested_at_iso": "2020-05-29T22:55:38.008950",
             "status": "INACTIVE"
         },
         "wleczycy.pl": {
@@ -65,18 +44,11 @@
             "last_retested_at_iso": "2020-05-10T11:58:38.573826",
             "status": "INACTIVE"
         },
-        "www.multimedia-energia.pl": {
-            "included_at_epoch": 1588351802.878417,
-            "included_at_iso": "2020-05-01T16:50:02.878417",
-            "last_retested_at_epoch": 1589111919.134388,
-            "last_retested_at_iso": "2020-05-10T11:58:39.134388",
-            "status": "INACTIVE"
-        },
         "zory.dlawas.pl": {
             "included_at_epoch": 1590362495.614898,
             "included_at_iso": "2020-05-24T23:21:35.614898",
-            "last_retested_at_epoch": 1590623405.880699,
-            "last_retested_at_iso": "2020-05-27T23:50:05.880699",
+            "last_retested_at_epoch": 1590792970.623153,
+            "last_retested_at_iso": "2020-05-29T22:56:10.623153",
             "status": "INACTIVE"
         }
     }
