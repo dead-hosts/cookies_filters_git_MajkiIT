@@ -9,6 +9,13 @@
         }
     },
     "/home/travis/build/dead-hosts/cookies_filters_git_MajkiIT/domains.list": {
+        "cmp.*.pl": {
+            "included_at_epoch": 1590797304.689745,
+            "included_at_iso": "2020-05-30T00:08:24.689745",
+            "last_retested_at_epoch": 1590797304.689745,
+            "last_retested_at_iso": "2020-05-30T00:08:24.689745",
+            "status": "INVALID"
+        },
         "nasze-kino.eu": {
             "included_at_epoch": 1589672767.894193,
             "included_at_iso": "2020-05-16T23:46:07.894193",
@@ -23,11 +30,18 @@
             "last_retested_at_iso": "2020-05-19T00:00:44.199332",
             "status": "INACTIVE"
         },
-        "rodo.rawlplug.com": {
-            "included_at_epoch": 1590624864.709573,
-            "included_at_iso": "2020-05-28T00:14:24.709573",
-            "last_retested_at_epoch": 1590624864.709573,
-            "last_retested_at_iso": "2020-05-28T00:14:24.709573",
+        "stypendia.sejmik.kielce.pl": {
+            "included_at_epoch": 1590797297.433148,
+            "included_at_iso": "2020-05-30T00:08:17.433148",
+            "last_retested_at_epoch": 1590797297.433148,
+            "last_retested_at_iso": "2020-05-30T00:08:17.433148",
+            "status": "INACTIVE"
+        },
+        "testujemy.biedronka.pl": {
+            "included_at_epoch": 1590797298.91842,
+            "included_at_iso": "2020-05-30T00:08:18.918420",
+            "last_retested_at_epoch": 1590797298.91842,
+            "last_retested_at_iso": "2020-05-30T00:08:18.918420",
             "status": "INACTIVE"
         },
         "wifiki.eu": {
