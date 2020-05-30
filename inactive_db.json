@@ -30,6 +30,13 @@
             "last_retested_at_iso": "2020-05-19T00:00:44.199332",
             "status": "INACTIVE"
         },
+        "pl.plsn.eu": {
+            "included_at_epoch": 1590835205.205507,
+            "included_at_iso": "2020-05-30T10:40:05.205507",
+            "last_retested_at_epoch": 1590835205.205507,
+            "last_retested_at_iso": "2020-05-30T10:40:05.205507",
+            "status": "INACTIVE"
+        },
         "stypendia.sejmik.kielce.pl": {
             "included_at_epoch": 1590797297.433148,
             "included_at_iso": "2020-05-30T00:08:17.433148",
