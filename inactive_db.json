@@ -16,6 +16,13 @@
             "last_retested_at_iso": "2020-05-31T11:52:38.898697",
             "status": "INVALID"
         },
+        "e-swietokrzyskie.kielce.eu": {
+            "included_at_epoch": 1590965144.392093,
+            "included_at_iso": "2020-05-31T22:45:44.392093",
+            "last_retested_at_epoch": 1590965144.392093,
+            "last_retested_at_iso": "2020-05-31T22:45:44.392093",
+            "status": "INACTIVE"
+        },
         "nasze-kino.eu": {
             "included_at_epoch": 1589672767.894193,
             "included_at_iso": "2020-05-16T23:46:07.894193",
@@ -28,6 +35,13 @@
             "included_at_iso": "2020-05-13T00:00:50.469983",
             "last_retested_at_epoch": 1589846444.199332,
             "last_retested_at_iso": "2020-05-19T00:00:44.199332",
+            "status": "INACTIVE"
+        },
+        "pl.plsn.eu": {
+            "included_at_epoch": 1590965104.553491,
+            "included_at_iso": "2020-05-31T22:45:04.553491",
+            "last_retested_at_epoch": 1590965104.553491,
+            "last_retested_at_iso": "2020-05-31T22:45:04.553491",
             "status": "INACTIVE"
         },
         "stypendia.sejmik.kielce.pl": {

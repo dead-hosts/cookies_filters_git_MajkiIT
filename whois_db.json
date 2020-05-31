@@ -1584,6 +1584,11 @@
         "expiration_date": "05-dec-2020",
         "state": "future"
     },
+    "bonprix.pl": {
+        "epoch": 1596931200.0,
+        "expiration_date": "09-aug-2020",
+        "state": "future"
+    },
     "booking.com": {
         "epoch": 1618531200.0,
         "expiration_date": "16-apr-2021",
@@ -2374,6 +2379,11 @@
         "expiration_date": "17-nov-2020",
         "state": "future"
     },
+    "crocs.pl": {
+        "epoch": 1669161600.0,
+        "expiration_date": "23-nov-2022",
+        "state": "future"
+    },
     "cropp.com": {
         "epoch": 1592956800.0,
         "expiration_date": "24-jun-2020",
@@ -2527,6 +2537,11 @@
     "daewooforum.pl": {
         "epoch": 1624665600.0,
         "expiration_date": "26-jun-2021",
+        "state": "future"
+    },
+    "dagma.pl": {
+        "epoch": 1597190400.0,
+        "expiration_date": "12-aug-2020",
         "state": "future"
     },
     "daiglob.pl": {
@@ -3805,9 +3820,9 @@
         "state": "future"
     },
     "enjoyuk.pl": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
-        "state": "past"
+        "epoch": 1593475200.0,
+        "expiration_date": "30-jun-2020",
+        "state": "future"
     },
     "entertheroom.pl": {
         "epoch": 1601510400.0,
@@ -12822,6 +12837,11 @@
     "showmax.com": {
         "epoch": 1593561600.0,
         "expiration_date": "01-jul-2020",
+        "state": "future"
+    },
+    "shuluv.com": {
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
         "state": "future"
     },
     "sick.com": {
