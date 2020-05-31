@@ -44,6 +44,13 @@
             "last_retested_at_iso": "2020-05-31T22:45:04.553491",
             "status": "INACTIVE"
         },
+        "sklepzdrowia.eu": {
+            "included_at_epoch": 1590967093.661048,
+            "included_at_iso": "2020-05-31T23:18:13.661048",
+            "last_retested_at_epoch": 1590967093.661048,
+            "last_retested_at_iso": "2020-05-31T23:18:13.661048",
+            "status": "INACTIVE"
+        },
         "stypendia.sejmik.kielce.pl": {
             "included_at_epoch": 1590797297.433148,
             "included_at_iso": "2020-05-30T00:08:17.433148",

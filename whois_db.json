@@ -10794,6 +10794,11 @@
         "expiration_date": "04-may-2021",
         "state": "future"
     },
+    "pinterest.com": {
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
+        "state": "future"
+    },
     "pipelife.com": {
         "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
