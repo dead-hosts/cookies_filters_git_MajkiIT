@@ -545,8 +545,8 @@
         "state": "future"
     },
     "ambermarine.pl": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "amd.com": {
@@ -1255,8 +1255,8 @@
         "state": "future"
     },
     "biall.com.pl": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "bialoleka.waw.pl": {
@@ -3807,7 +3807,7 @@
     "enjoyuk.pl": {
         "epoch": 1590883200.0,
         "expiration_date": "31-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "entertheroom.pl": {
         "epoch": 1601510400.0,
@@ -7215,8 +7215,8 @@
         "state": "future"
     },
     "krosno.com.pl": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "krosnocity.pl": {
@@ -8340,8 +8340,8 @@
         "state": "future"
     },
     "mdserwis.pl": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "mebags.pl": {
@@ -13575,8 +13575,8 @@
         "state": "future"
     },
     "stopwariatom.pl": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "storm24.pl": {
@@ -13640,8 +13640,8 @@
         "state": "future"
     },
     "studentpotrafi.pl": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "studio-znet.com": {
@@ -14155,8 +14155,8 @@
         "state": "future"
     },
     "teletoonplus.pl": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "teletrade-dj.pl": {
@@ -15230,8 +15230,8 @@
         "state": "future"
     },
     "webcamera.pl": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "webd.pl": {
@@ -15355,8 +15355,8 @@
         "state": "future"
     },
     "wici.info": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "widoczni.com": {
@@ -16267,7 +16267,7 @@
     "zottarella.com": {
         "epoch": 1590883200.0,
         "expiration_date": "31-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "zpleszewa.pl": {
         "epoch": 1594512000.0,

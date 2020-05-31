@@ -26,8 +26,8 @@
         "nasze-kino.eu": {
             "included_at_epoch": 1589672767.894193,
             "included_at_iso": "2020-05-16T23:46:07.894193",
-            "last_retested_at_epoch": 1590792960.632342,
-            "last_retested_at_iso": "2020-05-29T22:56:00.632342",
+            "last_retested_at_epoch": 1590922520.384618,
+            "last_retested_at_iso": "2020-05-31T10:55:20.384618",
             "status": "INACTIVE"
         },
         "penguingamers.eu": {
@@ -35,13 +35,6 @@
             "included_at_iso": "2020-05-13T00:00:50.469983",
             "last_retested_at_epoch": 1589846444.199332,
             "last_retested_at_iso": "2020-05-19T00:00:44.199332",
-            "status": "INACTIVE"
-        },
-        "pl.plsn.eu": {
-            "included_at_epoch": 1590835205.205507,
-            "included_at_iso": "2020-05-30T10:40:05.205507",
-            "last_retested_at_epoch": 1590835205.205507,
-            "last_retested_at_iso": "2020-05-30T10:40:05.205507",
             "status": "INACTIVE"
         },
         "stypendia.sejmik.kielce.pl": {
@@ -61,8 +54,8 @@
         "wifiki.eu": {
             "included_at_epoch": 1589672744.385424,
             "included_at_iso": "2020-05-16T23:45:44.385424",
-            "last_retested_at_epoch": 1590792938.00895,
-            "last_retested_at_iso": "2020-05-29T22:55:38.008950",
+            "last_retested_at_epoch": 1590922496.980481,
+            "last_retested_at_iso": "2020-05-31T10:54:56.980481",
             "status": "INACTIVE"
         },
         "wleczycy.pl": {
@@ -82,8 +75,8 @@
         "zory.dlawas.pl": {
             "included_at_epoch": 1590362495.614898,
             "included_at_iso": "2020-05-24T23:21:35.614898",
-            "last_retested_at_epoch": 1590792970.623153,
-            "last_retested_at_iso": "2020-05-29T22:56:10.623153",
+            "last_retested_at_epoch": 1590922530.761571,
+            "last_retested_at_iso": "2020-05-31T10:55:30.761571",
             "status": "INACTIVE"
         }
     }
