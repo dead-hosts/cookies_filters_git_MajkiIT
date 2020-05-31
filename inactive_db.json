@@ -12,16 +12,9 @@
         "cmp.*.pl": {
             "included_at_epoch": 1590797304.689745,
             "included_at_iso": "2020-05-30T00:08:24.689745",
-            "last_retested_at_epoch": 1590797304.689745,
-            "last_retested_at_iso": "2020-05-30T00:08:24.689745",
+            "last_retested_at_epoch": 1590925958.898697,
+            "last_retested_at_iso": "2020-05-31T11:52:38.898697",
             "status": "INVALID"
-        },
-        "ctm.gdynia.pl": {
-            "included_at_epoch": 1590839158.037253,
-            "included_at_iso": "2020-05-30T11:45:58.037253",
-            "last_retested_at_epoch": 1590839158.037253,
-            "last_retested_at_iso": "2020-05-30T11:45:58.037253",
-            "status": "INACTIVE"
         },
         "nasze-kino.eu": {
             "included_at_epoch": 1589672767.894193,
@@ -47,8 +40,8 @@
         "testujemy.biedronka.pl": {
             "included_at_epoch": 1590797298.91842,
             "included_at_iso": "2020-05-30T00:08:18.918420",
-            "last_retested_at_epoch": 1590797298.91842,
-            "last_retested_at_iso": "2020-05-30T00:08:18.918420",
+            "last_retested_at_epoch": 1590925953.698826,
+            "last_retested_at_iso": "2020-05-31T11:52:33.698826",
             "status": "INACTIVE"
         },
         "wifiki.eu": {
@@ -63,13 +56,6 @@
             "included_at_iso": "2020-05-08T00:00:58.374479",
             "last_retested_at_epoch": 1589111918.573826,
             "last_retested_at_iso": "2020-05-10T11:58:38.573826",
-            "status": "INACTIVE"
-        },
-        "www.ipkobiznes.pl": {
-            "included_at_epoch": 1590839156.310117,
-            "included_at_iso": "2020-05-30T11:45:56.310117",
-            "last_retested_at_epoch": 1590839156.310117,
-            "last_retested_at_iso": "2020-05-30T11:45:56.310117",
             "status": "INACTIVE"
         },
         "zory.dlawas.pl": {
