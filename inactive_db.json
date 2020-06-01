@@ -26,8 +26,8 @@
         "nasze-kino.eu": {
             "included_at_epoch": 1589672767.894193,
             "included_at_iso": "2020-05-16T23:46:07.894193",
-            "last_retested_at_epoch": 1590922520.384618,
-            "last_retested_at_iso": "2020-05-31T10:55:20.384618",
+            "last_retested_at_epoch": 1591051123.245894,
+            "last_retested_at_iso": "2020-06-01T22:38:43.245894",
             "status": "INACTIVE"
         },
         "penguingamers.eu": {
@@ -68,8 +68,8 @@
         "wifiki.eu": {
             "included_at_epoch": 1589672744.385424,
             "included_at_iso": "2020-05-16T23:45:44.385424",
-            "last_retested_at_epoch": 1590922496.980481,
-            "last_retested_at_iso": "2020-05-31T10:54:56.980481",
+            "last_retested_at_epoch": 1591051099.571186,
+            "last_retested_at_iso": "2020-06-01T22:38:19.571186",
             "status": "INACTIVE"
         },
         "wleczycy.pl": {
