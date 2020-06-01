@@ -5100,8 +5100,8 @@
         "state": "future"
     },
     "gkn.pl": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
         "state": "future"
     },
     "gksjastrzebie.com": {
@@ -5364,6 +5364,11 @@
         "expiration_date": "08-sep-2020",
         "state": "future"
     },
+    "gram.pl": {
+        "epoch": 1598745600.0,
+        "expiration_date": "30-aug-2020",
+        "state": "future"
+    },
     "gramwzielone.pl": {
         "epoch": 1602720000.0,
         "expiration_date": "15-oct-2020",
@@ -5505,8 +5510,8 @@
         "state": "future"
     },
     "gumtree.pl": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1593907200.0,
+        "expiration_date": "05-jul-2020",
         "state": "future"
     },
     "hael.pl": {
@@ -6365,9 +6370,9 @@
         "state": "future"
     },
     "ixon.cloud": {
-        "epoch": 1587081600.0,
-        "expiration_date": "17-apr-2020",
-        "state": "past"
+        "epoch": 1618617600.0,
+        "expiration_date": "17-apr-2021",
+        "state": "future"
     },
     "izabawka.pl": {
         "epoch": 1598400000.0,
@@ -6965,8 +6970,8 @@
         "state": "future"
     },
     "kolejeslaskie.com": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
         "state": "future"
     },
     "kolonieiobozy.net": {
@@ -8249,6 +8254,11 @@
         "expiration_date": "24-jul-2020",
         "state": "future"
     },
+    "markoweobuwie.com.pl": {
+        "epoch": 1807747200.0,
+        "expiration_date": "15-apr-2027",
+        "state": "future"
+    },
     "maseratipietrzak.pl": {
         "epoch": 1607558400.0,
         "expiration_date": "10-dec-2020",
@@ -9140,8 +9150,8 @@
         "state": "future"
     },
     "mpolska24.pl": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
         "state": "future"
     },
     "mpwik.com.pl": {
@@ -10904,6 +10914,11 @@
         "expiration_date": "01-feb-2021",
         "state": "future"
     },
+    "play.pl": {
+        "epoch": 1649030400.0,
+        "expiration_date": "04-apr-2022",
+        "state": "future"
+    },
     "player.pl": {
         "epoch": 1775088000.0,
         "expiration_date": "02-apr-2026",
@@ -12300,8 +12315,8 @@
         "state": "future"
     },
     "rio.gov.pl": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
         "state": "future"
     },
     "riot.im": {
@@ -13142,6 +13157,11 @@
     "slubice.tv": {
         "epoch": 1605484800.0,
         "expiration_date": "16-nov-2020",
+        "state": "future"
+    },
+    "sluzbazdrowia.com.pl": {
+        "epoch": 1604448000.0,
+        "expiration_date": "04-nov-2020",
         "state": "future"
     },
     "smakizycia.pl": {
