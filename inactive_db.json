@@ -40,8 +40,8 @@
         "stypendia.sejmik.kielce.pl": {
             "included_at_epoch": 1590797297.433148,
             "included_at_iso": "2020-05-30T00:08:17.433148",
-            "last_retested_at_epoch": 1591053650.345181,
-            "last_retested_at_iso": "2020-06-01T23:20:50.345181",
+            "last_retested_at_epoch": 1591142691.087128,
+            "last_retested_at_iso": "2020-06-03T00:04:51.087128",
             "status": "INACTIVE"
         },
         "testujemy.biedronka.pl": {

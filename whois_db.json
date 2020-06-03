@@ -4672,7 +4672,7 @@
     "freestyle.abbott": {
         "epoch": 1591142400.0,
         "expiration_date": "03-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "freightlink.pl": {
         "epoch": 1611273600.0,
@@ -6117,7 +6117,7 @@
     "infotydzien.info": {
         "epoch": 1591142400.0,
         "expiration_date": "03-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "ingtechpoland.com": {
         "epoch": 1608508800.0,
@@ -6637,7 +6637,7 @@
     "justwatch.com": {
         "epoch": 1591142400.0,
         "expiration_date": "03-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "juvenia2000.pl": {
         "epoch": 1595376000.0,
@@ -12885,8 +12885,8 @@
         "state": "future"
     },
     "siemens.pl": {
-        "epoch": 1591056000.0,
-        "expiration_date": "02-jun-2020",
+        "epoch": 1875052800.0,
+        "expiration_date": "02-jun-2029",
         "state": "future"
     },
     "siemianowice.net.pl": {
