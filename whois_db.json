@@ -4415,8 +4415,8 @@
         "state": "future"
     },
     "firmymiesne.pl": {
-        "epoch": 1591142400.0,
-        "expiration_date": "03-jun-2020",
+        "epoch": 1654214400.0,
+        "expiration_date": "03-jun-2022",
         "state": "future"
     },
     "fit-kids.pl": {
@@ -4670,9 +4670,9 @@
         "state": "future"
     },
     "freestyle.abbott": {
-        "epoch": 1591142400.0,
-        "expiration_date": "03-jun-2020",
-        "state": "past"
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
+        "state": "future"
     },
     "freightlink.pl": {
         "epoch": 1611273600.0,
@@ -4810,8 +4810,8 @@
         "state": "future"
     },
     "gamerhash.com": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
+        "epoch": 1622764800.0,
+        "expiration_date": "04-jun-2021",
         "state": "future"
     },
     "gamisport.pl": {
@@ -6115,9 +6115,9 @@
         "state": "future"
     },
     "infotydzien.info": {
-        "epoch": 1591142400.0,
-        "expiration_date": "03-jun-2020",
-        "state": "past"
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
+        "state": "future"
     },
     "ingtechpoland.com": {
         "epoch": 1608508800.0,
@@ -6635,9 +6635,9 @@
         "state": "future"
     },
     "justwatch.com": {
-        "epoch": 1591142400.0,
-        "expiration_date": "03-jun-2020",
-        "state": "past"
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
+        "state": "future"
     },
     "juvenia2000.pl": {
         "epoch": 1595376000.0,
@@ -10095,8 +10095,8 @@
         "state": "future"
     },
     "olimpiasport.pl": {
-        "epoch": 1591315200.0,
-        "expiration_date": "05-jun-2020",
+        "epoch": 1622851200.0,
+        "expiration_date": "05-jun-2021",
         "state": "future"
     },
     "olimpijski.pl": {
@@ -10150,8 +10150,8 @@
         "state": "future"
     },
     "ongeo.pl": {
-        "epoch": 1591315200.0,
-        "expiration_date": "05-jun-2020",
+        "epoch": 1654387200.0,
+        "expiration_date": "05-jun-2022",
         "state": "future"
     },
     "onlinekredyty.pl": {
