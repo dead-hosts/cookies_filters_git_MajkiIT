@@ -12,8 +12,8 @@
         "cmp.*.pl": {
             "included_at_epoch": 1590797304.689745,
             "included_at_iso": "2020-05-30T00:08:24.689745",
-            "last_retested_at_epoch": 1591143185.731938,
-            "last_retested_at_iso": "2020-06-03T00:13:05.731938",
+            "last_retested_at_epoch": 1591315830.985909,
+            "last_retested_at_iso": "2020-06-05T00:10:30.985909",
             "status": "INVALID"
         },
         "nasze-kino.eu": {
@@ -47,8 +47,8 @@
         "testujemy.biedronka.pl": {
             "included_at_epoch": 1590797298.91842,
             "included_at_iso": "2020-05-30T00:08:18.918420",
-            "last_retested_at_epoch": 1591143180.609981,
-            "last_retested_at_iso": "2020-06-03T00:13:00.609981",
+            "last_retested_at_epoch": 1591315825.690254,
+            "last_retested_at_iso": "2020-06-05T00:10:25.690254",
             "status": "INACTIVE"
         },
         "wifiki.eu": {
@@ -58,11 +58,11 @@
             "last_retested_at_iso": "2020-06-04T23:51:49.421861",
             "status": "INACTIVE"
         },
-        "wleczycy.pl": {
-            "included_at_epoch": 1588896058.374479,
-            "included_at_iso": "2020-05-08T00:00:58.374479",
-            "last_retested_at_epoch": 1589111918.573826,
-            "last_retested_at_iso": "2020-05-10T11:58:38.573826",
+        "wilga-bus.eu": {
+            "included_at_epoch": 1591315828.550733,
+            "included_at_iso": "2020-06-05T00:10:28.550733",
+            "last_retested_at_epoch": 1591315828.550733,
+            "last_retested_at_iso": "2020-06-05T00:10:28.550733",
             "status": "INACTIVE"
         },
         "zory.dlawas.pl": {
