@@ -4880,8 +4880,8 @@
         "state": "future"
     },
     "gazeta-msp.pl": {
-        "epoch": 1591401600.0,
-        "expiration_date": "06-jun-2020",
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
         "state": "future"
     },
     "gazetainformator.pl": {
@@ -6920,8 +6920,8 @@
         "state": "future"
     },
     "kochanamama.pl": {
-        "epoch": 1591488000.0,
-        "expiration_date": "07-jun-2020",
+        "epoch": 1654560000.0,
+        "expiration_date": "07-jun-2022",
         "state": "future"
     },
     "kochlik.pl": {
@@ -7050,8 +7050,8 @@
         "state": "future"
     },
     "koncertomania.pl": {
-        "epoch": 1591401600.0,
-        "expiration_date": "06-jun-2020",
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
         "state": "future"
     },
     "konecki24.pl": {
@@ -7910,8 +7910,8 @@
         "state": "future"
     },
     "lovekrakow.pl": {
-        "epoch": 1591401600.0,
-        "expiration_date": "06-jun-2020",
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
         "state": "future"
     },
     "lovela.pl": {
@@ -8342,7 +8342,7 @@
     "mbeszczecin.pl": {
         "epoch": 1591488000.0,
         "expiration_date": "07-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "mc-2.pl": {
         "epoch": 1618876800.0,
@@ -14625,8 +14625,8 @@
         "state": "future"
     },
     "trzyjeze.pl": {
-        "epoch": 1591401600.0,
-        "expiration_date": "06-jun-2020",
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
         "state": "future"
     },
     "tspodbeskidzie.pl": {

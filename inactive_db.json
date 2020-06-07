@@ -16,6 +16,13 @@
             "last_retested_at_iso": "2020-06-05T00:10:30.985909",
             "status": "INVALID"
         },
+        "e-podlaskie.eu": {
+            "included_at_epoch": 1591488356.415364,
+            "included_at_iso": "2020-06-07T00:05:56.415364",
+            "last_retested_at_epoch": 1591488356.415364,
+            "last_retested_at_iso": "2020-06-07T00:05:56.415364",
+            "status": "INACTIVE"
+        },
         "gozdowo.eu": {
             "included_at_epoch": 1591487626.480854,
             "included_at_iso": "2020-06-06T23:53:46.480854",
