@@ -12,8 +12,8 @@
         "cmp.*.pl": {
             "included_at_epoch": 1590797304.689745,
             "included_at_iso": "2020-05-30T00:08:24.689745",
-            "last_retested_at_epoch": 1591315830.985909,
-            "last_retested_at_iso": "2020-06-05T00:10:30.985909",
+            "last_retested_at_epoch": 1591488774.441766,
+            "last_retested_at_iso": "2020-06-07T00:12:54.441766",
             "status": "INVALID"
         },
         "e-podlaskie.eu": {
@@ -54,8 +54,8 @@
         "stypendia.sejmik.kielce.pl": {
             "included_at_epoch": 1590797297.433148,
             "included_at_iso": "2020-05-30T00:08:17.433148",
-            "last_retested_at_epoch": 1591315500.092451,
-            "last_retested_at_iso": "2020-06-05T00:05:00.092451",
+            "last_retested_at_epoch": 1591488767.793632,
+            "last_retested_at_iso": "2020-06-07T00:12:47.793632",
             "status": "INACTIVE"
         },
         "szpitalepomorskie.eu": {
@@ -68,8 +68,8 @@
         "testujemy.biedronka.pl": {
             "included_at_epoch": 1590797298.91842,
             "included_at_iso": "2020-05-30T00:08:18.918420",
-            "last_retested_at_epoch": 1591315825.690254,
-            "last_retested_at_iso": "2020-06-05T00:10:25.690254",
+            "last_retested_at_epoch": 1591488769.171685,
+            "last_retested_at_iso": "2020-06-07T00:12:49.171685",
             "status": "INACTIVE"
         },
         "wifiki.eu": {
@@ -82,8 +82,8 @@
         "wilga-bus.eu": {
             "included_at_epoch": 1591315828.550733,
             "included_at_iso": "2020-06-05T00:10:28.550733",
-            "last_retested_at_epoch": 1591315828.550733,
-            "last_retested_at_iso": "2020-06-05T00:10:28.550733",
+            "last_retested_at_epoch": 1591488772.034339,
+            "last_retested_at_iso": "2020-06-07T00:12:52.034339",
             "status": "INACTIVE"
         },
         "zory.dlawas.pl": {
