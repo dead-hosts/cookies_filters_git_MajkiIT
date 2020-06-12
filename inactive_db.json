@@ -16,25 +16,11 @@
             "last_retested_at_iso": "2020-06-07T00:12:54.441766",
             "status": "INVALID"
         },
-        "e-podlaskie.eu": {
-            "included_at_epoch": 1591488356.415364,
-            "included_at_iso": "2020-06-07T00:05:56.415364",
-            "last_retested_at_epoch": 1591488356.415364,
-            "last_retested_at_iso": "2020-06-07T00:05:56.415364",
-            "status": "INACTIVE"
-        },
-        "gozdowo.eu": {
-            "included_at_epoch": 1591487626.480854,
-            "included_at_iso": "2020-06-06T23:53:46.480854",
-            "last_retested_at_epoch": 1591487626.480854,
-            "last_retested_at_iso": "2020-06-06T23:53:46.480854",
-            "status": "INACTIVE"
-        },
         "nasze-kino.eu": {
             "included_at_epoch": 1589672767.894193,
             "included_at_iso": "2020-05-16T23:46:07.894193",
-            "last_retested_at_epoch": 1591487631.133679,
-            "last_retested_at_iso": "2020-06-06T23:53:51.133679",
+            "last_retested_at_epoch": 1591959360.893306,
+            "last_retested_at_iso": "2020-06-12T10:56:00.893306",
             "status": "INACTIVE"
         },
         "sklepzdrowia.eu": {
@@ -51,13 +37,6 @@
             "last_retested_at_iso": "2020-06-07T00:12:47.793632",
             "status": "INACTIVE"
         },
-        "szpitalepomorskie.eu": {
-            "included_at_epoch": 1591487600.165127,
-            "included_at_iso": "2020-06-06T23:53:20.165127",
-            "last_retested_at_epoch": 1591487600.165127,
-            "last_retested_at_iso": "2020-06-06T23:53:20.165127",
-            "status": "INACTIVE"
-        },
         "testujemy.biedronka.pl": {
             "included_at_epoch": 1590797298.91842,
             "included_at_iso": "2020-05-30T00:08:18.918420",
@@ -68,8 +47,8 @@
         "wifiki.eu": {
             "included_at_epoch": 1589672744.385424,
             "included_at_iso": "2020-05-16T23:45:44.385424",
-            "last_retested_at_epoch": 1591487607.112449,
-            "last_retested_at_iso": "2020-06-06T23:53:27.112449",
+            "last_retested_at_epoch": 1591959337.057885,
+            "last_retested_at_iso": "2020-06-12T10:55:37.057885",
             "status": "INACTIVE"
         },
         "wilga-bus.eu": {

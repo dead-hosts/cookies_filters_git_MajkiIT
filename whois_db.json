@@ -85,8 +85,8 @@
         "state": "future"
     },
     "4lifedirect.pl": {
-        "epoch": 1591833600.0,
-        "expiration_date": "11-jun-2020",
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
         "state": "future"
     },
     "4lomza.pl": {
@@ -140,8 +140,8 @@
         "state": "future"
     },
     "absolvent.pl": {
-        "epoch": 1591660800.0,
-        "expiration_date": "09-jun-2020",
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
         "state": "future"
     },
     "abt-s.pl": {
@@ -190,8 +190,8 @@
         "state": "future"
     },
     "adblockplus.org": {
-        "epoch": 1591660800.0,
-        "expiration_date": "09-jun-2020",
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
         "state": "future"
     },
     "addnature.pl": {
@@ -705,8 +705,8 @@
         "state": "future"
     },
     "aranzujemy.pl": {
-        "epoch": 1591660800.0,
-        "expiration_date": "09-jun-2020",
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
         "state": "future"
     },
     "archiconnect.pl": {
@@ -1152,6 +1152,11 @@
     "beautikon.com": {
         "epoch": 1606089600.0,
         "expiration_date": "23-nov-2020",
+        "state": "future"
+    },
+    "beautyart.pl": {
+        "epoch": 1594857600.0,
+        "expiration_date": "16-jul-2020",
         "state": "future"
     },
     "bebio.pl": {
@@ -2455,8 +2460,8 @@
         "state": "future"
     },
     "cybsecurity.org": {
-        "epoch": 1591747200.0,
-        "expiration_date": "10-jun-2020",
+        "epoch": 1623283200.0,
+        "expiration_date": "10-jun-2021",
         "state": "future"
     },
     "cyfrowarepublika.pl": {
@@ -2525,8 +2530,8 @@
         "state": "future"
     },
     "dacter.pl": {
-        "epoch": 1591574400.0,
-        "expiration_date": "08-jun-2020",
+        "epoch": 1654646400.0,
+        "expiration_date": "08-jun-2022",
         "state": "future"
     },
     "daemon-tools.cc": {
@@ -2614,6 +2619,11 @@
         "expiration_date": "01-sep-2020",
         "state": "future"
     },
+    "dcf.wroclaw.pl": {
+        "epoch": 1615161600.0,
+        "expiration_date": "08-mar-2021",
+        "state": "future"
+    },
     "dcg.wroclaw.pl": {
         "epoch": 1601769600.0,
         "expiration_date": "04-oct-2020",
@@ -2680,8 +2690,8 @@
         "state": "future"
     },
     "dekoret.pl": {
-        "epoch": 1591833600.0,
-        "expiration_date": "11-jun-2020",
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
         "state": "future"
     },
     "delicjapolska.pl": {
@@ -2855,8 +2865,8 @@
         "state": "future"
     },
     "distortstudios.com": {
-        "epoch": 1591920000.0,
-        "expiration_date": "12-jun-2020",
+        "epoch": 1623456000.0,
+        "expiration_date": "12-jun-2021",
         "state": "future"
     },
     "diyaudio.pl": {
@@ -3579,6 +3589,11 @@
         "expiration_date": "15-jul-2020",
         "state": "future"
     },
+    "ekocell.pl": {
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
+        "state": "future"
+    },
     "ekocykl.org": {
         "epoch": 1667692800.0,
         "expiration_date": "06-nov-2022",
@@ -3670,8 +3685,8 @@
         "state": "future"
     },
     "elektroinstalacje.info": {
-        "epoch": 1591660800.0,
-        "expiration_date": "09-jun-2020",
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
         "state": "future"
     },
     "elektroniksc.com.pl": {
@@ -5535,8 +5550,8 @@
         "state": "future"
     },
     "haloursynow.pl": {
-        "epoch": 1591488000.0,
-        "expiration_date": "07-jun-2020",
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
         "state": "future"
     },
     "handen.pl": {
@@ -6705,8 +6720,8 @@
         "state": "future"
     },
     "kalinowo.pl": {
-        "epoch": 1591747200.0,
-        "expiration_date": "10-jun-2020",
+        "epoch": 1623283200.0,
+        "expiration_date": "10-jun-2021",
         "state": "future"
     },
     "kameleonbutik.com": {
@@ -7765,8 +7780,8 @@
         "state": "future"
     },
     "linuxiarz.pl": {
-        "epoch": 1591574400.0,
-        "expiration_date": "08-jun-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "linuxportal.pl": {
@@ -7985,8 +8000,8 @@
         "state": "future"
     },
     "lucatel.pl": {
-        "epoch": 1591574400.0,
-        "expiration_date": "08-jun-2020",
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
         "state": "future"
     },
     "lukasfinanse.pl": {
@@ -7995,8 +8010,8 @@
         "state": "future"
     },
     "lulek.tv": {
-        "epoch": 1591747200.0,
-        "expiration_date": "10-jun-2020",
+        "epoch": 1623283200.0,
+        "expiration_date": "10-jun-2021",
         "state": "future"
     },
     "lullalove.com": {
@@ -8340,9 +8355,9 @@
         "state": "future"
     },
     "mbeszczecin.pl": {
-        "epoch": 1591488000.0,
-        "expiration_date": "07-jun-2020",
-        "state": "past"
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
+        "state": "future"
     },
     "mc-2.pl": {
         "epoch": 1618876800.0,
@@ -9345,8 +9360,8 @@
         "state": "future"
     },
     "mymedic.pl": {
-        "epoch": 1591660800.0,
-        "expiration_date": "09-jun-2020",
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
         "state": "future"
     },
     "mynewsdesk.com": {
@@ -9830,8 +9845,8 @@
         "state": "future"
     },
     "nowaostroleka.pl": {
-        "epoch": 1591747200.0,
-        "expiration_date": "10-jun-2020",
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
         "state": "future"
     },
     "nowapapiernia.pl": {
@@ -10680,8 +10695,8 @@
         "state": "future"
     },
     "perfumyfm.biz": {
-        "epoch": 1591488000.0,
-        "expiration_date": "07-jun-2020",
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
         "state": "future"
     },
     "personnelsolutions.pl": {
@@ -11400,8 +11415,8 @@
         "state": "future"
     },
     "powiatowa.info": {
-        "epoch": 1591574400.0,
-        "expiration_date": "08-jun-2020",
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
         "state": "future"
     },
     "poxilina.com.pl": {
@@ -11660,8 +11675,8 @@
         "state": "future"
     },
     "prowly.com": {
-        "epoch": 1591660800.0,
-        "expiration_date": "09-jun-2020",
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
         "state": "future"
     },
     "prsa.pl": {
@@ -12035,8 +12050,8 @@
         "state": "future"
     },
     "radissonblu.com": {
-        "epoch": 1591833600.0,
-        "expiration_date": "11-jun-2020",
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
         "state": "future"
     },
     "radlin.pl": {
@@ -12705,8 +12720,8 @@
         "state": "future"
     },
     "sekrety-zdrowia.org": {
-        "epoch": 1591747200.0,
-        "expiration_date": "10-jun-2020",
+        "epoch": 1623283200.0,
+        "expiration_date": "10-jun-2021",
         "state": "future"
     },
     "sekretypiekna.net": {
@@ -14060,8 +14075,8 @@
         "state": "future"
     },
     "tanie-loty.com.pl": {
-        "epoch": 1591660800.0,
-        "expiration_date": "09-jun-2020",
+        "epoch": 1654732800.0,
+        "expiration_date": "09-jun-2022",
         "state": "future"
     },
     "tapenda.pl": {
@@ -14525,8 +14540,8 @@
         "state": "future"
     },
     "translinegroup.pl": {
-        "epoch": 1591574400.0,
-        "expiration_date": "08-jun-2020",
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
         "state": "future"
     },
     "trasa.info": {
@@ -14975,8 +14990,8 @@
         "state": "future"
     },
     "uzdrowisko-wieniec.pl": {
-        "epoch": 1591833600.0,
-        "expiration_date": "11-jun-2020",
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
         "state": "future"
     },
     "uzywki.expert": {
