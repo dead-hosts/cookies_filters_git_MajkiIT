@@ -8265,8 +8265,8 @@
         "state": "future"
     },
     "marinbikes.com": {
-        "epoch": 1592092800.0,
-        "expiration_date": "14-jun-2020",
+        "epoch": 1623628800.0,
+        "expiration_date": "14-jun-2021",
         "state": "future"
     },
     "marketing-automation.pl": {
@@ -8287,6 +8287,11 @@
     "marketingdlaludzi.pl": {
         "epoch": 1595548800.0,
         "expiration_date": "24-jul-2020",
+        "state": "future"
+    },
+    "marketplanet.pl": {
+        "epoch": 1616889600.0,
+        "expiration_date": "28-mar-2021",
         "state": "future"
     },
     "markoweobuwie.com.pl": {
@@ -9822,7 +9827,7 @@
     "nonsensopedia.org": {
         "epoch": 1592006400.0,
         "expiration_date": "13-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "norauto.pl": {
         "epoch": 1787356800.0,
@@ -11415,8 +11420,8 @@
         "state": "future"
     },
     "powiat-gniezno.pl": {
-        "epoch": 1592006400.0,
-        "expiration_date": "13-jun-2020",
+        "epoch": 1623542400.0,
+        "expiration_date": "13-jun-2021",
         "state": "future"
     },
     "powiat-miedzyrzecki.pl": {
@@ -12125,8 +12130,8 @@
         "state": "future"
     },
     "randkiprzezinternet.pl": {
-        "epoch": 1591833600.0,
-        "expiration_date": "11-jun-2020",
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
         "state": "future"
     },
     "ranking.net.pl": {
@@ -12587,6 +12592,11 @@
     "salonroman.pl": {
         "epoch": 1676160000.0,
         "expiration_date": "12-feb-2023",
+        "state": "future"
+    },
+    "salonynoma.pl": {
+        "epoch": 1600473600.0,
+        "expiration_date": "19-sep-2020",
         "state": "future"
     },
     "salzburg.info": {
@@ -15417,6 +15427,11 @@
     "westgate.com.pl": {
         "epoch": 1593388800.0,
         "expiration_date": "29-jun-2020",
+        "state": "future"
+    },
+    "westwingnow.pl": {
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
         "state": "future"
     },
     "wgospodarce.pl": {
