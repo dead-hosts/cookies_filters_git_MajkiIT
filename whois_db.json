@@ -594,6 +594,11 @@
         "expiration_date": "27-jul-2020",
         "state": "future"
     },
+    "anime-odcinki.pl": {
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
+        "state": "future"
+    },
     "anmar-pl.com": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
@@ -1209,6 +1214,11 @@
         "expiration_date": "09-dec-2021",
         "state": "future"
     },
+    "bemo-dent.pl": {
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
+        "state": "future"
+    },
     "benemedo.com": {
         "epoch": 1607299200.0,
         "expiration_date": "07-dec-2020",
@@ -1795,8 +1805,8 @@
         "state": "future"
     },
     "budimex-nieruchomosci.pl": {
-        "epoch": 1592006400.0,
-        "expiration_date": "13-jun-2020",
+        "epoch": 1623542400.0,
+        "expiration_date": "13-jun-2021",
         "state": "future"
     },
     "budma.pl": {
@@ -3132,7 +3142,7 @@
     "drony.net": {
         "epoch": 1592092800.0,
         "expiration_date": "14-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "dropbox.com": {
         "epoch": 1624752000.0,
@@ -3805,8 +3815,8 @@
         "state": "future"
     },
     "eneba.com": {
-        "epoch": 1585958400,
-        "expiration_date": "04-apr-2020",
+        "epoch": 1617494400.0,
+        "expiration_date": "04-apr-2021",
         "state": "future"
     },
     "energetyka24.com": {
@@ -3902,7 +3912,7 @@
     "epuap.gov.pl": {
         "epoch": 1592092800.0,
         "expiration_date": "14-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "erasmusu.com": {
         "epoch": 1596067200.0,
@@ -4044,6 +4054,11 @@
         "expiration_date": "24-oct-2020",
         "state": "future"
     },
+    "eurobolt.com.pl": {
+        "epoch": 1622764800.0,
+        "expiration_date": "04-jun-2021",
+        "state": "future"
+    },
     "eurocent.opole.pl": {
         "epoch": 1617753600.0,
         "expiration_date": "07-apr-2021",
@@ -4057,7 +4072,7 @@
     "europlytki.pl": {
         "epoch": 1592092800.0,
         "expiration_date": "14-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "eurosender.com": {
         "epoch": 1614643200.0,
@@ -10307,6 +10322,11 @@
     "orange.pl": {
         "epoch": 1616803200.0,
         "expiration_date": "27-mar-2021",
+        "state": "future"
+    },
+    "orcd.co": {
+        "epoch": 1601510400.0,
+        "expiration_date": "01-oct-2020",
         "state": "future"
     },
     "orientshop.com.pl": {
