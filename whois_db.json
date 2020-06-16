@@ -5500,8 +5500,8 @@
         "state": "future"
     },
     "gry.pl": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
+        "epoch": 1655337600.0,
+        "expiration_date": "16-jun-2022",
         "state": "future"
     },
     "grzegorz-michalek.pl": {
@@ -7897,7 +7897,7 @@
     "lookimg.com": {
         "epoch": 1592265600.0,
         "expiration_date": "16-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "lot.com": {
         "epoch": 1817251200.0,
@@ -9100,8 +9100,8 @@
         "state": "future"
     },
     "motocombo.pl": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
         "state": "future"
     },
     "motocykle-krakow.pl": {
@@ -9825,9 +9825,9 @@
         "state": "future"
     },
     "nonsensopedia.org": {
-        "epoch": 1592006400.0,
-        "expiration_date": "13-jun-2020",
-        "state": "past"
+        "epoch": 1623542400.0,
+        "expiration_date": "13-jun-2021",
+        "state": "future"
     },
     "norauto.pl": {
         "epoch": 1787356800.0,
@@ -12585,8 +12585,8 @@
         "state": "future"
     },
     "salonmeblowy.net.pl": {
-        "epoch": 1592179200.0,
-        "expiration_date": "15-jun-2020",
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
         "state": "future"
     },
     "salonroman.pl": {
@@ -12760,8 +12760,8 @@
         "state": "future"
     },
     "sekap.pl": {
-        "epoch": 1592179200.0,
-        "expiration_date": "15-jun-2020",
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
         "state": "future"
     },
     "sekrety-zdrowia.org": {
@@ -15200,8 +15200,8 @@
         "state": "future"
     },
     "voxel.pl": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
         "state": "future"
     },
     "voxmusic.tv": {
