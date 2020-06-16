@@ -507,7 +507,7 @@
     "alltube.tv": {
         "epoch": 1592265600.0,
         "expiration_date": "16-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "allview.pl": {
         "epoch": 1595548800.0,
@@ -1757,7 +1757,7 @@
     "bsgoleniow.pl": {
         "epoch": 1592265600.0,
         "expiration_date": "16-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "bsigroup.com": {
         "epoch": 1595548800.0,
@@ -2127,7 +2127,7 @@
     "ciam.pl": {
         "epoch": 1592265600.0,
         "expiration_date": "16-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "ciasta.net": {
         "epoch": 1613347200.0,
@@ -3140,9 +3140,9 @@
         "state": "future"
     },
     "drony.net": {
-        "epoch": 1592092800.0,
-        "expiration_date": "14-jun-2020",
-        "state": "past"
+        "epoch": 1623628800.0,
+        "expiration_date": "14-jun-2021",
+        "state": "future"
     },
     "dropbox.com": {
         "epoch": 1624752000.0,
@@ -3215,8 +3215,8 @@
         "state": "future"
     },
     "dzialoszyn.pl": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
         "state": "future"
     },
     "dziary.com": {
@@ -3910,9 +3910,9 @@
         "state": "future"
     },
     "epuap.gov.pl": {
-        "epoch": 1592092800.0,
-        "expiration_date": "14-jun-2020",
-        "state": "past"
+        "epoch": 1623628800.0,
+        "expiration_date": "14-jun-2021",
+        "state": "future"
     },
     "erasmusu.com": {
         "epoch": 1596067200.0,
@@ -4070,9 +4070,9 @@
         "state": "future"
     },
     "europlytki.pl": {
-        "epoch": 1592092800.0,
-        "expiration_date": "14-jun-2020",
-        "state": "past"
+        "epoch": 1623628800.0,
+        "expiration_date": "14-jun-2021",
+        "state": "future"
     },
     "eurosender.com": {
         "epoch": 1614643200.0,
@@ -6260,8 +6260,8 @@
         "state": "future"
     },
     "intymna.pl": {
-        "epoch": 1592179200.0,
-        "expiration_date": "15-jun-2020",
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
         "state": "future"
     },
     "investmap.pl": {
@@ -6585,8 +6585,8 @@
         "state": "future"
     },
     "jejsklep.pl": {
-        "epoch": 1592179200.0,
-        "expiration_date": "15-jun-2020",
+        "epoch": 1686787200.0,
+        "expiration_date": "15-jun-2023",
         "state": "future"
     },
     "jelenia.pl": {
@@ -7035,8 +7035,8 @@
         "state": "future"
     },
     "kominki.org": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
         "state": "future"
     },
     "kominy-panek.pl": {
