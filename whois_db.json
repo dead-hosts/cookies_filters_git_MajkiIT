@@ -505,9 +505,9 @@
         "state": "future"
     },
     "alltube.tv": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
-        "state": "past"
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
+        "state": "future"
     },
     "allview.pl": {
         "epoch": 1595548800.0,
@@ -1755,9 +1755,9 @@
         "state": "future"
     },
     "bsgoleniow.pl": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
-        "state": "past"
+        "epoch": 1686873600.0,
+        "expiration_date": "16-jun-2023",
+        "state": "future"
     },
     "bsigroup.com": {
         "epoch": 1595548800.0,
@@ -2125,9 +2125,9 @@
         "state": "future"
     },
     "ciam.pl": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
-        "state": "past"
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
+        "state": "future"
     },
     "ciasta.net": {
         "epoch": 1613347200.0,
@@ -2882,7 +2882,7 @@
     "diyaudio.pl": {
         "epoch": 1592438400.0,
         "expiration_date": "18-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "dkl24.pl": {
         "epoch": 1606608000.0,
@@ -3105,8 +3105,8 @@
         "state": "future"
     },
     "dowozy.pl": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "dpn.pl": {
@@ -6020,8 +6020,8 @@
         "state": "future"
     },
     "imagazine.pl": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
         "state": "future"
     },
     "imielski.net": {
@@ -6050,8 +6050,8 @@
         "state": "future"
     },
     "in4.pl": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
         "state": "future"
     },
     "inagent.pl": {
@@ -6365,8 +6365,8 @@
         "state": "future"
     },
     "italiapozaszlakiem.com": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
         "state": "future"
     },
     "itezone.pl": {
@@ -9600,8 +9600,8 @@
         "state": "future"
     },
     "nerina2.pl": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
         "state": "future"
     },
     "nespresso.com": {
@@ -9842,7 +9842,7 @@
     "noria.pl": {
         "epoch": 1592438400.0,
         "expiration_date": "18-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "norwegian.com": {
         "epoch": 1578700800,
@@ -10125,8 +10125,8 @@
         "state": "future"
     },
     "olekmotocykle.pl": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "olesnica24.com": {
@@ -12627,7 +12627,7 @@
     "sandecja.org": {
         "epoch": 1592438400.0,
         "expiration_date": "18-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "sandecja.pl": {
         "epoch": 1594857600.0,
