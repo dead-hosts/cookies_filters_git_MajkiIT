@@ -6557,7 +6557,7 @@
     "jbzdy.co": {
         "epoch": 1592438400.0,
         "expiration_date": "18-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "jcubic.pl": {
         "epoch": 1597795200.0,
@@ -7695,8 +7695,8 @@
         "state": "future"
     },
     "leoexpress.com": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "leroymerlin.pl": {
@@ -7895,9 +7895,9 @@
         "state": "future"
     },
     "lookimg.com": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
-        "state": "past"
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
+        "state": "future"
     },
     "lot.com": {
         "epoch": 1817251200.0,
@@ -8150,8 +8150,8 @@
         "state": "future"
     },
     "maleksiazki.pl": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
         "state": "future"
     },
     "mall.pl": {
@@ -8222,6 +8222,11 @@
     "mamotoja.pl": {
         "epoch": 1738368000.0,
         "expiration_date": "01-feb-2025",
+        "state": "future"
+    },
+    "mango.pl": {
+        "epoch": 1601942400.0,
+        "expiration_date": "06-oct-2020",
         "state": "future"
     },
     "mania4x4.pl": {
@@ -14520,8 +14525,8 @@
         "state": "future"
     },
     "torsluzewiec.pl": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "torun24.tv": {
@@ -14992,6 +14997,11 @@
     "unilink.pl": {
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
+        "state": "future"
+    },
+    "uniroyal.pl": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
         "state": "future"
     },
     "unityline.pl": {
@@ -15525,8 +15535,8 @@
         "state": "future"
     },
     "wikar.com.pl": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1594944000.0,
+        "expiration_date": "17-jul-2020",
         "state": "future"
     },
     "wikar.pl": {
@@ -16295,8 +16305,8 @@
         "state": "future"
     },
     "zkmgdynia.pl": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
         "state": "future"
     },
     "zlomowisko.info": {
