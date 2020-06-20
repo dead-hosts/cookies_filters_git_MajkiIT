@@ -1285,8 +1285,8 @@
         "state": "future"
     },
     "biblioteka.nowaruda.pl": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
         "state": "future"
     },
     "bibliotekaleczyca.pl": {
@@ -2000,8 +2000,8 @@
         "state": "future"
     },
     "centrum-marino.com": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
         "state": "future"
     },
     "centrumdobrejterapii.pl": {
@@ -2322,7 +2322,7 @@
     "cookielaw.org": {
         "epoch": 1592611200.0,
         "expiration_date": "20-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "cookieq.com": {
         "epoch": 1647734400.0,
@@ -2732,7 +2732,7 @@
     "delphiautoparts.com": {
         "epoch": 1592611200.0,
         "expiration_date": "20-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "demarko-trailers.com": {
         "epoch": 1773360000.0,
@@ -2880,9 +2880,9 @@
         "state": "future"
     },
     "diyaudio.pl": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
-        "state": "past"
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
+        "state": "future"
     },
     "dkl24.pl": {
         "epoch": 1606608000.0,
@@ -3740,8 +3740,8 @@
         "state": "future"
     },
     "elka.pl": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
+        "epoch": 1623456000.0,
+        "expiration_date": "12-jun-2021",
         "state": "future"
     },
     "elka.tv": {
@@ -3782,7 +3782,7 @@
     "emilbus.com.pl": {
         "epoch": 1592611200.0,
         "expiration_date": "20-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "emisja.tv": {
         "epoch": 1640304000.0,
@@ -4530,8 +4530,8 @@
         "state": "future"
     },
     "foodjobs.pl": {
-        "epoch": 1592611200.0,
-        "expiration_date": "20-jun-2020",
+        "epoch": 1621555200.0,
+        "expiration_date": "21-may-2021",
         "state": "future"
     },
     "footballpark.pl": {
@@ -6080,8 +6080,8 @@
         "state": "future"
     },
     "info-car.pl": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
         "state": "future"
     },
     "info-instal.com": {
@@ -7335,8 +7335,8 @@
         "state": "future"
     },
     "ksow.pl": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
         "state": "future"
     },
     "kubotastore.pl": {
@@ -9172,7 +9172,7 @@
     "mototube.pl": {
         "epoch": 1592611200.0,
         "expiration_date": "20-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "motul.com": {
         "epoch": 1622073600.0,
@@ -9845,9 +9845,9 @@
         "state": "future"
     },
     "noria.pl": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
-        "state": "past"
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
+        "state": "future"
     },
     "norwegian.com": {
         "epoch": 1578700800,
@@ -11749,6 +11749,11 @@
         "expiration_date": "16-apr-2022",
         "state": "future"
     },
+    "przemysl.pl": {
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
+        "state": "future"
+    },
     "przepisy.net": {
         "epoch": 1619049600.0,
         "expiration_date": "22-apr-2021",
@@ -12630,9 +12635,9 @@
         "state": "future"
     },
     "sandecja.org": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
-        "state": "past"
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
+        "state": "future"
     },
     "sandecja.pl": {
         "epoch": 1594857600.0,
@@ -13887,7 +13892,7 @@
     "swiatpodlog.com.pl": {
         "epoch": 1592611200.0,
         "expiration_date": "20-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "swiatrolnika.info": {
         "epoch": 1619308800.0,
