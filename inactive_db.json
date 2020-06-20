@@ -12,9 +12,16 @@
         "cmp.*.pl": {
             "included_at_epoch": 1590797304.689745,
             "included_at_iso": "2020-05-30T00:08:24.689745",
-            "last_retested_at_epoch": 1592440321.594316,
-            "last_retested_at_iso": "2020-06-18T00:32:01.594316",
+            "last_retested_at_epoch": 1592612307.048064,
+            "last_retested_at_iso": "2020-06-20T00:18:27.048064",
             "status": "INVALID"
+        },
+        "jbzdy.eu": {
+            "included_at_epoch": 1592612308.651872,
+            "included_at_iso": "2020-06-20T00:18:28.651872",
+            "last_retested_at_epoch": 1592612308.651872,
+            "last_retested_at_iso": "2020-06-20T00:18:28.651872",
+            "status": "INACTIVE"
         },
         "nasze-kino.eu": {
             "included_at_epoch": 1592092926.625054,
@@ -33,15 +40,15 @@
         "stypendia.sejmik.kielce.pl": {
             "included_at_epoch": 1590797297.433148,
             "included_at_iso": "2020-05-30T00:08:17.433148",
-            "last_retested_at_epoch": 1592440314.452688,
-            "last_retested_at_iso": "2020-06-18T00:31:54.452688",
+            "last_retested_at_epoch": 1592612300.470405,
+            "last_retested_at_iso": "2020-06-20T00:18:20.470405",
             "status": "INACTIVE"
         },
         "testujemy.biedronka.pl": {
             "included_at_epoch": 1590797298.91842,
             "included_at_iso": "2020-05-30T00:08:18.918420",
-            "last_retested_at_epoch": 1592440315.897709,
-            "last_retested_at_iso": "2020-06-18T00:31:55.897709",
+            "last_retested_at_epoch": 1592612301.898897,
+            "last_retested_at_iso": "2020-06-20T00:18:21.898897",
             "status": "INACTIVE"
         },
         "wifiki.eu": {
@@ -54,8 +61,8 @@
         "wilga-bus.eu": {
             "included_at_epoch": 1591315828.550733,
             "included_at_iso": "2020-06-05T00:10:28.550733",
-            "last_retested_at_epoch": 1592440319.10332,
-            "last_retested_at_iso": "2020-06-18T00:31:59.103320",
+            "last_retested_at_epoch": 1592612304.752827,
+            "last_retested_at_iso": "2020-06-20T00:18:24.752827",
             "status": "INACTIVE"
         },
         "zory.dlawas.pl": {
