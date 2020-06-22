@@ -37,6 +37,13 @@
             "last_retested_at_iso": "2020-06-22T00:12:12.845514",
             "status": "INACTIVE"
         },
+        "pl.plsn.eu": {
+            "included_at_epoch": 1592823107.704346,
+            "included_at_iso": "2020-06-22T10:51:47.704346",
+            "last_retested_at_epoch": 1592823107.704346,
+            "last_retested_at_iso": "2020-06-22T10:51:47.704346",
+            "status": "INACTIVE"
+        },
         "sklepzdrowia.eu": {
             "included_at_epoch": 1590967093.661048,
             "included_at_iso": "2020-05-31T23:18:13.661048",
