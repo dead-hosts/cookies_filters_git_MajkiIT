@@ -1850,8 +1850,8 @@
         "state": "future"
     },
     "buty-smile.pl": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
         "state": "future"
     },
     "buty-wolka.pl": {
@@ -2320,9 +2320,9 @@
         "state": "future"
     },
     "cookielaw.org": {
-        "epoch": 1592611200.0,
-        "expiration_date": "20-jun-2020",
-        "state": "past"
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
+        "state": "future"
     },
     "cookieq.com": {
         "epoch": 1647734400.0,
@@ -2730,9 +2730,9 @@
         "state": "future"
     },
     "delphiautoparts.com": {
-        "epoch": 1592611200.0,
-        "expiration_date": "20-jun-2020",
-        "state": "past"
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
+        "state": "future"
     },
     "demarko-trailers.com": {
         "epoch": 1773360000.0,
@@ -3780,9 +3780,9 @@
         "state": "future"
     },
     "emilbus.com.pl": {
-        "epoch": 1592611200.0,
-        "expiration_date": "20-jun-2020",
-        "state": "past"
+        "epoch": 1655683200.0,
+        "expiration_date": "20-jun-2022",
+        "state": "future"
     },
     "emisja.tv": {
         "epoch": 1640304000.0,
@@ -4510,8 +4510,8 @@
         "state": "future"
     },
     "fly.pl": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1672704000.0,
+        "expiration_date": "03-jan-2023",
         "state": "future"
     },
     "flyordie.pl": {
@@ -6065,8 +6065,8 @@
         "state": "future"
     },
     "inbook.pl": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1618185600.0,
+        "expiration_date": "12-apr-2021",
         "state": "future"
     },
     "inchcape.pl": {
@@ -6497,7 +6497,7 @@
     "japrzedsiebiorca.biz": {
         "epoch": 1592784000.0,
         "expiration_date": "22-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "jarek-kefir.org": {
         "epoch": 1598313600.0,
@@ -8832,7 +8832,7 @@
     "mix4kids.tv": {
         "epoch": 1592784000.0,
         "expiration_date": "22-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "mixmedia.pl": {
         "epoch": 1637107200.0,
@@ -9170,9 +9170,9 @@
         "state": "future"
     },
     "mototube.pl": {
-        "epoch": 1592611200.0,
-        "expiration_date": "20-jun-2020",
-        "state": "past"
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
+        "state": "future"
     },
     "motul.com": {
         "epoch": 1622073600.0,
@@ -11770,8 +11770,8 @@
         "state": "future"
     },
     "przeswietl.pl": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
         "state": "future"
     },
     "przp.pl": {
@@ -13900,9 +13900,9 @@
         "state": "future"
     },
     "swiatpodlog.com.pl": {
-        "epoch": 1592611200.0,
-        "expiration_date": "20-jun-2020",
-        "state": "past"
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
+        "state": "future"
     },
     "swiatrolnika.info": {
         "epoch": 1619308800.0,
@@ -14010,8 +14010,8 @@
         "state": "future"
     },
     "szkolenia24h.pl": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1595289600.0,
+        "expiration_date": "21-jul-2020",
         "state": "future"
     },
     "szkoleniapartner.pl": {
@@ -14985,8 +14985,8 @@
         "state": "future"
     },
     "unbrokenstore.com": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
         "state": "future"
     },
     "uni-tech.pl": {
