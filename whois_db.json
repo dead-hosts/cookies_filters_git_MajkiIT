@@ -13185,9 +13185,9 @@
         "state": "future"
     },
     "slampa.pl": {
-        "epoch": 1592784000.0,
-        "expiration_date": "22-jun-2020",
-        "state": "past"
+        "epoch": 1595376000.0,
+        "expiration_date": "22-jul-2020",
+        "state": "future"
     },
     "slaskibiznes.pl": {
         "epoch": 1615593600.0,
