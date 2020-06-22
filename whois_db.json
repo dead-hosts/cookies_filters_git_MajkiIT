@@ -7925,9 +7925,9 @@
         "state": "future"
     },
     "lotplay.pl": {
-        "epoch": 1592611200.0,
-        "expiration_date": "20-jun-2020",
-        "state": "past"
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
+        "state": "future"
     },
     "lotto.pl": {
         "epoch": 1609372800.0,
@@ -8525,8 +8525,8 @@
         "state": "future"
     },
     "memoinfo.pl": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1595289600.0,
+        "expiration_date": "21-jul-2020",
         "state": "future"
     },
     "memorialhenrykapuzonia.pl": {
@@ -8895,8 +8895,8 @@
         "state": "future"
     },
     "mobilitynews.pl": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1621641600.0,
+        "expiration_date": "22-may-2021",
         "state": "future"
     },
     "mobilitytrends.pl": {
@@ -10175,8 +10175,8 @@
         "state": "future"
     },
     "omegasoft.pl": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1600300800.0,
+        "expiration_date": "17-sep-2020",
         "state": "future"
     },
     "one2tribe.pl": {
@@ -12870,8 +12870,8 @@
         "state": "future"
     },
     "seszele.com.pl": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
         "state": "future"
     },
     "setcomp.net": {
@@ -13187,7 +13187,7 @@
     "slampa.pl": {
         "epoch": 1592784000.0,
         "expiration_date": "22-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "slaskibiznes.pl": {
         "epoch": 1615593600.0,
@@ -15265,8 +15265,8 @@
         "state": "future"
     },
     "wakacje.pl": {
-        "epoch": 1592784000.0,
-        "expiration_date": "22-jun-2020",
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
         "state": "future"
     },
     "wakacyjnapolisa.pl": {
@@ -15875,8 +15875,8 @@
         "state": "future"
     },
     "wydawnictwopoznanskie.com": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
         "state": "future"
     },
     "wydawnictwoswiatksiazki.pl": {
