@@ -44,6 +44,13 @@
             "last_retested_at_iso": "2020-06-22T10:51:47.704346",
             "status": "INACTIVE"
         },
+        "powiat.okay.pl": {
+            "included_at_epoch": 1592825926.733424,
+            "included_at_iso": "2020-06-22T11:38:46.733424",
+            "last_retested_at_epoch": 1592825926.733424,
+            "last_retested_at_iso": "2020-06-22T11:38:46.733424",
+            "status": "INACTIVE"
+        },
         "sklepzdrowia.eu": {
             "included_at_epoch": 1590967093.661048,
             "included_at_iso": "2020-05-31T23:18:13.661048",
