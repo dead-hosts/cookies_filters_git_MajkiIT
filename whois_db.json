@@ -130,8 +130,8 @@
         "state": "future"
     },
     "abfoto.pl": {
-        "epoch": 1592956800.0,
-        "expiration_date": "24-jun-2020",
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
         "state": "future"
     },
     "absbank.pl": {
@@ -885,8 +885,8 @@
         "state": "future"
     },
     "audioteka.com": {
-        "epoch": 1592956800.0,
-        "expiration_date": "24-jun-2020",
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
         "state": "future"
     },
     "audiovideo.com.pl": {
@@ -2170,8 +2170,8 @@
         "state": "future"
     },
     "cineman.pl": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "circleci.com": {
@@ -2400,8 +2400,8 @@
         "state": "future"
     },
     "cropp.com": {
-        "epoch": 1592956800.0,
-        "expiration_date": "24-jun-2020",
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
         "state": "future"
     },
     "crossweb.pl": {
@@ -4270,8 +4270,8 @@
         "state": "future"
     },
     "farmacja.edu.pl": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "farmacja.net": {
@@ -7960,8 +7960,8 @@
         "state": "future"
     },
     "lpwiksa.pl": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "lsisoftware.pl": {
@@ -8830,9 +8830,9 @@
         "state": "future"
     },
     "mix4kids.tv": {
-        "epoch": 1592784000.0,
-        "expiration_date": "22-jun-2020",
-        "state": "past"
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
+        "state": "future"
     },
     "mixmedia.pl": {
         "epoch": 1637107200.0,
@@ -9470,8 +9470,8 @@
         "state": "future"
     },
     "naratunek.org": {
-        "epoch": 1592956800.0,
-        "expiration_date": "24-jun-2020",
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
         "state": "future"
     },
     "narew.info": {
@@ -12280,8 +12280,8 @@
         "state": "future"
     },
     "reklamawwindzie.net": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "relpol.pl": {
@@ -14517,7 +14517,7 @@
     "top123.pl": {
         "epoch": 1592956800.0,
         "expiration_date": "24-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "topagrar.pl": {
         "epoch": 1599264000.0,
@@ -16005,8 +16005,8 @@
         "state": "future"
     },
     "yogenfruz.pl": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "yorkedukacja.pl": {
