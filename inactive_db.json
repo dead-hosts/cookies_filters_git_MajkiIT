@@ -12,9 +12,16 @@
         "cmp.*.pl": {
             "included_at_epoch": 1590797304.689745,
             "included_at_iso": "2020-05-30T00:08:24.689745",
-            "last_retested_at_epoch": 1592786028.796997,
-            "last_retested_at_iso": "2020-06-22T00:33:48.796997",
+            "last_retested_at_epoch": 1592959562.805036,
+            "last_retested_at_iso": "2020-06-24T00:46:02.805036",
             "status": "INVALID"
+        },
+        "ctm.gdynia.pl": {
+            "included_at_epoch": 1592959562.863869,
+            "included_at_iso": "2020-06-24T00:46:02.863869",
+            "last_retested_at_epoch": 1592959562.863869,
+            "last_retested_at_iso": "2020-06-24T00:46:02.863869",
+            "status": "INACTIVE"
         },
         "infobus.eu": {
             "included_at_epoch": 1592958443.860014,
@@ -26,8 +33,8 @@
         "jbzdy.eu": {
             "included_at_epoch": 1592612308.651872,
             "included_at_iso": "2020-06-20T00:18:28.651872",
-            "last_retested_at_epoch": 1592786030.485048,
-            "last_retested_at_iso": "2020-06-22T00:33:50.485048",
+            "last_retested_at_epoch": 1592959564.455354,
+            "last_retested_at_iso": "2020-06-24T00:46:04.455354",
             "status": "INACTIVE"
         },
         "nasze-kino.eu": {
@@ -35,13 +42,6 @@
             "included_at_iso": "2020-06-14T00:02:06.625054",
             "last_retested_at_epoch": 1592958413.85473,
             "last_retested_at_iso": "2020-06-24T00:26:53.854730",
-            "status": "INACTIVE"
-        },
-        "powiat.okay.pl": {
-            "included_at_epoch": 1592825926.733424,
-            "included_at_iso": "2020-06-22T11:38:46.733424",
-            "last_retested_at_epoch": 1592825926.733424,
-            "last_retested_at_iso": "2020-06-22T11:38:46.733424",
             "status": "INACTIVE"
         },
         "sklepzdrowia.eu": {
@@ -54,15 +54,15 @@
         "stypendia.sejmik.kielce.pl": {
             "included_at_epoch": 1590797297.433148,
             "included_at_iso": "2020-05-30T00:08:17.433148",
-            "last_retested_at_epoch": 1592786022.112469,
-            "last_retested_at_iso": "2020-06-22T00:33:42.112469",
+            "last_retested_at_epoch": 1592959556.141044,
+            "last_retested_at_iso": "2020-06-24T00:45:56.141044",
             "status": "INACTIVE"
         },
         "testujemy.biedronka.pl": {
             "included_at_epoch": 1590797298.91842,
             "included_at_iso": "2020-05-30T00:08:18.918420",
-            "last_retested_at_epoch": 1592786023.510402,
-            "last_retested_at_iso": "2020-06-22T00:33:43.510402",
+            "last_retested_at_epoch": 1592959557.522781,
+            "last_retested_at_iso": "2020-06-24T00:45:57.522781",
             "status": "INACTIVE"
         },
         "wifiki.eu": {
@@ -75,8 +75,8 @@
         "wilga-bus.eu": {
             "included_at_epoch": 1591315828.550733,
             "included_at_iso": "2020-06-05T00:10:28.550733",
-            "last_retested_at_epoch": 1592786026.393085,
-            "last_retested_at_iso": "2020-06-22T00:33:46.393085",
+            "last_retested_at_epoch": 1592959560.439057,
+            "last_retested_at_iso": "2020-06-24T00:46:00.439057",
             "status": "INACTIVE"
         }
     }
