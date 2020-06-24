@@ -14515,9 +14515,9 @@
         "state": "future"
     },
     "top123.pl": {
-        "epoch": 1592956800.0,
-        "expiration_date": "24-jun-2020",
-        "state": "past"
+        "epoch": 1595548800.0,
+        "expiration_date": "24-jul-2020",
+        "state": "future"
     },
     "topagrar.pl": {
         "epoch": 1599264000.0,
