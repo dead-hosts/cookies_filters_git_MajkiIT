@@ -62,7 +62,7 @@
     "4fstore.com": {
         "epoch": 1593216000.0,
         "expiration_date": "27-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "4geek.co": {
         "epoch": 1613347200.0,
@@ -1820,8 +1820,8 @@
         "state": "future"
     },
     "bugwie.com": {
-        "epoch": 1593216000.0,
-        "expiration_date": "27-jun-2020",
+        "epoch": 1624752000.0,
+        "expiration_date": "27-jun-2021",
         "state": "future"
     },
     "buliba.pl": {
@@ -2252,7 +2252,7 @@
     "codziennikfeministyczny.pl": {
         "epoch": 1593216000.0,
         "expiration_date": "27-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "coinquista.com": {
         "epoch": 1613520000.0,
@@ -2270,8 +2270,8 @@
         "state": "future"
     },
     "colores.pl": {
-        "epoch": 1593216000.0,
-        "expiration_date": "27-jun-2020",
+        "epoch": 1624752000.0,
+        "expiration_date": "27-jun-2021",
         "state": "future"
     },
     "colormark.pl": {
@@ -3212,7 +3212,7 @@
     "dystans.org": {
         "epoch": 1593129600.0,
         "expiration_date": "26-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "dzialoszyn.pl": {
         "epoch": 1621209600.0,
@@ -3932,7 +3932,7 @@
     "erhem.pl": {
         "epoch": 1593216000.0,
         "expiration_date": "27-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "erw24.net": {
         "epoch": 1618444800.0,
@@ -5315,8 +5315,8 @@
         "state": "future"
     },
     "gorakalwaria.net": {
-        "epoch": 1593216000.0,
-        "expiration_date": "27-jun-2020",
+        "epoch": 1624752000.0,
+        "expiration_date": "27-jun-2021",
         "state": "future"
     },
     "gorlice.tv": {
@@ -5760,8 +5760,8 @@
         "state": "future"
     },
     "homebrewing.pl": {
-        "epoch": 1593129600.0,
-        "expiration_date": "26-jun-2020",
+        "epoch": 1624665600.0,
+        "expiration_date": "26-jun-2021",
         "state": "future"
     },
     "horex.pl": {
@@ -5915,8 +5915,8 @@
         "state": "future"
     },
     "icppc.pl": {
-        "epoch": 1593129600.0,
-        "expiration_date": "26-jun-2020",
+        "epoch": 1624665600.0,
+        "expiration_date": "26-jun-2021",
         "state": "future"
     },
     "icube.pl": {
@@ -6105,8 +6105,8 @@
         "state": "future"
     },
     "infocredit-online.pl": {
-        "epoch": 1593129600.0,
-        "expiration_date": "26-jun-2020",
+        "epoch": 1624665600.0,
+        "expiration_date": "26-jun-2021",
         "state": "future"
     },
     "infogliwice.pl": {
@@ -6440,8 +6440,8 @@
         "state": "future"
     },
     "jak-ksiegowac.pl": {
-        "epoch": 1593129600.0,
-        "expiration_date": "26-jun-2020",
+        "epoch": 1624665600.0,
+        "expiration_date": "26-jun-2021",
         "state": "future"
     },
     "jak-zablokowac-cookies.pl": {
@@ -6577,7 +6577,7 @@
     "jedrzejowska.net": {
         "epoch": 1593216000.0,
         "expiration_date": "27-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "jedyna-taka.pl": {
         "epoch": 1638662400.0,
@@ -6892,7 +6892,7 @@
     "kinder.com": {
         "epoch": 1593129600.0,
         "expiration_date": "26-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "kingsong.pl": {
         "epoch": 1598140800.0,
@@ -14952,7 +14952,7 @@
     "ubojnia-skad.pl": {
         "epoch": 1593216000.0,
         "expiration_date": "27-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "udemy.com": {
         "epoch": 1597276800.0,
@@ -15272,7 +15272,7 @@
     "wakacyjnapolisa.pl": {
         "epoch": 1593216000.0,
         "expiration_date": "27-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "wakacyjnipiraci.pl": {
         "epoch": 1614211200.0,
