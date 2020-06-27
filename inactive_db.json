@@ -10,24 +10,17 @@
     },
     "/home/travis/build/dead-hosts/cookies_filters_git_MajkiIT/domains.list": {
         "cmp.*.pl": {
-            "included_at_epoch": 1590797304.689745,
-            "included_at_iso": "2020-05-30T00:08:24.689745",
-            "last_retested_at_epoch": 1593126382.895199,
-            "last_retested_at_iso": "2020-06-25T23:06:22.895199",
+            "included_at_epoch": 1593217501.884809,
+            "included_at_iso": "2020-06-27T00:25:01.884809",
+            "last_retested_at_epoch": 1593217501.884809,
+            "last_retested_at_iso": "2020-06-27T00:25:01.884809",
             "status": "INVALID"
         },
         "jbzdy.eu": {
             "included_at_epoch": 1592612308.651872,
             "included_at_iso": "2020-06-20T00:18:28.651872",
-            "last_retested_at_epoch": 1593126384.541967,
-            "last_retested_at_iso": "2020-06-25T23:06:24.541967",
-            "status": "INACTIVE"
-        },
-        "mbp.dzierzoniow.pl": {
-            "included_at_epoch": 1593126359.90342,
-            "included_at_iso": "2020-06-25T23:05:59.903420",
-            "last_retested_at_epoch": 1593126359.90342,
-            "last_retested_at_iso": "2020-06-25T23:05:59.903420",
+            "last_retested_at_epoch": 1593217503.687705,
+            "last_retested_at_iso": "2020-06-27T00:25:03.687705",
             "status": "INACTIVE"
         },
         "nasze-kino.eu": {
@@ -45,17 +38,17 @@
             "status": "INACTIVE"
         },
         "stypendia.sejmik.kielce.pl": {
-            "included_at_epoch": 1590797297.433148,
-            "included_at_iso": "2020-05-30T00:08:17.433148",
-            "last_retested_at_epoch": 1593126376.113099,
-            "last_retested_at_iso": "2020-06-25T23:06:16.113099",
+            "included_at_epoch": 1593217494.972304,
+            "included_at_iso": "2020-06-27T00:24:54.972304",
+            "last_retested_at_epoch": 1593217494.972304,
+            "last_retested_at_iso": "2020-06-27T00:24:54.972304",
             "status": "INACTIVE"
         },
         "testujemy.biedronka.pl": {
-            "included_at_epoch": 1590797298.91842,
-            "included_at_iso": "2020-05-30T00:08:18.918420",
-            "last_retested_at_epoch": 1593126377.511103,
-            "last_retested_at_iso": "2020-06-25T23:06:17.511103",
+            "included_at_epoch": 1593217496.416173,
+            "included_at_iso": "2020-06-27T00:24:56.416173",
+            "last_retested_at_epoch": 1593217496.416173,
+            "last_retested_at_iso": "2020-06-27T00:24:56.416173",
             "status": "INACTIVE"
         },
         "wifiki.eu": {
@@ -68,8 +61,8 @@
         "wilga-bus.eu": {
             "included_at_epoch": 1591315828.550733,
             "included_at_iso": "2020-06-05T00:10:28.550733",
-            "last_retested_at_epoch": 1593126380.479283,
-            "last_retested_at_iso": "2020-06-25T23:06:20.479283",
+            "last_retested_at_epoch": 1593217499.439579,
+            "last_retested_at_iso": "2020-06-27T00:24:59.439579",
             "status": "INACTIVE"
         }
     }
