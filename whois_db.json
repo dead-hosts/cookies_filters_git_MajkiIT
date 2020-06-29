@@ -365,8 +365,8 @@
         "state": "future"
     },
     "akademiareissa.pl": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
         "state": "future"
     },
     "akpolbaby.pl": {
@@ -7907,7 +7907,7 @@
     "lotaro.pl": {
         "epoch": 1593388800.0,
         "expiration_date": "29-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "loteriainpost.pl": {
         "epoch": "1571788800",
@@ -8795,8 +8795,8 @@
         "state": "future"
     },
     "mirpol-bis.pl": {
-        "epoch": 1593302400.0,
-        "expiration_date": "28-jun-2020",
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
         "state": "future"
     },
     "misjatravel.pl": {
@@ -10985,8 +10985,8 @@
         "state": "future"
     },
     "playnow.pl": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
+        "epoch": 1656460800.0,
+        "expiration_date": "29-jun-2022",
         "state": "future"
     },
     "plocman.pl": {
@@ -15235,8 +15235,8 @@
         "state": "future"
     },
     "vuch.pl": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
         "state": "future"
     },
     "vw-group.pl": {
