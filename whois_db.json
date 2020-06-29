@@ -60,9 +60,9 @@
         "state": "future"
     },
     "4fstore.com": {
-        "epoch": 1593216000.0,
-        "expiration_date": "27-jun-2020",
-        "state": "past"
+        "epoch": 1624752000.0,
+        "expiration_date": "27-jun-2021",
+        "state": "future"
     },
     "4geek.co": {
         "epoch": 1613347200.0,
@@ -2250,9 +2250,9 @@
         "state": "future"
     },
     "codziennikfeministyczny.pl": {
-        "epoch": 1593216000.0,
-        "expiration_date": "27-jun-2020",
-        "state": "past"
+        "epoch": 1595808000.0,
+        "expiration_date": "27-jul-2020",
+        "state": "future"
     },
     "coinquista.com": {
         "epoch": 1613520000.0,
@@ -3170,8 +3170,8 @@
         "state": "future"
     },
     "dstreet.pl": {
-        "epoch": 1593302400.0,
-        "expiration_date": "28-jun-2020",
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
         "state": "future"
     },
     "duka.com": {
@@ -3210,9 +3210,9 @@
         "state": "future"
     },
     "dystans.org": {
-        "epoch": 1593129600.0,
-        "expiration_date": "26-jun-2020",
-        "state": "past"
+        "epoch": 1624665600.0,
+        "expiration_date": "26-jun-2021",
+        "state": "future"
     },
     "dzialoszyn.pl": {
         "epoch": 1621209600.0,
@@ -3240,8 +3240,8 @@
         "state": "future"
     },
     "dziendobry.catering": {
-        "epoch": 1593302400.0,
-        "expiration_date": "28-jun-2020",
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
         "state": "future"
     },
     "dziennikelblaski.pl": {
@@ -3930,9 +3930,9 @@
         "state": "future"
     },
     "erhem.pl": {
-        "epoch": 1593216000.0,
-        "expiration_date": "27-jun-2020",
-        "state": "past"
+        "epoch": 1595808000.0,
+        "expiration_date": "27-jul-2020",
+        "state": "future"
     },
     "erw24.net": {
         "epoch": 1618444800.0,
@@ -6575,9 +6575,9 @@
         "state": "future"
     },
     "jedrzejowska.net": {
-        "epoch": 1593216000.0,
-        "expiration_date": "27-jun-2020",
-        "state": "past"
+        "epoch": 1624752000.0,
+        "expiration_date": "27-jun-2021",
+        "state": "future"
     },
     "jedyna-taka.pl": {
         "epoch": 1638662400.0,
@@ -6890,9 +6890,9 @@
         "state": "future"
     },
     "kinder.com": {
-        "epoch": 1593129600.0,
-        "expiration_date": "26-jun-2020",
-        "state": "past"
+        "epoch": 1624665600.0,
+        "expiration_date": "26-jun-2021",
+        "state": "future"
     },
     "kingsong.pl": {
         "epoch": 1598140800.0,
@@ -7052,7 +7052,7 @@
     "komorkomat.pl": {
         "epoch": 1593388800.0,
         "expiration_date": "29-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "kompan.pl": {
         "epoch": 1602979200.0,
@@ -7170,8 +7170,8 @@
         "state": "future"
     },
     "koty24.pl": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
         "state": "future"
     },
     "kozak.pl": {
@@ -7412,7 +7412,7 @@
     "kurspisania.pl": {
         "epoch": 1593388800.0,
         "expiration_date": "29-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "kuvert.com.pl": {
         "epoch": 1616025600.0,
@@ -10025,8 +10025,8 @@
         "state": "future"
     },
     "odreklamy.pl": {
-        "epoch": 1593302400.0,
-        "expiration_date": "28-jun-2020",
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
         "state": "future"
     },
     "odrowaz24.pl": {
@@ -10955,8 +10955,8 @@
         "state": "future"
     },
     "planetadzwieku.com": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
         "state": "future"
     },
     "planetamarvel.net": {
@@ -11330,8 +11330,8 @@
         "state": "future"
     },
     "popkorn.pl": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
         "state": "future"
     },
     "popoznaniu.pl": {
@@ -12155,8 +12155,8 @@
         "state": "future"
     },
     "rankingkont.org": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
         "state": "future"
     },
     "rankinglekarzy.pl": {
@@ -13385,8 +13385,8 @@
         "state": "future"
     },
     "sopocki-zdroj.pl": {
-        "epoch": 1593302400.0,
-        "expiration_date": "28-jun-2020",
+        "epoch": 1595894400.0,
+        "expiration_date": "28-jul-2020",
         "state": "future"
     },
     "sosnowiecki.pl": {
@@ -14950,9 +14950,9 @@
         "state": "future"
     },
     "ubojnia-skad.pl": {
-        "epoch": 1593216000.0,
-        "expiration_date": "27-jun-2020",
-        "state": "past"
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
+        "state": "future"
     },
     "udemy.com": {
         "epoch": 1597276800.0,
@@ -15005,8 +15005,8 @@
         "state": "future"
     },
     "unileverfoodsolutions.pl": {
-        "epoch": 1593302400.0,
-        "expiration_date": "28-jun-2020",
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
         "state": "future"
     },
     "unilink.pl": {
@@ -15270,9 +15270,9 @@
         "state": "future"
     },
     "wakacyjnapolisa.pl": {
-        "epoch": 1593216000.0,
-        "expiration_date": "27-jun-2020",
-        "state": "past"
+        "epoch": 1624752000.0,
+        "expiration_date": "27-jun-2021",
+        "state": "future"
     },
     "wakacyjnipiraci.pl": {
         "epoch": 1614211200.0,
@@ -15450,8 +15450,8 @@
         "state": "future"
     },
     "westgate.com.pl": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
         "state": "future"
     },
     "westwingnow.pl": {
@@ -15790,8 +15790,8 @@
         "state": "future"
     },
     "wsieciprawdy.pl": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
         "state": "future"
     },
     "wsip.pl": {
