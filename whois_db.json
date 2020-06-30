@@ -3845,8 +3845,8 @@
         "state": "future"
     },
     "enjoyuk.pl": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "entertheroom.pl": {
@@ -4515,8 +4515,8 @@
         "state": "future"
     },
     "flyordie.pl": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
         "state": "future"
     },
     "fogo.pl": {
@@ -5405,8 +5405,8 @@
         "state": "future"
     },
     "grawipol.pl": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
         "state": "future"
     },
     "greenlux.pl": {
@@ -7050,9 +7050,9 @@
         "state": "future"
     },
     "komorkomat.pl": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
-        "state": "past"
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
+        "state": "future"
     },
     "kompan.pl": {
         "epoch": 1602979200.0,
@@ -7410,9 +7410,9 @@
         "state": "future"
     },
     "kurspisania.pl": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
-        "state": "past"
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
+        "state": "future"
     },
     "kuvert.com.pl": {
         "epoch": 1616025600.0,
@@ -7905,9 +7905,9 @@
         "state": "future"
     },
     "lotaro.pl": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
-        "state": "past"
+        "epoch": 1595980800.0,
+        "expiration_date": "29-jul-2020",
+        "state": "future"
     },
     "loteriainpost.pl": {
         "epoch": "1571788800",
@@ -10875,8 +10875,8 @@
         "state": "future"
     },
     "pis.org.pl": {
-        "epoch": 1593302400.0,
-        "expiration_date": "28-jun-2020",
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
         "state": "future"
     },
     "pizza-express.pl": {
@@ -14695,8 +14695,8 @@
         "state": "future"
     },
     "trustpilot.com": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
         "state": "future"
     },
     "tryton-tools.pl": {
