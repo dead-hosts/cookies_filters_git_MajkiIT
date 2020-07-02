@@ -19,6 +19,11 @@
         "expiration_date": "03-nov-2020",
         "state": "future"
     },
+    "24opony.pl": {
+        "epoch": 1601164800.0,
+        "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
     "2x45.info": {
         "epoch": 1612656000.0,
         "expiration_date": "07-feb-2021",
@@ -392,7 +397,7 @@
     "albatrosbus.pl": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "aldi.pl": {
         "epoch": 1661126400.0,
@@ -2197,7 +2202,7 @@
     "civitas.edu.pl": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "ck-czestochowa.pl": {
         "epoch": 1598313600.0,
@@ -3687,6 +3692,11 @@
     "elektro-outlet.net": {
         "epoch": 1602720000,
         "expiration_date": "15-oct-2020",
+        "state": "future"
+    },
+    "elektro.info.pl": {
+        "epoch": 1612915200.0,
+        "expiration_date": "10-feb-2021",
         "state": "future"
     },
     "elektroda.pl": {
@@ -5214,6 +5224,11 @@
         "expiration_date": "28-feb-2021",
         "state": "future"
     },
+    "go-market.pl": {
+        "epoch": 1599091200.0,
+        "expiration_date": "03-sep-2020",
+        "state": "future"
+    },
     "goal.pl": {
         "epoch": 1610841600.0,
         "expiration_date": "17-jan-2021",
@@ -6539,6 +6554,11 @@
         "expiration_date": "27-feb-2020",
         "state": "future"
     },
+    "jawor24h.pl": {
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
+        "state": "future"
+    },
     "jazzsoul.pl": {
         "epoch": 1611619200.0,
         "expiration_date": "26-jan-2021",
@@ -6837,6 +6857,11 @@
     "kazar.com": {
         "epoch": 1570060800,
         "expiration_date": "03-oct-2019",
+        "state": "future"
+    },
+    "kbw.gov.pl": {
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
         "state": "future"
     },
     "kegel-aj.com": {
@@ -10949,6 +10974,11 @@
         "expiration_date": "09-mar-2021",
         "state": "future"
     },
+    "pkw.gov.pl": {
+        "epoch": 1596240000.0,
+        "expiration_date": "01-aug-2020",
+        "state": "future"
+    },
     "pl.weber": {
         "epoch": 1619481600.0,
         "expiration_date": "27-apr-2021",
@@ -12010,8 +12040,8 @@
         "state": "future"
     },
     "raczki.pl": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
         "state": "future"
     },
     "radentortodonta.pl": {
@@ -12090,8 +12120,8 @@
         "state": "future"
     },
     "radiotaxitg.pl": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
         "state": "future"
     },
     "radiowroclaw.pl": {
@@ -13780,8 +13810,8 @@
         "state": "future"
     },
     "studiorolety.pl": {
-        "epoch": 1593561600.0,
-        "expiration_date": "01-jul-2020",
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
         "state": "future"
     },
     "stukstuk.pl": {
@@ -16145,8 +16175,8 @@
         "state": "future"
     },
     "zarmen.pl": {
-        "epoch": 1593561600.0,
-        "expiration_date": "01-jul-2020",
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
         "state": "future"
     },
     "zarty.biz": {
@@ -16240,8 +16270,8 @@
         "state": "future"
     },
     "zgodafc.pl": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
         "state": "future"
     },
     "zgorzelec.info": {
