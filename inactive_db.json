@@ -12,8 +12,8 @@
         "cmp.*.pl": {
             "included_at_epoch": 1593217501.884809,
             "included_at_iso": "2020-06-27T00:25:01.884809",
-            "last_retested_at_epoch": 1593516787.786088,
-            "last_retested_at_iso": "2020-06-30T11:33:07.786088",
+            "last_retested_at_epoch": 1593649957.531401,
+            "last_retested_at_iso": "2020-07-02T00:32:37.531401",
             "status": "INVALID"
         },
         "gozdowo.eu": {
@@ -26,8 +26,8 @@
         "jbzdy.eu": {
             "included_at_epoch": 1592612308.651872,
             "included_at_iso": "2020-06-20T00:18:28.651872",
-            "last_retested_at_epoch": 1593516789.386009,
-            "last_retested_at_iso": "2020-06-30T11:33:09.386009",
+            "last_retested_at_epoch": 1593649959.230362,
+            "last_retested_at_iso": "2020-07-02T00:32:39.230362",
             "status": "INACTIVE"
         },
         "kurierkolejowy.eu": {
@@ -47,15 +47,15 @@
         "stypendia.sejmik.kielce.pl": {
             "included_at_epoch": 1593217494.972304,
             "included_at_iso": "2020-06-27T00:24:54.972304",
-            "last_retested_at_epoch": 1593516781.029337,
-            "last_retested_at_iso": "2020-06-30T11:33:01.029337",
+            "last_retested_at_epoch": 1593649950.728879,
+            "last_retested_at_iso": "2020-07-02T00:32:30.728879",
             "status": "INACTIVE"
         },
         "testujemy.biedronka.pl": {
             "included_at_epoch": 1593217496.416173,
             "included_at_iso": "2020-06-27T00:24:56.416173",
-            "last_retested_at_epoch": 1593516782.420474,
-            "last_retested_at_iso": "2020-06-30T11:33:02.420474",
+            "last_retested_at_epoch": 1593649952.154275,
+            "last_retested_at_iso": "2020-07-02T00:32:32.154275",
             "status": "INACTIVE"
         },
         "wifiki.eu": {
@@ -68,8 +68,8 @@
         "wilga-bus.eu": {
             "included_at_epoch": 1591315828.550733,
             "included_at_iso": "2020-06-05T00:10:28.550733",
-            "last_retested_at_epoch": 1593516785.378269,
-            "last_retested_at_iso": "2020-06-30T11:33:05.378269",
+            "last_retested_at_epoch": 1593649955.106328,
+            "last_retested_at_iso": "2020-07-02T00:32:35.106328",
             "status": "INACTIVE"
         }
     }

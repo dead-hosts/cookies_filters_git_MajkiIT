@@ -2745,8 +2745,8 @@
         "state": "future"
     },
     "demotywatory.pl": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
         "state": "future"
     },
     "denique.pl": {
@@ -7300,8 +7300,8 @@
         "state": "future"
     },
     "krosnocity.pl": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
         "state": "future"
     },
     "krotoszynska.pl": {
@@ -7777,6 +7777,11 @@
     "libertex.com": {
         "epoch": 1630281600.0,
         "expiration_date": "30-aug-2021",
+        "state": "future"
+    },
+    "liderpojezierza.pl": {
+        "epoch": 1611446400.0,
+        "expiration_date": "24-jan-2021",
         "state": "future"
     },
     "lifepointspanel.com": {
@@ -10205,8 +10210,8 @@
         "state": "future"
     },
     "one2tribe.pl": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
         "state": "future"
     },
     "onerqe-kredyt.pl": {
@@ -10577,6 +10582,11 @@
     "pap.pl": {
         "epoch": 1660780800.0,
         "expiration_date": "18-aug-2022",
+        "state": "future"
+    },
+    "papajohns.pl": {
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
         "state": "future"
     },
     "papciolandia.pl": {
@@ -12855,8 +12865,8 @@
         "state": "future"
     },
     "sempreinfo.pl": {
-        "epoch": 1593561600.0,
-        "expiration_date": "01-jul-2020",
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
         "state": "future"
     },
     "sendgb.com": {
@@ -15375,8 +15385,8 @@
         "state": "future"
     },
     "wcz.waw.pl": {
-        "epoch": 1593561600.0,
-        "expiration_date": "01-jul-2020",
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
         "state": "future"
     },
     "wd.com": {
