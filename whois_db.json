@@ -395,9 +395,9 @@
         "state": "future"
     },
     "albatrosbus.pl": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
-        "state": "past"
+        "epoch": 1596240000.0,
+        "expiration_date": "01-aug-2020",
+        "state": "future"
     },
     "aldi.pl": {
         "epoch": 1661126400.0,
@@ -530,8 +530,8 @@
         "state": "future"
     },
     "altimi.com": {
-        "epoch": 1593561600.0,
-        "expiration_date": "01-jul-2020",
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
         "state": "future"
     },
     "altron.pl": {
@@ -685,8 +685,8 @@
         "state": "future"
     },
     "apspolska.pl": {
-        "epoch": 1593734400.0,
-        "expiration_date": "03-jul-2020",
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
         "state": "future"
     },
     "aptekagemini.pl": {
@@ -885,8 +885,8 @@
         "state": "future"
     },
     "audiocomplex.pl": {
-        "epoch": 1593734400.0,
-        "expiration_date": "03-jul-2020",
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
         "state": "future"
     },
     "audioteka.com": {
@@ -2200,9 +2200,9 @@
         "state": "future"
     },
     "civitas.edu.pl": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
-        "state": "past"
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
+        "state": "future"
     },
     "ck-czestochowa.pl": {
         "epoch": 1598313600.0,
@@ -4772,7 +4772,7 @@
     "fundacjadominikana.org": {
         "epoch": 1593734400.0,
         "expiration_date": "03-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "fundacjawolnosci.org": {
         "epoch": 1621296000.0,
@@ -6060,8 +6060,8 @@
         "state": "future"
     },
     "imperiumreklamy.com": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
         "state": "future"
     },
     "in4.pl": {
@@ -8195,8 +8195,8 @@
         "state": "future"
     },
     "malwarebytes.com": {
-        "epoch": 1593734400.0,
-        "expiration_date": "03-jul-2020",
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
         "state": "future"
     },
     "malwaretips.com": {
@@ -14805,8 +14805,8 @@
         "state": "future"
     },
     "tuv-nord.com": {
-        "epoch": 1593561600.0,
-        "expiration_date": "01-jul-2020",
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
         "state": "future"
     },
     "tuwodzislaw.pl": {
