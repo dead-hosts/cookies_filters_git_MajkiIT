@@ -12,8 +12,8 @@
         "cmp.*.pl": {
             "included_at_epoch": 1593217501.884809,
             "included_at_iso": "2020-06-27T00:25:01.884809",
-            "last_retested_at_epoch": 1593649957.531401,
-            "last_retested_at_iso": "2020-07-02T00:32:37.531401",
+            "last_retested_at_epoch": 1593777056.392577,
+            "last_retested_at_iso": "2020-07-03T11:50:56.392577",
             "status": "INVALID"
         },
         "forum.vwgolf.pl": {
@@ -26,8 +26,8 @@
         "jbzdy.eu": {
             "included_at_epoch": 1592612308.651872,
             "included_at_iso": "2020-06-20T00:18:28.651872",
-            "last_retested_at_epoch": 1593649959.230362,
-            "last_retested_at_iso": "2020-07-02T00:32:39.230362",
+            "last_retested_at_epoch": 1593777058.131943,
+            "last_retested_at_iso": "2020-07-03T11:50:58.131943",
             "status": "INACTIVE"
         },
         "kurierkolejowy.eu": {
@@ -47,15 +47,15 @@
         "stypendia.sejmik.kielce.pl": {
             "included_at_epoch": 1593217494.972304,
             "included_at_iso": "2020-06-27T00:24:54.972304",
-            "last_retested_at_epoch": 1593649950.728879,
-            "last_retested_at_iso": "2020-07-02T00:32:30.728879",
+            "last_retested_at_epoch": 1593777049.356963,
+            "last_retested_at_iso": "2020-07-03T11:50:49.356963",
             "status": "INACTIVE"
         },
         "testujemy.biedronka.pl": {
             "included_at_epoch": 1593217496.416173,
             "included_at_iso": "2020-06-27T00:24:56.416173",
-            "last_retested_at_epoch": 1593649952.154275,
-            "last_retested_at_iso": "2020-07-02T00:32:32.154275",
+            "last_retested_at_epoch": 1593777050.798593,
+            "last_retested_at_iso": "2020-07-03T11:50:50.798593",
             "status": "INACTIVE"
         },
         "wifiki.eu": {
@@ -63,6 +63,13 @@
             "included_at_iso": "2020-06-14T00:01:43.198092",
             "last_retested_at_epoch": 1593773667.60885,
             "last_retested_at_iso": "2020-07-03T10:54:27.608850",
+            "status": "INACTIVE"
+        },
+        "wilga-bus.eu": {
+            "included_at_epoch": 1593777053.862914,
+            "included_at_iso": "2020-07-03T11:50:53.862914",
+            "last_retested_at_epoch": 1593777053.862914,
+            "last_retested_at_iso": "2020-07-03T11:50:53.862914",
             "status": "INACTIVE"
         }
     }
