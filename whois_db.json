@@ -1115,8 +1115,8 @@
         "state": "future"
     },
     "bardotti.pl": {
-        "epoch": 1593907200.0,
-        "expiration_date": "05-jul-2020",
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
         "state": "future"
     },
     "barfnyswiat.org": {
@@ -2125,8 +2125,8 @@
         "state": "future"
     },
     "chwilowkomat.pl": {
-        "epoch": 1593907200.0,
-        "expiration_date": "05-jul-2020",
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
         "state": "future"
     },
     "ciam.pl": {
@@ -4190,8 +4190,8 @@
         "state": "future"
     },
     "extraswiecie.pl": {
-        "epoch": 1593820800.0,
-        "expiration_date": "04-jul-2020",
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
         "state": "future"
     },
     "ey.com": {
@@ -4770,9 +4770,9 @@
         "state": "future"
     },
     "fundacjadominikana.org": {
-        "epoch": 1593734400.0,
-        "expiration_date": "03-jul-2020",
-        "state": "past"
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
+        "state": "future"
     },
     "fundacjawolnosci.org": {
         "epoch": 1621296000.0,
@@ -5555,8 +5555,8 @@
         "state": "future"
     },
     "gumtree.pl": {
-        "epoch": 1593907200.0,
-        "expiration_date": "05-jul-2020",
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
         "state": "future"
     },
     "hael.pl": {
@@ -6005,8 +6005,8 @@
         "state": "future"
     },
     "ikea.com": {
-        "epoch": 1593907200.0,
-        "expiration_date": "05-jul-2020",
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
         "state": "future"
     },
     "ikrakow.info": {
@@ -6475,8 +6475,8 @@
         "state": "future"
     },
     "jakoscobslugi.pl": {
-        "epoch": 1593820800.0,
-        "expiration_date": "04-jul-2020",
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
         "state": "future"
     },
     "jakzalozycfirmenaukrainie.com": {
@@ -7310,8 +7310,8 @@
         "state": "future"
     },
     "krsystem.pl": {
-        "epoch": 1593820800.0,
-        "expiration_date": "04-jul-2020",
+        "epoch": 1656892800.0,
+        "expiration_date": "04-jul-2022",
         "state": "future"
     },
     "krups.com.pl": {
@@ -10670,8 +10670,8 @@
         "state": "future"
     },
     "patronite.pl": {
-        "epoch": 1593907200.0,
-        "expiration_date": "05-jul-2020",
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
         "state": "future"
     },
     "paypal.com": {
@@ -12977,7 +12977,7 @@
     "showmag.info": {
         "epoch": 1593907200.0,
         "expiration_date": "05-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "showmax.com": {
         "epoch": 1625097600.0,
@@ -13765,8 +13765,8 @@
         "state": "future"
     },
     "strawpoll.me": {
-        "epoch": 1593907200.0,
-        "expiration_date": "05-jul-2020",
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
         "state": "future"
     },
     "strefaczasu.pl": {
@@ -14260,8 +14260,8 @@
         "state": "future"
     },
     "technetium.pl": {
-        "epoch": 1593820800.0,
-        "expiration_date": "04-jul-2020",
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
         "state": "future"
     },
     "technikum.pl": {
@@ -14670,8 +14670,8 @@
         "state": "future"
     },
     "trejdoo.com": {
-        "epoch": 1593907200.0,
-        "expiration_date": "05-jul-2020",
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
         "state": "future"
     },
     "trello.com": {
@@ -15207,7 +15207,7 @@
     "vitberg.com": {
         "epoch": 1593907200.0,
         "expiration_date": "05-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "viva.pl": {
         "epoch": 1738886400.0,
