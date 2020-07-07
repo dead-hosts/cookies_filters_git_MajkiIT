@@ -1125,8 +1125,8 @@
         "state": "future"
     },
     "bartix.pl": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
         "state": "future"
     },
     "basspolska.com": {
@@ -2960,8 +2960,8 @@
         "state": "future"
     },
     "dolcar.auto.pl": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
         "state": "future"
     },
     "dolce-gusto.pl": {
@@ -3170,8 +3170,8 @@
         "state": "future"
     },
     "drzwionline.net": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
         "state": "future"
     },
     "dstreet.pl": {
@@ -3585,8 +3585,8 @@
         "state": "future"
     },
     "eitc.online": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
         "state": "future"
     },
     "ekko.com.pl": {
@@ -4010,8 +4010,8 @@
         "state": "future"
     },
     "etam.pl": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
         "state": "future"
     },
     "eteacher.pl": {
@@ -4340,8 +4340,8 @@
         "state": "future"
     },
     "feryster.pl": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
         "state": "future"
     },
     "festiwaldzieciecy.pl": {
@@ -4697,6 +4697,11 @@
     "fotosik.pl": {
         "epoch": 1696204800.0,
         "expiration_date": "02-oct-2023",
+        "state": "future"
+    },
+    "fototapetyxl.pl": {
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
         "state": "future"
     },
     "franciszkanskie.pl": {
@@ -6185,8 +6190,8 @@
         "state": "future"
     },
     "inopony.pl": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
         "state": "future"
     },
     "inoreader.com": {
@@ -6347,6 +6352,11 @@
     "iposto.com": {
         "epoch": 1613865600.0,
         "expiration_date": "21-feb-2021",
+        "state": "future"
+    },
+    "irebu.pl": {
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
         "state": "future"
     },
     "isms.pl": {
@@ -7744,6 +7754,11 @@
         "expiration_date": "17-feb-2021",
         "state": "future"
     },
+    "lexus-lodz.pl": {
+        "epoch": 1604793600.0,
+        "expiration_date": "08-nov-2020",
+        "state": "future"
+    },
     "lexus-polska.pl": {
         "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
@@ -8192,6 +8207,11 @@
     "malopolskie-media.info": {
         "epoch": 1605657600.0,
         "expiration_date": "18-nov-2020",
+        "state": "future"
+    },
+    "maluchy.pl": {
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
         "state": "future"
     },
     "malwarebytes.com": {
@@ -10719,6 +10739,11 @@
         "expiration_date": "08-jul-2020",
         "state": "future"
     },
+    "pclider.pl": {
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
+        "state": "future"
+    },
     "pcprwiecbork.pl": {
         "epoch": 1604534400.0,
         "expiration_date": "05-nov-2020",
@@ -10890,8 +10915,8 @@
         "state": "future"
     },
     "pink.land": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
         "state": "future"
     },
     "pino.pl": {
@@ -12360,8 +12385,8 @@
         "state": "future"
     },
     "rentsellersgroup.com": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
         "state": "future"
     },
     "reporterzy.info": {
@@ -12975,9 +13000,9 @@
         "state": "future"
     },
     "showmag.info": {
-        "epoch": 1593907200.0,
-        "expiration_date": "05-jul-2020",
-        "state": "past"
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
+        "state": "future"
     },
     "showmax.com": {
         "epoch": 1625097600.0,
@@ -15205,9 +15230,9 @@
         "state": "future"
     },
     "vitberg.com": {
-        "epoch": 1593907200.0,
-        "expiration_date": "05-jul-2020",
-        "state": "past"
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
+        "state": "future"
     },
     "viva.pl": {
         "epoch": 1738886400.0,
