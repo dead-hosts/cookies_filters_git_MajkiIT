@@ -12,8 +12,8 @@
         "cmp.*.pl": {
             "included_at_epoch": 1593217501.884809,
             "included_at_iso": "2020-06-27T00:25:01.884809",
-            "last_retested_at_epoch": 1593908927.787285,
-            "last_retested_at_iso": "2020-07-05T00:28:47.787285",
+            "last_retested_at_epoch": 1594081748.530977,
+            "last_retested_at_iso": "2020-07-07T00:29:08.530977",
             "status": "INVALID"
         },
         "jbzdy.eu": {
@@ -37,25 +37,18 @@
             "last_retested_at_iso": "2020-07-07T00:16:21.926132",
             "status": "INACTIVE"
         },
-        "skm.pkp.pl": {
-            "included_at_epoch": 1593908919.032454,
-            "included_at_iso": "2020-07-05T00:28:39.032454",
-            "last_retested_at_epoch": 1593908919.032454,
-            "last_retested_at_iso": "2020-07-05T00:28:39.032454",
-            "status": "INACTIVE"
-        },
         "stypendia.sejmik.kielce.pl": {
             "included_at_epoch": 1593217494.972304,
             "included_at_iso": "2020-06-27T00:24:54.972304",
-            "last_retested_at_epoch": 1593908920.820699,
-            "last_retested_at_iso": "2020-07-05T00:28:40.820699",
+            "last_retested_at_epoch": 1594081741.753679,
+            "last_retested_at_iso": "2020-07-07T00:29:01.753679",
             "status": "INACTIVE"
         },
         "testujemy.biedronka.pl": {
             "included_at_epoch": 1593217496.416173,
             "included_at_iso": "2020-06-27T00:24:56.416173",
-            "last_retested_at_epoch": 1593908922.245121,
-            "last_retested_at_iso": "2020-07-05T00:28:42.245121",
+            "last_retested_at_epoch": 1594081743.0714,
+            "last_retested_at_iso": "2020-07-07T00:29:03.071400",
             "status": "INACTIVE"
         },
         "wifiki.eu": {

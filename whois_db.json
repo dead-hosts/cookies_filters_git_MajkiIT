@@ -3689,6 +3689,11 @@
         "expiration_date": "01-jun-2021",
         "state": "future"
     },
+    "electrolux.pl": {
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
+        "state": "future"
+    },
     "elektro-outlet.net": {
         "epoch": 1602720000,
         "expiration_date": "15-oct-2020",
@@ -8595,8 +8600,8 @@
         "state": "future"
     },
     "mercbus.pl": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
         "state": "future"
     },
     "mercedes-benz-trucks.com": {
@@ -11560,8 +11565,8 @@
         "state": "future"
     },
     "pracatobie.pl": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
         "state": "future"
     },
     "pracownia.org.pl": {
@@ -12040,8 +12045,8 @@
         "state": "future"
     },
     "quiosque.pl": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
         "state": "future"
     },
     "quizme.pl": {
@@ -12470,8 +12475,8 @@
         "state": "future"
     },
     "rkantor.com": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
         "state": "future"
     },
     "rkb.pl": {
@@ -12765,8 +12770,8 @@
         "state": "future"
     },
     "scanmed.pl": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
+        "epoch": 1688601600.0,
+        "expiration_date": "06-jul-2023",
         "state": "future"
     },
     "scentre.pl": {
@@ -13489,6 +13494,11 @@
         "expiration_date": "24-oct-2020",
         "state": "future"
     },
+    "sp34.waw.pl": {
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
     "spece.it": {
         "epoch": 1614902400.0,
         "expiration_date": "05-mar-2021",
@@ -13637,6 +13647,11 @@
     "ssd-linuxpl.com": {
         "epoch": 1610323200.0,
         "expiration_date": "11-jan-2021",
+        "state": "future"
+    },
+    "staleo.pl": {
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
         "state": "future"
     },
     "stalgorzow.pl": {
@@ -14400,8 +14415,8 @@
         "state": "future"
     },
     "termgaz.pl": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
         "state": "future"
     },
     "termodomplus.pl": {
@@ -15117,6 +15132,11 @@
     "ustka24.info": {
         "epoch": 1616716800.0,
         "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "uszwejka.pl": {
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
         "state": "future"
     },
     "uwielbiam.pl": {
