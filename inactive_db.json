@@ -9,12 +9,33 @@
         }
     },
     "/home/travis/build/dead-hosts/cookies_filters_git_MajkiIT/domains.list": {
+        "aukcje.pkoleasing.pl": {
+            "included_at_epoch": 1594203678.92968,
+            "included_at_iso": "2020-07-08T10:21:18.929680",
+            "last_retested_at_epoch": 1594203678.92968,
+            "last_retested_at_iso": "2020-07-08T10:21:18.929680",
+            "status": "INACTIVE"
+        },
         "cmp.*.pl": {
             "included_at_epoch": 1593217501.884809,
             "included_at_iso": "2020-06-27T00:25:01.884809",
             "last_retested_at_epoch": 1594081748.530977,
             "last_retested_at_iso": "2020-07-07T00:29:08.530977",
             "status": "INVALID"
+        },
+        "e-podlaskie.eu": {
+            "included_at_epoch": 1594203722.330228,
+            "included_at_iso": "2020-07-08T10:22:02.330228",
+            "last_retested_at_epoch": 1594203722.330228,
+            "last_retested_at_iso": "2020-07-08T10:22:02.330228",
+            "status": "INACTIVE"
+        },
+        "gozdowo.eu": {
+            "included_at_epoch": 1594203699.730382,
+            "included_at_iso": "2020-07-08T10:21:39.730382",
+            "last_retested_at_epoch": 1594203699.730382,
+            "last_retested_at_iso": "2020-07-08T10:21:39.730382",
+            "status": "INACTIVE"
         },
         "jbzdy.eu": {
             "included_at_epoch": 1592612308.651872,
@@ -33,8 +54,15 @@
         "nasze-kino.eu": {
             "included_at_epoch": 1592092926.625054,
             "included_at_iso": "2020-06-14T00:02:06.625054",
-            "last_retested_at_epoch": 1594080981.926132,
-            "last_retested_at_iso": "2020-07-07T00:16:21.926132",
+            "last_retested_at_epoch": 1594203704.177361,
+            "last_retested_at_iso": "2020-07-08T10:21:44.177361",
+            "status": "INACTIVE"
+        },
+        "poid.eu": {
+            "included_at_epoch": 1594203681.439242,
+            "included_at_iso": "2020-07-08T10:21:21.439242",
+            "last_retested_at_epoch": 1594203681.439242,
+            "last_retested_at_iso": "2020-07-08T10:21:21.439242",
             "status": "INACTIVE"
         },
         "stypendia.sejmik.kielce.pl": {
@@ -54,8 +82,8 @@
         "wifiki.eu": {
             "included_at_epoch": 1592092903.198092,
             "included_at_iso": "2020-06-14T00:01:43.198092",
-            "last_retested_at_epoch": 1594080958.16676,
-            "last_retested_at_iso": "2020-07-07T00:15:58.166760",
+            "last_retested_at_epoch": 1594203681.724817,
+            "last_retested_at_iso": "2020-07-08T10:21:21.724817",
             "status": "INACTIVE"
         },
         "wilga-bus.eu": {
