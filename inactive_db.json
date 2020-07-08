@@ -19,8 +19,8 @@
         "cmp.*.pl": {
             "included_at_epoch": 1593217501.884809,
             "included_at_iso": "2020-06-27T00:25:01.884809",
-            "last_retested_at_epoch": 1594081748.530977,
-            "last_retested_at_iso": "2020-07-07T00:29:08.530977",
+            "last_retested_at_epoch": 1594205443.070583,
+            "last_retested_at_iso": "2020-07-08T10:50:43.070583",
             "status": "INVALID"
         },
         "e-podlaskie.eu": {
@@ -68,15 +68,15 @@
         "stypendia.sejmik.kielce.pl": {
             "included_at_epoch": 1593217494.972304,
             "included_at_iso": "2020-06-27T00:24:54.972304",
-            "last_retested_at_epoch": 1594081741.753679,
-            "last_retested_at_iso": "2020-07-07T00:29:01.753679",
+            "last_retested_at_epoch": 1594205436.064686,
+            "last_retested_at_iso": "2020-07-08T10:50:36.064686",
             "status": "INACTIVE"
         },
         "testujemy.biedronka.pl": {
             "included_at_epoch": 1593217496.416173,
             "included_at_iso": "2020-06-27T00:24:56.416173",
-            "last_retested_at_epoch": 1594081743.0714,
-            "last_retested_at_iso": "2020-07-07T00:29:03.071400",
+            "last_retested_at_epoch": 1594205437.40754,
+            "last_retested_at_iso": "2020-07-08T10:50:37.407540",
             "status": "INACTIVE"
         },
         "wifiki.eu": {
