@@ -2300,8 +2300,8 @@
         "state": "future"
     },
     "command.pl": {
-        "epoch": 1594252800.0,
-        "expiration_date": "09-jul-2020",
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
         "state": "future"
     },
     "confero.pl": {
@@ -2680,8 +2680,8 @@
         "state": "future"
     },
     "defence24.com": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "defra.pl": {
@@ -4275,8 +4275,8 @@
         "state": "future"
     },
     "fantastyka.pl": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
         "state": "future"
     },
     "farbykabe.pl": {
@@ -4520,8 +4520,8 @@
         "state": "future"
     },
     "fly-sky.pl": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "fly.pl": {
@@ -4940,9 +4940,9 @@
         "state": "future"
     },
     "gazetalokalna.com": {
-        "epoch": 1594166400.0,
-        "expiration_date": "08-jul-2020",
-        "state": "past"
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
+        "state": "future"
     },
     "gazetapraca.pl": {
         "epoch": 1604793600.0,
@@ -5167,7 +5167,7 @@
     "global-rent-a-car.com": {
         "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "glogow-info.pl": {
         "epoch": 1605744000.0,
@@ -5845,8 +5845,8 @@
         "state": "future"
     },
     "housebrand.com": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "hp.com": {
@@ -7350,8 +7350,8 @@
         "state": "future"
     },
     "krzysztonjan.com": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "krzyzowka.net": {
@@ -11130,8 +11130,8 @@
         "state": "future"
     },
     "podemski.info": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "podhale-sport.pl": {
@@ -11470,8 +11470,8 @@
         "state": "future"
     },
     "post-it.pl": {
-        "epoch": 1594252800.0,
-        "expiration_date": "09-jul-2020",
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
         "state": "future"
     },
     "postronienatury.pl": {
@@ -12630,8 +12630,8 @@
         "state": "future"
     },
     "rysunek.edu.pl": {
-        "epoch": 1594252800.0,
-        "expiration_date": "09-jul-2020",
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
         "state": "future"
     },
     "rzemioslo.org": {
