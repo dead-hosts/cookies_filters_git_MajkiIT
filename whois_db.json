@@ -9845,8 +9845,8 @@
         "state": "future"
     },
     "nivea.pl": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
         "state": "future"
     },
     "nizanskie.info": {
@@ -12835,8 +12835,8 @@
         "state": "future"
     },
     "seans24.pl": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
         "state": "future"
     },
     "secowarwick.com": {
@@ -13162,6 +13162,11 @@
     "skk.com.pl": {
         "epoch": 1609372800.0,
         "expiration_date": "31-dec-2020",
+        "state": "future"
+    },
+    "skladaniekomputera.pl": {
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
         "state": "future"
     },
     "sklep-bmw.pl": {
@@ -13715,8 +13720,8 @@
         "state": "future"
     },
     "starcom-ntt.com.pl": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
         "state": "future"
     },
     "starecegly.com": {
@@ -14379,6 +14384,11 @@
         "expiration_date": "13-dec-2021",
         "state": "future"
     },
+    "telemedi.co": {
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
+        "state": "future"
+    },
     "telesystem-world.com": {
         "epoch": 1603843200.0,
         "expiration_date": "28-oct-2020",
@@ -14690,9 +14700,9 @@
         "state": "future"
     },
     "transatlantyk.org": {
-        "epoch": 1594252800.0,
-        "expiration_date": "09-jul-2020",
-        "state": "past"
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
+        "state": "future"
     },
     "transfergo.com": {
         "epoch": 1817078400.0,
@@ -15570,8 +15580,8 @@
         "state": "future"
     },
     "wgrane.pl": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
         "state": "future"
     },
     "whatsapp.com": {
