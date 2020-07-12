@@ -75,8 +75,8 @@
         "state": "future"
     },
     "4hifi.pl": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
         "state": "future"
     },
     "4ip.pl": {
@@ -2825,8 +2825,8 @@
         "state": "future"
     },
     "dieta.pl": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
         "state": "future"
     },
     "dietlux.pl": {
@@ -3160,8 +3160,8 @@
         "state": "future"
     },
     "drukowanie.net": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
         "state": "future"
     },
     "drumshop.pl": {
@@ -4114,6 +4114,11 @@
         "expiration_date": "30-apr-2021",
         "state": "future"
     },
+    "evai.pl": {
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
+        "state": "future"
+    },
     "everhome.pl": {
         "epoch": 1603929600.0,
         "expiration_date": "29-oct-2020",
@@ -4799,6 +4804,11 @@
         "expiration_date": "12-mar-2021",
         "state": "future"
     },
+    "furnitex.pl": {
+        "epoch": 1626566400.0,
+        "expiration_date": "18-jul-2021",
+        "state": "future"
+    },
     "futu.pl": {
         "epoch": 1619308800.0,
         "expiration_date": "25-apr-2021",
@@ -5165,9 +5175,9 @@
         "state": "future"
     },
     "global-rent-a-car.com": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
-        "state": "past"
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
+        "state": "future"
     },
     "glogow-info.pl": {
         "epoch": 1605744000.0,
@@ -6680,8 +6690,8 @@
         "state": "future"
     },
     "junak.com.pl": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
         "state": "future"
     },
     "junkers.pl": {
@@ -6760,8 +6770,8 @@
         "state": "future"
     },
     "kalendarzrolnikow.pl": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
         "state": "future"
     },
     "kalendarzswiat.pl": {
@@ -6905,8 +6915,8 @@
         "state": "future"
     },
     "kiddabadam.com": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
         "state": "future"
     },
     "kiep.pl": {
@@ -7567,6 +7577,11 @@
     "languagetool.org": {
         "epoch": 1606003200.0,
         "expiration_date": "22-nov-2020",
+        "state": "future"
+    },
+    "lanko.pl": {
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
         "state": "future"
     },
     "lantech.com.pl": {
@@ -9039,6 +9054,11 @@
         "expiration_date": "21-nov-2020",
         "state": "future"
     },
+    "mojeekino.pl": {
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
+        "state": "future"
+    },
     "mojegliwice.pl": {
         "epoch": 1605916800.0,
         "expiration_date": "21-nov-2020",
@@ -9360,8 +9380,8 @@
         "state": "future"
     },
     "mustasz.com": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
         "state": "future"
     },
     "muszkieter.pl": {
@@ -10120,8 +10140,8 @@
         "state": "future"
     },
     "offsklep.pl": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
+        "epoch": 1597017600.0,
+        "expiration_date": "10-aug-2020",
         "state": "future"
     },
     "ofix.pl": {
@@ -10130,8 +10150,8 @@
         "state": "future"
     },
     "ogloszenia-nieruchomosci.info": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
         "state": "future"
     },
     "ogloszeniachojnice.com": {
@@ -15575,8 +15595,8 @@
         "state": "future"
     },
     "wiara.pl": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
         "state": "future"
     },
     "wici.info": {
@@ -15825,8 +15845,8 @@
         "state": "future"
     },
     "wpolsce.pl": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
         "state": "future"
     },
     "wringu.net": {
@@ -16495,8 +16515,8 @@
         "state": "future"
     },
     "zpleszewa.pl": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
         "state": "future"
     },
     "zrzutka.pl": {
@@ -16535,8 +16555,8 @@
         "state": "future"
     },
     "zwielkopolski24.pl": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
         "state": "future"
     },
     "zwolen.pl": {
