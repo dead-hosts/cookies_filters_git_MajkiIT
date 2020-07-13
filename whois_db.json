@@ -2487,7 +2487,7 @@
     "czarnkow.info": {
         "epoch": 1594598400.0,
         "expiration_date": "13-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "czarno-biale.pl": {
         "epoch": 1602720000.0,
@@ -6530,8 +6530,8 @@
         "state": "future"
     },
     "japierpapier.pl": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
         "state": "future"
     },
     "japrzedsiebiorca.biz": {
@@ -7065,8 +7065,8 @@
         "state": "future"
     },
     "kolorowychsnow.pl": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
         "state": "future"
     },
     "kolorowyswiat.org": {
@@ -8205,8 +8205,8 @@
         "state": "future"
     },
     "majsterplus.com": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
         "state": "future"
     },
     "makoblog.com": {
