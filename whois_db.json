@@ -7345,8 +7345,8 @@
         "state": "future"
     },
     "krwinka.org": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
         "state": "future"
     },
     "kryminalnapolska.pl": {
@@ -9042,6 +9042,11 @@
     "mojawww.com": {
         "epoch": 1678924800.0,
         "expiration_date": "16-mar-2023",
+        "state": "future"
+    },
+    "mojbank.pl": {
+        "epoch": 1595289600.0,
+        "expiration_date": "21-jul-2020",
         "state": "future"
     },
     "mojbytom.pl": {
@@ -10905,8 +10910,8 @@
         "state": "future"
     },
     "piekaryslaskie.com.pl": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
         "state": "future"
     },
     "piekielni.pl": {
@@ -13060,8 +13065,8 @@
         "state": "future"
     },
     "siemianowice.net.pl": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
         "state": "future"
     },
     "siemianowice.pl": {
@@ -15420,8 +15425,8 @@
         "state": "future"
     },
     "wars.pl": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
         "state": "future"
     },
     "warsztat.pl": {
