@@ -730,8 +730,8 @@
         "state": "future"
     },
     "archiwa.gov.pl": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "areatour.pl": {
@@ -860,8 +860,8 @@
         "state": "future"
     },
     "atrakcyjny-kredyt.pl": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
         "state": "future"
     },
     "atramentowka.com": {
@@ -2485,9 +2485,9 @@
         "state": "future"
     },
     "czarnkow.info": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
-        "state": "past"
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
+        "state": "future"
     },
     "czarno-biale.pl": {
         "epoch": 1602720000.0,
@@ -3600,8 +3600,8 @@
         "state": "future"
     },
     "ekobud.com.pl": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
         "state": "future"
     },
     "ekocell.pl": {
@@ -5230,8 +5230,8 @@
         "state": "future"
     },
     "gminalimanowa.pl": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
         "state": "future"
     },
     "gmsystem.pl": {
@@ -9025,8 +9025,8 @@
         "state": "future"
     },
     "mojaolesnica.pl": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "mojapogoda.com": {
@@ -9860,8 +9860,8 @@
         "state": "future"
     },
     "nj24.pl": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "no-ip.pl": {
@@ -9902,7 +9902,7 @@
     "nomoreransom.org": {
         "epoch": 1594684800.0,
         "expiration_date": "14-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "nonsa.pl": {
         "epoch": 1614470400.0,
@@ -10625,8 +10625,8 @@
         "state": "future"
     },
     "pantuniestal.com": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
+        "epoch": 1689379200.0,
+        "expiration_date": "15-jul-2023",
         "state": "future"
     },
     "pap.pl": {
@@ -13690,8 +13690,8 @@
         "state": "future"
     },
     "stalmielec.com": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
         "state": "future"
     },
     "stalowemiasto.pl": {
@@ -13990,8 +13990,8 @@
         "state": "future"
     },
     "swiatkoralikow2.pl": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "swiatnauki.pl": {
