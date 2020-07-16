@@ -1165,8 +1165,8 @@
         "state": "future"
     },
     "beautyart.pl": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "bebio.pl": {
@@ -4965,8 +4965,8 @@
         "state": "future"
     },
     "gazetkipromocyjne.net": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "gazetkowo.pl": {
@@ -6890,8 +6890,8 @@
         "state": "future"
     },
     "kegel-aj.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "kerrisgroup.com": {
@@ -8717,7 +8717,7 @@
     "mg-pmm.com": {
         "epoch": 1594857600.0,
         "expiration_date": "16-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "mggp.com.pl": {
         "epoch": 1604361600.0,
@@ -9900,9 +9900,9 @@
         "state": "future"
     },
     "nomoreransom.org": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
-        "state": "past"
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
+        "state": "future"
     },
     "nonsa.pl": {
         "epoch": 1614470400.0,
@@ -16105,8 +16105,8 @@
         "state": "future"
     },
     "yagi.pl": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "yamo.pl": {
