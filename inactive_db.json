@@ -16,13 +16,6 @@
             "last_retested_at_iso": "2020-07-16T10:35:17.258522",
             "status": "INVALID"
         },
-        "jbzdy.eu": {
-            "included_at_epoch": 1592612308.651872,
-            "included_at_iso": "2020-06-20T00:18:28.651872",
-            "last_retested_at_epoch": 1593908929.479153,
-            "last_retested_at_iso": "2020-07-05T00:28:49.479153",
-            "status": "INACTIVE"
-        },
         "kurierkolejowy.eu": {
             "included_at_epoch": 1593649161.311926,
             "included_at_iso": "2020-07-02T00:19:21.311926",
@@ -33,15 +26,15 @@
         "nasze-kino.eu": {
             "included_at_epoch": 1594513396.939749,
             "included_at_iso": "2020-07-12T00:23:16.939749",
-            "last_retested_at_epoch": 1594894921.130098,
-            "last_retested_at_iso": "2020-07-16T10:22:01.130098",
+            "last_retested_at_epoch": 1595033758.833309,
+            "last_retested_at_iso": "2020-07-18T00:55:58.833309",
             "status": "INACTIVE"
         },
-        "radiomalbork.fm": {
-            "included_at_epoch": 1594894921.38818,
-            "included_at_iso": "2020-07-16T10:22:01.388180",
-            "last_retested_at_epoch": 1594894921.38818,
-            "last_retested_at_iso": "2020-07-16T10:22:01.388180",
+        "pl.plsn.eu": {
+            "included_at_epoch": 1595033739.281489,
+            "included_at_iso": "2020-07-18T00:55:39.281489",
+            "last_retested_at_epoch": 1595033739.281489,
+            "last_retested_at_iso": "2020-07-18T00:55:39.281489",
             "status": "INACTIVE"
         },
         "stypendia.sejmik.kielce.pl": {
@@ -61,15 +54,15 @@
         "urbanium.eu": {
             "included_at_epoch": 1594894892.304935,
             "included_at_iso": "2020-07-16T10:21:32.304935",
-            "last_retested_at_epoch": 1594894892.304935,
-            "last_retested_at_iso": "2020-07-16T10:21:32.304935",
+            "last_retested_at_epoch": 1595033727.943149,
+            "last_retested_at_iso": "2020-07-18T00:55:27.943149",
             "status": "INACTIVE"
         },
         "wifiki.eu": {
             "included_at_epoch": 1594513374.2939,
             "included_at_iso": "2020-07-12T00:22:54.293900",
-            "last_retested_at_epoch": 1594894898.455664,
-            "last_retested_at_iso": "2020-07-16T10:21:38.455664",
+            "last_retested_at_epoch": 1595033734.462664,
+            "last_retested_at_iso": "2020-07-18T00:55:34.462664",
             "status": "INACTIVE"
         },
         "wilga-bus.eu": {
