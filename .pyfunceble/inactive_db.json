@@ -16,6 +16,13 @@
             "last_retested_at_iso": "2020-07-18T01:16:08.970067",
             "status": "INVALID"
         },
+        "gozdowo.eu": {
+            "included_at_epoch": 1595067707.442175,
+            "included_at_iso": "2020-07-18T10:21:47.442175",
+            "last_retested_at_epoch": 1595067707.442175,
+            "last_retested_at_iso": "2020-07-18T10:21:47.442175",
+            "status": "INACTIVE"
+        },
         "kurierkolejowy.eu": {
             "included_at_epoch": 1593649161.311926,
             "included_at_iso": "2020-07-02T00:19:21.311926",
