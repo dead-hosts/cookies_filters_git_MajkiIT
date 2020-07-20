@@ -615,8 +615,8 @@
         "state": "future"
     },
     "answear.com": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
         "state": "future"
     },
     "anton-paar.com": {
@@ -1420,8 +1420,8 @@
         "state": "future"
     },
     "bispol.pl": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
         "state": "future"
     },
     "bisset.pl": {
@@ -2195,8 +2195,8 @@
         "state": "future"
     },
     "citymeble.com": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1689811200.0,
+        "expiration_date": "20-jul-2023",
         "state": "future"
     },
     "civitas.edu.pl": {
@@ -3855,8 +3855,8 @@
         "state": "future"
     },
     "engie-services.pl": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
         "state": "future"
     },
     "enjoyuk.pl": {
@@ -4250,8 +4250,8 @@
         "state": "future"
     },
     "faktykaliskie.pl": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1658275200.0,
+        "expiration_date": "20-jul-2022",
         "state": "future"
     },
     "famemma.tv": {
@@ -4665,8 +4665,8 @@
         "state": "future"
     },
     "forumtransportu.pl": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
         "state": "future"
     },
     "fostertravel.pl": {
@@ -4865,8 +4865,8 @@
         "state": "future"
     },
     "gameplay.pl": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
         "state": "future"
     },
     "gamerhash.com": {
@@ -5505,8 +5505,8 @@
         "state": "future"
     },
     "grupaeurocash.pl": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
         "state": "future"
     },
     "grupakety.com": {
@@ -5530,8 +5530,8 @@
         "state": "future"
     },
     "gry-online.pl": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
         "state": "future"
     },
     "gry.pl": {
@@ -5622,6 +5622,11 @@
     "hapipozyczki.pl": {
         "epoch": 1612656000.0,
         "expiration_date": "07-feb-2021",
+        "state": "future"
+    },
+    "happytime.com.pl": {
+        "epoch": 1728864000.0,
+        "expiration_date": "14-oct-2024",
         "state": "future"
     },
     "harmonia-masaz.pl": {
@@ -6030,8 +6035,8 @@
         "state": "future"
     },
     "ikrakow.info": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
         "state": "future"
     },
     "ilewazy.pl": {
@@ -8020,8 +8025,8 @@
         "state": "future"
     },
     "lowiczanin.info": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
         "state": "future"
     },
     "lpwiksa.pl": {
@@ -9230,8 +9235,8 @@
         "state": "future"
     },
     "motonotes.pl": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1658275200.0,
+        "expiration_date": "20-jul-2022",
         "state": "future"
     },
     "motorbiker.pl": {
@@ -9380,8 +9385,8 @@
         "state": "future"
     },
     "musicexpress.pl": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
         "state": "future"
     },
     "mustasz.com": {
@@ -11805,8 +11810,8 @@
         "state": "future"
     },
     "proveg.com": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
         "state": "future"
     },
     "prowly.com": {
