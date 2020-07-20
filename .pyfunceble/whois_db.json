@@ -2969,6 +2969,11 @@
         "expiration_date": "13-nov-2020",
         "state": "future"
     },
+    "doleasingu.com": {
+        "epoch": 1618617600.0,
+        "expiration_date": "17-apr-2021",
+        "state": "future"
+    },
     "dollarro.com": {
         "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
@@ -4822,6 +4827,11 @@
     "fzz.pl": {
         "epoch": 1614297600.0,
         "expiration_date": "26-feb-2021",
+        "state": "future"
+    },
+    "gadu-gadu.pl": {
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
         "state": "future"
     },
     "gadzetomania.pl": {
@@ -14350,8 +14360,8 @@
         "state": "future"
     },
     "techpedia.pl": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
         "state": "future"
     },
     "techtradeshow.pl": {
@@ -15892,6 +15902,11 @@
     "wrota-swietokrzyskie.pl": {
         "epoch": 1619395200.0,
         "expiration_date": "26-apr-2021",
+        "state": "future"
+    },
+    "wrozbyonline.pl": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
         "state": "future"
     },
     "wscars.pl": {
