@@ -26,8 +26,8 @@
         "nasze-kino.eu": {
             "included_at_epoch": 1594513396.939749,
             "included_at_iso": "2020-07-12T00:23:16.939749",
-            "last_retested_at_epoch": 1595283495.222782,
-            "last_retested_at_iso": "2020-07-20T22:18:15.222782",
+            "last_retested_at_epoch": 1595378109.602519,
+            "last_retested_at_iso": "2020-07-22T00:35:09.602519",
             "status": "INACTIVE"
         },
         "stypendia.sejmik.kielce.pl": {
@@ -47,15 +47,15 @@
         "urbanium.eu": {
             "included_at_epoch": 1594894892.304935,
             "included_at_iso": "2020-07-16T10:21:32.304935",
-            "last_retested_at_epoch": 1595283464.253127,
-            "last_retested_at_iso": "2020-07-20T22:17:44.253127",
+            "last_retested_at_epoch": 1595378079.296805,
+            "last_retested_at_iso": "2020-07-22T00:34:39.296805",
             "status": "INACTIVE"
         },
         "wifiki.eu": {
             "included_at_epoch": 1594513374.2939,
             "included_at_iso": "2020-07-12T00:22:54.293900",
-            "last_retested_at_epoch": 1595283470.855309,
-            "last_retested_at_iso": "2020-07-20T22:17:50.855309",
+            "last_retested_at_epoch": 1595378085.590591,
+            "last_retested_at_iso": "2020-07-22T00:34:45.590591",
             "status": "INACTIVE"
         },
         "wilga-bus.eu": {
