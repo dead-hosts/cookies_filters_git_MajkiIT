@@ -8610,8 +8610,8 @@
         "state": "future"
     },
     "memoinfo.pl": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
         "state": "future"
     },
     "memorialhenrykapuzonia.pl": {
@@ -9060,8 +9060,8 @@
         "state": "future"
     },
     "mojbank.pl": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
         "state": "future"
     },
     "mojbytom.pl": {
@@ -9085,8 +9085,8 @@
         "state": "future"
     },
     "mojehobby.pl": {
-        "epoch": 1595376000.0,
-        "expiration_date": "22-jul-2020",
+        "epoch": 1753142400.0,
+        "expiration_date": "22-jul-2025",
         "state": "future"
     },
     "mojeinstalacje.com": {
@@ -11300,8 +11300,8 @@
         "state": "future"
     },
     "polona.pl": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
         "state": "future"
     },
     "polonuspartner.pl": {
@@ -13302,7 +13302,7 @@
     "slampa.pl": {
         "epoch": 1595376000.0,
         "expiration_date": "22-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "slaskibiznes.pl": {
         "epoch": 1615593600.0,
@@ -15397,7 +15397,7 @@
     "wago.com": {
         "epoch": 1595376000.0,
         "expiration_date": "22-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "wakacje.pl": {
         "epoch": 1624320000.0,
@@ -16110,8 +16110,8 @@
         "state": "future"
     },
     "xiaomi.com": {
-        "epoch": 1595376000.0,
-        "expiration_date": "22-jul-2020",
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
         "state": "future"
     },
     "xtb.com": {
