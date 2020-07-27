@@ -12,9 +12,16 @@
         "ad.ipolska.pl": {
             "included_at_epoch": 1595551274.687659,
             "included_at_iso": "2020-07-24T00:41:14.687659",
-            "last_retested_at_epoch": 1595551274.687659,
-            "last_retested_at_iso": "2020-07-24T00:41:14.687659",
+            "last_retested_at_epoch": 1595810265.211255,
+            "last_retested_at_iso": "2020-07-27T00:37:45.211255",
             "status": "INACTIVE"
+        },
+        "cmp.*.pl": {
+            "included_at_epoch": 1595810265.490203,
+            "included_at_iso": "2020-07-27T00:37:45.490203",
+            "last_retested_at_epoch": 1595810265.490203,
+            "last_retested_at_iso": "2020-07-27T00:37:45.490203",
+            "status": "INVALID"
         },
         "kurierkolejowy.eu": {
             "included_at_epoch": 1593649161.311926,
@@ -35,6 +42,27 @@
             "included_at_iso": "2020-07-24T00:41:06.320161",
             "last_retested_at_epoch": 1595551266.320161,
             "last_retested_at_iso": "2020-07-24T00:41:06.320161",
+            "status": "INACTIVE"
+        },
+        "stypendia.sejmik.kielce.pl": {
+            "included_at_epoch": 1595810258.444706,
+            "included_at_iso": "2020-07-27T00:37:38.444706",
+            "last_retested_at_epoch": 1595810258.444706,
+            "last_retested_at_iso": "2020-07-27T00:37:38.444706",
+            "status": "INACTIVE"
+        },
+        "testujemy.biedronka.pl": {
+            "included_at_epoch": 1595810259.893205,
+            "included_at_iso": "2020-07-27T00:37:39.893205",
+            "last_retested_at_epoch": 1595810259.893205,
+            "last_retested_at_iso": "2020-07-27T00:37:39.893205",
+            "status": "INACTIVE"
+        },
+        "tluszczak.pl": {
+            "included_at_epoch": 1595810241.12259,
+            "included_at_iso": "2020-07-27T00:37:21.122590",
+            "last_retested_at_epoch": 1595810241.12259,
+            "last_retested_at_iso": "2020-07-27T00:37:21.122590",
             "status": "INACTIVE"
         },
         "urbanium.eu": {

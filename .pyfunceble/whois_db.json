@@ -9335,8 +9335,8 @@
         "state": "future"
     },
     "mtm-info.pl": {
-        "epoch": 1595635200.0,
-        "expiration_date": "25-jul-2020",
+        "epoch": 1658707200.0,
+        "expiration_date": "25-jul-2022",
         "state": "future"
     },
     "mtp.pl": {
@@ -10805,8 +10805,8 @@
         "state": "future"
     },
     "peb.pl": {
-        "epoch": 1595635200.0,
-        "expiration_date": "25-jul-2020",
+        "epoch": 1656720000.0,
+        "expiration_date": "02-jul-2022",
         "state": "future"
     },
     "pebx.pl": {
@@ -13655,8 +13655,8 @@
         "state": "future"
     },
     "spotter.pl": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "sprawdzhistorie.pl": {
@@ -15560,8 +15560,8 @@
         "state": "future"
     },
     "wegetarianie.pl": {
-        "epoch": 1595808000.0,
-        "expiration_date": "27-jul-2020",
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
         "state": "future"
     },
     "wejherowo24.info": {
@@ -15670,8 +15670,8 @@
         "state": "future"
     },
     "wien.info": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "wiescirolnicze.pl": {
@@ -16040,8 +16040,8 @@
         "state": "future"
     },
     "wykopoczta.pl": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "wymiana-pieca.pl": {
