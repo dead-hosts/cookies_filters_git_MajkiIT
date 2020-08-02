@@ -395,8 +395,8 @@
         "state": "future"
     },
     "albatrosbus.pl": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "aldi.pl": {
@@ -1180,9 +1180,9 @@
         "state": "future"
     },
     "bechtle.com": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
-        "state": "past"
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
+        "state": "future"
     },
     "bee.pl": {
         "epoch": 1605916800.0,
@@ -2835,8 +2835,8 @@
         "state": "future"
     },
     "digitalhill.pl": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
         "state": "future"
     },
     "digitalvirgo.pl": {
@@ -3077,7 +3077,7 @@
     "doradztwoprawne.org": {
         "epoch": 1596240000.0,
         "expiration_date": "01-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "dorastajznami.org": {
         "epoch": 1617408000.0,
@@ -7005,8 +7005,8 @@
         "state": "future"
     },
     "knockoutprod.net": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
         "state": "future"
     },
     "kobieceporady.pl": {
@@ -8730,8 +8730,8 @@
         "state": "future"
     },
     "metronic.com.pl": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "mg-pmm.com": {
@@ -9580,8 +9580,8 @@
         "state": "future"
     },
     "narzedzia.cz": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
         "state": "future"
     },
     "narzedziowy.pl": {
@@ -11060,8 +11060,8 @@
         "state": "future"
     },
     "pkw.gov.pl": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "pl.weber": {
@@ -11925,8 +11925,8 @@
         "state": "future"
     },
     "ptbs.pl": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "ptep.pl": {
@@ -12615,8 +12615,8 @@
         "state": "future"
     },
     "roztocze.net": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "rozwojowiec.pl": {
@@ -12735,8 +12735,8 @@
         "state": "future"
     },
     "salzburg.info": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "samnaprawiam.com": {
@@ -13400,8 +13400,8 @@
         "state": "future"
     },
     "smswietochlowice.pl": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "smwarmia.pl": {
