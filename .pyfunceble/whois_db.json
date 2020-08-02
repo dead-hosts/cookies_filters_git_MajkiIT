@@ -9510,8 +9510,8 @@
         "state": "future"
     },
     "mzdik.pl": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "mzkzg.org": {
@@ -12255,8 +12255,8 @@
         "state": "future"
     },
     "ramboll.pl": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "randkiprzezinternet.pl": {
@@ -14015,8 +14015,8 @@
         "state": "future"
     },
     "swiatnauki.pl": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "swiatopon.info": {
@@ -14302,7 +14302,7 @@
     "tatuaze-wzory.com": {
         "epoch": 1596240000.0,
         "expiration_date": "01-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "tatuum.com": {
         "epoch": 1640563200.0,
@@ -15775,8 +15775,8 @@
         "state": "future"
     },
     "wiz.pl": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "wizaz.pl": {
