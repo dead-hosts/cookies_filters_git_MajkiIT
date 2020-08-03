@@ -8479,6 +8479,11 @@
         "expiration_date": "07-jun-2021",
         "state": "future"
     },
+    "mbp.szczecin.pl": {
+        "epoch": 1623542400.0,
+        "expiration_date": "13-jun-2021",
+        "state": "future"
+    },
     "mc-2.pl": {
         "epoch": 1618876800.0,
         "expiration_date": "20-apr-2021",
@@ -9000,8 +9005,8 @@
         "state": "future"
     },
     "mobilne-miasto.org": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
         "state": "future"
     },
     "mocnopomocni.pl": {
@@ -10925,8 +10930,8 @@
         "state": "future"
     },
     "piekarniaanka.pl": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
         "state": "future"
     },
     "piekarniabialogon.pl": {
@@ -14310,9 +14315,9 @@
         "state": "future"
     },
     "tatuaze-wzory.com": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
-        "state": "past"
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
+        "state": "future"
     },
     "tatuum.com": {
         "epoch": 1640563200.0,
