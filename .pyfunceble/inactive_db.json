@@ -12,8 +12,8 @@
         "cmp.*.pl": {
             "included_at_epoch": 1595810265.490203,
             "included_at_iso": "2020-07-27T00:37:45.490203",
-            "last_retested_at_epoch": 1596588225.351407,
-            "last_retested_at_iso": "2020-08-05T00:43:45.351407",
+            "last_retested_at_epoch": 1596713443.991388,
+            "last_retested_at_iso": "2020-08-06T11:30:43.991388",
             "status": "INVALID"
         },
         "nasze-kino.eu": {
@@ -33,15 +33,15 @@
         "stypendia.sejmik.kielce.pl": {
             "included_at_epoch": 1595810258.444706,
             "included_at_iso": "2020-07-27T00:37:38.444706",
-            "last_retested_at_epoch": 1596588218.162333,
-            "last_retested_at_iso": "2020-08-05T00:43:38.162333",
+            "last_retested_at_epoch": 1596713437.001707,
+            "last_retested_at_iso": "2020-08-06T11:30:37.001707",
             "status": "INACTIVE"
         },
         "testujemy.biedronka.pl": {
             "included_at_epoch": 1595810259.893205,
             "included_at_iso": "2020-07-27T00:37:39.893205",
-            "last_retested_at_epoch": 1596588219.620139,
-            "last_retested_at_iso": "2020-08-05T00:43:39.620139",
+            "last_retested_at_epoch": 1596713438.413196,
+            "last_retested_at_iso": "2020-08-06T11:30:38.413196",
             "status": "INACTIVE"
         },
         "urbanium.eu": {
@@ -51,18 +51,18 @@
             "last_retested_at_iso": "2020-08-06T10:35:17.447343",
             "status": "INACTIVE"
         },
+        "webcover.eu": {
+            "included_at_epoch": 1596713441.035077,
+            "included_at_iso": "2020-08-06T11:30:41.035077",
+            "last_retested_at_epoch": 1596713441.035077,
+            "last_retested_at_iso": "2020-08-06T11:30:41.035077",
+            "status": "INACTIVE"
+        },
         "wifiki.eu": {
             "included_at_epoch": 1594513374.2939,
             "included_at_iso": "2020-07-12T00:22:54.293900",
             "last_retested_at_epoch": 1596710123.999881,
             "last_retested_at_iso": "2020-08-06T10:35:23.999881",
-            "status": "INACTIVE"
-        },
-        "www.ipkobiznes.pl": {
-            "included_at_epoch": 1596588223.585796,
-            "included_at_iso": "2020-08-05T00:43:43.585796",
-            "last_retested_at_epoch": 1596588223.585796,
-            "last_retested_at_iso": "2020-08-05T00:43:43.585796",
             "status": "INACTIVE"
         }
     }
