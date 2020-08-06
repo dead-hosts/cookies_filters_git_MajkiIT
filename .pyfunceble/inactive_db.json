@@ -19,8 +19,8 @@
         "nasze-kino.eu": {
             "included_at_epoch": 1594513396.939749,
             "included_at_iso": "2020-07-12T00:23:16.939749",
-            "last_retested_at_epoch": 1596587365.982218,
-            "last_retested_at_iso": "2020-08-05T00:29:25.982218",
+            "last_retested_at_epoch": 1596710148.215054,
+            "last_retested_at_iso": "2020-08-06T10:35:48.215054",
             "status": "INACTIVE"
         },
         "slampa.pl": {
@@ -47,15 +47,15 @@
         "urbanium.eu": {
             "included_at_epoch": 1594894892.304935,
             "included_at_iso": "2020-07-16T10:21:32.304935",
-            "last_retested_at_epoch": 1596587335.538208,
-            "last_retested_at_iso": "2020-08-05T00:28:55.538208",
+            "last_retested_at_epoch": 1596710117.447343,
+            "last_retested_at_iso": "2020-08-06T10:35:17.447343",
             "status": "INACTIVE"
         },
         "wifiki.eu": {
             "included_at_epoch": 1594513374.2939,
             "included_at_iso": "2020-07-12T00:22:54.293900",
-            "last_retested_at_epoch": 1596587342.009186,
-            "last_retested_at_iso": "2020-08-05T00:29:02.009186",
+            "last_retested_at_epoch": 1596710123.999881,
+            "last_retested_at_iso": "2020-08-06T10:35:23.999881",
             "status": "INACTIVE"
         },
         "www.ipkobiznes.pl": {
