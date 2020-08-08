@@ -19,8 +19,8 @@
         "nasze-kino.eu": {
             "included_at_epoch": 1594513396.939749,
             "included_at_iso": "2020-07-12T00:23:16.939749",
-            "last_retested_at_epoch": 1596710148.215054,
-            "last_retested_at_iso": "2020-08-06T10:35:48.215054",
+            "last_retested_at_epoch": 1596846748.194736,
+            "last_retested_at_iso": "2020-08-08T00:32:28.194736",
             "status": "INACTIVE"
         },
         "slampa.pl": {
@@ -47,8 +47,8 @@
         "urbanium.eu": {
             "included_at_epoch": 1594894892.304935,
             "included_at_iso": "2020-07-16T10:21:32.304935",
-            "last_retested_at_epoch": 1596710117.447343,
-            "last_retested_at_iso": "2020-08-06T10:35:17.447343",
+            "last_retested_at_epoch": 1596846717.412534,
+            "last_retested_at_iso": "2020-08-08T00:31:57.412534",
             "status": "INACTIVE"
         },
         "webcover.eu": {
@@ -61,8 +61,8 @@
         "wifiki.eu": {
             "included_at_epoch": 1594513374.2939,
             "included_at_iso": "2020-07-12T00:22:54.293900",
-            "last_retested_at_epoch": 1596710123.999881,
-            "last_retested_at_iso": "2020-08-06T10:35:23.999881",
+            "last_retested_at_epoch": 1596846724.038818,
+            "last_retested_at_iso": "2020-08-08T00:32:04.038818",
             "status": "INACTIVE"
         }
     }

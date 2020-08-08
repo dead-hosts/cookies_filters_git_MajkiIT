@@ -537,7 +537,7 @@
     "altron.pl": {
         "epoch": 1596844800.0,
         "expiration_date": "08-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "alufelgi.sklep.pl": {
         "epoch": 1607299200.0,
@@ -2820,8 +2820,8 @@
         "state": "future"
     },
     "diecezjaplocka.pl": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
         "state": "future"
     },
     "dieta.pl": {
@@ -4405,8 +4405,8 @@
         "state": "future"
     },
     "filman.cc": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
         "state": "future"
     },
     "filmboxlive.com": {
@@ -4690,8 +4690,8 @@
         "state": "future"
     },
     "fotka.com": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
         "state": "future"
     },
     "foto4u.pl": {
@@ -5427,7 +5427,7 @@
     "gpcodziennie.pl": {
         "epoch": 1596844800.0,
         "expiration_date": "08-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "gplshop.pl": {
         "epoch": 1618876800.0,
@@ -6725,8 +6725,8 @@
         "state": "future"
     },
     "jurajska.pl": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1659830400.0,
+        "expiration_date": "07-aug-2022",
         "state": "future"
     },
     "justjoin.it": {
@@ -7295,8 +7295,8 @@
         "state": "future"
     },
     "krasnik-okna.pl": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
         "state": "future"
     },
     "kredito24.pl": {
@@ -7700,8 +7700,8 @@
         "state": "future"
     },
     "leczeniekomorkamimacierzystymi.com": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
         "state": "future"
     },
     "leddo.pl": {
@@ -9645,8 +9645,8 @@
         "state": "future"
     },
     "naukaireligia.pl": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
         "state": "future"
     },
     "nazaruk.pl": {
@@ -10675,8 +10675,8 @@
         "state": "future"
     },
     "papercast.pl": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
         "state": "future"
     },
     "paralympic.org.pl": {
@@ -11050,8 +11050,8 @@
         "state": "future"
     },
     "pks-debica.pl": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
         "state": "future"
     },
     "pks-leszno.pl": {
@@ -11725,8 +11725,8 @@
         "state": "future"
     },
     "printexpress.pl": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
         "state": "future"
     },
     "prisonwars.pl": {
@@ -12070,8 +12070,8 @@
         "state": "future"
     },
     "quadralite.pl": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
         "state": "future"
     },
     "qualitylife.pl": {
@@ -13230,8 +13230,8 @@
         "state": "future"
     },
     "sklepbiegowy.com": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
         "state": "future"
     },
     "sklepdlalekarza.com": {
@@ -16620,8 +16620,8 @@
         "state": "future"
     },
     "zwolenpowiat.pl": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
         "state": "future"
     },
     "zwrotzalot.pl": {
