@@ -535,9 +535,9 @@
         "state": "future"
     },
     "altron.pl": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
-        "state": "past"
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
+        "state": "future"
     },
     "alufelgi.sklep.pl": {
         "epoch": 1607299200.0,
@@ -660,8 +660,8 @@
         "state": "future"
     },
     "apc.com": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "apdmarket.pl": {
@@ -1409,6 +1409,11 @@
         "expiration_date": "04-aug-2021",
         "state": "future"
     },
+    "bip.gov.pl": {
+        "epoch": 1611446400.0,
+        "expiration_date": "24-jan-2021",
+        "state": "future"
+    },
     "bip.org.pl": {
         "epoch": 1608163200.0,
         "expiration_date": "17-dec-2020",
@@ -1605,8 +1610,8 @@
         "state": "future"
     },
     "bonprix.pl": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
         "state": "future"
     },
     "booking.com": {
@@ -2047,7 +2052,7 @@
     "centrumwroclaw.pl": {
         "epoch": 1597017600.0,
         "expiration_date": "10-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "cenum.pl": {
         "epoch": 1615420800.0,
@@ -3290,8 +3295,8 @@
         "state": "future"
     },
     "e-chorzow.com": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
         "state": "future"
     },
     "e-drogeria.com": {
@@ -3500,8 +3505,8 @@
         "state": "future"
     },
     "echosonda.pl": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
         "state": "future"
     },
     "eco-driving.info": {
@@ -3860,8 +3865,8 @@
         "state": "future"
     },
     "eneva.pl": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
         "state": "future"
     },
     "engie-services.pl": {
@@ -5425,9 +5430,9 @@
         "state": "future"
     },
     "gpcodziennie.pl": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
-        "state": "past"
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
+        "state": "future"
     },
     "gplshop.pl": {
         "epoch": 1618876800.0,
@@ -6220,8 +6225,8 @@
         "state": "future"
     },
     "inijob.com": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "inksystem.pl": {
@@ -8190,8 +8195,8 @@
         "state": "future"
     },
     "madameedith.com": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "madreklama.com": {
@@ -10177,7 +10182,7 @@
     "offsklep.pl": {
         "epoch": 1597017600.0,
         "expiration_date": "10-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "ofix.pl": {
         "epoch": 1654819200.0,
@@ -11125,8 +11130,8 @@
         "state": "future"
     },
     "pmi24.info": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "pmw.net.pl": {
@@ -11135,8 +11140,8 @@
         "state": "future"
     },
     "pnt24.info": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "pob24.info": {
@@ -13564,6 +13569,11 @@
         "expiration_date": "03-oct-2020",
         "state": "future"
     },
+    "spacex.com.pl": {
+        "epoch": 1613692800.0,
+        "expiration_date": "19-feb-2021",
+        "state": "future"
+    },
     "spece.it": {
         "epoch": 1614902400.0,
         "expiration_date": "05-mar-2021",
@@ -14920,8 +14930,8 @@
         "state": "future"
     },
     "tuwodzislaw.pl": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
         "state": "future"
     },
     "tuz.pl": {
@@ -15272,6 +15282,11 @@
     "venus-beauty.com.pl": {
         "epoch": 1604620800.0,
         "expiration_date": "06-nov-2020",
+        "state": "future"
+    },
+    "victoriadom.pl": {
+        "epoch": 1685318400.0,
+        "expiration_date": "29-may-2023",
         "state": "future"
     },
     "videolan.org": {
@@ -16530,8 +16545,8 @@
         "state": "future"
     },
     "zoo.wroclaw.pl": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "zooexpress.pl": {
