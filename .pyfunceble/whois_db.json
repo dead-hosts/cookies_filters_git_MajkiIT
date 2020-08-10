@@ -9145,8 +9145,8 @@
         "state": "future"
     },
     "mondeoklubpolska.pl": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
         "state": "future"
     },
     "monedo.pl": {
@@ -9705,8 +9705,8 @@
         "state": "future"
     },
     "neo24.pl": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
         "state": "future"
     },
     "neobiznes.pl": {
@@ -10515,8 +10515,8 @@
         "state": "future"
     },
     "osm-sierpc.pl": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
         "state": "future"
     },
     "ospace.com.pl": {
@@ -14589,6 +14589,11 @@
         "expiration_date": "28-dec-2021",
         "state": "future"
     },
+    "tickets.pl": {
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
+        "state": "future"
+    },
     "tidal.com": {
         "epoch": 1749254400.0,
         "expiration_date": "07-jun-2025",
@@ -15545,8 +15550,8 @@
         "state": "future"
     },
     "webdev20.pl": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
         "state": "future"
     },
     "webelite.pl": {
