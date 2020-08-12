@@ -1545,8 +1545,8 @@
         "state": "future"
     },
     "bluecity.pl": {
-        "epoch": 1597190400.0,
-        "expiration_date": "12-aug-2020",
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
         "state": "future"
     },
     "bluestilo.com": {
@@ -1565,8 +1565,8 @@
         "state": "future"
     },
     "bobrowniki.tv": {
-        "epoch": 1597190400.0,
-        "expiration_date": "12-aug-2020",
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
         "state": "future"
     },
     "bobryk.pl": {
@@ -2050,9 +2050,9 @@
         "state": "future"
     },
     "centrumwroclaw.pl": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
-        "state": "past"
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
+        "state": "future"
     },
     "cenum.pl": {
         "epoch": 1615420800.0,
@@ -2080,8 +2080,8 @@
         "state": "future"
     },
     "chceauto.pl": {
-        "epoch": 1597190400.0,
-        "expiration_date": "12-aug-2020",
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
         "state": "future"
     },
     "chevan.pl": {
@@ -2565,8 +2565,8 @@
         "state": "future"
     },
     "dagma.pl": {
-        "epoch": 1597190400.0,
-        "expiration_date": "12-aug-2020",
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
         "state": "future"
     },
     "daiglob.pl": {
@@ -4115,8 +4115,8 @@
         "state": "future"
     },
     "eurotargetshow.pl": {
-        "epoch": 1597190400.0,
-        "expiration_date": "12-aug-2020",
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
         "state": "future"
     },
     "eurowizja.org": {
@@ -4912,7 +4912,7 @@
     "gardenexpress.pl": {
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "gardenoffood.com": {
         "epoch": 1626566400.0,
@@ -7595,8 +7595,8 @@
         "state": "future"
     },
     "lancerto.com": {
-        "epoch": 1597104000.0,
-        "expiration_date": "11-aug-2020",
+        "epoch": 1628640000.0,
+        "expiration_date": "11-aug-2021",
         "state": "future"
     },
     "lancia.pl": {
@@ -10180,9 +10180,9 @@
         "state": "future"
     },
     "offsklep.pl": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
-        "state": "past"
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
+        "state": "future"
     },
     "ofix.pl": {
         "epoch": 1654819200.0,
@@ -10547,7 +10547,7 @@
     "otabletach.pl": {
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "otodom.pl": {
         "epoch": 1615766400.0,
@@ -14220,8 +14220,8 @@
         "state": "future"
     },
     "szukajka.tv": {
-        "epoch": 1597190400.0,
-        "expiration_date": "12-aug-2020",
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
         "state": "future"
     },
     "szukarka.net": {
@@ -15500,8 +15500,8 @@
         "state": "future"
     },
     "warzywaiowoce.pl": {
-        "epoch": 1597190400.0,
-        "expiration_date": "12-aug-2020",
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
         "state": "future"
     },
     "waxclinic.pl": {
