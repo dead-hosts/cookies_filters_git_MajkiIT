@@ -19,8 +19,15 @@
         "nasze-kino.eu": {
             "included_at_epoch": 1597019740.006721,
             "included_at_iso": "2020-08-10T00:35:40.006721",
-            "last_retested_at_epoch": 1597192302.501391,
-            "last_retested_at_iso": "2020-08-12T00:31:42.501391",
+            "last_retested_at_epoch": 1597365209.718396,
+            "last_retested_at_iso": "2020-08-14T00:33:29.718396",
+            "status": "INACTIVE"
+        },
+        "polskaksiegarniainternetowa.eu": {
+            "included_at_epoch": 1597365205.031878,
+            "included_at_iso": "2020-08-14T00:33:25.031878",
+            "last_retested_at_epoch": 1597365205.031878,
+            "last_retested_at_iso": "2020-08-14T00:33:25.031878",
             "status": "INACTIVE"
         },
         "slampa.pl": {
@@ -45,17 +52,17 @@
             "status": "INACTIVE"
         },
         "urbanium.eu": {
-            "included_at_epoch": 1594894892.304935,
-            "included_at_iso": "2020-07-16T10:21:32.304935",
-            "last_retested_at_epoch": 1597192271.392814,
-            "last_retested_at_iso": "2020-08-12T00:31:11.392814",
+            "included_at_epoch": 1597365178.221623,
+            "included_at_iso": "2020-08-14T00:32:58.221623",
+            "last_retested_at_epoch": 1597365178.221623,
+            "last_retested_at_iso": "2020-08-14T00:32:58.221623",
             "status": "INACTIVE"
         },
         "wifiki.eu": {
             "included_at_epoch": 1597019715.719214,
             "included_at_iso": "2020-08-10T00:35:15.719214",
-            "last_retested_at_epoch": 1597192278.088016,
-            "last_retested_at_iso": "2020-08-12T00:31:18.088016",
+            "last_retested_at_epoch": 1597365184.951859,
+            "last_retested_at_iso": "2020-08-14T00:33:04.951859",
             "status": "INACTIVE"
         }
     }

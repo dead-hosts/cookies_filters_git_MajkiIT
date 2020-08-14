@@ -1475,8 +1475,8 @@
         "state": "future"
     },
     "biznesinfo.pl": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
         "state": "future"
     },
     "biznesistyl.pl": {
@@ -1695,8 +1695,8 @@
         "state": "future"
     },
     "brackiepils.pl": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
         "state": "future"
     },
     "brakestock.pl": {
@@ -3064,6 +3064,11 @@
         "expiration_date": "19-apr-2021",
         "state": "future"
     },
+    "donald.pl": {
+        "epoch": 1743724800.0,
+        "expiration_date": "04-apr-2025",
+        "state": "future"
+    },
     "doosanbabcock.com": {
         "epoch": 1699228800.0,
         "expiration_date": "06-nov-2023",
@@ -3715,8 +3720,8 @@
         "state": "future"
     },
     "elektroda.pl": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
         "state": "future"
     },
     "elektroinstalacje.info": {
@@ -4755,8 +4760,8 @@
         "state": "future"
     },
     "frezmar.pl": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
         "state": "future"
     },
     "frisco.pl": {
@@ -4910,9 +4915,9 @@
         "state": "future"
     },
     "gardenexpress.pl": {
-        "epoch": 1597190400.0,
-        "expiration_date": "12-aug-2020",
-        "state": "past"
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
+        "state": "future"
     },
     "gardenoffood.com": {
         "epoch": 1626566400.0,
@@ -5520,8 +5525,8 @@
         "state": "future"
     },
     "groupon.pl": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
         "state": "future"
     },
     "grupaazoty.com": {
@@ -6455,8 +6460,8 @@
         "state": "future"
     },
     "itvwisla.tv": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
         "state": "future"
     },
     "ivona.com": {
@@ -7220,8 +7225,8 @@
         "state": "future"
     },
     "korepetycje.edu.pl": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
         "state": "future"
     },
     "koscian.net": {
@@ -7450,8 +7455,8 @@
         "state": "future"
     },
     "kula.gov.pl": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
         "state": "future"
     },
     "kulki.info": {
@@ -7575,8 +7580,8 @@
         "state": "future"
     },
     "lampy24.net": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
         "state": "future"
     },
     "lampyilampki.pl": {
@@ -8620,8 +8625,8 @@
         "state": "future"
     },
     "megawrzuta.pl": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
         "state": "future"
     },
     "meloradio.pl": {
@@ -10545,9 +10550,9 @@
         "state": "future"
     },
     "otabletach.pl": {
-        "epoch": 1597190400.0,
-        "expiration_date": "12-aug-2020",
-        "state": "past"
+        "epoch": 1599782400.0,
+        "expiration_date": "11-sep-2020",
+        "state": "future"
     },
     "otodom.pl": {
         "epoch": 1615766400.0,
@@ -16310,8 +16315,8 @@
         "state": "future"
     },
     "zamow-myjnie.pl": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
         "state": "future"
     },
     "zapytaj-lekarza.pl": {
