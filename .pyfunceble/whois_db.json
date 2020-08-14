@@ -7985,8 +7985,8 @@
         "state": "future"
     },
     "lomzynska.com.pl": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
         "state": "future"
     },
     "londynek.net": {
@@ -8570,13 +8570,13 @@
         "state": "future"
     },
     "medpolonia.pl": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
         "state": "future"
     },
     "medpytania.pl": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
         "state": "future"
     },
     "medtronic.com": {
@@ -8600,8 +8600,8 @@
         "state": "future"
     },
     "mega-kino.pl": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
         "state": "future"
     },
     "megakoszulki.pl": {
@@ -8732,7 +8732,7 @@
     "meteovista.pl": {
         "epoch": 1597363200.0,
         "expiration_date": "14-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "metis.pl": {
         "epoch": 1606694400.0,
@@ -8995,8 +8995,8 @@
         "state": "future"
     },
     "mniamspinka.pl": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
         "state": "future"
     },
     "mobbingwpracy.com": {
@@ -11210,8 +11210,8 @@
         "state": "future"
     },
     "podlogiidrzwi.pl": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
         "state": "future"
     },
     "podrogach.pl": {
@@ -12425,8 +12425,8 @@
         "state": "future"
     },
     "renault.pl": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
         "state": "future"
     },
     "renaultjaworzno.pl": {
@@ -12487,7 +12487,7 @@
     "restauracjabiesiada.com": {
         "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "retromotorshow.pl": {
         "epoch": 1621900800.0,
@@ -13945,8 +13945,8 @@
         "state": "future"
     },
     "stukstuk.pl": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1599868800.0,
+        "expiration_date": "12-sep-2020",
         "state": "future"
     },
     "stylownik.com": {
@@ -15125,8 +15125,8 @@
         "state": "future"
     },
     "udemy.com": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
         "state": "future"
     },
     "ufs.pt": {
@@ -15302,6 +15302,11 @@
     "videolan.org": {
         "epoch": 1612310400.0,
         "expiration_date": "03-feb-2021",
+        "state": "future"
+    },
+    "viennahouse.com": {
+        "epoch": 1605657600.0,
+        "expiration_date": "18-nov-2020",
         "state": "future"
     },
     "vigo.com.pl": {
