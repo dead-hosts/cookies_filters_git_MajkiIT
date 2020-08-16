@@ -12,8 +12,8 @@
         "cmp.*.pl": {
             "included_at_epoch": 1595810265.490203,
             "included_at_iso": "2020-07-27T00:37:45.490203",
-            "last_retested_at_epoch": 1597366048.815255,
-            "last_retested_at_iso": "2020-08-14T00:47:28.815255",
+            "last_retested_at_epoch": 1597538829.729277,
+            "last_retested_at_iso": "2020-08-16T00:47:09.729277",
             "status": "INVALID"
         },
         "nasze-kino.eu": {
@@ -33,15 +33,15 @@
         "stypendia.sejmik.kielce.pl": {
             "included_at_epoch": 1595810258.444706,
             "included_at_iso": "2020-07-27T00:37:38.444706",
-            "last_retested_at_epoch": 1597366041.669802,
-            "last_retested_at_iso": "2020-08-14T00:47:21.669802",
+            "last_retested_at_epoch": 1597538822.602526,
+            "last_retested_at_iso": "2020-08-16T00:47:02.602526",
             "status": "INACTIVE"
         },
         "testujemy.biedronka.pl": {
             "included_at_epoch": 1595810259.893205,
             "included_at_iso": "2020-07-27T00:37:39.893205",
-            "last_retested_at_epoch": 1597366043.130867,
-            "last_retested_at_iso": "2020-08-14T00:47:23.130867",
+            "last_retested_at_epoch": 1597538824.062806,
+            "last_retested_at_iso": "2020-08-16T00:47:04.062806",
             "status": "INACTIVE"
         },
         "urbanium.eu": {
