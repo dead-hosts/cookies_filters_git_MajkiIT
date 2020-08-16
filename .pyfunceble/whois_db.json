@@ -2595,8 +2595,8 @@
         "state": "future"
     },
     "darkarea.pl": {
-        "epoch": 1597449600.0,
-        "expiration_date": "15-aug-2020",
+        "epoch": 1628985600.0,
+        "expiration_date": "15-aug-2021",
         "state": "future"
     },
     "darksiders.pl": {
@@ -3270,8 +3270,8 @@
         "state": "future"
     },
     "dziennikwschodni.pl": {
-        "epoch": 1597536000.0,
-        "expiration_date": "16-aug-2020",
+        "epoch": 1629072000.0,
+        "expiration_date": "16-aug-2021",
         "state": "future"
     },
     "dzikowiec.info": {
@@ -4262,7 +4262,7 @@
     "fajka24.pl": {
         "epoch": 1597536000.0,
         "expiration_date": "16-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "fakturaelektroniczna.com": {
         "epoch": 1623283200.0,
@@ -4870,8 +4870,8 @@
         "state": "future"
     },
     "galeria-dominikanska.pl": {
-        "epoch": 1597536000.0,
-        "expiration_date": "16-aug-2020",
+        "epoch": 1629072000.0,
+        "expiration_date": "16-aug-2021",
         "state": "future"
     },
     "galerialimonka.pl": {
@@ -6545,8 +6545,8 @@
         "state": "future"
     },
     "jamyoni.org.pl": {
-        "epoch": 1597536000.0,
-        "expiration_date": "16-aug-2020",
+        "epoch": 1629072000.0,
+        "expiration_date": "16-aug-2021",
         "state": "future"
     },
     "jangar.pl": {
@@ -8017,7 +8017,7 @@
     "loterialaciate.pl": {
         "epoch": 1597536000.0,
         "expiration_date": "16-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "lotnictwo.net.pl": {
         "epoch": 1622246400.0,

@@ -19,15 +19,8 @@
         "nasze-kino.eu": {
             "included_at_epoch": 1597019740.006721,
             "included_at_iso": "2020-08-10T00:35:40.006721",
-            "last_retested_at_epoch": 1597365209.718396,
-            "last_retested_at_iso": "2020-08-14T00:33:29.718396",
-            "status": "INACTIVE"
-        },
-        "polskaksiegarniainternetowa.eu": {
-            "included_at_epoch": 1597365205.031878,
-            "included_at_iso": "2020-08-14T00:33:25.031878",
-            "last_retested_at_epoch": 1597365205.031878,
-            "last_retested_at_iso": "2020-08-14T00:33:25.031878",
+            "last_retested_at_epoch": 1597538068.573982,
+            "last_retested_at_iso": "2020-08-16T00:34:28.573982",
             "status": "INACTIVE"
         },
         "slampa.pl": {
@@ -54,15 +47,8 @@
         "urbanium.eu": {
             "included_at_epoch": 1597365178.221623,
             "included_at_iso": "2020-08-14T00:32:58.221623",
-            "last_retested_at_epoch": 1597365178.221623,
-            "last_retested_at_iso": "2020-08-14T00:32:58.221623",
-            "status": "INACTIVE"
-        },
-        "wifiki.eu": {
-            "included_at_epoch": 1597019715.719214,
-            "included_at_iso": "2020-08-10T00:35:15.719214",
-            "last_retested_at_epoch": 1597365184.951859,
-            "last_retested_at_iso": "2020-08-14T00:33:04.951859",
+            "last_retested_at_epoch": 1597538038.357869,
+            "last_retested_at_iso": "2020-08-16T00:33:58.357869",
             "status": "INACTIVE"
         }
     }
