@@ -3475,8 +3475,8 @@
         "state": "future"
     },
     "ebizneskrokpokroku.pl": {
-        "epoch": 1597708800.0,
-        "expiration_date": "18-aug-2020",
+        "epoch": 1629244800.0,
+        "expiration_date": "18-aug-2021",
         "state": "future"
     },
     "eblik.pl": {
@@ -4260,9 +4260,9 @@
         "state": "future"
     },
     "fajka24.pl": {
-        "epoch": 1597536000.0,
-        "expiration_date": "16-aug-2020",
-        "state": "past"
+        "epoch": 1600128000.0,
+        "expiration_date": "15-sep-2020",
+        "state": "future"
     },
     "fakturaelektroniczna.com": {
         "epoch": 1623283200.0,
@@ -6865,8 +6865,8 @@
         "state": "future"
     },
     "kartki-swiateczne.com": {
-        "epoch": 1597622400.0,
-        "expiration_date": "17-aug-2020",
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
         "state": "future"
     },
     "kartonwork.pl": {
@@ -7825,8 +7825,8 @@
         "state": "future"
     },
     "lfspareparts724.pl": {
-        "epoch": 1597622400.0,
-        "expiration_date": "17-aug-2020",
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
         "state": "future"
     },
     "lg.com": {
@@ -9630,8 +9630,8 @@
         "state": "future"
     },
     "naszekielce.com": {
-        "epoch": 1597708800.0,
-        "expiration_date": "18-aug-2020",
+        "epoch": 1629244800.0,
+        "expiration_date": "18-aug-2021",
         "state": "future"
     },
     "natgeotv.com": {
@@ -11752,7 +11752,7 @@
     "prochnik.com": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "profilki.pl": {
         "epoch": 1582502400,
@@ -11895,8 +11895,8 @@
         "state": "future"
     },
     "przepisy.pl": {
-        "epoch": 1597708800.0,
-        "expiration_date": "18-aug-2020",
+        "epoch": 1629244800.0,
+        "expiration_date": "18-aug-2021",
         "state": "future"
     },
     "przepisyjoli.com": {

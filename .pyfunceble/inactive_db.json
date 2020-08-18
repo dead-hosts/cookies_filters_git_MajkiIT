@@ -9,6 +9,13 @@
         }
     },
     "/home/travis/build/dead-hosts/cookies_filters_git_MajkiIT/domains.list": {
+        "aukcje.pkoleasing.pl": {
+            "included_at_epoch": 1597711012.192389,
+            "included_at_iso": "2020-08-18T00:36:52.192389",
+            "last_retested_at_epoch": 1597711012.192389,
+            "last_retested_at_iso": "2020-08-18T00:36:52.192389",
+            "status": "INACTIVE"
+        },
         "cmp.*.pl": {
             "included_at_epoch": 1595810265.490203,
             "included_at_iso": "2020-07-27T00:37:45.490203",
@@ -16,11 +23,25 @@
             "last_retested_at_iso": "2020-08-16T00:47:09.729277",
             "status": "INVALID"
         },
+        "loterialaciate.pl": {
+            "included_at_epoch": 1597711079.816119,
+            "included_at_iso": "2020-08-18T00:37:59.816119",
+            "last_retested_at_epoch": 1597711079.816119,
+            "last_retested_at_iso": "2020-08-18T00:37:59.816119",
+            "status": "INACTIVE"
+        },
         "nasze-kino.eu": {
             "included_at_epoch": 1597019740.006721,
             "included_at_iso": "2020-08-10T00:35:40.006721",
-            "last_retested_at_epoch": 1597538068.573982,
-            "last_retested_at_iso": "2020-08-16T00:34:28.573982",
+            "last_retested_at_epoch": 1597711039.453648,
+            "last_retested_at_iso": "2020-08-18T00:37:19.453648",
+            "status": "INACTIVE"
+        },
+        "skwerwolnosci.eu": {
+            "included_at_epoch": 1597711008.527994,
+            "included_at_iso": "2020-08-18T00:36:48.527994",
+            "last_retested_at_epoch": 1597711008.527994,
+            "last_retested_at_iso": "2020-08-18T00:36:48.527994",
             "status": "INACTIVE"
         },
         "slampa.pl": {
@@ -47,8 +68,8 @@
         "urbanium.eu": {
             "included_at_epoch": 1597365178.221623,
             "included_at_iso": "2020-08-14T00:32:58.221623",
-            "last_retested_at_epoch": 1597538038.357869,
-            "last_retested_at_iso": "2020-08-16T00:33:58.357869",
+            "last_retested_at_epoch": 1597711008.649899,
+            "last_retested_at_iso": "2020-08-18T00:36:48.649899",
             "status": "INACTIVE"
         }
     }
