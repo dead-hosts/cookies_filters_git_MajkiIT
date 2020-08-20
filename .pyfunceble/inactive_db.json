@@ -9,13 +9,6 @@
         }
     },
     "/home/travis/build/dead-hosts/cookies_filters_git_MajkiIT/domains.list": {
-        "aukcje.pkoleasing.pl": {
-            "included_at_epoch": 1597711012.192389,
-            "included_at_iso": "2020-08-18T00:36:52.192389",
-            "last_retested_at_epoch": 1597711012.192389,
-            "last_retested_at_iso": "2020-08-18T00:36:52.192389",
-            "status": "INACTIVE"
-        },
         "cmp.*.pl": {
             "included_at_epoch": 1595810265.490203,
             "included_at_iso": "2020-07-27T00:37:45.490203",
@@ -33,15 +26,15 @@
         "nasze-kino.eu": {
             "included_at_epoch": 1597019740.006721,
             "included_at_iso": "2020-08-10T00:35:40.006721",
-            "last_retested_at_epoch": 1597711039.453648,
-            "last_retested_at_iso": "2020-08-18T00:37:19.453648",
+            "last_retested_at_epoch": 1597883813.99117,
+            "last_retested_at_iso": "2020-08-20T00:36:53.991170",
             "status": "INACTIVE"
         },
         "skwerwolnosci.eu": {
             "included_at_epoch": 1597711008.527994,
             "included_at_iso": "2020-08-18T00:36:48.527994",
-            "last_retested_at_epoch": 1597711008.527994,
-            "last_retested_at_iso": "2020-08-18T00:36:48.527994",
+            "last_retested_at_epoch": 1597883783.051323,
+            "last_retested_at_iso": "2020-08-20T00:36:23.051323",
             "status": "INACTIVE"
         },
         "slampa.pl": {
@@ -65,11 +58,18 @@
             "last_retested_at_iso": "2020-08-18T01:02:24.379518",
             "status": "INACTIVE"
         },
+        "twojaapteka.eu": {
+            "included_at_epoch": 1597883801.995402,
+            "included_at_iso": "2020-08-20T00:36:41.995402",
+            "last_retested_at_epoch": 1597883801.995402,
+            "last_retested_at_iso": "2020-08-20T00:36:41.995402",
+            "status": "INACTIVE"
+        },
         "urbanium.eu": {
             "included_at_epoch": 1597365178.221623,
             "included_at_iso": "2020-08-14T00:32:58.221623",
-            "last_retested_at_epoch": 1597711008.649899,
-            "last_retested_at_iso": "2020-08-18T00:36:48.649899",
+            "last_retested_at_epoch": 1597883783.052795,
+            "last_retested_at_iso": "2020-08-20T00:36:23.052795",
             "status": "INACTIVE"
         }
     }

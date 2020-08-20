@@ -352,7 +352,7 @@
     "airdron-polska.pl": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "akademia-piwa.pl": {
         "epoch": 1603756800.0,
@@ -655,8 +655,8 @@
         "state": "future"
     },
     "apartamentychorwacja.pl": {
-        "epoch": 1597881600.0,
-        "expiration_date": "20-aug-2020",
+        "epoch": 1629417600.0,
+        "expiration_date": "20-aug-2021",
         "state": "future"
     },
     "apc.com": {
@@ -1142,7 +1142,7 @@
     "baumit.pl": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "bbcpolska.com": {
         "epoch": 1628035200.0,
@@ -3530,8 +3530,8 @@
         "state": "future"
     },
     "ecslupsk.pl": {
-        "epoch": 1597795200.0,
-        "expiration_date": "19-aug-2020",
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
         "state": "future"
     },
     "edeklaracje.info": {
@@ -3630,8 +3630,8 @@
         "state": "future"
     },
     "ekoenergy.org": {
-        "epoch": 1597795200.0,
-        "expiration_date": "19-aug-2020",
+        "epoch": 1660867200.0,
+        "expiration_date": "19-aug-2022",
         "state": "future"
     },
     "ekologia.pl": {
@@ -3855,8 +3855,8 @@
         "state": "future"
     },
     "energetyka24.com": {
-        "epoch": 1597795200.0,
-        "expiration_date": "19-aug-2020",
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
         "state": "future"
     },
     "energoekspert.com.pl": {
@@ -4400,8 +4400,8 @@
         "state": "future"
     },
     "fibaro.com": {
-        "epoch": 1597881600.0,
-        "expiration_date": "20-aug-2020",
+        "epoch": 1660953600.0,
+        "expiration_date": "20-aug-2022",
         "state": "future"
     },
     "figowesmaki.pl": {
@@ -4497,7 +4497,7 @@
     "fit-kids.pl": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "fit.pl": {
         "epoch": 1614470400.0,
@@ -6640,8 +6640,8 @@
         "state": "future"
     },
     "jcubic.pl": {
-        "epoch": 1597795200.0,
-        "expiration_date": "19-aug-2020",
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
         "state": "future"
     },
     "jeanmueller.pl": {
@@ -6757,7 +6757,7 @@
     "jysk.pl": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "k-mag.pl": {
         "epoch": 1606694400.0,
@@ -7375,8 +7375,8 @@
         "state": "future"
     },
     "krups.com.pl": {
-        "epoch": 1597795200.0,
-        "expiration_date": "19-aug-2020",
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
         "state": "future"
     },
     "krwinka.org": {
@@ -8305,8 +8305,8 @@
         "state": "future"
     },
     "mammarzenie.org": {
-        "epoch": 1597795200.0,
-        "expiration_date": "19-aug-2020",
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
         "state": "future"
     },
     "mammografia.elblag.pl": {
@@ -11750,9 +11750,9 @@
         "state": "future"
     },
     "prochnik.com": {
-        "epoch": 1597622400.0,
-        "expiration_date": "17-aug-2020",
-        "state": "past"
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
+        "state": "future"
     },
     "profilki.pl": {
         "epoch": 1582502400,
