@@ -12,15 +12,15 @@
         "cmp.*.pl": {
             "included_at_epoch": 1595810265.490203,
             "included_at_iso": "2020-07-27T00:37:45.490203",
-            "last_retested_at_epoch": 1597885443.217341,
-            "last_retested_at_iso": "2020-08-20T01:04:03.217341",
+            "last_retested_at_epoch": 1598057522.395801,
+            "last_retested_at_iso": "2020-08-22T00:52:02.395801",
             "status": "INVALID"
         },
         "loterialaciate.pl": {
             "included_at_epoch": 1597711079.816119,
             "included_at_iso": "2020-08-18T00:37:59.816119",
-            "last_retested_at_epoch": 1597885418.23237,
-            "last_retested_at_iso": "2020-08-20T01:03:38.232370",
+            "last_retested_at_epoch": 1598057496.581509,
+            "last_retested_at_iso": "2020-08-22T00:51:36.581509",
             "status": "INACTIVE"
         },
         "nasze-kino.eu": {
@@ -40,15 +40,15 @@
         "stypendia.sejmik.kielce.pl": {
             "included_at_epoch": 1595810258.444706,
             "included_at_iso": "2020-07-27T00:37:38.444706",
-            "last_retested_at_epoch": 1597885436.240098,
-            "last_retested_at_iso": "2020-08-20T01:03:56.240098",
+            "last_retested_at_epoch": 1598057515.124972,
+            "last_retested_at_iso": "2020-08-22T00:51:55.124972",
             "status": "INACTIVE"
         },
         "testujemy.biedronka.pl": {
             "included_at_epoch": 1595810259.893205,
             "included_at_iso": "2020-07-27T00:37:39.893205",
-            "last_retested_at_epoch": 1597885437.64445,
-            "last_retested_at_iso": "2020-08-20T01:03:57.644450",
+            "last_retested_at_epoch": 1598057516.605957,
+            "last_retested_at_iso": "2020-08-22T00:51:56.605957",
             "status": "INACTIVE"
         },
         "twojaapteka.eu": {

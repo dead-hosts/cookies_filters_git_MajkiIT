@@ -7740,8 +7740,8 @@
         "state": "future"
     },
     "lego.com": {
-        "epoch": 1597968000.0,
-        "expiration_date": "21-aug-2020",
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
         "state": "future"
     },
     "leier.pl": {
@@ -10035,8 +10035,8 @@
         "state": "future"
     },
     "nowyteatr.org": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
         "state": "future"
     },
     "npa.pl": {
@@ -10160,8 +10160,8 @@
         "state": "future"
     },
     "oemautomatic.pl": {
-        "epoch": 1597968000.0,
-        "expiration_date": "21-aug-2020",
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
         "state": "future"
     },
     "oferia.pl": {
@@ -11165,8 +11165,8 @@
         "state": "future"
     },
     "pocisk.org": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
+        "epoch": 1661126400.0,
+        "expiration_date": "22-aug-2022",
         "state": "future"
     },
     "poczesna.com.pl": {
@@ -13155,9 +13155,9 @@
         "state": "future"
     },
     "simplesurance.pl": {
-        "epoch": 1597881600.0,
-        "expiration_date": "20-aug-2020",
-        "state": "past"
+        "epoch": 1629417600.0,
+        "expiration_date": "20-aug-2021",
+        "state": "future"
     },
     "sin-say.com": {
         "epoch": 1617494400.0,
