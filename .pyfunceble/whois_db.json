@@ -350,9 +350,9 @@
         "state": "future"
     },
     "airdron-polska.pl": {
-        "epoch": 1597881600.0,
-        "expiration_date": "20-aug-2020",
-        "state": "past"
+        "epoch": 1600473600.0,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
     },
     "akademia-piwa.pl": {
         "epoch": 1603756800.0,
@@ -1140,9 +1140,9 @@
         "state": "future"
     },
     "baumit.pl": {
-        "epoch": 1597881600.0,
-        "expiration_date": "20-aug-2020",
-        "state": "past"
+        "epoch": 1629417600.0,
+        "expiration_date": "20-aug-2021",
+        "state": "future"
     },
     "bbcpolska.com": {
         "epoch": 1628035200.0,
@@ -1727,7 +1727,7 @@
     "brodnica.net": {
         "epoch": 1598054400.0,
         "expiration_date": "22-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "brolerserwis.pl": {
         "epoch": 1607644800.0,
@@ -3040,8 +3040,8 @@
         "state": "future"
     },
     "domoplus.pl": {
-        "epoch": 1597968000.0,
-        "expiration_date": "21-aug-2020",
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
         "state": "future"
     },
     "domowa.pizza": {
@@ -3150,8 +3150,8 @@
         "state": "future"
     },
     "dreamtours.pl": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
         "state": "future"
     },
     "driverpack.io": {
@@ -3675,8 +3675,8 @@
         "state": "future"
     },
     "ekstraklasatrolls.pl": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
         "state": "future"
     },
     "eku24.net": {
@@ -4495,9 +4495,9 @@
         "state": "future"
     },
     "fit-kids.pl": {
-        "epoch": 1597881600.0,
-        "expiration_date": "20-aug-2020",
-        "state": "past"
+        "epoch": 1629417600.0,
+        "expiration_date": "20-aug-2021",
+        "state": "future"
     },
     "fit.pl": {
         "epoch": 1614470400.0,
@@ -4770,8 +4770,8 @@
         "state": "future"
     },
     "fsmm.pl": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
         "state": "future"
     },
     "fsmportal.pl": {
@@ -6755,9 +6755,9 @@
         "state": "future"
     },
     "jysk.pl": {
-        "epoch": 1597881600.0,
-        "expiration_date": "20-aug-2020",
-        "state": "past"
+        "epoch": 1629417600.0,
+        "expiration_date": "20-aug-2021",
+        "state": "future"
     },
     "k-mag.pl": {
         "epoch": 1606694400.0,
@@ -7435,8 +7435,8 @@
         "state": "future"
     },
     "kuchniaplus.pl": {
-        "epoch": 1597968000.0,
-        "expiration_date": "21-aug-2020",
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
         "state": "future"
     },
     "kujawsko-pomorskie.pl": {
@@ -8870,8 +8870,8 @@
         "state": "future"
     },
     "miniminiplus.pl": {
-        "epoch": 1597968000.0,
-        "expiration_date": "21-aug-2020",
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
         "state": "future"
     },
     "ministerstwogadzetow.com": {

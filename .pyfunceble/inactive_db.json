@@ -26,22 +26,15 @@
         "nasze-kino.eu": {
             "included_at_epoch": 1597019740.006721,
             "included_at_iso": "2020-08-10T00:35:40.006721",
-            "last_retested_at_epoch": 1597883813.99117,
-            "last_retested_at_iso": "2020-08-20T00:36:53.991170",
+            "last_retested_at_epoch": 1598056719.401158,
+            "last_retested_at_iso": "2020-08-22T00:38:39.401158",
             "status": "INACTIVE"
         },
         "skwerwolnosci.eu": {
             "included_at_epoch": 1597711008.527994,
             "included_at_iso": "2020-08-18T00:36:48.527994",
-            "last_retested_at_epoch": 1597883783.051323,
-            "last_retested_at_iso": "2020-08-20T00:36:23.051323",
-            "status": "INACTIVE"
-        },
-        "slampa.pl": {
-            "included_at_epoch": 1595551266.320161,
-            "included_at_iso": "2020-07-24T00:41:06.320161",
-            "last_retested_at_epoch": 1595551266.320161,
-            "last_retested_at_iso": "2020-07-24T00:41:06.320161",
+            "last_retested_at_epoch": 1598056689.015773,
+            "last_retested_at_iso": "2020-08-22T00:38:09.015773",
             "status": "INACTIVE"
         },
         "stypendia.sejmik.kielce.pl": {
@@ -61,15 +54,15 @@
         "twojaapteka.eu": {
             "included_at_epoch": 1597883801.995402,
             "included_at_iso": "2020-08-20T00:36:41.995402",
-            "last_retested_at_epoch": 1597883801.995402,
-            "last_retested_at_iso": "2020-08-20T00:36:41.995402",
+            "last_retested_at_epoch": 1598056707.703097,
+            "last_retested_at_iso": "2020-08-22T00:38:27.703097",
             "status": "INACTIVE"
         },
         "urbanium.eu": {
             "included_at_epoch": 1597365178.221623,
             "included_at_iso": "2020-08-14T00:32:58.221623",
-            "last_retested_at_epoch": 1597883783.052795,
-            "last_retested_at_iso": "2020-08-20T00:36:23.052795",
+            "last_retested_at_epoch": 1598056689.053199,
+            "last_retested_at_iso": "2020-08-22T00:38:09.053199",
             "status": "INACTIVE"
         }
     }
