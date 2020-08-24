@@ -1725,9 +1725,9 @@
         "state": "future"
     },
     "brodnica.net": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
-        "state": "past"
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
+        "state": "future"
     },
     "brolerserwis.pl": {
         "epoch": 1607644800.0,
@@ -2882,7 +2882,7 @@
     "disport.pl": {
         "epoch": 1598227200.0,
         "expiration_date": "24-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "distortstudios.com": {
         "epoch": 1623456000.0,
@@ -3997,6 +3997,11 @@
     "eska.tv": {
         "epoch": 1606953600.0,
         "expiration_date": "03-dec-2020",
+        "state": "future"
+    },
+    "eskk.pl": {
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
         "state": "future"
     },
     "esklep-sbs.pl": {
@@ -6890,8 +6895,8 @@
         "state": "future"
     },
     "katalogmsp.pl": {
-        "epoch": 1598140800.0,
-        "expiration_date": "23-aug-2020",
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
         "state": "future"
     },
     "katowice-airport.com": {
@@ -6980,8 +6985,8 @@
         "state": "future"
     },
     "kingsong.pl": {
-        "epoch": 1598140800.0,
-        "expiration_date": "23-aug-2020",
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
         "state": "future"
     },
     "kinonh.pl": {
@@ -8910,8 +8915,8 @@
         "state": "future"
     },
     "misjatravel.pl": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
         "state": "future"
     },
     "missplanner.pl": {
@@ -11700,8 +11705,8 @@
         "state": "future"
     },
     "prezi.com": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
         "state": "future"
     },
     "prgm.pl": {
@@ -12125,8 +12130,8 @@
         "state": "future"
     },
     "r-gol.com": {
-        "epoch": 1598140800.0,
-        "expiration_date": "23-aug-2020",
+        "epoch": 1755907200.0,
+        "expiration_date": "23-aug-2025",
         "state": "future"
     },
     "r.pl": {
