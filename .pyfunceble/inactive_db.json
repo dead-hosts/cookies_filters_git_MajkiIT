@@ -17,17 +17,17 @@
             "status": "INACTIVE"
         },
         "cmp.*.pl": {
-            "included_at_epoch": 1595810265.490203,
-            "included_at_iso": "2020-07-27T00:37:45.490203",
-            "last_retested_at_epoch": 1598057522.395801,
-            "last_retested_at_iso": "2020-08-22T00:52:02.395801",
+            "included_at_epoch": 1598231500.459118,
+            "included_at_iso": "2020-08-24T01:11:40.459118",
+            "last_retested_at_epoch": 1598231500.459118,
+            "last_retested_at_iso": "2020-08-24T01:11:40.459118",
             "status": "INVALID"
         },
         "loterialaciate.pl": {
             "included_at_epoch": 1597711079.816119,
             "included_at_iso": "2020-08-18T00:37:59.816119",
-            "last_retested_at_epoch": 1598057496.581509,
-            "last_retested_at_iso": "2020-08-22T00:51:36.581509",
+            "last_retested_at_epoch": 1598231474.558875,
+            "last_retested_at_iso": "2020-08-24T01:11:14.558875",
             "status": "INACTIVE"
         },
         "nasze-kino.eu": {
@@ -45,17 +45,17 @@
             "status": "INACTIVE"
         },
         "stypendia.sejmik.kielce.pl": {
-            "included_at_epoch": 1595810258.444706,
-            "included_at_iso": "2020-07-27T00:37:38.444706",
-            "last_retested_at_epoch": 1598057515.124972,
-            "last_retested_at_iso": "2020-08-22T00:51:55.124972",
+            "included_at_epoch": 1598231493.268342,
+            "included_at_iso": "2020-08-24T01:11:33.268342",
+            "last_retested_at_epoch": 1598231493.268342,
+            "last_retested_at_iso": "2020-08-24T01:11:33.268342",
             "status": "INACTIVE"
         },
         "testujemy.biedronka.pl": {
-            "included_at_epoch": 1595810259.893205,
-            "included_at_iso": "2020-07-27T00:37:39.893205",
-            "last_retested_at_epoch": 1598057516.605957,
-            "last_retested_at_iso": "2020-08-22T00:51:56.605957",
+            "included_at_epoch": 1598231494.731756,
+            "included_at_iso": "2020-08-24T01:11:34.731756",
+            "last_retested_at_epoch": 1598231494.731756,
+            "last_retested_at_iso": "2020-08-24T01:11:34.731756",
             "status": "INACTIVE"
         },
         "twojaapteka.eu": {
@@ -63,6 +63,13 @@
             "included_at_iso": "2020-08-20T00:36:41.995402",
             "last_retested_at_epoch": 1598229590.218888,
             "last_retested_at_iso": "2020-08-24T00:39:50.218888",
+            "status": "INACTIVE"
+        },
+        "twoje-meble.eu": {
+            "included_at_epoch": 1598231496.209731,
+            "included_at_iso": "2020-08-24T01:11:36.209731",
+            "last_retested_at_epoch": 1598231496.209731,
+            "last_retested_at_iso": "2020-08-24T01:11:36.209731",
             "status": "INACTIVE"
         },
         "urbanium.eu": {
