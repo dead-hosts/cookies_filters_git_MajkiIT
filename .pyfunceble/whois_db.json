@@ -2175,8 +2175,8 @@
         "state": "future"
     },
     "cinema3d.pl": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
+        "epoch": 1600905600.0,
+        "expiration_date": "24-sep-2020",
         "state": "future"
     },
     "cineman.pl": {
@@ -2210,8 +2210,8 @@
         "state": "future"
     },
     "ck-czestochowa.pl": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
         "state": "future"
     },
     "ck1.pl": {
@@ -2880,9 +2880,9 @@
         "state": "future"
     },
     "disport.pl": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
-        "state": "past"
+        "epoch": 1600819200.0,
+        "expiration_date": "23-sep-2020",
+        "state": "future"
     },
     "distortstudios.com": {
         "epoch": 1623456000.0,
@@ -3110,8 +3110,8 @@
         "state": "future"
     },
     "douglas.pl": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
         "state": "future"
     },
     "dourody.pl": {
@@ -3135,8 +3135,8 @@
         "state": "future"
     },
     "dreamjump.pl": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
         "state": "future"
     },
     "dreammachines.pl": {
@@ -3210,8 +3210,8 @@
         "state": "future"
     },
     "durszlak.pl": {
-        "epoch": 1598400000.0,
-        "expiration_date": "26-aug-2020",
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
         "state": "future"
     },
     "dvbsklep.pl": {
@@ -6485,8 +6485,8 @@
         "state": "future"
     },
     "izabawka.pl": {
-        "epoch": 1598400000.0,
-        "expiration_date": "26-aug-2020",
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
         "state": "future"
     },
     "izone.pl": {
@@ -6580,8 +6580,8 @@
         "state": "future"
     },
     "jarek-kefir.org": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
         "state": "future"
     },
     "jarmula.com": {
@@ -6845,8 +6845,8 @@
         "state": "future"
     },
     "kancelaria-szip.pl": {
-        "epoch": 1598400000.0,
-        "expiration_date": "26-aug-2020",
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
         "state": "future"
     },
     "kappahl.com": {
@@ -8160,8 +8160,8 @@
         "state": "future"
     },
     "luzyce.info": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
         "state": "future"
     },
     "lvbet.pl": {
@@ -11325,8 +11325,8 @@
         "state": "future"
     },
     "polomarket.pl": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "polona.pl": {
@@ -14490,8 +14490,8 @@
         "state": "future"
     },
     "tensorflow.org": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
         "state": "future"
     },
     "terazmuzyka.pl": {
