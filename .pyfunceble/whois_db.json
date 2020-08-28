@@ -2915,8 +2915,8 @@
         "state": "future"
     },
     "dlastudenta.pl": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
         "state": "future"
     },
     "dlawas.info": {
@@ -8790,8 +8790,8 @@
         "state": "future"
     },
     "miastons.pl": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
         "state": "future"
     },
     "microsoft.com": {
@@ -9785,8 +9785,8 @@
         "state": "future"
     },
     "netweber.pl": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
         "state": "future"
     },
     "newbadline.com": {
@@ -11225,8 +11225,8 @@
         "state": "future"
     },
     "podrogach.pl": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
         "state": "future"
     },
     "podrozezmamaitata.com": {
@@ -12052,6 +12052,11 @@
     "pyskowice.com.pl": {
         "epoch": 1621123200.0,
         "expiration_date": "16-may-2021",
+        "state": "future"
+    },
+    "pyszne.pl": {
+        "epoch": 1621641600.0,
+        "expiration_date": "22-may-2021",
         "state": "future"
     },
     "pz.gov.pl": {
@@ -15354,6 +15359,11 @@
         "expiration_date": "18-sep-2020",
         "state": "future"
     },
+    "visitczechrepublic.com": {
+        "epoch": 1617667200.0,
+        "expiration_date": "06-apr-2021",
+        "state": "future"
+    },
     "visiton.pl": {
         "epoch": 1621468800.0,
         "expiration_date": "20-may-2021",
@@ -16530,8 +16540,8 @@
         "state": "future"
     },
     "zloty-pociag.com": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
         "state": "future"
     },
     "zlotyaniol.pl": {

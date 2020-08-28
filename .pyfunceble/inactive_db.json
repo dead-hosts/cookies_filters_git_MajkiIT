@@ -19,15 +19,15 @@
         "cmp.*.pl": {
             "included_at_epoch": 1598231500.459118,
             "included_at_iso": "2020-08-24T01:11:40.459118",
-            "last_retested_at_epoch": 1598403373.682863,
-            "last_retested_at_iso": "2020-08-26T00:56:13.682863",
+            "last_retested_at_epoch": 1598576436.273206,
+            "last_retested_at_iso": "2020-08-28T01:00:36.273206",
             "status": "INVALID"
         },
         "loterialaciate.pl": {
             "included_at_epoch": 1597711079.816119,
             "included_at_iso": "2020-08-18T00:37:59.816119",
-            "last_retested_at_epoch": 1598403348.541188,
-            "last_retested_at_iso": "2020-08-26T00:55:48.541188",
+            "last_retested_at_epoch": 1598576411.122332,
+            "last_retested_at_iso": "2020-08-28T01:00:11.122332",
             "status": "INACTIVE"
         },
         "nasze-kino.eu": {
@@ -47,15 +47,15 @@
         "stypendia.sejmik.kielce.pl": {
             "included_at_epoch": 1598231493.268342,
             "included_at_iso": "2020-08-24T01:11:33.268342",
-            "last_retested_at_epoch": 1598403366.730735,
-            "last_retested_at_iso": "2020-08-26T00:56:06.730735",
+            "last_retested_at_epoch": 1598576429.327731,
+            "last_retested_at_iso": "2020-08-28T01:00:29.327731",
             "status": "INACTIVE"
         },
         "testujemy.biedronka.pl": {
             "included_at_epoch": 1598231494.731756,
             "included_at_iso": "2020-08-24T01:11:34.731756",
-            "last_retested_at_epoch": 1598403368.142089,
-            "last_retested_at_iso": "2020-08-26T00:56:08.142089",
+            "last_retested_at_epoch": 1598576430.760282,
+            "last_retested_at_iso": "2020-08-28T01:00:30.760282",
             "status": "INACTIVE"
         },
         "twojaapteka.eu": {
@@ -63,13 +63,6 @@
             "included_at_iso": "2020-08-20T00:36:41.995402",
             "last_retested_at_epoch": 1598575365.016482,
             "last_retested_at_iso": "2020-08-28T00:42:45.016482",
-            "status": "INACTIVE"
-        },
-        "twoje-meble.eu": {
-            "included_at_epoch": 1598231496.209731,
-            "included_at_iso": "2020-08-24T01:11:36.209731",
-            "last_retested_at_epoch": 1598403369.59141,
-            "last_retested_at_iso": "2020-08-26T00:56:09.591410",
             "status": "INACTIVE"
         },
         "urbanium.eu": {
