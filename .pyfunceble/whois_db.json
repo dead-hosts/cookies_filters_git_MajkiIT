@@ -1490,8 +1490,8 @@
         "state": "future"
     },
     "biznesoferty.pl": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
         "state": "future"
     },
     "blablacar.pl": {
@@ -2125,8 +2125,8 @@
         "state": "future"
     },
     "chrzanow.pl": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
         "state": "future"
     },
     "chwilowkomat.pl": {
@@ -2295,8 +2295,8 @@
         "state": "future"
     },
     "combat.pl": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
         "state": "future"
     },
     "comitor.pl": {
@@ -2980,8 +2980,8 @@
         "state": "future"
     },
     "dollarro.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
         "state": "future"
     },
     "dolnyslask.travel": {
@@ -3180,8 +3180,8 @@
         "state": "future"
     },
     "drumshop.pl": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
         "state": "future"
     },
     "drzwionline.net": {
@@ -3282,7 +3282,7 @@
     "dzis.tv": {
         "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "dzwignice.info": {
         "epoch": 1567900800,
@@ -3565,8 +3565,8 @@
         "state": "future"
     },
     "edutorial.pl": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
         "state": "future"
     },
     "edwardorlovski.com": {
@@ -7045,8 +7045,8 @@
         "state": "future"
     },
     "kochlik.pl": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
         "state": "future"
     },
     "kociadolina.pl": {
@@ -7700,8 +7700,8 @@
         "state": "future"
     },
     "lechia.pl": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
+        "epoch": 1612828800.0,
+        "expiration_date": "09-feb-2021",
         "state": "future"
     },
     "leclerc-bielany.pl": {
@@ -7820,8 +7820,8 @@
         "state": "future"
     },
     "lexus-polska.pl": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
         "state": "future"
     },
     "lezajsk.com.pl": {
@@ -8430,8 +8430,8 @@
         "state": "future"
     },
     "mateuszgrzesiak.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
         "state": "future"
     },
     "mateuszgrzesiak.tv": {
@@ -9570,8 +9570,8 @@
         "state": "future"
     },
     "naklejkolandia.pl": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
         "state": "future"
     },
     "nano-carbon.pl": {
@@ -10262,7 +10262,7 @@
     "olesnica24.com": {
         "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "olimpiasport.pl": {
         "epoch": 1622851200.0,
@@ -10672,6 +10672,11 @@
     "pantuniestal.com": {
         "epoch": 1689379200.0,
         "expiration_date": "15-jul-2023",
+        "state": "future"
+    },
+    "pap.com.pl": {
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "pap.pl": {
@@ -13740,8 +13745,8 @@
         "state": "future"
     },
     "stalgorzow.pl": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
         "state": "future"
     },
     "stalmielec.com": {

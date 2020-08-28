@@ -12,8 +12,8 @@
         "adeste.eu": {
             "included_at_epoch": 1598229578.060702,
             "included_at_iso": "2020-08-24T00:39:38.060702",
-            "last_retested_at_epoch": 1598402427.028985,
-            "last_retested_at_iso": "2020-08-26T00:40:27.028985",
+            "last_retested_at_epoch": 1598575353.30444,
+            "last_retested_at_iso": "2020-08-28T00:42:33.304440",
             "status": "INACTIVE"
         },
         "cmp.*.pl": {
@@ -33,15 +33,15 @@
         "nasze-kino.eu": {
             "included_at_epoch": 1597019740.006721,
             "included_at_iso": "2020-08-10T00:35:40.006721",
-            "last_retested_at_epoch": 1598402450.203705,
-            "last_retested_at_iso": "2020-08-26T00:40:50.203705",
+            "last_retested_at_epoch": 1598575376.525528,
+            "last_retested_at_iso": "2020-08-28T00:42:56.525528",
             "status": "INACTIVE"
         },
         "skwerwolnosci.eu": {
             "included_at_epoch": 1597711008.527994,
             "included_at_iso": "2020-08-18T00:36:48.527994",
-            "last_retested_at_epoch": 1598402420.247439,
-            "last_retested_at_iso": "2020-08-26T00:40:20.247439",
+            "last_retested_at_epoch": 1598575346.555881,
+            "last_retested_at_iso": "2020-08-28T00:42:26.555881",
             "status": "INACTIVE"
         },
         "stypendia.sejmik.kielce.pl": {
@@ -61,8 +61,8 @@
         "twojaapteka.eu": {
             "included_at_epoch": 1597883801.995402,
             "included_at_iso": "2020-08-20T00:36:41.995402",
-            "last_retested_at_epoch": 1598402438.68284,
-            "last_retested_at_iso": "2020-08-26T00:40:38.682840",
+            "last_retested_at_epoch": 1598575365.016482,
+            "last_retested_at_iso": "2020-08-28T00:42:45.016482",
             "status": "INACTIVE"
         },
         "twoje-meble.eu": {
@@ -75,8 +75,8 @@
         "urbanium.eu": {
             "included_at_epoch": 1597365178.221623,
             "included_at_iso": "2020-08-14T00:32:58.221623",
-            "last_retested_at_epoch": 1598402420.337409,
-            "last_retested_at_iso": "2020-08-26T00:40:20.337409",
+            "last_retested_at_epoch": 1598575346.559346,
+            "last_retested_at_iso": "2020-08-28T00:42:26.559346",
             "status": "INACTIVE"
         }
     }
