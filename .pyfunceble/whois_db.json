@@ -160,8 +160,9 @@
         "state": "future"
     },
     "accenture.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "accuweather.com": {
@@ -810,8 +811,9 @@
         "state": "future"
     },
     "astar.czest.pl": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1693353600.0,
+        "expiration_date": "30-aug-2023",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "astronomia24.com": {
@@ -1235,8 +1237,9 @@
         "state": "future"
     },
     "beskidlive.pl": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "beskidy.news": {
@@ -2300,8 +2303,9 @@
         "state": "future"
     },
     "comitor.pl": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "command.pl": {
@@ -3200,8 +3204,9 @@
         "state": "future"
     },
     "dukapolska.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "dulskidesign.pl": {
@@ -3280,9 +3285,10 @@
         "state": "future"
     },
     "dzis.tv": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
-        "state": "past"
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "tvwhois.verisign-grs.com",
+        "state": "future"
     },
     "dzwignice.info": {
         "epoch": 1567900800,
@@ -3462,7 +3468,8 @@
     "easypaste.org": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
-        "state": "future"
+        "server": "whois.pir.org",
+        "state": "past"
     },
     "eaton.com": {
         "epoch": 1652659200.0,
@@ -3810,8 +3817,9 @@
         "state": "future"
     },
     "emeryturyirenty.pl": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "emilbus.com.pl": {
@@ -4745,8 +4753,9 @@
         "state": "future"
     },
     "franciszkanskie.pl": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "frazpc.pl": {
@@ -4930,8 +4939,9 @@
         "state": "future"
     },
     "gardinia.pl": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "garmin.com": {
@@ -5465,8 +5475,9 @@
         "state": "future"
     },
     "gram.pl": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "gramwzielone.pl": {
@@ -6145,8 +6156,9 @@
         "state": "future"
     },
     "inchcape.pl": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "indigo-nails.com": {
@@ -6470,8 +6482,9 @@
         "state": "future"
     },
     "ivona.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "iwanowice.pl": {
@@ -8175,8 +8188,9 @@
         "state": "future"
     },
     "lwowecki.info": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1661817600.0,
+        "expiration_date": "30-aug-2022",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "lyconet.com": {
@@ -8645,8 +8659,9 @@
         "state": "future"
     },
     "memorialhenrykapuzonia.pl": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "mental-power.pl": {
@@ -9215,8 +9230,9 @@
         "state": "future"
     },
     "morska.edu.pl": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "mos.gov.pl": {
@@ -10260,9 +10276,10 @@
         "state": "future"
     },
     "olesnica24.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
-        "state": "past"
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
     },
     "olimpiasport.pl": {
         "epoch": 1622851200.0,
@@ -10325,8 +10342,9 @@
         "state": "future"
     },
     "onlinekredyty.pl": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "onlineradiobox.com": {
@@ -11495,8 +11513,9 @@
         "state": "future"
     },
     "porcys.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "porno720.pl": {
@@ -13005,8 +13024,9 @@
         "state": "future"
     },
     "seriale.co": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.nic.co",
         "state": "future"
     },
     "serialowa.pl": {

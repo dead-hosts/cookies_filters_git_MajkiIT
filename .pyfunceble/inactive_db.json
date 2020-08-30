@@ -16,6 +16,13 @@
             "last_retested_at_iso": "2020-08-28T00:42:33.304440",
             "status": "INACTIVE"
         },
+        "bip.gmina.mielec.pl": {
+            "included_at_epoch": 1598748126.535541,
+            "included_at_iso": "2020-08-30T00:42:06.535541",
+            "last_retested_at_epoch": 1598748126.535541,
+            "last_retested_at_iso": "2020-08-30T00:42:06.535541",
+            "status": "INACTIVE"
+        },
         "cmp.*.pl": {
             "included_at_epoch": 1598231500.459118,
             "included_at_iso": "2020-08-24T01:11:40.459118",
