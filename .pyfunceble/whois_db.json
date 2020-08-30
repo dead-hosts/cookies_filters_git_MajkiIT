@@ -5696,8 +5696,9 @@
         "state": "future"
     },
     "hbogo.pl": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "hebe.pl": {
@@ -9981,8 +9982,9 @@
         "state": "future"
     },
     "nordglass.pl": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "noria.pl": {
@@ -13160,8 +13162,9 @@
         "state": "future"
     },
     "sig.pl": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "sigatech.pl": {
@@ -16430,8 +16433,9 @@
         "state": "future"
     },
     "zdrowastrona.pl": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "zdrowemiasto.pl": {
