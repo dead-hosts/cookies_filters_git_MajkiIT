@@ -1024,7 +1024,8 @@
     "avenidapoznan.com": {
         "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "avg.com": {
         "epoch": 1667260800.0,
@@ -1318,8 +1319,9 @@
         "state": "future"
     },
     "biegniepodleglosci.pl": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "bielskakraina.pl": {
@@ -2639,8 +2641,9 @@
         "state": "future"
     },
     "db.com": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "dcf.wroclaw.pl": {
@@ -3466,10 +3469,10 @@
         "state": "future"
     },
     "easypaste.org": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
         "server": "whois.pir.org",
-        "state": "past"
+        "state": "future"
     },
     "eaton.com": {
         "epoch": 1652659200.0,
@@ -5922,8 +5925,9 @@
         "state": "future"
     },
     "hrlink.pl": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "htc.com": {
@@ -6228,8 +6232,9 @@
         "state": "future"
     },
     "infostrefa.com": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "infotydzien.info": {
@@ -6714,8 +6719,9 @@
         "state": "future"
     },
     "jim.org": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "joemonster.org": {
@@ -7428,6 +7434,12 @@
         "expiration_date": "25-nov-2020",
         "state": "future"
     },
+    "ksiegaimion.com": {
+        "epoch": 1614729600.0,
+        "expiration_date": "03-mar-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "ksiegarniainternetowa.co.uk": {
         "epoch": 1628121600.0,
         "expiration_date": "05-aug-2021",
@@ -7529,8 +7541,9 @@
         "state": "future"
     },
     "kwestiasmaku.com": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1661904000.0,
+        "expiration_date": "31-aug-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "kworum.com.pl": {
@@ -7784,8 +7797,9 @@
         "state": "future"
     },
     "lektury.gov.pl": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "lema15.pl": {
@@ -8380,8 +8394,9 @@
         "state": "future"
     },
     "marcopolo.pl": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "marczewski.pl": {
@@ -10238,8 +10253,9 @@
         "state": "future"
     },
     "ogradzamy.pl": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "ogrzewanie-elektryczne.pl": {
@@ -12876,8 +12892,9 @@
         "state": "future"
     },
     "scentre.pl": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "schronisko-nowodwor.com.pl": {
