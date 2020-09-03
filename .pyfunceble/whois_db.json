@@ -1022,10 +1022,10 @@
         "state": "future"
     },
     "avenidapoznan.com": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "avg.com": {
         "epoch": 1667260800.0,
@@ -1510,8 +1510,9 @@
         "state": "future"
     },
     "blendberg.com": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1662163200.0,
+        "expiration_date": "03-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "blikomania.pl": {
@@ -1727,7 +1728,8 @@
     "bridle.com.pl": {
         "epoch": 1599091200.0,
         "expiration_date": "03-sep-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "brodnica.net": {
         "epoch": 1629590400.0,
@@ -5293,8 +5295,9 @@
         "state": "future"
     },
     "go-market.pl": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "goal.pl": {
@@ -5885,13 +5888,15 @@
         "state": "future"
     },
     "hotelboss.pl": {
-        "epoch": 1599004800.0,
-        "expiration_date": "02-sep-2020",
+        "epoch": 1630540800.0,
+        "expiration_date": "02-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "hotele.pl": {
-        "epoch": 1599004800.0,
-        "expiration_date": "02-sep-2020",
+        "epoch": 1630540800.0,
+        "expiration_date": "02-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "hotelpanorama.pl": {
@@ -9397,8 +9402,9 @@
         "state": "future"
     },
     "mtp.pl": {
-        "epoch": 1599004800.0,
-        "expiration_date": "02-sep-2020",
+        "epoch": 1630540800.0,
+        "expiration_date": "02-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "mtv.pl": {
@@ -10898,7 +10904,8 @@
     "pepperl-fuchs.com": {
         "epoch": 1599004800.0,
         "expiration_date": "02-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "perfectclima.pl": {
         "epoch": 1618963200.0,
@@ -11411,8 +11418,9 @@
         "state": "future"
     },
     "polskazachwyca.pl": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "polskicaravaning.pl": {
@@ -14292,8 +14300,9 @@
         "state": "future"
     },
     "szukarka.net": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "szybkanauka.pro": {
@@ -14777,8 +14786,9 @@
         "state": "future"
     },
     "torun24.tv": {
-        "epoch": 1599004800.0,
-        "expiration_date": "02-sep-2020",
+        "epoch": 1630540800.0,
+        "expiration_date": "02-sep-2021",
+        "server": "tvwhois.verisign-grs.com",
         "state": "future"
     },
     "toshiba-tv.com": {
