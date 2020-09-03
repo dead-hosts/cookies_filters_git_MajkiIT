@@ -15392,8 +15392,9 @@
         "state": "future"
     },
     "vinci-play.com": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "vinted.pl": {
@@ -16403,8 +16404,9 @@
         "state": "future"
     },
     "zapytaj-lekarza.pl": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1662163200.0,
+        "expiration_date": "03-sep-2022",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "zara.com": {
@@ -16494,8 +16496,9 @@
         "state": "future"
     },
     "zegarkiipasja.pl": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "zepsute.pl": {
