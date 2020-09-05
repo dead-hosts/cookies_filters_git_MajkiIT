@@ -1138,8 +1138,9 @@
         "state": "future"
     },
     "batida.pl": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "baumit.pl": {
@@ -1455,8 +1456,9 @@
         "state": "future"
     },
     "biuletyn.net": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "biurotech.net.pl": {
@@ -1726,10 +1728,10 @@
         "state": "future"
     },
     "bridle.com.pl": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
         "server": "whois.dns.pl",
-        "state": "past"
+        "state": "future"
     },
     "brodnica.net": {
         "epoch": 1629590400.0,
@@ -4313,8 +4315,9 @@
         "state": "future"
     },
     "fandk.com.pl": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "fansubs.pl": {
@@ -10902,10 +10905,10 @@
         "state": "future"
     },
     "pepperl-fuchs.com": {
-        "epoch": 1599004800.0,
-        "expiration_date": "02-sep-2020",
+        "epoch": 1630540800.0,
+        "expiration_date": "02-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "perfectclima.pl": {
         "epoch": 1618963200.0,
@@ -14761,8 +14764,9 @@
         "state": "future"
     },
     "topagrar.pl": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "topmejt.co.uk": {
@@ -16198,8 +16202,9 @@
         "state": "future"
     },
     "wyprzedaze.uk": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.nic.uk",
         "state": "future"
     },
     "wzorcowniawloclawek.com": {
@@ -16465,8 +16470,9 @@
         "state": "future"
     },
     "zdrovit.pl": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "zdrowastrona.pl": {
