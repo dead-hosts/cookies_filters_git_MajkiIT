@@ -44,13 +44,6 @@
             "last_retested_at_iso": "2020-08-28T01:00:11.122332",
             "status": "INACTIVE"
         },
-        "nasze-kino.eu": {
-            "included_at_epoch": 1597019740.006721,
-            "included_at_iso": "2020-08-10T00:35:40.006721",
-            "last_retested_at_epoch": 1598575376.525528,
-            "last_retested_at_iso": "2020-08-28T00:42:56.525528",
-            "status": "INACTIVE"
-        },
         "rma.asus-europe.eu": {
             "included_at_epoch": 1599439585.244574,
             "included_at_iso": "2020-09-07T00:46:25.244574",
