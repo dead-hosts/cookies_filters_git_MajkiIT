@@ -1999,8 +1999,9 @@
         "state": "future"
     },
     "cdr.gov.pl": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "cea-art.pl": {
@@ -4812,8 +4813,9 @@
         "state": "future"
     },
     "funcik.co.uk": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1725667200.0,
+        "expiration_date": "07-sep-2024",
+        "server": "whois.nic.uk",
         "state": "future"
     },
     "funclub.pl": {
@@ -5145,6 +5147,12 @@
     "getmailbird.com": {
         "epoch": 1619740800.0,
         "expiration_date": "30-apr-2021",
+        "state": "future"
+    },
+    "getprice.pl": {
+        "epoch": 1601596800.0,
+        "expiration_date": "02-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "gft.com": {
@@ -7027,6 +7035,12 @@
         "expiration_date": "18-may-2021",
         "state": "future"
     },
+    "kioxia.com": {
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "klinikaagd.pl": {
         "epoch": 1667347200.0,
         "expiration_date": "02-nov-2022",
@@ -7986,8 +8000,9 @@
         "state": "future"
     },
     "logistics.dhl": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.nic.dhl",
         "state": "future"
     },
     "logitech.com": {
@@ -12864,8 +12879,9 @@
         "state": "future"
     },
     "sanprobi-superformula.pl": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1601942400.0,
+        "expiration_date": "06-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "santander.pl": {
@@ -15748,8 +15764,9 @@
         "state": "future"
     },
     "whitervbbit.com": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "wholandii.pl": {

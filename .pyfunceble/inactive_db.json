@@ -51,6 +51,20 @@
             "last_retested_at_iso": "2020-08-28T00:42:56.525528",
             "status": "INACTIVE"
         },
+        "rma.asus-europe.eu": {
+            "included_at_epoch": 1599439585.244574,
+            "included_at_iso": "2020-09-07T00:46:25.244574",
+            "last_retested_at_epoch": 1599439585.244574,
+            "last_retested_at_iso": "2020-09-07T00:46:25.244574",
+            "status": "INACTIVE"
+        },
+        "sklep.delta.poznan.pl": {
+            "included_at_epoch": 1599439585.105857,
+            "included_at_iso": "2020-09-07T00:46:25.105857",
+            "last_retested_at_epoch": 1599439585.105857,
+            "last_retested_at_iso": "2020-09-07T00:46:25.105857",
+            "status": "INACTIVE"
+        },
         "skwerwolnosci.eu": {
             "included_at_epoch": 1597711008.527994,
             "included_at_iso": "2020-08-18T00:36:48.527994",
