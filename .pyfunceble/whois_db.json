@@ -271,8 +271,9 @@
         "state": "future"
     },
     "aero7.pl": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1820448000.0,
+        "expiration_date": "09-sep-2027",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "aforyzmy-cytaty.pl": {
@@ -1125,7 +1126,8 @@
     "barfnyswiat.org": {
         "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
-        "state": "future"
+        "server": "whois.pir.org",
+        "state": "past"
     },
     "bartix.pl": {
         "epoch": 1625616000.0,
@@ -1290,8 +1292,9 @@
         "state": "future"
     },
     "biblio.edu.pl": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "biblioteka.nowaruda.pl": {
@@ -1441,8 +1444,9 @@
         "state": "future"
     },
     "bitcomputer.pl": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "bitmarket24.pl": {
@@ -2451,8 +2455,9 @@
         "state": "future"
     },
     "cubus.com": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "culturapoloneza.ro": {
@@ -5487,8 +5492,9 @@
         "state": "future"
     },
     "gragra.pl": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "gram.pl": {
@@ -5884,8 +5890,9 @@
         "state": "future"
     },
     "horyzont.net": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "horyzonty.pl": {
@@ -5982,8 +5989,9 @@
         "state": "future"
     },
     "hydrem-online.com": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hydro.com": {
@@ -6715,8 +6723,9 @@
         "state": "future"
     },
     "jelenia.tv": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "tvwhois.verisign-grs.com",
         "state": "future"
     },
     "jellinek.pl": {
@@ -9084,8 +9093,9 @@
         "state": "future"
     },
     "moda-pol.com": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "modecom.com": {
@@ -9199,8 +9209,9 @@
         "state": "future"
     },
     "molkip.pl": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "monacollection.pl": {
@@ -13734,8 +13745,9 @@
         "state": "future"
     },
     "sportowiec.com": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sportraw.pl": {
@@ -13854,8 +13866,9 @@
         "state": "future"
     },
     "starachowice-net.pl": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "starbucks.pl": {
