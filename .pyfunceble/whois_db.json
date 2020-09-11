@@ -6685,7 +6685,8 @@
     "jbzdy.cc": {
         "epoch": 1599782400.0,
         "expiration_date": "11-sep-2020",
-        "state": "future"
+        "server": "ccwhois.verisign-grs.com",
+        "state": "past"
     },
     "jbzdy.co": {
         "epoch": 1627344000.0,
@@ -10561,8 +10562,9 @@
         "state": "future"
     },
     "orle-gniazdo.pl": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "orliman.pl": {
@@ -10621,8 +10623,9 @@
         "state": "future"
     },
     "ostrowiecnr1.pl": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "ostrowmaz.com": {
@@ -16557,7 +16560,8 @@
     "zepsute.pl": {
         "epoch": 1599782400.0,
         "expiration_date": "11-sep-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "zeskory.com": {
         "epoch": 1602806400.0,
