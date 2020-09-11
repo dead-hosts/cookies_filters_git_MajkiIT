@@ -92,13 +92,6 @@
             "last_retested_at_epoch": 1598575365.016482,
             "last_retested_at_iso": "2020-08-28T00:42:45.016482",
             "status": "INACTIVE"
-        },
-        "urbanium.eu": {
-            "included_at_epoch": 1597365178.221623,
-            "included_at_iso": "2020-08-14T00:32:58.221623",
-            "last_retested_at_epoch": 1598575346.559346,
-            "last_retested_at_iso": "2020-08-28T00:42:26.559346",
-            "status": "INACTIVE"
         }
     }
 }

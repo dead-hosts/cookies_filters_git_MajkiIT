@@ -978,8 +978,9 @@
         "state": "future"
     },
     "automo.pl": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "autos-motos.net": {
@@ -1124,10 +1125,10 @@
         "state": "future"
     },
     "barfnyswiat.org": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
         "server": "whois.pir.org",
-        "state": "past"
+        "state": "future"
     },
     "bartix.pl": {
         "epoch": 1625616000.0,
@@ -1429,8 +1430,9 @@
         "state": "future"
     },
     "biskupice.pl": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "bispol.pl": {
@@ -3800,8 +3802,9 @@
         "state": "future"
     },
     "elopol.pl": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "eltronik.net.pl": {
@@ -5221,8 +5224,9 @@
         "state": "future"
     },
     "gitara-sklep.pl": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1602288000.0,
+        "expiration_date": "10-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "gkn.pl": {
@@ -6206,8 +6210,9 @@
         "state": "future"
     },
     "info.elblag.pl": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "info24.rzeszow.pl": {
@@ -6980,8 +6985,9 @@
         "state": "future"
     },
     "kerrisgroup.com": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "kghm.com": {
@@ -7448,7 +7454,8 @@
     "kryminalni24.info": {
         "epoch": 1599782400.0,
         "expiration_date": "11-sep-2020",
-        "state": "future"
+        "server": "whois.afilias.net",
+        "state": "past"
     },
     "krzysztonjan.com": {
         "epoch": 1625875200.0,
@@ -8311,8 +8318,9 @@
         "state": "future"
     },
     "makoblog.com": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "maleksiazki.pl": {
@@ -9699,7 +9707,8 @@
     "nasze-kino.tv": {
         "epoch": 1599696000.0,
         "expiration_date": "10-sep-2020",
-        "state": "future"
+        "server": "tvwhois.verisign-grs.com",
+        "state": "past"
     },
     "naszekielce.com": {
         "epoch": 1629244800.0,
@@ -9724,7 +9733,8 @@
     "nauka.rocks": {
         "epoch": 1599782400.0,
         "expiration_date": "11-sep-2020",
-        "state": "future"
+        "server": "whois.nic.rocks",
+        "state": "past"
     },
     "naukaireligia.pl": {
         "epoch": 1628380800.0,
@@ -10628,7 +10638,8 @@
     "otabletach.pl": {
         "epoch": 1599782400.0,
         "expiration_date": "11-sep-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "otodom.pl": {
         "epoch": 1615766400.0,
@@ -16211,8 +16222,9 @@
         "state": "future"
     },
     "wypowiadamoc.pl": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "wypozyczalniasamochodowwarszawa.pl": {
@@ -16516,8 +16528,9 @@
         "state": "future"
     },
     "zdrowemiasto.pl": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "zdrowiewkrakowie.pl": {
