@@ -1044,6 +1044,12 @@
         "expiration_date": "22-mar-2021",
         "state": "future"
     },
+    "az.pl": {
+        "epoch": 1859414400.0,
+        "expiration_date": "03-dec-2028",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "azjatyckibazar.com": {
         "epoch": 1651622400.0,
         "expiration_date": "04-may-2022",
@@ -1102,6 +1108,12 @@
     "balluff.com": {
         "epoch": 1616457600.0,
         "expiration_date": "23-mar-2021",
+        "state": "future"
+    },
+    "balterio.com": {
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "banggood.com": {
@@ -1526,6 +1538,12 @@
     "blikomania.pl": {
         "epoch": 1655596800.0,
         "expiration_date": "19-jun-2022",
+        "state": "future"
+    },
+    "blix.pl": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "blog-pozyczoneiniebieskie.pl": {
@@ -3512,8 +3530,9 @@
         "state": "future"
     },
     "ebroker.pl": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1613779200.0,
+        "expiration_date": "20-feb-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "ebrokerpartner.pl": {
@@ -6341,6 +6360,12 @@
         "expiration_date": "13-jan-2021",
         "state": "future"
     },
+    "intel.pl": {
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "interhotel.pl": {
         "epoch": 1606262400.0,
         "expiration_date": "25-nov-2020",
@@ -6583,8 +6608,9 @@
         "state": "future"
     },
     "jakikredyt.pl": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "jakoscobslugi.pl": {
@@ -7453,10 +7479,10 @@
         "state": "future"
     },
     "kryminalni24.info": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
         "server": "whois.afilias.net",
-        "state": "past"
+        "state": "future"
     },
     "krzysztonjan.com": {
         "epoch": 1625875200.0,
@@ -7761,8 +7787,9 @@
         "state": "future"
     },
     "lech.tv": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "tvwhois.verisign-grs.com",
         "state": "future"
     },
     "lechia.pl": {
@@ -9081,6 +9108,12 @@
         "expiration_date": "10-apr-2021",
         "state": "future"
     },
+    "mobidziennik.pl": {
+        "epoch": 1601337600.0,
+        "expiration_date": "29-sep-2020",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "mobilitynews.pl": {
         "epoch": 1621641600.0,
         "expiration_date": "22-may-2021",
@@ -9706,10 +9739,10 @@
         "state": "future"
     },
     "nasze-kino.tv": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
         "server": "tvwhois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "naszekielce.com": {
         "epoch": 1629244800.0,
@@ -9732,10 +9765,10 @@
         "state": "future"
     },
     "nauka.rocks": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
         "server": "whois.nic.rocks",
-        "state": "past"
+        "state": "future"
     },
     "naukaireligia.pl": {
         "epoch": 1628380800.0,
@@ -10639,10 +10672,10 @@
         "state": "future"
     },
     "otabletach.pl": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
         "server": "whois.dns.pl",
-        "state": "past"
+        "state": "future"
     },
     "otodom.pl": {
         "epoch": 1615766400.0,
@@ -10712,6 +10745,12 @@
     "paliwaolkop.pl": {
         "epoch": 1597449600,
         "expiration_date": "15-aug-2020",
+        "state": "future"
+    },
+    "pampers.pl": {
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "panasonic-electric-works.com": {
@@ -10963,6 +11002,12 @@
     "perfumyfm.biz": {
         "epoch": 1623024000.0,
         "expiration_date": "07-jun-2021",
+        "state": "future"
+    },
+    "pergo.pl": {
+        "epoch": 1611273600.0,
+        "expiration_date": "22-jan-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "personnelsolutions.pl": {
@@ -12213,6 +12258,12 @@
         "expiration_date": "25-feb-2021",
         "state": "future"
     },
+    "quick-step.com.pl": {
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "quiosque.pl": {
         "epoch": 1625529600.0,
         "expiration_date": "06-jul-2021",
@@ -12439,8 +12490,9 @@
         "state": "future"
     },
     "rbsbychawa.pl": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "rck.pila.pl": {
@@ -14957,6 +15009,12 @@
     "trojmiasto.pl": {
         "epoch": 1642982400.0,
         "expiration_date": "24-jan-2022",
+        "state": "future"
+    },
+    "trojmiejska.com": {
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "trojmiejskaperfumeria.pl": {
