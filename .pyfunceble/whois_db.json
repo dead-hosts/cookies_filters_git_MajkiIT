@@ -6709,10 +6709,10 @@
         "state": "future"
     },
     "jbzdy.cc": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
         "server": "ccwhois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "jbzdy.co": {
         "epoch": 1627344000.0,
@@ -9579,8 +9579,9 @@
         "state": "future"
     },
     "muzyczneradio.pl": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "muzykabezkabli.pl": {
@@ -10525,8 +10526,9 @@
         "state": "future"
     },
     "opony.net": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "opowiecie.info": {
@@ -10997,6 +10999,12 @@
     "perfumeria.pl": {
         "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
+        "state": "future"
+    },
+    "perfumeriaplatinium.pl": {
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "perfumyfm.biz": {
@@ -11973,8 +11981,9 @@
         "state": "future"
     },
     "promocodius.com": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "prosto.pl": {
@@ -12165,6 +12174,12 @@
     "pupillo.pl": {
         "epoch": 1607472000.0,
         "expiration_date": "09-dec-2020",
+        "state": "future"
+    },
+    "puratos.pl": {
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "pushpushgo.com": {
@@ -13492,8 +13507,9 @@
         "state": "future"
     },
     "skyscrapercity.com": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "slampa.pl": {
@@ -13569,6 +13585,12 @@
     "smart.com": {
         "epoch": 1604016000.0,
         "expiration_date": "30-oct-2020",
+        "state": "future"
+    },
+    "smartney.pl": {
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "smartpage.pl": {
@@ -14114,8 +14136,9 @@
         "state": "future"
     },
     "stukstuk.pl": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "stylownik.com": {
@@ -14437,6 +14460,12 @@
     "tagen.tv": {
         "epoch": 1620950400.0,
         "expiration_date": "14-may-2021",
+        "state": "future"
+    },
+    "tagomago.pl": {
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "takeda.com": {
@@ -16616,10 +16645,10 @@
         "state": "future"
     },
     "zepsute.pl": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
         "server": "whois.dns.pl",
-        "state": "past"
+        "state": "future"
     },
     "zeskory.com": {
         "epoch": 1602806400.0,
