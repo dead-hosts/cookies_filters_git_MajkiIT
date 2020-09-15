@@ -8123,9 +8123,10 @@
         "state": "future"
     },
     "loterialaciate.pl": {
-        "epoch": 1597536000.0,
-        "expiration_date": "16-aug-2020",
-        "state": "past"
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
     },
     "lotnictwo.net.pl": {
         "epoch": 1622246400.0,
@@ -9407,8 +9408,9 @@
         "state": "future"
     },
     "motostat.pl": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "mototube.pl": {
@@ -16273,8 +16275,9 @@
         "state": "future"
     },
     "www.wroclaw.pl": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "wyczes.net": {

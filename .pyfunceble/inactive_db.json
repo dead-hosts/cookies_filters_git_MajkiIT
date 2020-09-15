@@ -37,13 +37,6 @@
             "last_retested_at_iso": "2020-08-28T01:00:36.273206",
             "status": "INVALID"
         },
-        "loterialaciate.pl": {
-            "included_at_epoch": 1597711079.816119,
-            "included_at_iso": "2020-08-18T00:37:59.816119",
-            "last_retested_at_epoch": 1598576411.122332,
-            "last_retested_at_iso": "2020-08-28T01:00:11.122332",
-            "status": "INACTIVE"
-        },
         "nasze-kino.eu": {
             "included_at_epoch": 1599612444.904498,
             "included_at_iso": "2020-09-09T00:47:24.904498",
@@ -63,13 +56,6 @@
             "included_at_iso": "2020-09-07T00:46:25.105857",
             "last_retested_at_epoch": 1599439585.105857,
             "last_retested_at_iso": "2020-09-07T00:46:25.105857",
-            "status": "INACTIVE"
-        },
-        "skwerwolnosci.eu": {
-            "included_at_epoch": 1597711008.527994,
-            "included_at_iso": "2020-08-18T00:36:48.527994",
-            "last_retested_at_epoch": 1598575346.555881,
-            "last_retested_at_iso": "2020-08-28T00:42:26.555881",
             "status": "INACTIVE"
         },
         "stypendia.sejmik.kielce.pl": {
