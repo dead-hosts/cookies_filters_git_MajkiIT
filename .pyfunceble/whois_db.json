@@ -45,8 +45,9 @@
         "state": "future"
     },
     "3mpolska.pl": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "3s.pl": {
@@ -677,8 +678,9 @@
         "state": "future"
     },
     "apo-discounter.pl": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "apra.pl": {
@@ -3781,8 +3783,9 @@
         "state": "future"
     },
     "elektrozysk.pl": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "elektrykapradnietyka.com": {
@@ -4310,7 +4313,8 @@
     "fajka24.pl": {
         "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "fakturaelektroniczna.com": {
         "epoch": 1623283200.0,
@@ -4494,8 +4498,9 @@
         "state": "future"
     },
     "filoma.org": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "filozofiawnauce.pl": {
@@ -5017,8 +5022,9 @@
         "state": "future"
     },
     "gazeta-fotograficzna.org": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "gazeta-msp.pl": {
@@ -5228,8 +5234,9 @@
         "state": "future"
     },
     "girlsroom.pl": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "gismeteo.pl": {
@@ -6224,8 +6231,9 @@
         "state": "future"
     },
     "info-instal.com": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "info.elblag.pl": {
@@ -8804,8 +8812,9 @@
         "state": "future"
     },
     "meteo.org.pl": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "meteo.waw.pl": {
@@ -11555,8 +11564,9 @@
         "state": "future"
     },
     "polskiprawnik.pl": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "polskonepro.club": {
@@ -13905,8 +13915,9 @@
         "state": "future"
     },
     "srodaslaska.pl": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "srodkidlafirm.com": {
@@ -16384,8 +16395,9 @@
         "state": "future"
     },
     "xtb.com": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "y8.com": {
