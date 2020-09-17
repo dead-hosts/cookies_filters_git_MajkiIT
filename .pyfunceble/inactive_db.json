@@ -37,6 +37,13 @@
             "last_retested_at_iso": "2020-08-28T01:00:36.273206",
             "status": "INVALID"
         },
+        "ebok.jmdi.pl": {
+            "included_at_epoch": 1600303880.0325,
+            "included_at_iso": "2020-09-17T00:51:20.032500",
+            "last_retested_at_epoch": 1600303880.0325,
+            "last_retested_at_iso": "2020-09-17T00:51:20.032500",
+            "status": "INACTIVE"
+        },
         "nasze-kino.eu": {
             "included_at_epoch": 1599612444.904498,
             "included_at_iso": "2020-09-09T00:47:24.904498",
@@ -56,6 +63,20 @@
             "included_at_iso": "2020-09-07T00:46:25.105857",
             "last_retested_at_epoch": 1599439585.105857,
             "last_retested_at_iso": "2020-09-07T00:46:25.105857",
+            "status": "INACTIVE"
+        },
+        "skwerwolnosci.eu": {
+            "included_at_epoch": 1600303876.6858,
+            "included_at_iso": "2020-09-17T00:51:16.685800",
+            "last_retested_at_epoch": 1600303876.6858,
+            "last_retested_at_iso": "2020-09-17T00:51:16.685800",
+            "status": "INACTIVE"
+        },
+        "ssd.cyberfolks.pl": {
+            "included_at_epoch": 1600303876.423798,
+            "included_at_iso": "2020-09-17T00:51:16.423798",
+            "last_retested_at_epoch": 1600303876.423798,
+            "last_retested_at_iso": "2020-09-17T00:51:16.423798",
             "status": "INACTIVE"
         },
         "stypendia.sejmik.kielce.pl": {
