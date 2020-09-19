@@ -9686,8 +9686,9 @@
         "state": "future"
     },
     "myownconference.pl": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "mytastepol.com": {
@@ -9937,6 +9938,12 @@
         "expiration_date": "10-nov-2021",
         "state": "future"
     },
+    "netkoncept.com": {
+        "epoch": 1728086400.0,
+        "expiration_date": "05-oct-2024",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "netpolska.com": {
         "epoch": 1642291200.0,
         "expiration_date": "16-jan-2022",
@@ -10073,8 +10080,9 @@
         "state": "future"
     },
     "no-ip.pl": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "nobiles.pl": {
@@ -11696,8 +11704,9 @@
         "state": "future"
     },
     "porno720.pl": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "portale-randkowe-ranking.pl": {
@@ -12380,8 +12389,9 @@
         "state": "future"
     },
     "radio17.pl": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "radioem.pl": {
@@ -12984,8 +12994,9 @@
         "state": "future"
     },
     "salonynoma.pl": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "salzburg.info": {
@@ -13733,8 +13744,9 @@
         "state": "future"
     },
     "sokolow.pl": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "solarisbus.com": {
@@ -14609,6 +14621,12 @@
         "expiration_date": "19-may-2021",
         "state": "future"
     },
+    "tcl.com": {
+        "epoch": 1670025600.0,
+        "expiration_date": "03-dec-2022",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "tcz.pl": {
         "epoch": 1611705600.0,
         "expiration_date": "27-jan-2021",
@@ -15184,10 +15202,10 @@
         "state": "future"
     },
     "tulodz.pl": {
-        "epoch": 1600300800.0,
-        "expiration_date": "17-sep-2020",
+        "epoch": 1631836800.0,
+        "expiration_date": "17-sep-2021",
         "server": "whois.dns.pl",
-        "state": "past"
+        "state": "future"
     },
     "turek.net.pl": {
         "epoch": 1610755200.0,
@@ -15323,6 +15341,12 @@
     "twojogrodek.pl": {
         "epoch": 1638835200.0,
         "expiration_date": "07-dec-2021",
+        "state": "future"
+    },
+    "twojsklep.com.pl": {
+        "epoch": 1617667200.0,
+        "expiration_date": "06-apr-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "twojtenis.pl": {
@@ -15614,8 +15638,9 @@
         "state": "future"
     },
     "virustotal.com": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "visitczechrepublic.com": {
