@@ -359,8 +359,9 @@
         "state": "future"
     },
     "airdron-polska.pl": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1629417600.0,
+        "expiration_date": "20-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "akademia-piwa.pl": {
@@ -2387,6 +2388,12 @@
     "cookieq.com": {
         "epoch": 1647734400.0,
         "expiration_date": "20-mar-2022",
+        "state": "future"
+    },
+    "cookpad.com": {
+        "epoch": 1839110400.0,
+        "expiration_date": "12-apr-2028",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cooltura24.co.uk": {
@@ -5604,8 +5611,9 @@
         "state": "future"
     },
     "grojec24.net": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "groman.pl": {
@@ -6814,6 +6822,12 @@
         "expiration_date": "14-mar-2021",
         "state": "future"
     },
+    "jogapiekna.com": {
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "jogobella.com": {
         "epoch": 1613520000.0,
         "expiration_date": "17-feb-2021",
@@ -7081,8 +7095,9 @@
         "state": "future"
     },
     "kimsufi.com": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "kinder.com": {
@@ -7454,7 +7469,8 @@
     "krnmedia.pl": {
         "epoch": 1600473600.0,
         "expiration_date": "19-sep-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "krokdozdrowia.com": {
         "epoch": 1607990400.0,
@@ -7645,8 +7661,9 @@
         "state": "future"
     },
     "kyoceradocumentsolutions.pl": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "kzgw.gov.pl": {
@@ -8105,7 +8122,8 @@
     "loma.com": {
         "epoch": 1600473600.0,
         "expiration_date": "19-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "lomianki.pl": {
         "epoch": 1647820800.0,
@@ -8411,8 +8429,9 @@
         "state": "future"
     },
     "malybelgrad.pl": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "malygosc.pl": {
@@ -8979,8 +8998,9 @@
         "state": "future"
     },
     "millymally.pl": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "milmag.pl": {
@@ -10493,8 +10513,9 @@
         "state": "future"
     },
     "ontrack.com": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "opel.pl": {
@@ -10701,8 +10722,9 @@
         "state": "future"
     },
     "oszczedzarka.co.uk": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.nic.uk",
         "state": "future"
     },
     "otabletach.pl": {
@@ -12438,8 +12460,9 @@
         "state": "future"
     },
     "radiozet.pl": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "radissonblu.com": {
@@ -12674,8 +12697,9 @@
         "state": "future"
     },
     "requiem-records.com": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "reserved.com": {
@@ -13515,8 +13539,9 @@
         "state": "future"
     },
     "skottuning.com": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "skryptcookies.pl": {
@@ -14352,8 +14377,9 @@
         "state": "future"
     },
     "synonim.net": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "systemair.com": {
