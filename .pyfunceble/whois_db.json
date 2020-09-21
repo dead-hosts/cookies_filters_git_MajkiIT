@@ -11237,8 +11237,9 @@
         "state": "future"
     },
     "pizzahut.pl": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "pizzaportal.pl": {
@@ -13537,8 +13538,9 @@
         "state": "future"
     },
     "skleprowerowy.pl": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1601596800.0,
+        "expiration_date": "02-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "sklepyabc.pl": {

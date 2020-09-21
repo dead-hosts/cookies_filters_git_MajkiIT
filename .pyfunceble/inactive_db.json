@@ -9,13 +9,6 @@
         }
     },
     "/home/travis/build/dead-hosts/cookies_filters_git_MajkiIT/domains.list": {
-        "adeste.eu": {
-            "included_at_epoch": 1598229578.060702,
-            "included_at_iso": "2020-08-24T00:39:38.060702",
-            "last_retested_at_epoch": 1598575353.30444,
-            "last_retested_at_iso": "2020-08-28T00:42:33.304440",
-            "status": "INACTIVE"
-        },
         "agro-bis.eu": {
             "included_at_epoch": 1598921013.135082,
             "included_at_iso": "2020-09-01T00:43:33.135082",
