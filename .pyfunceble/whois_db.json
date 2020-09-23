@@ -736,8 +736,9 @@
         "state": "future"
     },
     "architektura.info": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "archiwa.gov.pl": {
@@ -2948,8 +2949,9 @@
         "state": "future"
     },
     "disport.pl": {
-        "epoch": 1600819200.0,
-        "expiration_date": "23-sep-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "distortstudios.com": {
@@ -3173,8 +3175,9 @@
         "state": "future"
     },
     "dotsport.pl": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "douglas.pl": {
@@ -3495,8 +3498,9 @@
         "state": "future"
     },
     "e-seminaria.pl": {
-        "epoch": 1600819200.0,
-        "expiration_date": "23-sep-2020",
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "e-stacjapaliw.pl": {
@@ -3874,8 +3878,9 @@
         "state": "future"
     },
     "embros.pl": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "emc-sa.pl": {
@@ -6508,8 +6513,9 @@
         "state": "future"
     },
     "ipa-katowice.org": {
-        "epoch": 1600819200.0,
-        "expiration_date": "23-sep-2020",
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "iperfumy.pl": {
@@ -8227,8 +8233,9 @@
         "state": "future"
     },
     "lstsoft.com.pl": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "lubartow24.pl": {
@@ -11578,8 +11585,9 @@
         "state": "future"
     },
     "polskaekologia.org": {
-        "epoch": 1600819200.0,
-        "expiration_date": "23-sep-2020",
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "polskatradycja.pl": {
