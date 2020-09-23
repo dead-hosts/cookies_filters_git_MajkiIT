@@ -23,6 +23,13 @@
             "last_retested_at_iso": "2020-08-30T00:42:06.535541",
             "status": "INACTIVE"
         },
+        "cmp.*.pl": {
+            "included_at_epoch": 1600823117.204667,
+            "included_at_iso": "2020-09-23T01:05:17.204667",
+            "last_retested_at_epoch": 1600823117.204667,
+            "last_retested_at_iso": "2020-09-23T01:05:17.204667",
+            "status": "INVALID"
+        },
         "e-podlaskie.eu": {
             "included_at_epoch": 1600822393.295153,
             "included_at_iso": "2020-09-23T00:53:13.295153",
@@ -70,6 +77,27 @@
             "included_at_iso": "2020-09-17T00:51:16.423798",
             "last_retested_at_epoch": 1600303876.423798,
             "last_retested_at_iso": "2020-09-17T00:51:16.423798",
+            "status": "INACTIVE"
+        },
+        "stypendia.sejmik.kielce.pl": {
+            "included_at_epoch": 1600823116.005897,
+            "included_at_iso": "2020-09-23T01:05:16.005897",
+            "last_retested_at_epoch": 1600823116.005897,
+            "last_retested_at_iso": "2020-09-23T01:05:16.005897",
+            "status": "INACTIVE"
+        },
+        "testujemy.biedronka.pl": {
+            "included_at_epoch": 1600823116.191937,
+            "included_at_iso": "2020-09-23T01:05:16.191937",
+            "last_retested_at_epoch": 1600823116.191937,
+            "last_retested_at_iso": "2020-09-23T01:05:16.191937",
+            "status": "INACTIVE"
+        },
+        "www.simex.pl": {
+            "included_at_epoch": 1600823116.917966,
+            "included_at_iso": "2020-09-23T01:05:16.917966",
+            "last_retested_at_epoch": 1600823116.917966,
+            "last_retested_at_iso": "2020-09-23T01:05:16.917966",
             "status": "INACTIVE"
         }
     }

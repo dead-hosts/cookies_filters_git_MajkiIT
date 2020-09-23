@@ -10027,8 +10027,9 @@
         "state": "future"
     },
     "nickjr.com.pl": {
-        "epoch": 1600819200.0,
-        "expiration_date": "23-sep-2020",
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "nieruchomosci-bez-posrednikow.com.pl": {
@@ -11895,8 +11896,9 @@
         "state": "future"
     },
     "prakreacja.pl": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "praktiker.pl": {
@@ -12186,8 +12188,9 @@
         "state": "future"
     },
     "ptep.pl": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "pttk.katowice.pl": {
@@ -15907,8 +15910,9 @@
         "state": "future"
     },
     "webprojekt.biz": {
-        "epoch": 1600819200.0,
-        "expiration_date": "23-sep-2020",
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
+        "server": "whois.nic.biz",
         "state": "future"
     },
     "webster-studio.pl": {
@@ -16245,7 +16249,8 @@
     "wotore.tv": {
         "epoch": 1600732800.0,
         "expiration_date": "22-sep-2020",
-        "state": "future"
+        "server": "tvwhois.verisign-grs.com",
+        "state": "past"
     },
     "wp.pl": {
         "epoch": 1619481600.0,
@@ -16885,8 +16890,9 @@
         "state": "future"
     },
     "znanylekarz.pl": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "zoliborzkrasinskiego.pl": {
