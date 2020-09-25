@@ -218,8 +218,9 @@
         "state": "future"
     },
     "adexemplum.com": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adguard.com": {
@@ -600,8 +601,9 @@
         "state": "future"
     },
     "amundi.pl": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "androidmagazine.pl": {
@@ -1066,8 +1068,9 @@
         "state": "future"
     },
     "azorek.pl": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "baborow.pl": {
@@ -2225,8 +2228,9 @@
         "state": "future"
     },
     "cinema3d.pl": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "cineman.pl": {
@@ -3117,7 +3121,8 @@
     "domowa.pizza": {
         "epoch": 1600992000.0,
         "expiration_date": "25-sep-2020",
-        "state": "future"
+        "server": "whois.nic.pizza",
+        "state": "past"
     },
     "domowladni.pl": {
         "epoch": 1656979200.0,
@@ -5444,8 +5449,9 @@
         "state": "future"
     },
     "golfparkspoland.pl": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "gomez.pl": {
@@ -7843,8 +7849,9 @@
         "state": "future"
     },
     "leagueoflegends.com": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "lech.tv": {
@@ -8126,8 +8133,9 @@
         "state": "future"
     },
     "lokalnabiznes.pl": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "lokalnyrolnik.pl": {
@@ -14210,7 +14218,8 @@
     "stskurier.com": {
         "epoch": 1600905600.0,
         "expiration_date": "24-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "studentbeans.com": {
         "epoch": 1611532800.0,
@@ -15218,8 +15227,9 @@
         "state": "future"
     },
     "tubaostrowa.pl": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "tubawyszkowa.pl": {
@@ -15571,8 +15581,9 @@
         "state": "future"
     },
     "vacansoleil.pl": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "vademecumksiegowego.pl": {
@@ -16374,8 +16385,9 @@
         "state": "future"
     },
     "www.pisz.pl": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "www.wroclaw.pl": {
