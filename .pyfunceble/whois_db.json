@@ -10232,6 +10232,12 @@
         "expiration_date": "23-may-2021",
         "state": "future"
     },
+    "nowiny.rybnik.pl": {
+        "epoch": 1615161600.0,
+        "expiration_date": "08-mar-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "nowy-sacz.info": {
         "epoch": 1610409600.0,
         "expiration_date": "12-jan-2021",
@@ -11758,6 +11764,12 @@
         "expiration_date": "06-nov-2020",
         "state": "future"
     },
+    "portaloswiatowy.pl": {
+        "epoch": 1602892800.0,
+        "expiration_date": "17-oct-2020",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "portalpszczelarski.pl": {
         "epoch": 1755648000.0,
         "expiration_date": "20-aug-2025",
@@ -12922,6 +12934,12 @@
     "rp.pl": {
         "epoch": 1606867200.0,
         "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
+    "rpo-swietokrzyskie.pl": {
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "rudaslaska.com.pl": {
@@ -14208,7 +14226,8 @@
     "stronghold.net.pl": {
         "epoch": 1600992000.0,
         "expiration_date": "25-sep-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "strzelnicabojowa.pl": {
         "epoch": 1618358400.0,
@@ -14673,8 +14692,9 @@
         "state": "future"
     },
     "teatr-capitol.pl": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "teatr-maly.pl": {
@@ -15184,6 +15204,12 @@
     "truso.tv": {
         "epoch": 1621382400.0,
         "expiration_date": "19-may-2021",
+        "state": "future"
+    },
+    "trustmate.io": {
+        "epoch": 1606003200.0,
+        "expiration_date": "22-nov-2020",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "trustpilot.com": {
@@ -15821,8 +15847,9 @@
         "state": "future"
     },
     "wapteka.pl": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "warka.com.pl": {
@@ -16258,10 +16285,10 @@
         "state": "future"
     },
     "wotore.tv": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
         "server": "tvwhois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "wp.pl": {
         "epoch": 1619481600.0,
