@@ -15416,6 +15416,13 @@
             "last_retested_at_iso": "2020-09-25T00:55:33.788352",
             "status": "ACTIVE"
         },
+        "mojeuslugi.pl": {
+            "included_at_epoch": 1601167308.506569,
+            "included_at_iso": "2020-09-27T00:41:48.506569",
+            "last_retested_at_epoch": 1601167308.506569,
+            "last_retested_at_iso": "2020-09-27T00:41:48.506569",
+            "status": "ACTIVE"
+        },
         "mojewypieki.com": {
             "included_at_epoch": 1600995266.557952,
             "included_at_iso": "2020-09-25T00:54:26.557952",
@@ -18991,6 +18998,13 @@
             "included_at_iso": "2020-09-25T00:55:09.435825",
             "last_retested_at_epoch": 1600995309.435825,
             "last_retested_at_iso": "2020-09-25T00:55:09.435825",
+            "status": "ACTIVE"
+        },
+        "pl.trip.com": {
+            "included_at_epoch": 1601167308.623518,
+            "included_at_iso": "2020-09-27T00:41:48.623518",
+            "last_retested_at_epoch": 1601167308.623518,
+            "last_retested_at_iso": "2020-09-27T00:41:48.623518",
             "status": "ACTIVE"
         },
         "pl.tripadvisor.com": {
