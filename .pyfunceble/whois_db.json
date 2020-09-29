@@ -70,6 +70,12 @@
         "expiration_date": "27-jun-2021",
         "state": "future"
     },
+    "4fun.tv": {
+        "epoch": 1618272000.0,
+        "expiration_date": "13-apr-2021",
+        "server": "tvwhois.verisign-grs.com",
+        "state": "future"
+    },
     "4geek.co": {
         "epoch": 1613347200.0,
         "expiration_date": "15-feb-2021",
@@ -11355,6 +11361,12 @@
         "expiration_date": "13-feb-2021",
         "state": "future"
     },
+    "platanhouse.com.pl": {
+        "epoch": 1618704000.0,
+        "expiration_date": "18-apr-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "platforma.org": {
         "epoch": 1612137600.0,
         "expiration_date": "01-feb-2021",
@@ -13550,6 +13562,12 @@
         "expiration_date": "08-aug-2021",
         "state": "future"
     },
+    "sklepbiker.pl": {
+        "epoch": 1604880000.0,
+        "expiration_date": "09-nov-2020",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "sklepdlalekarza.com": {
         "epoch": 1634169600.0,
         "expiration_date": "14-oct-2021",
@@ -14331,6 +14349,12 @@
     "supermemo.com": {
         "epoch": 1609977600.0,
         "expiration_date": "07-jan-2021",
+        "state": "future"
+    },
+    "supermenu.com.pl": {
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "superstacja.tv": {
