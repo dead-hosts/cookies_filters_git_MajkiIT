@@ -528,11 +528,11 @@
             "status": "ACTIVE"
         },
         "agro-bis.eu": {
-            "included_at_epoch": 1598921013.135082,
-            "included_at_iso": "2020-09-01T00:43:33.135082",
-            "last_retested_at_epoch": 1598921013.135082,
-            "last_retested_at_iso": "2020-09-01T00:43:33.135082",
-            "status": "INACTIVE"
+            "included_at_epoch": 1601513025.020713,
+            "included_at_iso": "2020-10-01T00:43:45.020713",
+            "last_retested_at_epoch": 1601513025.020713,
+            "last_retested_at_iso": "2020-10-01T00:43:45.020713",
+            "status": "ACTIVE"
         },
         "agropolska.pl": {
             "included_at_epoch": 1600995271.285168,
@@ -4993,6 +4993,13 @@
             "last_retested_at_iso": "2020-09-25T00:54:53.810683",
             "status": "ACTIVE"
         },
+        "dkms.pl": {
+            "included_at_epoch": 1601513025.361819,
+            "included_at_iso": "2020-10-01T00:43:45.361819",
+            "last_retested_at_epoch": 1601513025.943136,
+            "last_retested_at_iso": "2020-10-01T00:43:45.943136",
+            "status": "ACTIVE"
+        },
         "dkpraga.pl": {
             "included_at_epoch": 1600995293.836846,
             "included_at_iso": "2020-09-25T00:54:53.836846",
@@ -7177,6 +7184,13 @@
             "last_retested_at_iso": "2020-09-25T00:54:30.334996",
             "status": "ACTIVE"
         },
+        "express.pl": {
+            "included_at_epoch": 1601513025.250431,
+            "included_at_iso": "2020-10-01T00:43:45.250431",
+            "last_retested_at_epoch": 1601513025.250431,
+            "last_retested_at_iso": "2020-10-01T00:43:45.250431",
+            "status": "ACTIVE"
+        },
         "extension.admitad.com": {
             "included_at_epoch": 1600995305.028076,
             "included_at_iso": "2020-09-25T00:55:05.028076",
@@ -9240,6 +9254,20 @@
             "included_at_iso": "2020-09-25T00:55:18.390295",
             "last_retested_at_epoch": 1600995318.390295,
             "last_retested_at_iso": "2020-09-25T00:55:18.390295",
+            "status": "ACTIVE"
+        },
+        "gotowkadlaciebie.com": {
+            "included_at_epoch": 1601513025.079777,
+            "included_at_iso": "2020-10-01T00:43:45.079777",
+            "last_retested_at_epoch": 1601513025.079777,
+            "last_retested_at_iso": "2020-10-01T00:43:45.079777",
+            "status": "ACTIVE"
+        },
+        "gotowkadlafirm.pl": {
+            "included_at_epoch": 1601513025.168283,
+            "included_at_iso": "2020-10-01T00:43:45.168283",
+            "last_retested_at_epoch": 1601513025.168283,
+            "last_retested_at_iso": "2020-10-01T00:43:45.168283",
             "status": "ACTIVE"
         },
         "gotujmy.pl": {
@@ -19733,6 +19761,13 @@
             "included_at_iso": "2020-09-25T00:55:02.297949",
             "last_retested_at_epoch": 1600995302.297949,
             "last_retested_at_iso": "2020-09-25T00:55:02.297949",
+            "status": "ACTIVE"
+        },
+        "poradykomputerowe.pl": {
+            "included_at_epoch": 1601513025.613382,
+            "included_at_iso": "2020-10-01T00:43:45.613382",
+            "last_retested_at_epoch": 1601513026.109321,
+            "last_retested_at_iso": "2020-10-01T00:43:46.109321",
             "status": "ACTIVE"
         },
         "poradypodatkowe.pl": {

@@ -2979,6 +2979,12 @@
         "expiration_date": "29-nov-2020",
         "state": "future"
     },
+    "dkms.pl": {
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "dkpraga.pl": {
         "epoch": 1609718400.0,
         "expiration_date": "04-jan-2021",
@@ -4306,6 +4312,12 @@
         "expiration_date": "07-jan-2021",
         "state": "future"
     },
+    "express.pl": {
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "extra-program.pl": {
         "epoch": 1613433600.0,
         "expiration_date": "16-feb-2021",
@@ -5538,6 +5550,18 @@
     "gothaer.pl": {
         "epoch": 1658016000.0,
         "expiration_date": "17-jul-2022",
+        "state": "future"
+    },
+    "gotowkadlaciebie.com": {
+        "epoch": 1613606400.0,
+        "expiration_date": "18-feb-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "gotowkadlafirm.pl": {
+        "epoch": 1614816000.0,
+        "expiration_date": "04-mar-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "gotujmy.pl": {
@@ -11743,6 +11767,12 @@
     "poradnikksiegowego.pl": {
         "epoch": 1614038400.0,
         "expiration_date": "23-feb-2021",
+        "state": "future"
+    },
+    "poradykomputerowe.pl": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "poradypodatkowe.pl": {
