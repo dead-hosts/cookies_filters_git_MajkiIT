@@ -20,8 +20,9 @@
         "state": "future"
     },
     "24opony.pl": {
-        "epoch": 1601164800.0,
-        "expiration_date": "27-sep-2020",
+        "epoch": 1632700800.0,
+        "expiration_date": "27-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "2x45.info": {
@@ -482,8 +483,9 @@
         "state": "future"
     },
     "allbox.tv": {
-        "epoch": 1601424000.0,
-        "expiration_date": "30-sep-2020",
+        "epoch": 1632960000.0,
+        "expiration_date": "30-sep-2021",
+        "server": "tvwhois.verisign-grs.com",
         "state": "future"
     },
     "allegro.pl": {
@@ -597,8 +599,9 @@
         "state": "future"
     },
     "ampero.pl": {
-        "epoch": 1601510400.0,
-        "expiration_date": "01-oct-2020",
+        "epoch": 1633046400.0,
+        "expiration_date": "01-oct-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "amrol.pl": {
@@ -643,8 +646,9 @@
         "state": "future"
     },
     "antyczek.pl": {
-        "epoch": 1601337600.0,
-        "expiration_date": "29-sep-2020",
+        "epoch": 1632873600.0,
+        "expiration_date": "29-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "antyradio.pl": {
@@ -765,8 +769,9 @@
         "state": "future"
     },
     "arkady.info": {
-        "epoch": 1601424000.0,
-        "expiration_date": "30-sep-2020",
+        "epoch": 1632960000.0,
+        "expiration_date": "30-sep-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "arnicaapteka.pl": {
@@ -1017,8 +1022,9 @@
         "state": "future"
     },
     "avaaz.org": {
-        "epoch": 1601424000.0,
-        "expiration_date": "30-sep-2020",
+        "epoch": 1632960000.0,
+        "expiration_date": "30-sep-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "avans.pl": {
@@ -1376,8 +1382,9 @@
         "state": "future"
     },
     "bieszczady.pro": {
-        "epoch": 1601251200.0,
-        "expiration_date": "28-sep-2020",
+        "epoch": 1632787200.0,
+        "expiration_date": "28-sep-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "bigstar.pl": {
@@ -1696,8 +1703,9 @@
         "state": "future"
     },
     "bosch-extra.pl": {
-        "epoch": 1601596800.0,
-        "expiration_date": "02-oct-2020",
+        "epoch": 1633132800.0,
+        "expiration_date": "02-oct-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "bosch-garden.com": {
@@ -1897,8 +1905,9 @@
         "state": "future"
     },
     "busfor.pl": {
-        "epoch": 1601596800.0,
-        "expiration_date": "02-oct-2020",
+        "epoch": 1633132800.0,
+        "expiration_date": "02-oct-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "business.link": {
@@ -2285,8 +2294,9 @@
         "state": "future"
     },
     "clearchannel.com.pl": {
-        "epoch": 1601164800.0,
-        "expiration_date": "27-sep-2020",
+        "epoch": 1664236800.0,
+        "expiration_date": "27-sep-2022",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "clickmeeting.com": {
@@ -2516,7 +2526,8 @@
     "culturapoloneza.ro": {
         "epoch": 1601337600.0,
         "expiration_date": "29-sep-2020",
-        "state": "future"
+        "server": "whois.rotld.ro",
+        "state": "past"
     },
     "culture.pl": {
         "epoch": 1636243200.0,
@@ -2834,8 +2845,9 @@
         "state": "future"
     },
     "denique.pl": {
-        "epoch": 1601510400.0,
-        "expiration_date": "01-oct-2020",
+        "epoch": 1633046400.0,
+        "expiration_date": "01-oct-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "denley.pl": {
@@ -2844,8 +2856,9 @@
         "state": "future"
     },
     "denon.pl": {
-        "epoch": 1601424000.0,
-        "expiration_date": "30-sep-2020",
+        "epoch": 1632960000.0,
+        "expiration_date": "30-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "denso.com": {
@@ -3131,10 +3144,10 @@
         "state": "future"
     },
     "domowa.pizza": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
         "server": "whois.nic.pizza",
-        "state": "past"
+        "state": "future"
     },
     "domowladni.pl": {
         "epoch": 1656979200.0,
@@ -3598,8 +3611,9 @@
         "state": "future"
     },
     "eccoholiday.com": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "echosonda.pl": {
@@ -3733,8 +3747,9 @@
         "state": "future"
     },
     "ekonomika.pl": {
-        "epoch": 1601164800.0,
-        "expiration_date": "27-sep-2020",
+        "epoch": 1632700800.0,
+        "expiration_date": "27-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "ekookna.pl": {
@@ -3983,8 +3998,9 @@
         "state": "future"
     },
     "entertheroom.pl": {
-        "epoch": 1601510400.0,
-        "expiration_date": "01-oct-2020",
+        "epoch": 1633046400.0,
+        "expiration_date": "01-oct-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "enut.pl": {
@@ -4073,8 +4089,9 @@
         "state": "future"
     },
     "eservice.pl": {
-        "epoch": 1601337600.0,
-        "expiration_date": "29-sep-2020",
+        "epoch": 1632873600.0,
+        "expiration_date": "29-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "esi24.net": {
@@ -4476,8 +4493,9 @@
         "state": "future"
     },
     "ferrarikatowice.pl": {
-        "epoch": 1601596800.0,
-        "expiration_date": "02-oct-2020",
+        "epoch": 1633132800.0,
+        "expiration_date": "02-oct-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "ferrariwarszawa.com": {
@@ -4648,8 +4666,9 @@
         "state": "future"
     },
     "fleetboard.pl": {
-        "epoch": 1601683200.0,
-        "expiration_date": "03-oct-2020",
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "flixbus.pl": {
@@ -5243,8 +5262,8 @@
         "state": "future"
     },
     "getprice.pl": {
-        "epoch": 1601596800.0,
-        "expiration_date": "02-oct-2020",
+        "epoch": 1633132800.0,
+        "expiration_date": "02-oct-2021",
         "server": "whois.dns.pl",
         "state": "future"
     },
@@ -5259,8 +5278,9 @@
         "state": "future"
     },
     "gieldarolna.pl": {
-        "epoch": 1601164800.0,
-        "expiration_date": "27-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "giercownia.pl": {
@@ -5591,8 +5611,9 @@
         "state": "future"
     },
     "grafoteka.pl": {
-        "epoch": 1601510400.0,
-        "expiration_date": "01-oct-2020",
+        "epoch": 1633046400.0,
+        "expiration_date": "01-oct-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "gragra.pl": {
@@ -5760,8 +5781,9 @@
         "state": "future"
     },
     "hair-shop.pl": {
-        "epoch": 1601164800.0,
-        "expiration_date": "27-sep-2020",
+        "epoch": 1632700800.0,
+        "expiration_date": "27-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "halogorlice.info": {
@@ -5906,8 +5928,9 @@
         "state": "future"
     },
     "hikoki-narzedzia.pl": {
-        "epoch": 1601251200.0,
-        "expiration_date": "28-sep-2020",
+        "epoch": 1632787200.0,
+        "expiration_date": "28-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "hillsvet.pl": {
@@ -6752,8 +6775,9 @@
         "state": "future"
     },
     "jarocinska.pl": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1664150400.0,
+        "expiration_date": "26-sep-2022",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "jasfbg.com.pl": {
@@ -6996,8 +7020,9 @@
         "state": "future"
     },
     "kameleonbutik.com": {
-        "epoch": 1601510400.0,
-        "expiration_date": "01-oct-2020",
+        "epoch": 1696118400.0,
+        "expiration_date": "01-oct-2023",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "kamery.live": {
@@ -7459,8 +7484,9 @@
         "state": "future"
     },
     "kpim.pl": {
-        "epoch": 1601164800.0,
-        "expiration_date": "27-sep-2020",
+        "epoch": 1632700800.0,
+        "expiration_date": "27-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "kpzpn.pl": {
@@ -7779,8 +7805,9 @@
         "state": "future"
     },
     "lampyilampki.pl": {
-        "epoch": 1601596800.0,
-        "expiration_date": "02-oct-2020",
+        "epoch": 1633132800.0,
+        "expiration_date": "02-oct-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "lampytanie.pl": {
@@ -10082,8 +10109,9 @@
         "state": "future"
     },
     "nieruchomosci-komercyjne.info": {
-        "epoch": 1601251200.0,
-        "expiration_date": "28-sep-2020",
+        "epoch": 1632787200.0,
+        "expiration_date": "28-sep-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "niezalezna.pl": {
@@ -11700,8 +11728,9 @@
         "state": "future"
     },
     "polskonepro.club": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
+        "server": "whois.nic.club",
         "state": "future"
     },
     "polsky.tv": {
@@ -12647,8 +12676,9 @@
         "state": "future"
     },
     "rawicz24.pl": {
-        "epoch": 1601510400.0,
-        "expiration_date": "01-oct-2020",
+        "epoch": 1633046400.0,
+        "expiration_date": "01-oct-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "rawlplug.com": {
@@ -12884,8 +12914,9 @@
         "state": "future"
     },
     "rocks-jeans.com": {
-        "epoch": 1601164800.0,
-        "expiration_date": "27-sep-2020",
+        "epoch": 1632700800.0,
+        "expiration_date": "27-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "rockwellautomation.com": {
@@ -14289,10 +14320,10 @@
         "state": "future"
     },
     "stskurier.com": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "studentbeans.com": {
         "epoch": 1611532800.0,
@@ -14783,8 +14814,9 @@
         "state": "future"
     },
     "techniline.com": {
-        "epoch": 1601164800.0,
-        "expiration_date": "27-sep-2020",
+        "epoch": 1632700800.0,
+        "expiration_date": "27-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "techpedia.pl": {
@@ -14868,8 +14900,9 @@
         "state": "future"
     },
     "telvinet.com.pl": {
-        "epoch": 1601424000.0,
-        "expiration_date": "30-sep-2020",
+        "epoch": 1632960000.0,
+        "expiration_date": "30-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "tenit.com.pl": {
@@ -15512,8 +15545,9 @@
         "state": "future"
     },
     "tylkodywan.pl": {
-        "epoch": 1601164800.0,
-        "expiration_date": "27-sep-2020",
+        "epoch": 1632700800.0,
+        "expiration_date": "27-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "tylkohity.pl": {
@@ -16315,8 +16349,9 @@
         "state": "future"
     },
     "wolnekonopie.org": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1695686400.0,
+        "expiration_date": "26-sep-2023",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "woobykids.com": {
