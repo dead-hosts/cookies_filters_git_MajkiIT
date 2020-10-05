@@ -5924,6 +5924,13 @@
             "last_retested_at_iso": "2020-10-03T00:59:42.273121",
             "status": "ACTIVE"
         },
+        "eastend.pl": {
+            "included_at_epoch": 1601858683.136214,
+            "included_at_iso": "2020-10-05T00:44:43.136214",
+            "last_retested_at_epoch": 1601858683.136214,
+            "last_retested_at_iso": "2020-10-05T00:44:43.136214",
+            "status": "ACTIVE"
+        },
         "easyjet.com": {
             "included_at_epoch": 1600995297.262532,
             "included_at_iso": "2020-09-25T00:54:57.262532",
@@ -6741,6 +6748,13 @@
             "included_at_iso": "2020-09-25T00:55:03.302649",
             "last_retested_at_epoch": 1601686794.510351,
             "last_retested_at_iso": "2020-10-03T00:59:54.510351",
+            "status": "ACTIVE"
+        },
+        "eredivisie.pl": {
+            "included_at_epoch": 1601858683.221258,
+            "included_at_iso": "2020-10-05T00:44:43.221258",
+            "last_retested_at_epoch": 1601858683.221258,
+            "last_retested_at_iso": "2020-10-05T00:44:43.221258",
             "status": "ACTIVE"
         },
         "ergokantor.pl": {
@@ -11697,6 +11711,13 @@
             "included_at_iso": "2020-09-25T00:54:38.963477",
             "last_retested_at_epoch": 1601686736.455714,
             "last_retested_at_iso": "2020-10-03T00:58:56.455714",
+            "status": "ACTIVE"
+        },
+        "katw.pl": {
+            "included_at_epoch": 1601858683.301145,
+            "included_at_iso": "2020-10-05T00:44:43.301145",
+            "last_retested_at_epoch": 1601858683.301145,
+            "last_retested_at_iso": "2020-10-05T00:44:43.301145",
             "status": "ACTIVE"
         },
         "kawasaki.pl": {
@@ -21233,6 +21254,13 @@
             "last_retested_at_iso": "2020-09-25T01:05:45.654416",
             "status": "ACTIVE"
         },
+        "rbinternational.com.pl": {
+            "included_at_epoch": 1601858683.402034,
+            "included_at_iso": "2020-10-05T00:44:43.402034",
+            "last_retested_at_epoch": 1601858683.402034,
+            "last_retested_at_iso": "2020-10-05T00:44:43.402034",
+            "status": "ACTIVE"
+        },
         "rbsbychawa.pl": {
             "included_at_epoch": 1600995269.724853,
             "included_at_iso": "2020-09-25T00:54:29.724853",
@@ -22358,6 +22386,13 @@
             "included_at_iso": "2020-09-25T01:06:08.513771",
             "last_retested_at_epoch": 1600995968.513771,
             "last_retested_at_iso": "2020-09-25T01:06:08.513771",
+            "status": "ACTIVE"
+        },
+        "semurai.pl": {
+            "included_at_epoch": 1601858683.48134,
+            "included_at_iso": "2020-10-05T00:44:43.481340",
+            "last_retested_at_epoch": 1601858683.48134,
+            "last_retested_at_iso": "2020-10-05T00:44:43.481340",
             "status": "ACTIVE"
         },
         "sendgb.com": {
@@ -23989,6 +24024,13 @@
             "included_at_iso": "2020-09-25T00:55:00.868221",
             "last_retested_at_epoch": 1601686789.914706,
             "last_retested_at_iso": "2020-10-03T00:59:49.914706",
+            "status": "ACTIVE"
+        },
+        "store.acer.com": {
+            "included_at_epoch": 1601858683.076022,
+            "included_at_iso": "2020-10-05T00:44:43.076022",
+            "last_retested_at_epoch": 1601858683.076022,
+            "last_retested_at_iso": "2020-10-05T00:44:43.076022",
             "status": "ACTIVE"
         },
         "store.playstation.com": {
@@ -26404,6 +26446,13 @@
             "included_at_iso": "2020-09-25T01:06:22.132679",
             "last_retested_at_epoch": 1600995982.132679,
             "last_retested_at_iso": "2020-09-25T01:06:22.132679",
+            "status": "ACTIVE"
+        },
+        "visionoptyk.eu": {
+            "included_at_epoch": 1601858683.562029,
+            "included_at_iso": "2020-10-05T00:44:43.562029",
+            "last_retested_at_epoch": 1601858683.562029,
+            "last_retested_at_iso": "2020-10-05T00:44:43.562029",
             "status": "ACTIVE"
         },
         "visitczechrepublic.com": {

@@ -3558,6 +3558,12 @@
         "expiration_date": "17-aug-2022",
         "state": "future"
     },
+    "eastend.pl": {
+        "epoch": 1654128000.0,
+        "expiration_date": "02-jun-2022",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "easyjet.com": {
         "epoch": 1616716800.0,
         "expiration_date": "26-mar-2021",
@@ -4071,6 +4077,12 @@
     "erboristeriamagentina.it": {
         "epoch": 1606435200.0,
         "expiration_date": "27-nov-2020",
+        "state": "future"
+    },
+    "eredivisie.pl": {
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "ergokantor.pl": {
@@ -7103,6 +7115,12 @@
     "katowice24.info": {
         "epoch": 1621382400.0,
         "expiration_date": "19-may-2021",
+        "state": "future"
+    },
+    "katw.pl": {
+        "epoch": 1616889600.0,
+        "expiration_date": "28-mar-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "kawasaki.pl": {
@@ -12691,6 +12709,12 @@
         "expiration_date": "26-aug-2021",
         "state": "future"
     },
+    "rbinternational.com.pl": {
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "rbsbychawa.pl": {
         "epoch": 1631404800.0,
         "expiration_date": "12-sep-2021",
@@ -13343,6 +13367,12 @@
     "sempreinfo.pl": {
         "epoch": 1625097600.0,
         "expiration_date": "01-jul-2021",
+        "state": "future"
+    },
+    "semurai.pl": {
+        "epoch": 1617753600.0,
+        "expiration_date": "07-apr-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "sendgb.com": {
