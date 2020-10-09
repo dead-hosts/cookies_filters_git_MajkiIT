@@ -16292,10 +16292,10 @@
             "status": "ACTIVE"
         },
         "nasze-kino.eu": {
-            "included_at_epoch": 1599612444.904498,
-            "included_at_iso": "2020-09-09T00:47:24.904498",
-            "last_retested_at_epoch": 1601686754.052067,
-            "last_retested_at_iso": "2020-10-03T00:59:14.052067",
+            "included_at_epoch": 1602204357.268347,
+            "included_at_iso": "2020-10-09T00:45:57.268347",
+            "last_retested_at_epoch": 1602204357.268347,
+            "last_retested_at_iso": "2020-10-09T00:45:57.268347",
             "status": "INACTIVE"
         },
         "nasze-kino.tv": {
