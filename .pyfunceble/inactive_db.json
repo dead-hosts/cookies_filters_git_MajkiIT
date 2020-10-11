@@ -8836,6 +8836,13 @@
             "last_retested_at_iso": "2020-10-03T00:58:36.907172",
             "status": "ACTIVE"
         },
+        "github.com": {
+            "included_at_epoch": 1602377180.865769,
+            "included_at_iso": "2020-10-11T00:46:20.865769",
+            "last_retested_at_epoch": 1602377180.865769,
+            "last_retested_at_iso": "2020-10-11T00:46:20.865769",
+            "status": "ACTIVE"
+        },
         "gkn.pl": {
             "included_at_epoch": 1600995315.452826,
             "included_at_iso": "2020-09-25T00:55:15.452826",
@@ -16205,6 +16212,13 @@
             "included_at_iso": "2020-09-25T00:54:27.200678",
             "last_retested_at_epoch": 1601686676.123755,
             "last_retested_at_iso": "2020-10-03T00:57:56.123755",
+            "status": "ACTIVE"
+        },
+        "namyslow.eu": {
+            "included_at_epoch": 1602377180.949216,
+            "included_at_iso": "2020-10-11T00:46:20.949216",
+            "last_retested_at_epoch": 1602377180.949216,
+            "last_retested_at_iso": "2020-10-11T00:46:20.949216",
             "status": "ACTIVE"
         },
         "nano-carbon.pl": {
@@ -27099,6 +27113,13 @@
             "last_retested_at_iso": "2020-09-25T01:06:24.209590",
             "status": "ACTIVE"
         },
+        "wiescisokolowskie.pl": {
+            "included_at_epoch": 1602377180.777598,
+            "included_at_iso": "2020-10-11T00:46:20.777598",
+            "last_retested_at_epoch": 1602377181.030518,
+            "last_retested_at_iso": "2020-10-11T00:46:21.030518",
+            "status": "ACTIVE"
+        },
         "wifi-spot.net": {
             "included_at_epoch": 1600995278.777418,
             "included_at_iso": "2020-09-25T00:54:38.777418",
@@ -28476,6 +28497,13 @@
             "included_at_iso": "2020-09-25T00:54:32.169738",
             "last_retested_at_epoch": 1601686710.641095,
             "last_retested_at_iso": "2020-10-03T00:58:30.641095",
+            "status": "ACTIVE"
+        },
+        "zakupy.auchan.pl": {
+            "included_at_epoch": 1602377181.115206,
+            "included_at_iso": "2020-10-11T00:46:21.115206",
+            "last_retested_at_epoch": 1602377181.115206,
+            "last_retested_at_iso": "2020-10-11T00:46:21.115206",
             "status": "ACTIVE"
         },
         "zalando-lounge.pl": {

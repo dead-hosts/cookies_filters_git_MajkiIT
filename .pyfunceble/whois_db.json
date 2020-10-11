@@ -5347,6 +5347,12 @@
         "server": "whois.dns.pl",
         "state": "future"
     },
+    "github.com": {
+        "epoch": 1665273600.0,
+        "expiration_date": "09-oct-2022",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "gkn.pl": {
         "epoch": 1622505600.0,
         "expiration_date": "01-jun-2021",
@@ -16216,6 +16222,12 @@
     "wiescirolnicze.pl": {
         "epoch": 1611619200.0,
         "expiration_date": "26-jan-2021",
+        "state": "future"
+    },
+    "wiescisokolowskie.pl": {
+        "epoch": 1615161600.0,
+        "expiration_date": "08-mar-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "wifi-spot.net": {
