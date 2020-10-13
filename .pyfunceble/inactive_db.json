@@ -184,6 +184,13 @@
             "last_retested_at_iso": "2020-10-03T00:58:04.814295",
             "status": "ACTIVE"
         },
+        "5styl.com": {
+            "included_at_epoch": 1602550082.618483,
+            "included_at_iso": "2020-10-13T00:48:02.618483",
+            "last_retested_at_epoch": 1602550082.618483,
+            "last_retested_at_iso": "2020-10-13T00:48:02.618483",
+            "status": "ACTIVE"
+        },
         "60sekund.tytan.pl": {
             "included_at_epoch": 1600995267.254144,
             "included_at_iso": "2020-09-25T00:54:27.254144",
@@ -231,6 +238,13 @@
             "included_at_iso": "2020-09-25T00:54:28.072516",
             "last_retested_at_epoch": 1601686685.220784,
             "last_retested_at_iso": "2020-10-03T00:58:05.220784",
+            "status": "ACTIVE"
+        },
+        "abcalkoholu.pl": {
+            "included_at_epoch": 1602550083.294084,
+            "included_at_iso": "2020-10-13T00:48:03.294084",
+            "last_retested_at_epoch": 1602550083.294084,
+            "last_retested_at_iso": "2020-10-13T00:48:03.294084",
             "status": "ACTIVE"
         },
         "abctygodnik.pl": {
@@ -1766,6 +1780,13 @@
             "last_retested_at_iso": "2020-10-03T00:58:53.770281",
             "status": "ACTIVE"
         },
+        "b4after.pl": {
+            "included_at_epoch": 1602550082.792679,
+            "included_at_iso": "2020-10-13T00:48:02.792679",
+            "last_retested_at_epoch": 1602550082.792679,
+            "last_retested_at_iso": "2020-10-13T00:48:02.792679",
+            "status": "ACTIVE"
+        },
         "babi-kacik.eu": {
             "included_at_epoch": 1600995267.062209,
             "included_at_iso": "2020-09-25T00:54:27.062209",
@@ -2436,6 +2457,13 @@
             "included_at_iso": "2020-09-25T00:54:26.595074",
             "last_retested_at_epoch": 1601686663.535565,
             "last_retested_at_iso": "2020-10-03T00:57:43.535565",
+            "status": "ACTIVE"
+        },
+        "bip.gig.eu": {
+            "included_at_epoch": 1602550082.526722,
+            "included_at_iso": "2020-10-13T00:48:02.526722",
+            "last_retested_at_epoch": 1602550082.526722,
+            "last_retested_at_iso": "2020-10-13T00:48:02.526722",
             "status": "ACTIVE"
         },
         "bip.gliwice.eu": {
@@ -8339,6 +8367,13 @@
             "last_retested_at_iso": "2020-10-03T00:59:29.022022",
             "status": "ACTIVE"
         },
+        "gallopang.pl": {
+            "included_at_epoch": 1602550082.876503,
+            "included_at_iso": "2020-10-13T00:48:02.876503",
+            "last_retested_at_epoch": 1602550082.876503,
+            "last_retested_at_iso": "2020-10-13T00:48:02.876503",
+            "status": "ACTIVE"
+        },
         "gamedot.pl": {
             "included_at_epoch": 1600995312.507315,
             "included_at_iso": "2020-09-25T00:55:12.507315",
@@ -13085,6 +13120,13 @@
             "last_retested_at_iso": "2020-10-03T00:58:18.732472",
             "status": "ACTIVE"
         },
+        "lech.pl": {
+            "included_at_epoch": 1602550083.04279,
+            "included_at_iso": "2020-10-13T00:48:03.042790",
+            "last_retested_at_epoch": 1602550083.04279,
+            "last_retested_at_iso": "2020-10-13T00:48:03.042790",
+            "status": "ACTIVE"
+        },
         "lech.tv": {
             "included_at_epoch": 1600995303.081602,
             "included_at_iso": "2020-09-25T00:55:03.081602",
@@ -14539,6 +14581,13 @@
             "included_at_iso": "2020-09-25T00:54:27.128060",
             "last_retested_at_epoch": 1601686674.83061,
             "last_retested_at_iso": "2020-10-03T00:57:54.830610",
+            "status": "ACTIVE"
+        },
+        "mebsto.pl": {
+            "included_at_epoch": 1602550082.959611,
+            "included_at_iso": "2020-10-13T00:48:02.959611",
+            "last_retested_at_epoch": 1602550082.959611,
+            "last_retested_at_iso": "2020-10-13T00:48:02.959611",
             "status": "ACTIVE"
         },
         "meczelive.tv": {
@@ -17332,6 +17381,13 @@
             "included_at_iso": "2020-09-25T00:55:09.401473",
             "last_retested_at_epoch": 1601686805.72929,
             "last_retested_at_iso": "2020-10-03T01:00:05.729290",
+            "status": "ACTIVE"
+        },
+        "okoklinik.pl": {
+            "included_at_epoch": 1602550082.708635,
+            "included_at_iso": "2020-10-13T00:48:02.708635",
+            "last_retested_at_epoch": 1602550082.708635,
+            "last_retested_at_iso": "2020-10-13T00:48:02.708635",
             "status": "ACTIVE"
         },
         "oksir.eu": {
@@ -20734,6 +20790,13 @@
             "included_at_iso": "2020-09-25T01:06:03.178562",
             "last_retested_at_epoch": 1600995963.178562,
             "last_retested_at_iso": "2020-09-25T01:06:03.178562",
+            "status": "ACTIVE"
+        },
+        "puzzlefactory.pl": {
+            "included_at_epoch": 1602550083.377809,
+            "included_at_iso": "2020-10-13T00:48:03.377809",
+            "last_retested_at_epoch": 1602550083.377809,
+            "last_retested_at_iso": "2020-10-13T00:48:03.377809",
             "status": "ACTIVE"
         },
         "pw.edu.pl": {
@@ -26070,6 +26133,13 @@
             "last_retested_at_iso": "2020-10-03T00:58:11.194054",
             "status": "ACTIVE"
         },
+        "tyskie.pl": {
+            "included_at_epoch": 1602550083.210284,
+            "included_at_iso": "2020-10-13T00:48:03.210284",
+            "last_retested_at_epoch": 1602550083.210284,
+            "last_retested_at_iso": "2020-10-13T00:48:03.210284",
+            "status": "ACTIVE"
+        },
         "tywent.pl": {
             "included_at_epoch": 1600995269.817449,
             "included_at_iso": "2020-09-25T00:54:29.817449",
@@ -29043,6 +29113,13 @@
             "included_at_iso": "2020-09-25T00:54:31.509394",
             "last_retested_at_epoch": 1601686707.229572,
             "last_retested_at_iso": "2020-10-03T00:58:27.229572",
+            "status": "ACTIVE"
+        },
+        "zubr.pl": {
+            "included_at_epoch": 1602550083.126366,
+            "included_at_iso": "2020-10-13T00:48:03.126366",
+            "last_retested_at_epoch": 1602550083.126366,
+            "last_retested_at_iso": "2020-10-13T00:48:03.126366",
             "status": "ACTIVE"
         },
         "zuromin.ibip.net.pl": {

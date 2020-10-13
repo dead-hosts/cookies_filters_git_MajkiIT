@@ -112,6 +112,12 @@
         "expiration_date": "26-oct-2020",
         "state": "future"
     },
+    "5styl.com": {
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "77sushi.com": {
         "epoch": 1619222400.0,
         "expiration_date": "24-apr-2021",
@@ -135,6 +141,12 @@
     "abbvie.pl": {
         "epoch": 1616198400.0,
         "expiration_date": "20-mar-2021",
+        "state": "future"
+    },
+    "abcalkoholu.pl": {
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "abctygodnik.pl": {
@@ -1082,6 +1094,12 @@
     "azorek.pl": {
         "epoch": 1632528000.0,
         "expiration_date": "25-sep-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
+    "b4after.pl": {
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
         "server": "whois.dns.pl",
         "state": "future"
     },
@@ -5031,6 +5049,12 @@
         "expiration_date": "07-feb-2021",
         "state": "future"
     },
+    "gallopang.pl": {
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "gamedot.pl": {
         "epoch": 1615248000.0,
         "expiration_date": "09-mar-2021",
@@ -7935,6 +7959,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "lech.pl": {
+        "epoch": 1614124800.0,
+        "expiration_date": "24-feb-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "lech.tv": {
         "epoch": 1631404800.0,
         "expiration_date": "12-sep-2021",
@@ -8799,6 +8829,12 @@
     "meblezet.com": {
         "epoch": 1608163200.0,
         "expiration_date": "17-dec-2020",
+        "state": "future"
+    },
+    "mebsto.pl": {
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "meczelive.tv": {
@@ -10540,6 +10576,12 @@
     "oko.press": {
         "epoch": 1617148800.0,
         "expiration_date": "31-mar-2021",
+        "state": "future"
+    },
+    "okoklinik.pl": {
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "oktawave.com": {
@@ -12393,6 +12435,12 @@
     "pushpushgo.com": {
         "epoch": 1619308800.0,
         "expiration_date": "25-apr-2021",
+        "state": "future"
+    },
+    "puzzlefactory.pl": {
+        "epoch": 1722816000.0,
+        "expiration_date": "05-aug-2024",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "pw.edu.pl": {
@@ -15596,6 +15644,12 @@
         "expiration_date": "09-oct-2020",
         "state": "future"
     },
+    "tyskie.pl": {
+        "epoch": 1680825600.0,
+        "expiration_date": "07-apr-2023",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "tywent.pl": {
         "epoch": 1619481600.0,
         "expiration_date": "27-apr-2021",
@@ -17149,6 +17203,12 @@
     "ztloczni.pl": {
         "epoch": 1605139200.0,
         "expiration_date": "12-nov-2020",
+        "state": "future"
+    },
+    "zubr.pl": {
+        "epoch": 1648684800.0,
+        "expiration_date": "31-mar-2022",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "zuu.systems": {
