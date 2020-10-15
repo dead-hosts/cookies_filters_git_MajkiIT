@@ -6001,13 +6001,6 @@
             "last_retested_at_iso": "2020-10-15T01:04:58.516974",
             "status": "ACTIVE"
         },
-        "ebok.jmdi.pl": {
-            "included_at_epoch": 1600303880.0325,
-            "included_at_iso": "2020-09-17T00:51:20.032500",
-            "last_retested_at_epoch": 1602723898.636862,
-            "last_retested_at_iso": "2020-10-15T01:04:58.636862",
-            "status": "ACTIVE"
-        },
         "ebok.vectra.pl": {
             "included_at_epoch": 1600995297.634153,
             "included_at_iso": "2020-09-25T00:54:57.634153",
@@ -23235,13 +23228,6 @@
             "last_retested_at_iso": "2020-09-25T00:55:40.722114",
             "status": "ACTIVE"
         },
-        "skwerwolnosci.eu": {
-            "included_at_epoch": 1600303876.6858,
-            "included_at_iso": "2020-09-17T00:51:16.685800",
-            "last_retested_at_epoch": 1602723788.786054,
-            "last_retested_at_iso": "2020-10-15T01:03:08.786054",
-            "status": "ACTIVE"
-        },
         "skymaster.de": {
             "included_at_epoch": 1600995267.170388,
             "included_at_iso": "2020-09-25T00:54:27.170388",
@@ -23871,13 +23857,6 @@
             "last_retested_at_epoch": 1602723941.511458,
             "last_retested_at_iso": "2020-10-15T01:05:41.511458",
             "status": "ACTIVE"
-        },
-        "ssd.cyberfolks.pl": {
-            "included_at_epoch": 1600303876.423798,
-            "included_at_iso": "2020-09-17T00:51:16.423798",
-            "last_retested_at_epoch": 1600303876.423798,
-            "last_retested_at_iso": "2020-09-17T00:51:16.423798",
-            "status": "INACTIVE"
         },
         "sso.epf.org.pl": {
             "included_at_epoch": 1600995282.584043,
