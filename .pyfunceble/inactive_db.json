@@ -6001,6 +6001,13 @@
             "last_retested_at_iso": "2020-10-15T01:04:58.516974",
             "status": "ACTIVE"
         },
+        "ebok.jmdi.pl": {
+            "included_at_epoch": 1602895742.718141,
+            "included_at_iso": "2020-10-17T00:49:02.718141",
+            "last_retested_at_epoch": 1602895742.718141,
+            "last_retested_at_iso": "2020-10-17T00:49:02.718141",
+            "status": "ACTIVE"
+        },
         "ebok.vectra.pl": {
             "included_at_epoch": 1600995297.634153,
             "included_at_iso": "2020-09-25T00:54:57.634153",
@@ -23226,6 +23233,13 @@
             "included_at_iso": "2020-09-25T00:55:40.722114",
             "last_retested_at_epoch": 1600995340.722114,
             "last_retested_at_iso": "2020-09-25T00:55:40.722114",
+            "status": "ACTIVE"
+        },
+        "skwerwolnosci.eu": {
+            "included_at_epoch": 1602895742.623339,
+            "included_at_iso": "2020-10-17T00:49:02.623339",
+            "last_retested_at_epoch": 1602895742.623339,
+            "last_retested_at_iso": "2020-10-17T00:49:02.623339",
             "status": "ACTIVE"
         },
         "skymaster.de": {
