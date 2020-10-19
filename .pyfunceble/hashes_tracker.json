@@ -1,12 +1,12 @@
 {
     "/home/travis/build/dead-hosts/cookies_filters_git_MajkiIT/domains.list": {
         "base": {
-            "datetime_iso": "2020-10-13T00:46:34.931503",
-            "hash": "abb47ccc4bca633953f0813ca2159ea9e4e5f4820add538df69f75aa"
+            "datetime_iso": "2020-10-19T00:49:09.112010",
+            "hash": "f192ad403d8f5f383e46fd0c03bfd733110ec0a52076ae7b042562d5"
         },
         "latest": {
-            "datetime_iso": "2020-10-17T00:47:55.774691",
-            "hash": "abb47ccc4bca633953f0813ca2159ea9e4e5f4820add538df69f75aa"
+            "datetime_iso": "2020-10-19T00:49:09.112010",
+            "hash": "f192ad403d8f5f383e46fd0c03bfd733110ec0a52076ae7b042562d5"
         },
         "position": 0
     }

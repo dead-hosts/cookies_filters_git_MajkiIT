@@ -3929,6 +3929,13 @@
             "last_retested_at_iso": "2020-09-25T01:06:32.001457",
             "status": "ACTIVE"
         },
+        "cmp.optad360.io": {
+            "included_at_epoch": 1603068637.650179,
+            "included_at_iso": "2020-10-19T00:50:37.650179",
+            "last_retested_at_epoch": 1603068637.650179,
+            "last_retested_at_iso": "2020-10-19T00:50:37.650179",
+            "status": "ACTIVE"
+        },
         "cmrev.com": {
             "included_at_epoch": 1600995288.351912,
             "included_at_iso": "2020-09-25T00:54:48.351912",
@@ -4508,6 +4515,13 @@
             "included_at_iso": "2020-09-25T00:54:51.070506",
             "last_retested_at_epoch": 1602723883.931488,
             "last_retested_at_iso": "2020-10-15T01:04:43.931488",
+            "status": "ACTIVE"
+        },
+        "damy-rade.info": {
+            "included_at_epoch": 1603068637.042553,
+            "included_at_iso": "2020-10-19T00:50:37.042553",
+            "last_retested_at_epoch": 1603068637.042553,
+            "last_retested_at_iso": "2020-10-19T00:50:37.042553",
             "status": "ACTIVE"
         },
         "danepubliczne.gov.pl": {
@@ -13449,6 +13463,13 @@
             "last_retested_at_iso": "2020-09-25T00:55:36.148325",
             "status": "ACTIVE"
         },
+        "linktransport.eu": {
+            "included_at_epoch": 1603068637.29076,
+            "included_at_iso": "2020-10-19T00:50:37.290760",
+            "last_retested_at_epoch": 1603068637.29076,
+            "last_retested_at_iso": "2020-10-19T00:50:37.290760",
+            "status": "ACTIVE"
+        },
         "linuxiarz.pl": {
             "included_at_epoch": 1600995336.106727,
             "included_at_iso": "2020-09-25T00:55:36.106727",
@@ -13853,6 +13874,13 @@
             "included_at_iso": "2020-09-25T00:54:45.799424",
             "last_retested_at_epoch": 1602723952.736039,
             "last_retested_at_iso": "2020-10-15T01:05:52.736039",
+            "status": "ACTIVE"
+        },
+        "lutomiersk.info": {
+            "included_at_epoch": 1603068637.349081,
+            "included_at_iso": "2020-10-19T00:50:37.349081",
+            "last_retested_at_epoch": 1603068637.349081,
+            "last_retested_at_iso": "2020-10-19T00:50:37.349081",
             "status": "ACTIVE"
         },
         "luxexpress.eu": {
@@ -21849,6 +21877,13 @@
             "last_retested_at_iso": "2020-10-15T01:03:08.432050",
             "status": "ACTIVE"
         },
+        "rozprza.info": {
+            "included_at_epoch": 1603068637.470531,
+            "included_at_iso": "2020-10-19T00:50:37.470531",
+            "last_retested_at_epoch": 1603068637.470531,
+            "last_retested_at_iso": "2020-10-19T00:50:37.470531",
+            "status": "ACTIVE"
+        },
         "roztocze.net": {
             "included_at_epoch": 1600995278.703604,
             "included_at_iso": "2020-09-25T00:54:38.703604",
@@ -22092,6 +22127,13 @@
             "included_at_iso": "2020-09-25T00:55:00.965850",
             "last_retested_at_epoch": 1602723905.371208,
             "last_retested_at_iso": "2020-10-15T01:05:05.371208",
+            "status": "ACTIVE"
+        },
+        "salonydenon.pl": {
+            "included_at_epoch": 1603068637.563289,
+            "included_at_iso": "2020-10-19T00:50:37.563289",
+            "last_retested_at_epoch": 1603068637.563289,
+            "last_retested_at_iso": "2020-10-19T00:50:37.563289",
             "status": "ACTIVE"
         },
         "salonynoma.pl": {
@@ -24929,6 +24971,13 @@
             "last_retested_at_iso": "2020-10-15T01:05:43.876294",
             "status": "ACTIVE"
         },
+        "taurus.info.pl": {
+            "included_at_epoch": 1603068637.196496,
+            "included_at_iso": "2020-10-19T00:50:37.196496",
+            "last_retested_at_epoch": 1603068637.196496,
+            "last_retested_at_iso": "2020-10-19T00:50:37.196496",
+            "status": "ACTIVE"
+        },
         "taxo-acc.pl": {
             "included_at_epoch": 1600995976.311031,
             "included_at_iso": "2020-09-25T01:06:16.311031",
@@ -25963,6 +26012,13 @@
             "included_at_iso": "2020-09-25T00:54:30.434836",
             "last_retested_at_epoch": 1602723815.096871,
             "last_retested_at_iso": "2020-10-15T01:03:35.096871",
+            "status": "ACTIVE"
+        },
+        "twojakoszulka.eu": {
+            "included_at_epoch": 1603068637.136484,
+            "included_at_iso": "2020-10-19T00:50:37.136484",
+            "last_retested_at_epoch": 1603068637.136484,
+            "last_retested_at_iso": "2020-10-19T00:50:37.136484",
             "status": "ACTIVE"
         },
         "twojatv.info": {
