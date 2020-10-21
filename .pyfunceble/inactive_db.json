@@ -3909,10 +3909,10 @@
             "status": "ACTIVE"
         },
         "cmp.*.pl": {
-            "included_at_epoch": 1600823117.204667,
-            "included_at_iso": "2020-09-23T01:05:17.204667",
-            "last_retested_at_epoch": 1600823117.204667,
-            "last_retested_at_iso": "2020-09-23T01:05:17.204667",
+            "included_at_epoch": 1603242663.933992,
+            "included_at_iso": "2020-10-21T01:11:03.933992",
+            "last_retested_at_epoch": 1603242663.933992,
+            "last_retested_at_iso": "2020-10-21T01:11:03.933992",
             "status": "INVALID"
         },
         "cmp.dreamlab.pl": {
@@ -5859,13 +5859,6 @@
             "included_at_iso": "2020-09-25T00:55:06.217821",
             "last_retested_at_epoch": 1603242466.046203,
             "last_retested_at_iso": "2020-10-21T01:07:46.046203",
-            "status": "ACTIVE"
-        },
-        "e-podlaskie.eu": {
-            "included_at_epoch": 1600822393.295153,
-            "included_at_iso": "2020-09-23T00:53:13.295153",
-            "last_retested_at_epoch": 1603242466.107725,
-            "last_retested_at_iso": "2020-10-21T01:07:46.107725",
             "status": "ACTIVE"
         },
         "e-podroznik.pl": {
@@ -24286,10 +24279,10 @@
             "status": "ACTIVE"
         },
         "stypendia.sejmik.kielce.pl": {
-            "included_at_epoch": 1600823116.005897,
-            "included_at_iso": "2020-09-23T01:05:16.005897",
-            "last_retested_at_epoch": 1600823116.005897,
-            "last_retested_at_iso": "2020-09-23T01:05:16.005897",
+            "included_at_epoch": 1603242663.754209,
+            "included_at_iso": "2020-10-21T01:11:03.754209",
+            "last_retested_at_epoch": 1603242663.754209,
+            "last_retested_at_iso": "2020-10-21T01:11:03.754209",
             "status": "INACTIVE"
         },
         "suchacz.eu": {
@@ -25252,10 +25245,10 @@
             "status": "ACTIVE"
         },
         "testujemy.biedronka.pl": {
-            "included_at_epoch": 1600823116.191937,
-            "included_at_iso": "2020-09-23T01:05:16.191937",
-            "last_retested_at_epoch": 1600823116.191937,
-            "last_retested_at_iso": "2020-09-23T01:05:16.191937",
+            "included_at_epoch": 1603242663.814914,
+            "included_at_iso": "2020-10-21T01:11:03.814914",
+            "last_retested_at_epoch": 1603242663.814914,
+            "last_retested_at_iso": "2020-10-21T01:11:03.814914",
             "status": "INACTIVE"
         },
         "tewa-sensors.com": {
@@ -28129,11 +28122,11 @@
             "status": "ACTIVE"
         },
         "www.simex.pl": {
-            "included_at_epoch": 1600823116.917966,
-            "included_at_iso": "2020-09-23T01:05:16.917966",
-            "last_retested_at_epoch": 1600823116.917966,
-            "last_retested_at_iso": "2020-09-23T01:05:16.917966",
-            "status": "INACTIVE"
+            "included_at_epoch": 1603242663.874098,
+            "included_at_iso": "2020-10-21T01:11:03.874098",
+            "last_retested_at_epoch": 1603242663.874098,
+            "last_retested_at_iso": "2020-10-21T01:11:03.874098",
+            "status": "ACTIVE"
         },
         "www.smartpolak.co.uk": {
             "included_at_epoch": 1600995268.811629,
