@@ -2007,7 +2007,8 @@
     "bzwbk.pl": {
         "epoch": 1603411200.0,
         "expiration_date": "23-oct-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "c-and-a.com": {
         "epoch": 1611446400.0,
@@ -3423,8 +3424,9 @@
         "state": "future"
     },
     "dzikowiec.info": {
-        "epoch": 1603324800.0,
-        "expiration_date": "22-oct-2020",
+        "epoch": 1634860800.0,
+        "expiration_date": "22-oct-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "dzis.tv": {
@@ -3702,8 +3704,9 @@
         "state": "future"
     },
     "edimax.pl": {
-        "epoch": 1603411200.0,
-        "expiration_date": "23-oct-2020",
+        "epoch": 1634947200.0,
+        "expiration_date": "23-oct-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "edoapp.pl": {
@@ -6577,8 +6580,9 @@
         "state": "future"
     },
     "internationalpaper.com": {
-        "epoch": 1603411200.0,
-        "expiration_date": "23-oct-2020",
+        "epoch": 1634947200.0,
+        "expiration_date": "23-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "interpolska.pl": {
@@ -7137,10 +7141,10 @@
         "state": "future"
     },
     "kappahl.com": {
-        "epoch": 1603238400.0,
-        "expiration_date": "21-oct-2020",
+        "epoch": 1634774400.0,
+        "expiration_date": "21-oct-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "kapucyni.pl": {
         "epoch": 1614556800.0,
