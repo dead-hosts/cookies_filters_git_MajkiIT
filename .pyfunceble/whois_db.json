@@ -3456,6 +3456,12 @@
         "expiration_date": "09-aug-2021",
         "state": "future"
     },
+    "e-drewno.pl": {
+        "epoch": 1613865600.0,
+        "expiration_date": "21-feb-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "e-drogeria.com": {
         "epoch": 1643932800.0,
         "expiration_date": "04-feb-2022",
@@ -4889,6 +4895,12 @@
         "expiration_date": "19-jul-2021",
         "state": "future"
     },
+    "forumsamochodowe.pl": {
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "forumstomatologiczne.pl": {
         "epoch": 1619136000.0,
         "expiration_date": "23-apr-2021",
@@ -5723,6 +5735,12 @@
         "server": "whois.dns.pl",
         "state": "future"
     },
+    "granice.pl": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "grawipol.pl": {
         "epoch": 1625011200.0,
         "expiration_date": "30-jun-2021",
@@ -6062,6 +6080,12 @@
     "hokej.net": {
         "epoch": 1615420800.0,
         "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "hokuspokus.pl": {
+        "epoch": 1636329600.0,
+        "expiration_date": "08-nov-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "holidaycheck.pl": {
@@ -8616,6 +8640,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "makro.pl": {
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "maleksiazki.pl": {
         "epoch": 1623974400.0,
         "expiration_date": "18-jun-2021",
@@ -9687,6 +9717,12 @@
         "expiration_date": "14-dec-2021",
         "state": "future"
     },
+    "motospace.pl": {
+        "epoch": 1656460800.0,
+        "expiration_date": "29-jun-2022",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "motostat.pl": {
         "epoch": 1631664000.0,
         "expiration_date": "15-sep-2021",
@@ -9734,8 +9770,9 @@
         "state": "future"
     },
     "mrowka.com.pl": {
-        "epoch": 1589846400,
-        "expiration_date": "19-may-2020",
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "msecnd.net": {
@@ -10587,6 +10624,12 @@
     "odrowaz24.pl": {
         "epoch": 1626220800.0,
         "expiration_date": "14-jul-2021",
+        "state": "future"
+    },
+    "odszkodowania-torun.pl": {
+        "epoch": 1611273600.0,
+        "expiration_date": "22-jan-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "oees.pl": {
@@ -12386,6 +12429,12 @@
         "expiration_date": "08-jul-2021",
         "state": "future"
     },
+    "pryzmat.com.pl": {
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "przedszkolowo.pl": {
         "epoch": 1633651200.0,
         "expiration_date": "08-oct-2021",
@@ -13320,6 +13369,12 @@
         "server": "whois.dns.pl",
         "state": "future"
     },
+    "salonmagiawnetrz.pl": {
+        "epoch": 1613692800.0,
+        "expiration_date": "19-feb-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "salonmeblowy.net.pl": {
         "epoch": 1623715200.0,
         "expiration_date": "15-jun-2021",
@@ -13647,6 +13702,12 @@
     "shazam.com": {
         "epoch": 1756166400.0,
         "expiration_date": "26-aug-2025",
+        "state": "future"
+    },
+    "shinden.pl": {
+        "epoch": 1604620800.0,
+        "expiration_date": "06-nov-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "shippuuden.pl": {
@@ -14682,6 +14743,12 @@
         "expiration_date": "14-jul-2021",
         "state": "future"
     },
+    "swiatksiazki.pl": {
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "swiatnauki.pl": {
         "epoch": 1627776000.0,
         "expiration_date": "01-aug-2021",
@@ -14935,6 +15002,12 @@
     "tally-weijl.com": {
         "epoch": 1620000000.0,
         "expiration_date": "03-may-2021",
+        "state": "future"
+    },
+    "tamizo.pl": {
+        "epoch": 1614384000.0,
+        "expiration_date": "27-feb-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "tanibus.com": {
@@ -15697,6 +15770,12 @@
         "expiration_date": "26-jul-2022",
         "state": "future"
     },
+    "twojapogoda.pl": {
+        "epoch": 1632700800.0,
+        "expiration_date": "27-sep-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "twojatv.info": {
         "epoch": 1626480000.0,
         "expiration_date": "17-jul-2021",
@@ -16075,6 +16154,12 @@
     "vivaldi.com": {
         "epoch": 1697328000.0,
         "expiration_date": "15-oct-2023",
+        "state": "future"
+    },
+    "vivo.com": {
+        "epoch": 1775433600.0,
+        "expiration_date": "06-apr-2026",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "vivrehome.pl": {
@@ -16502,6 +16587,12 @@
         "expiration_date": "04-feb-2021",
         "state": "future"
     },
+    "wio.org.pl": {
+        "epoch": 1633564800.0,
+        "expiration_date": "07-oct-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "wirtualis.pl": {
         "epoch": 1612742400.0,
         "expiration_date": "08-feb-2021",
@@ -16566,6 +16657,12 @@
     "wkd.com.pl": {
         "epoch": 1626480000.0,
         "expiration_date": "17-jul-2021",
+        "state": "future"
+    },
+    "wkladyznicze.pl": {
+        "epoch": 1616889600.0,
+        "expiration_date": "28-mar-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "wleczycy.pl": {

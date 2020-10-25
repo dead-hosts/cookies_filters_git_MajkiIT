@@ -5714,6 +5714,13 @@
             "last_retested_at_iso": "2020-10-23T01:47:11.737539",
             "status": "ACTIVE"
         },
+        "e-drewno.pl": {
+            "included_at_epoch": 1603587290.077354,
+            "included_at_iso": "2020-10-25T00:54:50.077354",
+            "last_retested_at_epoch": 1603587290.163339,
+            "last_retested_at_iso": "2020-10-25T00:54:50.163339",
+            "status": "ACTIVE"
+        },
         "e-drogeria.com": {
             "included_at_epoch": 1603417639.446354,
             "included_at_iso": "2020-10-23T01:47:19.446354",
@@ -8066,6 +8073,13 @@
             "last_retested_at_iso": "2020-10-23T01:47:42.907479",
             "status": "ACTIVE"
         },
+        "forumsamochodowe.pl": {
+            "included_at_epoch": 1603587290.2464,
+            "included_at_iso": "2020-10-25T00:54:50.246400",
+            "last_retested_at_epoch": 1603587290.2464,
+            "last_retested_at_iso": "2020-10-25T00:54:50.246400",
+            "status": "ACTIVE"
+        },
         "forumstomatologiczne.pl": {
             "included_at_epoch": 1603422485.444508,
             "included_at_iso": "2020-10-23T03:08:05.444508",
@@ -9396,6 +9410,13 @@
             "last_retested_at_iso": "2020-10-23T03:08:13.663179",
             "status": "ACTIVE"
         },
+        "granice.pl": {
+            "included_at_epoch": 1603587290.329641,
+            "included_at_iso": "2020-10-25T00:54:50.329641",
+            "last_retested_at_epoch": 1603587290.329641,
+            "last_retested_at_iso": "2020-10-25T00:54:50.329641",
+            "status": "ACTIVE"
+        },
         "grawipol.pl": {
             "included_at_epoch": 1603422493.783164,
             "included_at_iso": "2020-10-23T03:08:13.783164",
@@ -9940,6 +9961,13 @@
             "included_at_iso": "2020-10-23T03:08:16.319922",
             "last_retested_at_epoch": 1603422496.319922,
             "last_retested_at_iso": "2020-10-23T03:08:16.319922",
+            "status": "ACTIVE"
+        },
+        "hokuspokus.pl": {
+            "included_at_epoch": 1603587290.981728,
+            "included_at_iso": "2020-10-25T00:54:50.981728",
+            "last_retested_at_epoch": 1603587290.981728,
+            "last_retested_at_iso": "2020-10-25T00:54:50.981728",
             "status": "ACTIVE"
         },
         "holidaycheck.pl": {
@@ -11375,6 +11403,13 @@
             "included_at_iso": "2020-10-23T01:47:10.617111",
             "last_retested_at_epoch": 1603417630.617111,
             "last_retested_at_iso": "2020-10-23T01:47:10.617111",
+            "status": "ACTIVE"
+        },
+        "jobicon.pracuj.pl": {
+            "included_at_epoch": 1603587289.256802,
+            "included_at_iso": "2020-10-25T00:54:49.256802",
+            "last_retested_at_epoch": 1603587289.256802,
+            "last_retested_at_iso": "2020-10-25T00:54:49.256802",
             "status": "ACTIVE"
         },
         "joemonster.org": {
@@ -14044,6 +14079,13 @@
             "last_retested_at_iso": "2020-10-23T01:47:09.585136",
             "status": "ACTIVE"
         },
+        "makro.pl": {
+            "included_at_epoch": 1603587289.312993,
+            "included_at_iso": "2020-10-25T00:54:49.312993",
+            "last_retested_at_epoch": 1603587289.312993,
+            "last_retested_at_iso": "2020-10-25T00:54:49.312993",
+            "status": "ACTIVE"
+        },
         "maleksiazki.pl": {
             "included_at_epoch": 1603422513.393435,
             "included_at_iso": "2020-10-23T03:08:33.393435",
@@ -15508,10 +15550,10 @@
             "status": "ACTIVE"
         },
         "mojeuslugi.pl": {
-            "included_at_epoch": 1601167308.506569,
-            "included_at_iso": "2020-09-27T00:41:48.506569",
-            "last_retested_at_epoch": 1601167308.506569,
-            "last_retested_at_iso": "2020-09-27T00:41:48.506569",
+            "included_at_epoch": 1603587289.428234,
+            "included_at_iso": "2020-10-25T00:54:49.428234",
+            "last_retested_at_epoch": 1603587289.428234,
+            "last_retested_at_iso": "2020-10-25T00:54:49.428234",
             "status": "ACTIVE"
         },
         "mojewypieki.com": {
@@ -15766,6 +15808,13 @@
             "last_retested_at_iso": "2020-10-23T03:08:40.445544",
             "status": "ACTIVE"
         },
+        "motospace.pl": {
+            "included_at_epoch": 1603587289.483963,
+            "included_at_iso": "2020-10-25T00:54:49.483963",
+            "last_retested_at_epoch": 1603587289.57101,
+            "last_retested_at_iso": "2020-10-25T00:54:49.571010",
+            "status": "ACTIVE"
+        },
         "motostat.pl": {
             "included_at_epoch": 1603422520.537642,
             "included_at_iso": "2020-10-23T03:08:40.537642",
@@ -15834,6 +15883,13 @@
             "included_at_iso": "2020-10-23T03:08:40.873241",
             "last_retested_at_epoch": 1603422520.873241,
             "last_retested_at_iso": "2020-10-23T03:08:40.873241",
+            "status": "ACTIVE"
+        },
+        "mrowka.com.pl": {
+            "included_at_epoch": 1603587289.167604,
+            "included_at_iso": "2020-10-25T00:54:49.167604",
+            "last_retested_at_epoch": 1603587289.167604,
+            "last_retested_at_iso": "2020-10-25T00:54:49.167604",
             "status": "ACTIVE"
         },
         "mshop.huawei.com": {
@@ -16156,6 +16212,13 @@
             "included_at_iso": "2020-10-23T03:08:41.848134",
             "last_retested_at_epoch": 1603422521.848134,
             "last_retested_at_iso": "2020-10-23T03:08:41.848134",
+            "status": "ACTIVE"
+        },
+        "mypolacy.de": {
+            "included_at_epoch": 1603587290.413827,
+            "included_at_iso": "2020-10-25T00:54:50.413827",
+            "last_retested_at_epoch": 1603587290.413827,
+            "last_retested_at_iso": "2020-10-25T00:54:50.413827",
             "status": "ACTIVE"
         },
         "mypresents.eu": {
@@ -17222,6 +17285,13 @@
             "last_retested_at_iso": "2020-10-23T03:08:46.429494",
             "status": "ACTIVE"
         },
+        "odszkodowania-torun.pl": {
+            "included_at_epoch": 1603587290.471068,
+            "included_at_iso": "2020-10-25T00:54:50.471068",
+            "last_retested_at_epoch": 1603587290.471068,
+            "last_retested_at_iso": "2020-10-25T00:54:50.471068",
+            "status": "ACTIVE"
+        },
         "oees.pl": {
             "included_at_epoch": 1603422526.528179,
             "included_at_iso": "2020-10-23T03:08:46.528179",
@@ -17500,6 +17570,13 @@
             "included_at_iso": "2020-10-23T03:08:47.785935",
             "last_retested_at_epoch": 1603422527.785935,
             "last_retested_at_iso": "2020-10-23T03:08:47.785935",
+            "status": "ACTIVE"
+        },
+        "online.ubezpieczeniapocztowe.pl": {
+            "included_at_epoch": 1603587289.654794,
+            "included_at_iso": "2020-10-25T00:54:49.654794",
+            "last_retested_at_epoch": 1603587289.654794,
+            "last_retested_at_iso": "2020-10-25T00:54:49.654794",
             "status": "ACTIVE"
         },
         "onlinekredyty.pl": {
@@ -19099,10 +19176,10 @@
             "status": "ACTIVE"
         },
         "pl.trip.com": {
-            "included_at_epoch": 1601167308.623518,
-            "included_at_iso": "2020-09-27T00:41:48.623518",
-            "last_retested_at_epoch": 1601167308.623518,
-            "last_retested_at_iso": "2020-09-27T00:41:48.623518",
+            "included_at_epoch": 1603587289.710917,
+            "included_at_iso": "2020-10-25T00:54:49.710917",
+            "last_retested_at_epoch": 1603587289.710917,
+            "last_retested_at_iso": "2020-10-25T00:54:49.710917",
             "status": "ACTIVE"
         },
         "pl.tripadvisor.com": {
@@ -20503,6 +20580,13 @@
             "included_at_iso": "2020-10-23T01:47:09.489886",
             "last_retested_at_epoch": 1603417629.489886,
             "last_retested_at_iso": "2020-10-23T01:47:09.489886",
+            "status": "ACTIVE"
+        },
+        "pryzmat.com.pl": {
+            "included_at_epoch": 1603587290.558041,
+            "included_at_iso": "2020-10-25T00:54:50.558041",
+            "last_retested_at_epoch": 1603587290.558041,
+            "last_retested_at_iso": "2020-10-25T00:54:50.558041",
             "status": "ACTIVE"
         },
         "prze.eu": {
@@ -22052,6 +22136,13 @@
             "last_retested_at_iso": "2020-10-23T01:47:09.812706",
             "status": "ACTIVE"
         },
+        "salonmagiawnetrz.pl": {
+            "included_at_epoch": 1603587289.769601,
+            "included_at_iso": "2020-10-25T00:54:49.769601",
+            "last_retested_at_epoch": 1603587289.769601,
+            "last_retested_at_iso": "2020-10-25T00:54:49.769601",
+            "status": "ACTIVE"
+        },
         "salonmeblowy.net.pl": {
             "included_at_epoch": 1603422544.493145,
             "included_at_iso": "2020-10-23T03:09:04.493145",
@@ -22575,6 +22666,13 @@
             "included_at_iso": "2020-10-23T03:09:06.907752",
             "last_retested_at_epoch": 1603422546.907752,
             "last_retested_at_iso": "2020-10-23T03:09:06.907752",
+            "status": "ACTIVE"
+        },
+        "shinden.pl": {
+            "included_at_epoch": 1603587291.06591,
+            "included_at_iso": "2020-10-25T00:54:51.065910",
+            "last_retested_at_epoch": 1603587291.150473,
+            "last_retested_at_iso": "2020-10-25T00:54:51.150473",
             "status": "ACTIVE"
         },
         "shippuuden.pl": {
@@ -24383,6 +24481,13 @@
             "last_retested_at_iso": "2020-10-23T01:47:09.384517",
             "status": "ACTIVE"
         },
+        "swiatksiazki.pl": {
+            "included_at_epoch": 1603587290.643608,
+            "included_at_iso": "2020-10-25T00:54:50.643608",
+            "last_retested_at_epoch": 1603587290.643608,
+            "last_retested_at_iso": "2020-10-25T00:54:50.643608",
+            "status": "ACTIVE"
+        },
         "swiatnauki.pl": {
             "included_at_epoch": 1603422553.289983,
             "included_at_iso": "2020-10-23T03:09:13.289983",
@@ -24801,6 +24906,13 @@
             "included_at_iso": "2020-10-23T01:47:10.880505",
             "last_retested_at_epoch": 1603417630.880505,
             "last_retested_at_iso": "2020-10-23T01:47:10.880505",
+            "status": "ACTIVE"
+        },
+        "tamizo.pl": {
+            "included_at_epoch": 1603587290.728436,
+            "included_at_iso": "2020-10-25T00:54:50.728436",
+            "last_retested_at_epoch": 1603587290.728436,
+            "last_retested_at_iso": "2020-10-25T00:54:50.728436",
             "status": "ACTIVE"
         },
         "tamron.eu": {
@@ -25944,6 +26056,13 @@
             "last_retested_at_iso": "2020-10-21T01:05:49.925984",
             "status": "ACTIVE"
         },
+        "twojapogoda.pl": {
+            "included_at_epoch": 1603587290.812995,
+            "included_at_iso": "2020-10-25T00:54:50.812995",
+            "last_retested_at_epoch": 1603587290.812995,
+            "last_retested_at_iso": "2020-10-25T00:54:50.812995",
+            "status": "ACTIVE"
+        },
         "twojatv.info": {
             "included_at_epoch": 1603417630.445342,
             "included_at_iso": "2020-10-23T01:47:10.445342",
@@ -26551,6 +26670,13 @@
             "included_at_iso": "2020-10-23T03:09:20.912005",
             "last_retested_at_epoch": 1603422560.912005,
             "last_retested_at_iso": "2020-10-23T03:09:20.912005",
+            "status": "ACTIVE"
+        },
+        "vivo.com": {
+            "included_at_epoch": 1603587289.938877,
+            "included_at_iso": "2020-10-25T00:54:49.938877",
+            "last_retested_at_epoch": 1603587289.938877,
+            "last_retested_at_iso": "2020-10-25T00:54:49.938877",
             "status": "ACTIVE"
         },
         "vivrehome.pl": {
@@ -27253,6 +27379,13 @@
             "last_retested_at_iso": "2020-10-23T03:09:36.070042",
             "status": "ACTIVE"
         },
+        "wio.org.pl": {
+            "included_at_epoch": 1603587290.896929,
+            "included_at_iso": "2020-10-25T00:54:50.896929",
+            "last_retested_at_epoch": 1603587290.896929,
+            "last_retested_at_iso": "2020-10-25T00:54:50.896929",
+            "status": "ACTIVE"
+        },
         "wirtualis.pl": {
             "included_at_epoch": 1603417670.086158,
             "included_at_iso": "2020-10-23T01:47:50.086158",
@@ -27349,6 +27482,13 @@
             "included_at_iso": "2020-10-23T03:08:14.726904",
             "last_retested_at_epoch": 1603422494.726904,
             "last_retested_at_iso": "2020-10-23T03:08:14.726904",
+            "status": "ACTIVE"
+        },
+        "wkladyznicze.pl": {
+            "included_at_epoch": 1603587289.855437,
+            "included_at_iso": "2020-10-25T00:54:49.855437",
+            "last_retested_at_epoch": 1603587289.855437,
+            "last_retested_at_iso": "2020-10-25T00:54:49.855437",
             "status": "ACTIVE"
         },
         "wlkp24.info": {
@@ -28077,6 +28217,13 @@
             "included_at_iso": "2020-10-23T03:09:27.038303",
             "last_retested_at_epoch": 1603422567.038303,
             "last_retested_at_iso": "2020-10-23T03:09:27.038303",
+            "status": "ACTIVE"
+        },
+        "www.starterfirm.pl": {
+            "included_at_epoch": 1603587290.022185,
+            "included_at_iso": "2020-10-25T00:54:50.022185",
+            "last_retested_at_epoch": 1603587290.022185,
+            "last_retested_at_iso": "2020-10-25T00:54:50.022185",
             "status": "ACTIVE"
         },
         "www.swiatksiazki.pl": {
