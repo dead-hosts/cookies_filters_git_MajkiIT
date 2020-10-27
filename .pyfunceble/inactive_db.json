@@ -108,10 +108,10 @@
             "status": "ACTIVE"
         },
         "4fun.tv": {
-            "included_at_epoch": 1601340230.309402,
-            "included_at_iso": "2020-09-29T00:43:50.309402",
-            "last_retested_at_epoch": 1603242337.084638,
-            "last_retested_at_iso": "2020-10-21T01:05:37.084638",
+            "included_at_epoch": 1603763146.048404,
+            "included_at_iso": "2020-10-27T01:45:46.048404",
+            "last_retested_at_epoch": 1603763146.048404,
+            "last_retested_at_iso": "2020-10-27T01:45:46.048404",
             "status": "ACTIVE"
         },
         "4geek.co": {
@@ -2474,10 +2474,10 @@
             "status": "ACTIVE"
         },
         "bip.gmina.mielec.pl": {
-            "included_at_epoch": 1601340230.405044,
-            "included_at_iso": "2020-09-29T00:43:50.405044",
-            "last_retested_at_epoch": 1603242410.833524,
-            "last_retested_at_iso": "2020-10-21T01:06:50.833524",
+            "included_at_epoch": 1603763146.114334,
+            "included_at_iso": "2020-10-27T01:45:46.114334",
+            "last_retested_at_epoch": 1603763146.114334,
+            "last_retested_at_iso": "2020-10-27T01:45:46.114334",
             "status": "ACTIVE"
         },
         "bip.gov.pl": {
@@ -19267,10 +19267,10 @@
             "status": "ACTIVE"
         },
         "platanhouse.com.pl": {
-            "included_at_epoch": 1601340230.491862,
-            "included_at_iso": "2020-09-29T00:43:50.491862",
-            "last_retested_at_epoch": 1601340230.491862,
-            "last_retested_at_iso": "2020-09-29T00:43:50.491862",
+            "included_at_epoch": 1603763146.173246,
+            "included_at_iso": "2020-10-27T01:45:46.173246",
+            "last_retested_at_epoch": 1603763146.173246,
+            "last_retested_at_iso": "2020-10-27T01:45:46.173246",
             "status": "ACTIVE"
         },
         "platforma.org": {
@@ -23187,10 +23187,10 @@
             "status": "ACTIVE"
         },
         "sklepbiker.pl": {
-            "included_at_epoch": 1601340230.580829,
-            "included_at_iso": "2020-09-29T00:43:50.580829",
-            "last_retested_at_epoch": 1601340230.580829,
-            "last_retested_at_iso": "2020-09-29T00:43:50.580829",
+            "included_at_epoch": 1603763146.232237,
+            "included_at_iso": "2020-10-27T01:45:46.232237",
+            "last_retested_at_epoch": 1603763146.232237,
+            "last_retested_at_iso": "2020-10-27T01:45:46.232237",
             "status": "ACTIVE"
         },
         "sklepdlaplastykow.pl": {
@@ -24412,10 +24412,10 @@
             "status": "ACTIVE"
         },
         "supermenu.com.pl": {
-            "included_at_epoch": 1601340230.665554,
-            "included_at_iso": "2020-09-29T00:43:50.665554",
-            "last_retested_at_epoch": 1601340230.665554,
-            "last_retested_at_iso": "2020-09-29T00:43:50.665554",
+            "included_at_epoch": 1603763146.291031,
+            "included_at_iso": "2020-10-27T01:45:46.291031",
+            "last_retested_at_epoch": 1603763146.291031,
+            "last_retested_at_iso": "2020-10-27T01:45:46.291031",
             "status": "ACTIVE"
         },
         "superstacja.tv": {
