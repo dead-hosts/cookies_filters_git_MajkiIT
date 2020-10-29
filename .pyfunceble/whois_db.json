@@ -811,6 +811,12 @@
         "expiration_date": "31-oct-2020",
         "state": "future"
     },
+    "artrage.pl": {
+        "epoch": 1635811200.0,
+        "expiration_date": "02-nov-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "ascar-rent.pl": {
         "epoch": 1620345600.0,
         "expiration_date": "07-may-2021",
@@ -4759,6 +4765,12 @@
         "expiration_date": "25-feb-2021",
         "state": "future"
     },
+    "flowerstory.pl": {
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "fly-sky.pl": {
         "epoch": 1625875200.0,
         "expiration_date": "10-jul-2021",
@@ -5630,6 +5642,12 @@
     "gorakalwaria.net": {
         "epoch": 1624752000.0,
         "expiration_date": "27-jun-2021",
+        "state": "future"
+    },
+    "gorazdze.pl": {
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "gorlice.tv": {
@@ -8527,6 +8545,12 @@
         "expiration_date": "22-jul-2022",
         "state": "future"
     },
+    "lurker.pl": {
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "luszczyce.pl": {
         "epoch": 1604620800.0,
         "expiration_date": "06-nov-2020",
@@ -8592,6 +8616,12 @@
     "madameedith.com": {
         "epoch": 1628553600.0,
         "expiration_date": "10-aug-2021",
+        "state": "future"
+    },
+    "madlen.pl": {
+        "epoch": 1605484800.0,
+        "expiration_date": "16-nov-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "madreklama.com": {
@@ -9200,6 +9230,12 @@
     "miastons.pl": {
         "epoch": 1630108800.0,
         "expiration_date": "28-aug-2021",
+        "state": "future"
+    },
+    "micros.com.pl": {
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "microsoft.com": {
@@ -10454,6 +10490,12 @@
         "expiration_date": "08-feb-2021",
         "state": "future"
     },
+    "nowaosada.pl": {
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "nowaostroleka.pl": {
         "epoch": 1620691200.0,
         "expiration_date": "11-may-2021",
@@ -11632,6 +11674,12 @@
         "expiration_date": "13-feb-2021",
         "state": "future"
     },
+    "platan.pl": {
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "platanhouse.com.pl": {
         "epoch": 1618704000.0,
         "expiration_date": "18-apr-2021",
@@ -12380,6 +12428,12 @@
     "promedica.biz": {
         "epoch": 1618876800.0,
         "expiration_date": "20-apr-2021",
+        "state": "future"
+    },
+    "promemoria-zg.com": {
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "promib.pl": {
