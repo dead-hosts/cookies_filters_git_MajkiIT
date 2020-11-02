@@ -5967,10 +5967,10 @@
             "status": "ACTIVE"
         },
         "eastend.pl": {
-            "included_at_epoch": 1601858683.136214,
-            "included_at_iso": "2020-10-05T00:44:43.136214",
-            "last_retested_at_epoch": 1604110584.97478,
-            "last_retested_at_iso": "2020-10-31T02:16:24.974780",
+            "included_at_epoch": 1604278689.625588,
+            "included_at_iso": "2020-11-02T00:58:09.625588",
+            "last_retested_at_epoch": 1604278689.625588,
+            "last_retested_at_iso": "2020-11-02T00:58:09.625588",
             "status": "ACTIVE"
         },
         "easyjet.com": {
@@ -6793,10 +6793,10 @@
             "status": "ACTIVE"
         },
         "eredivisie.pl": {
-            "included_at_epoch": 1601858683.221258,
-            "included_at_iso": "2020-10-05T00:44:43.221258",
-            "last_retested_at_epoch": 1604110597.442416,
-            "last_retested_at_iso": "2020-10-31T02:16:37.442416",
+            "included_at_epoch": 1604278689.689809,
+            "included_at_iso": "2020-11-02T00:58:09.689809",
+            "last_retested_at_epoch": 1604278689.689809,
+            "last_retested_at_iso": "2020-11-02T00:58:09.689809",
             "status": "ACTIVE"
         },
         "ergokantor.pl": {
@@ -11798,10 +11798,10 @@
             "status": "ACTIVE"
         },
         "katw.pl": {
-            "included_at_epoch": 1601858683.301145,
-            "included_at_iso": "2020-10-05T00:44:43.301145",
-            "last_retested_at_epoch": 1603242502.276097,
-            "last_retested_at_iso": "2020-10-21T01:08:22.276097",
+            "included_at_epoch": 1604278689.748639,
+            "included_at_iso": "2020-11-02T00:58:09.748639",
+            "last_retested_at_epoch": 1604278689.748639,
+            "last_retested_at_iso": "2020-11-02T00:58:09.748639",
             "status": "ACTIVE"
         },
         "kawasaki.pl": {
@@ -21451,10 +21451,10 @@
             "status": "ACTIVE"
         },
         "rbinternational.com.pl": {
-            "included_at_epoch": 1601858683.402034,
-            "included_at_iso": "2020-10-05T00:44:43.402034",
-            "last_retested_at_epoch": 1601858683.402034,
-            "last_retested_at_iso": "2020-10-05T00:44:43.402034",
+            "included_at_epoch": 1604278689.807915,
+            "included_at_iso": "2020-11-02T00:58:09.807915",
+            "last_retested_at_epoch": 1604278689.807915,
+            "last_retested_at_iso": "2020-11-02T00:58:09.807915",
             "status": "ACTIVE"
         },
         "rbsbychawa.pl": {
@@ -22592,10 +22592,10 @@
             "status": "ACTIVE"
         },
         "semurai.pl": {
-            "included_at_epoch": 1601858683.48134,
-            "included_at_iso": "2020-10-05T00:44:43.481340",
-            "last_retested_at_epoch": 1601858683.48134,
-            "last_retested_at_iso": "2020-10-05T00:44:43.481340",
+            "included_at_epoch": 1604278689.866919,
+            "included_at_iso": "2020-11-02T00:58:09.866919",
+            "last_retested_at_epoch": 1604278689.866919,
+            "last_retested_at_iso": "2020-11-02T00:58:09.866919",
             "status": "ACTIVE"
         },
         "sendgb.com": {
@@ -24227,13 +24227,6 @@
             "included_at_iso": "2020-10-23T01:47:46.815890",
             "last_retested_at_epoch": 1604110592.169007,
             "last_retested_at_iso": "2020-10-31T02:16:32.169007",
-            "status": "ACTIVE"
-        },
-        "store.acer.com": {
-            "included_at_epoch": 1601858683.076022,
-            "included_at_iso": "2020-10-05T00:44:43.076022",
-            "last_retested_at_epoch": 1602723854.391015,
-            "last_retested_at_iso": "2020-10-15T01:04:14.391015",
             "status": "ACTIVE"
         },
         "store.playstation.com": {
@@ -26687,10 +26680,10 @@
             "status": "ACTIVE"
         },
         "visionoptyk.eu": {
-            "included_at_epoch": 1601858683.562029,
-            "included_at_iso": "2020-10-05T00:44:43.562029",
-            "last_retested_at_epoch": 1601858683.562029,
-            "last_retested_at_iso": "2020-10-05T00:44:43.562029",
+            "included_at_epoch": 1604278689.925974,
+            "included_at_iso": "2020-11-02T00:58:09.925974",
+            "last_retested_at_epoch": 1604278689.925974,
+            "last_retested_at_iso": "2020-11-02T00:58:09.925974",
             "status": "ACTIVE"
         },
         "visitczechrepublic.com": {
