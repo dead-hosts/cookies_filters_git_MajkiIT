@@ -21773,10 +21773,10 @@
             "status": "ACTIVE"
         },
         "rma.asus-europe.eu": {
-            "included_at_epoch": 1602031524.625816,
-            "included_at_iso": "2020-10-07T00:45:24.625816",
-            "last_retested_at_epoch": 1604110622.908154,
-            "last_retested_at_iso": "2020-10-31T02:17:02.908154",
+            "included_at_epoch": 1604453838.408776,
+            "included_at_iso": "2020-11-04T01:37:18.408776",
+            "last_retested_at_epoch": 1604453838.408776,
+            "last_retested_at_iso": "2020-11-04T01:37:18.408776",
             "status": "ACTIVE"
         },
         "rmf.fm": {
@@ -23131,10 +23131,10 @@
             "status": "ACTIVE"
         },
         "sklep.delta.poznan.pl": {
-            "included_at_epoch": 1602031524.536419,
-            "included_at_iso": "2020-10-07T00:45:24.536419",
-            "last_retested_at_epoch": 1604110620.024499,
-            "last_retested_at_iso": "2020-10-31T02:17:00.024499",
+            "included_at_epoch": 1604453838.329443,
+            "included_at_iso": "2020-11-04T01:37:18.329443",
+            "last_retested_at_epoch": 1604453838.329443,
+            "last_retested_at_iso": "2020-11-04T01:37:18.329443",
             "status": "ACTIVE"
         },
         "sklep.eltron.pl": {
