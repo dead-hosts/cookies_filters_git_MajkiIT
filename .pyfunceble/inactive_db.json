@@ -16439,10 +16439,10 @@
             "status": "ACTIVE"
         },
         "nasze-kino.eu": {
-            "included_at_epoch": 1602204357.268347,
-            "included_at_iso": "2020-10-09T00:45:57.268347",
-            "last_retested_at_epoch": 1604110555.375326,
-            "last_retested_at_iso": "2020-10-31T02:15:55.375326",
+            "included_at_epoch": 1604625818.649275,
+            "included_at_iso": "2020-11-06T01:23:38.649275",
+            "last_retested_at_epoch": 1604625818.649275,
+            "last_retested_at_iso": "2020-11-06T01:23:38.649275",
             "status": "INACTIVE"
         },
         "nasze-kino.tv": {
