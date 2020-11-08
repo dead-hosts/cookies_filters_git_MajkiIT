@@ -8900,10 +8900,10 @@
             "status": "ACTIVE"
         },
         "github.com": {
-            "included_at_epoch": 1602377180.865769,
-            "included_at_iso": "2020-10-11T00:46:20.865769",
-            "last_retested_at_epoch": 1604110619.537851,
-            "last_retested_at_iso": "2020-10-31T02:16:59.537851",
+            "included_at_epoch": 1604797314.11574,
+            "included_at_iso": "2020-11-08T01:01:54.115740",
+            "last_retested_at_epoch": 1604797314.11574,
+            "last_retested_at_iso": "2020-11-08T01:01:54.115740",
             "status": "ACTIVE"
         },
         "gkn.pl": {
@@ -16348,10 +16348,10 @@
             "status": "ACTIVE"
         },
         "namyslow.eu": {
-            "included_at_epoch": 1602377180.949216,
-            "included_at_iso": "2020-10-11T00:46:20.949216",
-            "last_retested_at_epoch": 1602377180.949216,
-            "last_retested_at_iso": "2020-10-11T00:46:20.949216",
+            "included_at_epoch": 1604797314.176472,
+            "included_at_iso": "2020-11-08T01:01:54.176472",
+            "last_retested_at_epoch": 1604797314.176472,
+            "last_retested_at_iso": "2020-11-08T01:01:54.176472",
             "status": "ACTIVE"
         },
         "nano-carbon.pl": {
@@ -27338,10 +27338,10 @@
             "status": "ACTIVE"
         },
         "wiescisokolowskie.pl": {
-            "included_at_epoch": 1602377180.777598,
-            "included_at_iso": "2020-10-11T00:46:20.777598",
-            "last_retested_at_epoch": 1604110602.385529,
-            "last_retested_at_iso": "2020-10-31T02:16:42.385529",
+            "included_at_epoch": 1604797314.044084,
+            "included_at_iso": "2020-11-08T01:01:54.044084",
+            "last_retested_at_epoch": 1604797314.23557,
+            "last_retested_at_iso": "2020-11-08T01:01:54.235570",
             "status": "ACTIVE"
         },
         "wifi-spot.net": {
@@ -28742,13 +28742,6 @@
             "included_at_iso": "2020-10-23T01:47:15.763419",
             "last_retested_at_epoch": 1604110511.077209,
             "last_retested_at_iso": "2020-10-31T02:15:11.077209",
-            "status": "ACTIVE"
-        },
-        "zakupy.auchan.pl": {
-            "included_at_epoch": 1602377181.115206,
-            "included_at_iso": "2020-10-11T00:46:21.115206",
-            "last_retested_at_epoch": 1602377181.115206,
-            "last_retested_at_iso": "2020-10-11T00:46:21.115206",
             "status": "ACTIVE"
         },
         "zalando-lounge.pl": {
