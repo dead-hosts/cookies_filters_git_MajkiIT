@@ -4,6 +4,12 @@
         "expiration_date": "30-dec-2020",
         "state": "future"
     },
+    "180hb.com": {
+        "epoch": 1624752000.0,
+        "expiration_date": "27-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "2018.pl": {
         "epoch": 1614643200.0,
         "expiration_date": "02-mar-2021",
@@ -2510,6 +2516,12 @@
         "expiration_date": "12-dec-2020",
         "state": "future"
     },
+    "cowkrakowie.pl": {
+        "epoch": 1669680000.0,
+        "expiration_date": "29-nov-2022",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "cpb.pl": {
         "epoch": 1635292800.0,
         "expiration_date": "27-oct-2021",
@@ -3858,6 +3870,12 @@
     "ekspedyt.org": {
         "epoch": 1612051200.0,
         "expiration_date": "31-jan-2021",
+        "state": "future"
+    },
+    "ekspertbudowlany.pl": {
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "ekstraklasa.org": {
@@ -5302,6 +5320,12 @@
         "expiration_date": "12-apr-2021",
         "state": "future"
     },
+    "gdzierodzic.info": {
+        "epoch": 1636070400.0,
+        "expiration_date": "05-nov-2021",
+        "server": "whois.afilias.net",
+        "state": "future"
+    },
     "gdziewpolsce.pl": {
         "epoch": 1604880000.0,
         "expiration_date": "09-nov-2020",
@@ -6440,6 +6464,12 @@
     "immergas.pl": {
         "epoch": 1604707200.0,
         "expiration_date": "07-nov-2020",
+        "state": "future"
+    },
+    "imoli.pl": {
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "impekao24.pl": {
@@ -11235,6 +11265,12 @@
         "expiration_date": "19-jul-2021",
         "state": "future"
     },
+    "panekcs.pl": {
+        "epoch": 1675296000.0,
+        "expiration_date": "02-feb-2023",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "paneleogrodzeniowe-treza.com": {
         "epoch": 1614816000.0,
         "expiration_date": "04-mar-2021",
@@ -11349,6 +11385,12 @@
     "patentujemy.com": {
         "epoch": 1612396800.0,
         "expiration_date": "04-feb-2021",
+        "state": "future"
+    },
+    "patostreamy.com": {
+        "epoch": 1613865600.0,
+        "expiration_date": "21-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "patronite.pl": {
@@ -11788,6 +11830,12 @@
     "pocisk.org": {
         "epoch": 1661126400.0,
         "expiration_date": "22-aug-2022",
+        "state": "future"
+    },
+    "pocketbook.pl": {
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "poczesna.com.pl": {
@@ -14176,6 +14224,12 @@
         "expiration_date": "30-oct-2020",
         "state": "future"
     },
+    "smartbees.pl": {
+        "epoch": 1633824000.0,
+        "expiration_date": "10-oct-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "smartney.pl": {
         "epoch": 1631318400.0,
         "expiration_date": "11-sep-2021",
@@ -16176,6 +16230,24 @@
         "expiration_date": "06-nov-2020",
         "state": "future"
     },
+    "viasatexplore.pl": {
+        "epoch": 1616889600.0,
+        "expiration_date": "28-mar-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
+    "viasathistory.pl": {
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
+    "viasatnature.pl": {
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "victoriadom.pl": {
         "epoch": 1685318400.0,
         "expiration_date": "29-may-2023",
@@ -16506,6 +16578,12 @@
     "wegetarianie.pl": {
         "epoch": 1613001600.0,
         "expiration_date": "11-feb-2021",
+        "state": "future"
+    },
+    "wegrow.info": {
+        "epoch": 1617235200.0,
+        "expiration_date": "01-apr-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "wejherowo24.info": {
