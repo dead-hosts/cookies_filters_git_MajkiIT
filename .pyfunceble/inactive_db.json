@@ -6030,10 +6030,10 @@
             "status": "ACTIVE"
         },
         "ebok.jmdi.pl": {
-            "included_at_epoch": 1602895742.718141,
-            "included_at_iso": "2020-10-17T00:49:02.718141",
-            "last_retested_at_epoch": 1605146158.506539,
-            "last_retested_at_iso": "2020-11-12T01:55:58.506539",
+            "included_at_epoch": 1605317868.585557,
+            "included_at_iso": "2020-11-14T01:37:48.585557",
+            "last_retested_at_epoch": 1605317868.585557,
+            "last_retested_at_iso": "2020-11-14T01:37:48.585557",
             "status": "ACTIVE"
         },
         "ebok.vectra.pl": {
@@ -23453,10 +23453,10 @@
             "status": "ACTIVE"
         },
         "skwerwolnosci.eu": {
-            "included_at_epoch": 1602895742.623339,
-            "included_at_iso": "2020-10-17T00:49:02.623339",
-            "last_retested_at_epoch": 1605146046.050719,
-            "last_retested_at_iso": "2020-11-12T01:54:06.050719",
+            "included_at_epoch": 1605317868.487385,
+            "included_at_iso": "2020-11-14T01:37:48.487385",
+            "last_retested_at_epoch": 1605317868.487385,
+            "last_retested_at_iso": "2020-11-14T01:37:48.487385",
             "status": "ACTIVE"
         },
         "skymaster.de": {
