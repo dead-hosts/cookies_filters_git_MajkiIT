@@ -3992,13 +3992,6 @@
             "last_retested_at_iso": "2020-11-16T01:05:30.366870",
             "status": "INVALID"
         },
-        "cmp.*.pl": {
-            "included_at_epoch": 1603242663.933992,
-            "included_at_iso": "2020-10-21T01:11:03.933992",
-            "last_retested_at_epoch": 1603242663.933992,
-            "last_retested_at_iso": "2020-10-21T01:11:03.933992",
-            "status": "INVALID"
-        },
         "cmp.dreamlab.pl": {
             "included_at_epoch": 1603424299.454725,
             "included_at_iso": "2020-10-23T03:38:19.454725",
@@ -24720,10 +24713,10 @@
             "status": "ACTIVE"
         },
         "stypendia.sejmik.kielce.pl": {
-            "included_at_epoch": 1603242663.754209,
-            "included_at_iso": "2020-10-21T01:11:03.754209",
-            "last_retested_at_epoch": 1603242663.754209,
-            "last_retested_at_iso": "2020-10-21T01:11:03.754209",
+            "included_at_epoch": 1605664116.649969,
+            "included_at_iso": "2020-11-18T01:48:36.649969",
+            "last_retested_at_epoch": 1605664116.649969,
+            "last_retested_at_iso": "2020-11-18T01:48:36.649969",
             "status": "INACTIVE"
         },
         "suchacz.eu": {
@@ -25714,10 +25707,10 @@
             "status": "ACTIVE"
         },
         "testujemy.biedronka.pl": {
-            "included_at_epoch": 1603242663.814914,
-            "included_at_iso": "2020-10-21T01:11:03.814914",
-            "last_retested_at_epoch": 1603242663.814914,
-            "last_retested_at_iso": "2020-10-21T01:11:03.814914",
+            "included_at_epoch": 1605664116.712583,
+            "included_at_iso": "2020-11-18T01:48:36.712583",
+            "last_retested_at_epoch": 1605664116.712583,
+            "last_retested_at_iso": "2020-11-18T01:48:36.712583",
             "status": "INACTIVE"
         },
         "tewa-sensors.com": {
@@ -28668,10 +28661,10 @@
             "status": "ACTIVE"
         },
         "www.simex.pl": {
-            "included_at_epoch": 1603242663.874098,
-            "included_at_iso": "2020-10-21T01:11:03.874098",
-            "last_retested_at_epoch": 1603242663.874098,
-            "last_retested_at_iso": "2020-10-21T01:11:03.874098",
+            "included_at_epoch": 1605664116.771592,
+            "included_at_iso": "2020-11-18T01:48:36.771592",
+            "last_retested_at_epoch": 1605664116.771592,
+            "last_retested_at_iso": "2020-11-18T01:48:36.771592",
             "status": "ACTIVE"
         },
         "www.smartpolak.co.uk": {
