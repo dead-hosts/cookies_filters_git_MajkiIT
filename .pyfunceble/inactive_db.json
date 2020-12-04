@@ -17160,10 +17160,10 @@
             "status": "ACTIVE"
         },
         "nasze-kino.eu": {
-            "included_at_epoch": 1604625818.649275,
-            "included_at_iso": "2020-11-06T01:23:38.649275",
-            "last_retested_at_epoch": 1606528157.152895,
-            "last_retested_at_iso": "2020-11-28T01:49:17.152895",
+            "included_at_epoch": 1607059585.718088,
+            "included_at_iso": "2020-12-04T05:26:25.718088",
+            "last_retested_at_epoch": 1607059585.718088,
+            "last_retested_at_iso": "2020-12-04T05:26:25.718088",
             "status": "INACTIVE"
         },
         "nasze.fm": {
