@@ -9278,10 +9278,10 @@
             "status": "ACTIVE"
         },
         "github.com": {
-            "included_at_epoch": 1604797314.11574,
-            "included_at_iso": "2020-11-08T01:01:54.115740",
-            "last_retested_at_epoch": 1606528223.327287,
-            "last_retested_at_iso": "2020-11-28T01:50:23.327287",
+            "included_at_epoch": 1607217406.971227,
+            "included_at_iso": "2020-12-06T01:16:46.971227",
+            "last_retested_at_epoch": 1607217406.971227,
+            "last_retested_at_iso": "2020-12-06T01:16:46.971227",
             "status": "ACTIVE"
         },
         "gizalki.pl": {
@@ -17069,10 +17069,10 @@
             "status": "ACTIVE"
         },
         "namyslow.eu": {
-            "included_at_epoch": 1604797314.176472,
-            "included_at_iso": "2020-11-08T01:01:54.176472",
-            "last_retested_at_epoch": 1604797314.176472,
-            "last_retested_at_iso": "2020-11-08T01:01:54.176472",
+            "included_at_epoch": 1607217407.0341,
+            "included_at_iso": "2020-12-06T01:16:47.034100",
+            "last_retested_at_epoch": 1607217407.0341,
+            "last_retested_at_iso": "2020-12-06T01:16:47.034100",
             "status": "ACTIVE"
         },
         "nano-carbon.pl": {
@@ -28598,10 +28598,10 @@
             "status": "ACTIVE"
         },
         "wiescisokolowskie.pl": {
-            "included_at_epoch": 1604797314.044084,
-            "included_at_iso": "2020-11-08T01:01:54.044084",
-            "last_retested_at_epoch": 1606528205.382307,
-            "last_retested_at_iso": "2020-11-28T01:50:05.382307",
+            "included_at_epoch": 1607217406.897792,
+            "included_at_iso": "2020-12-06T01:16:46.897792",
+            "last_retested_at_epoch": 1607217407.096201,
+            "last_retested_at_iso": "2020-12-06T01:16:47.096201",
             "status": "ACTIVE"
         },
         "wifi-spot.net": {
