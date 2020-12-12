@@ -485,6 +485,13 @@
             "last_retested_at_iso": "2020-12-10T03:16:53.116043",
             "status": "ACTIVE"
         },
+        "advantim.com.pl": {
+            "included_at_epoch": 1607754696.046822,
+            "included_at_iso": "2020-12-12T06:31:36.046822",
+            "last_retested_at_epoch": 1607754696.046822,
+            "last_retested_at_iso": "2020-12-12T06:31:36.046822",
+            "status": "ACTIVE"
+        },
         "advatus.pl": {
             "included_at_epoch": 1605852964.710045,
             "included_at_iso": "2020-11-20T06:16:04.710045",
@@ -961,6 +968,13 @@
             "last_retested_at_iso": "2020-12-10T03:16:47.246387",
             "status": "ACTIVE"
         },
+        "alusy.pl": {
+            "included_at_epoch": 1607754695.815219,
+            "included_at_iso": "2020-12-12T06:31:35.815219",
+            "last_retested_at_epoch": 1607754695.815219,
+            "last_retested_at_iso": "2020-12-12T06:31:35.815219",
+            "status": "ACTIVE"
+        },
         "amarone.pl": {
             "included_at_epoch": 1605852973.127079,
             "included_at_iso": "2020-11-20T06:16:13.127079",
@@ -1318,6 +1332,13 @@
             "last_retested_at_iso": "2020-12-10T03:17:12.416188",
             "status": "ACTIVE"
         },
+        "archiwum.starostwolukow.pl": {
+            "included_at_epoch": 1607754696.224,
+            "included_at_iso": "2020-12-12T06:31:36.224000",
+            "last_retested_at_epoch": 1607754696.224,
+            "last_retested_at_iso": "2020-12-12T06:31:36.224000",
+            "status": "ACTIVE"
+        },
         "archiwum.szubin.pl": {
             "included_at_epoch": 1606698887.21695,
             "included_at_iso": "2020-11-30T01:14:47.216950",
@@ -1554,6 +1575,13 @@
             "included_at_iso": "2020-11-20T06:16:05.503292",
             "last_retested_at_epoch": 1607570188.083607,
             "last_retested_at_iso": "2020-12-10T03:16:28.083607",
+            "status": "ACTIVE"
+        },
+        "atrakcje.com.pl": {
+            "included_at_epoch": 1607754696.13737,
+            "included_at_iso": "2020-12-12T06:31:36.137370",
+            "last_retested_at_epoch": 1607754696.13737,
+            "last_retested_at_iso": "2020-12-12T06:31:36.137370",
             "status": "ACTIVE"
         },
         "atrakcyjny-kredyt.pl": {
@@ -3369,6 +3397,13 @@
             "last_retested_at_iso": "2020-12-10T03:16:13.112507",
             "status": "ACTIVE"
         },
+        "budmatauto.pl": {
+            "included_at_epoch": 1607754696.67087,
+            "included_at_iso": "2020-12-12T06:31:36.670870",
+            "last_retested_at_epoch": 1607754696.67087,
+            "last_retested_at_iso": "2020-12-12T06:31:36.670870",
+            "status": "ACTIVE"
+        },
         "budmax.eu": {
             "included_at_epoch": 1605852972.478807,
             "included_at_iso": "2020-11-20T06:16:12.478807",
@@ -4328,6 +4363,13 @@
             "last_retested_at_iso": "2020-12-10T03:18:07.022224",
             "status": "ACTIVE"
         },
+        "contentorganica.pl": {
+            "included_at_epoch": 1607754696.761409,
+            "included_at_iso": "2020-12-12T06:31:36.761409",
+            "last_retested_at_epoch": 1607754696.761409,
+            "last_retested_at_iso": "2020-12-12T06:31:36.761409",
+            "status": "ACTIVE"
+        },
         "contentstream.pl": {
             "included_at_epoch": 1605852990.802369,
             "included_at_iso": "2020-11-20T06:16:30.802369",
@@ -4895,6 +4937,13 @@
             "last_retested_at_iso": "2020-12-10T03:17:38.313994",
             "status": "ACTIVE"
         },
+        "dealer.321sprzedane.pl": {
+            "included_at_epoch": 1607754696.851579,
+            "included_at_iso": "2020-12-12T06:31:36.851579",
+            "last_retested_at_epoch": 1607754696.851579,
+            "last_retested_at_iso": "2020-12-12T06:31:36.851579",
+            "status": "ACTIVE"
+        },
         "debesis.pl": {
             "included_at_epoch": 1605852993.864357,
             "included_at_iso": "2020-11-20T06:16:33.864357",
@@ -5383,6 +5432,13 @@
             "included_at_iso": "2020-11-20T06:16:36.698013",
             "last_retested_at_epoch": 1607570300.257512,
             "last_retested_at_iso": "2020-12-10T03:18:20.257512",
+            "status": "ACTIVE"
+        },
+        "dobraenergia.ewe.pl": {
+            "included_at_epoch": 1607754696.911422,
+            "included_at_iso": "2020-12-12T06:31:36.911422",
+            "last_retested_at_epoch": 1607754696.911422,
+            "last_retested_at_iso": "2020-12-12T06:31:36.911422",
             "status": "ACTIVE"
         },
         "dobrebistro.eatbu.com": {
@@ -6373,10 +6429,10 @@
             "status": "ACTIVE"
         },
         "ebok.jmdi.pl": {
-            "included_at_epoch": 1605317868.585557,
-            "included_at_iso": "2020-11-14T01:37:48.585557",
-            "last_retested_at_epoch": 1607570308.938064,
-            "last_retested_at_iso": "2020-12-10T03:18:28.938064",
+            "included_at_epoch": 1607754696.973345,
+            "included_at_iso": "2020-12-12T06:31:36.973345",
+            "last_retested_at_epoch": 1607754696.973345,
+            "last_retested_at_iso": "2020-12-12T06:31:36.973345",
             "status": "ACTIVE"
         },
         "ebok.vectra.pl": {
@@ -7910,6 +7966,13 @@
             "included_at_iso": "2020-11-20T09:02:03.955869",
             "last_retested_at_epoch": 1607570330.58069,
             "last_retested_at_iso": "2020-12-10T03:18:50.580690",
+            "status": "ACTIVE"
+        },
+        "federacjarolna.pl": {
+            "included_at_epoch": 1607754697.034376,
+            "included_at_iso": "2020-12-12T06:31:37.034376",
+            "last_retested_at_epoch": 1607754697.034376,
+            "last_retested_at_iso": "2020-12-12T06:31:37.034376",
             "status": "ACTIVE"
         },
         "felgdent.com": {
@@ -10138,6 +10201,13 @@
             "last_retested_at_iso": "2020-11-20T09:03:35.942171",
             "status": "ACTIVE"
         },
+        "gryf.pl": {
+            "included_at_epoch": 1607754697.306604,
+            "included_at_iso": "2020-12-12T06:31:37.306604",
+            "last_retested_at_epoch": 1607754697.306604,
+            "last_retested_at_iso": "2020-12-12T06:31:37.306604",
+            "status": "ACTIVE"
+        },
         "grzegorz-michalek.pl": {
             "included_at_epoch": 1605862935.419423,
             "included_at_iso": "2020-11-20T09:02:15.419423",
@@ -10906,6 +10976,13 @@
             "included_at_iso": "2020-11-20T09:02:18.933997",
             "last_retested_at_epoch": 1605862938.933997,
             "last_retested_at_iso": "2020-11-20T09:02:18.933997",
+            "status": "ACTIVE"
+        },
+        "iel.pl": {
+            "included_at_epoch": 1607754697.216965,
+            "included_at_iso": "2020-12-12T06:31:37.216965",
+            "last_retested_at_epoch": 1607754697.216965,
+            "last_retested_at_iso": "2020-12-12T06:31:37.216965",
             "status": "ACTIVE"
         },
         "iem-expo.pl": {
@@ -12819,6 +12896,13 @@
             "last_retested_at_iso": "2020-11-20T09:02:25.347814",
             "status": "ACTIVE"
         },
+        "kofh.pl": {
+            "included_at_epoch": 1607754697.485943,
+            "included_at_iso": "2020-12-12T06:31:37.485943",
+            "last_retested_at_epoch": 1607754697.485943,
+            "last_retested_at_iso": "2020-12-12T06:31:37.485943",
+            "status": "ACTIVE"
+        },
         "kokardka.eu": {
             "included_at_epoch": 1605862940.850392,
             "included_at_iso": "2020-11-20T09:02:20.850392",
@@ -13034,6 +13118,13 @@
             "included_at_iso": "2020-11-20T06:16:04.171554",
             "last_retested_at_epoch": 1607570172.689813,
             "last_retested_at_iso": "2020-12-10T03:16:12.689813",
+            "status": "ACTIVE"
+        },
+        "konferencja.amoz.edu.pl": {
+            "included_at_epoch": 1607754695.907925,
+            "included_at_iso": "2020-12-12T06:31:35.907925",
+            "last_retested_at_epoch": 1607754695.907925,
+            "last_retested_at_iso": "2020-12-12T06:31:35.907925",
             "status": "ACTIVE"
         },
         "koniecpol.info": {
@@ -14245,6 +14336,13 @@
             "included_at_iso": "2020-11-20T06:16:26.603161",
             "last_retested_at_epoch": 1607570276.692622,
             "last_retested_at_iso": "2020-12-10T03:17:56.692622",
+            "status": "ACTIVE"
+        },
+        "limpol.com": {
+            "included_at_epoch": 1607754697.57655,
+            "included_at_iso": "2020-12-12T06:31:37.576550",
+            "last_retested_at_epoch": 1607754697.57655,
+            "last_retested_at_iso": "2020-12-12T06:31:37.576550",
             "status": "ACTIVE"
         },
         "linkedin.com": {
@@ -16886,6 +16984,13 @@
             "last_retested_at_iso": "2020-12-10T03:19:01.417834",
             "status": "ACTIVE"
         },
+        "mt514.nowybip.pl": {
+            "included_at_epoch": 1607754696.281417,
+            "included_at_iso": "2020-12-12T06:31:36.281417",
+            "last_retested_at_epoch": 1607754696.281417,
+            "last_retested_at_iso": "2020-12-12T06:31:36.281417",
+            "status": "ACTIVE"
+        },
         "mtech.pl": {
             "included_at_epoch": 1605852993.030238,
             "included_at_iso": "2020-11-20T06:16:33.030238",
@@ -17129,6 +17234,13 @@
             "included_at_iso": "2020-11-20T09:03:33.959847",
             "last_retested_at_epoch": 1605863013.959847,
             "last_retested_at_iso": "2020-11-20T09:03:33.959847",
+            "status": "ACTIVE"
+        },
+        "mycielin.pl": {
+            "included_at_epoch": 1607754697.127032,
+            "included_at_iso": "2020-12-12T06:31:37.127032",
+            "last_retested_at_epoch": 1607754697.871959,
+            "last_retested_at_iso": "2020-12-12T06:31:37.871959",
             "status": "ACTIVE"
         },
         "mydhl.express.dhl": {
@@ -18139,11 +18251,25 @@
             "last_retested_at_iso": "2020-11-20T09:02:45.027872",
             "status": "ACTIVE"
         },
+        "nowytomysl.pl": {
+            "included_at_epoch": 1607754697.665829,
+            "included_at_iso": "2020-12-12T06:31:37.665829",
+            "last_retested_at_epoch": 1607754697.665829,
+            "last_retested_at_iso": "2020-12-12T06:31:37.665829",
+            "status": "ACTIVE"
+        },
         "npa.pl": {
             "included_at_epoch": 1605852969.488736,
             "included_at_iso": "2020-11-20T06:16:09.488736",
             "last_retested_at_epoch": 1607570213.425183,
             "last_retested_at_iso": "2020-12-10T03:16:53.425183",
+            "status": "ACTIVE"
+        },
+        "npz.imw.lublin.pl": {
+            "included_at_epoch": 1607754697.962442,
+            "included_at_iso": "2020-12-12T06:31:37.962442",
+            "last_retested_at_epoch": 1607754697.962442,
+            "last_retested_at_iso": "2020-12-12T06:31:37.962442",
             "status": "ACTIVE"
         },
         "numizmatyka24.pl": {
@@ -21198,6 +21324,13 @@
             "last_retested_at_iso": "2020-12-10T03:16:57.752894",
             "status": "ACTIVE"
         },
+        "portal.wfos.szczecin.pl": {
+            "included_at_epoch": 1607754695.750211,
+            "included_at_iso": "2020-12-12T06:31:35.750211",
+            "last_retested_at_epoch": 1607754695.750211,
+            "last_retested_at_iso": "2020-12-12T06:31:35.750211",
+            "status": "ACTIVE"
+        },
         "portale-randkowe-ranking.pl": {
             "included_at_epoch": 1605862975.829219,
             "included_at_iso": "2020-11-20T09:02:55.829219",
@@ -21266,6 +21399,13 @@
             "included_at_iso": "2020-11-20T09:02:56.048309",
             "last_retested_at_epoch": 1605862976.048309,
             "last_retested_at_iso": "2020-11-20T09:02:56.048309",
+            "status": "ACTIVE"
+        },
+        "posilkiwchorobie.pl": {
+            "included_at_epoch": 1607754698.021725,
+            "included_at_iso": "2020-12-12T06:31:38.021725",
+            "last_retested_at_epoch": 1607754698.021725,
+            "last_retested_at_iso": "2020-12-12T06:31:38.021725",
             "status": "ACTIVE"
         },
         "posnania.eu": {
@@ -21406,6 +21546,13 @@
             "included_at_iso": "2020-11-20T09:02:39.590642",
             "last_retested_at_epoch": 1605862959.590642,
             "last_retested_at_iso": "2020-11-20T09:02:39.590642",
+            "status": "ACTIVE"
+        },
+        "powietrze.poznan.wios.gov.pl": {
+            "included_at_epoch": 1607754697.810452,
+            "included_at_iso": "2020-12-12T06:31:37.810452",
+            "last_retested_at_epoch": 1607754697.810452,
+            "last_retested_at_iso": "2020-12-12T06:31:37.810452",
             "status": "ACTIVE"
         },
         "poxilina.com.pl": {
@@ -23221,6 +23368,13 @@
             "last_retested_at_iso": "2020-11-20T09:03:02.058779",
             "status": "ACTIVE"
         },
+        "romeo.net.pl": {
+            "included_at_epoch": 1607754696.429889,
+            "included_at_iso": "2020-12-12T06:31:36.429889",
+            "last_retested_at_epoch": 1607754696.429889,
+            "last_retested_at_iso": "2020-12-12T06:31:36.429889",
+            "status": "ACTIVE"
+        },
         "rondel.pl": {
             "included_at_epoch": 1605862982.008195,
             "included_at_iso": "2020-11-20T09:03:02.008195",
@@ -23359,6 +23513,13 @@
             "included_at_iso": "2020-11-20T09:03:02.469796",
             "last_retested_at_epoch": 1605862982.469796,
             "last_retested_at_iso": "2020-11-20T09:03:02.469796",
+            "status": "ACTIVE"
+        },
+        "rs-handmade.com": {
+            "included_at_epoch": 1607754697.396467,
+            "included_at_iso": "2020-12-12T06:31:37.396467",
+            "last_retested_at_epoch": 1607754697.396467,
+            "last_retested_at_iso": "2020-12-12T06:31:37.396467",
             "status": "ACTIVE"
         },
         "rta24.eu": {
@@ -23858,6 +24019,13 @@
             "last_retested_at_iso": "2020-11-20T09:03:04.343499",
             "status": "ACTIVE"
         },
+        "seirp.elblag.pl": {
+            "included_at_epoch": 1607754698.111462,
+            "included_at_iso": "2020-12-12T06:31:38.111462",
+            "last_retested_at_epoch": 1607754698.111462,
+            "last_retested_at_iso": "2020-12-12T06:31:38.111462",
+            "status": "ACTIVE"
+        },
         "sejny.net": {
             "included_at_epoch": 1605852972.296837,
             "included_at_iso": "2020-11-20T06:16:12.296837",
@@ -24327,6 +24495,13 @@
             "last_retested_at_iso": "2020-11-20T09:02:17.980083",
             "status": "ACTIVE"
         },
+        "sip-rejestr.e-swietokrzyskie.pl": {
+            "included_at_epoch": 1607754696.519759,
+            "included_at_iso": "2020-12-12T06:31:36.519759",
+            "last_retested_at_epoch": 1607754696.519759,
+            "last_retested_at_iso": "2020-12-12T06:31:36.519759",
+            "status": "ACTIVE"
+        },
         "sipma.pl": {
             "included_at_epoch": 1605862986.190629,
             "included_at_iso": "2020-11-20T09:03:06.190629",
@@ -24572,6 +24747,13 @@
             "last_retested_at_iso": "2020-12-10T03:16:43.578553",
             "status": "ACTIVE"
         },
+        "sklep.salvatti.pl": {
+            "included_at_epoch": 1607754698.199881,
+            "included_at_iso": "2020-12-12T06:31:38.199881",
+            "last_retested_at_epoch": 1607754698.199881,
+            "last_retested_at_iso": "2020-12-12T06:31:38.199881",
+            "status": "ACTIVE"
+        },
         "sklep.sizeer.com": {
             "included_at_epoch": 1605862986.898028,
             "included_at_iso": "2020-11-20T09:03:06.898028",
@@ -24748,10 +24930,10 @@
             "status": "ACTIVE"
         },
         "skwerwolnosci.eu": {
-            "included_at_epoch": 1605317868.487385,
-            "included_at_iso": "2020-11-14T01:37:48.487385",
-            "last_retested_at_epoch": 1607570184.128766,
-            "last_retested_at_iso": "2020-12-10T03:16:24.128766",
+            "included_at_epoch": 1607754695.9658,
+            "included_at_iso": "2020-12-12T06:31:35.965800",
+            "last_retested_at_epoch": 1607754695.9658,
+            "last_retested_at_iso": "2020-12-12T06:31:35.965800",
             "status": "ACTIVE"
         },
         "skymaster.de": {
@@ -25452,6 +25634,13 @@
             "included_at_iso": "2020-11-20T06:16:23.731441",
             "last_retested_at_epoch": 1607570268.567944,
             "last_retested_at_iso": "2020-12-10T03:17:48.567944",
+            "status": "ACTIVE"
+        },
+        "stacje.wios.rzeszow.pl": {
+            "included_at_epoch": 1607754697.75283,
+            "included_at_iso": "2020-12-12T06:31:37.752830",
+            "last_retested_at_epoch": 1607754697.75283,
+            "last_retested_at_iso": "2020-12-12T06:31:37.752830",
             "status": "ACTIVE"
         },
         "staleo.pl": {
@@ -26306,6 +26495,13 @@
             "included_at_iso": "2020-11-20T06:16:25.072802",
             "last_retested_at_epoch": 1607570272.208343,
             "last_retested_at_iso": "2020-12-10T03:17:52.208343",
+            "status": "ACTIVE"
+        },
+        "szkolnapolisa.pl": {
+            "included_at_epoch": 1607754696.340912,
+            "included_at_iso": "2020-12-12T06:31:36.340912",
+            "last_retested_at_epoch": 1607754696.340912,
+            "last_retested_at_iso": "2020-12-12T06:31:36.340912",
             "status": "ACTIVE"
         },
         "szkolymedyczne.eu": {
@@ -28163,6 +28359,20 @@
             "last_retested_at_iso": "2020-12-10T03:18:36.267794",
             "status": "ACTIVE"
         },
+        "vasco.info.pl": {
+            "included_at_epoch": 1607754698.25831,
+            "included_at_iso": "2020-12-12T06:31:38.258310",
+            "last_retested_at_epoch": 1607754698.25831,
+            "last_retested_at_iso": "2020-12-12T06:31:38.258310",
+            "status": "ACTIVE"
+        },
+        "vbhelp.pl": {
+            "included_at_epoch": 1607754698.347575,
+            "included_at_iso": "2020-12-12T06:31:38.347575",
+            "last_retested_at_epoch": 1607754698.347575,
+            "last_retested_at_iso": "2020-12-12T06:31:38.347575",
+            "status": "ACTIVE"
+        },
         "vcarbon.pl": {
             "included_at_epoch": 1606187491.223537,
             "included_at_iso": "2020-11-24T03:11:31.223537",
@@ -28478,6 +28688,13 @@
             "last_retested_at_iso": "2020-11-20T09:03:05.123011",
             "status": "ACTIVE"
         },
+        "vwmp.com.pl": {
+            "included_at_epoch": 1607754698.43536,
+            "included_at_iso": "2020-12-12T06:31:38.435360",
+            "last_retested_at_epoch": 1607754698.43536,
+            "last_retested_at_iso": "2020-12-12T06:31:38.435360",
+            "status": "ACTIVE"
+        },
         "wabrzezno.com": {
             "included_at_epoch": 1605852966.305138,
             "included_at_iso": "2020-11-20T06:16:06.305138",
@@ -28686,6 +28903,13 @@
             "included_at_iso": "2020-11-20T09:03:19.991965",
             "last_retested_at_epoch": 1605862999.991965,
             "last_retested_at_iso": "2020-11-20T09:03:19.991965",
+            "status": "ACTIVE"
+        },
+        "wczasy.esky.pl": {
+            "included_at_epoch": 1607754698.541929,
+            "included_at_iso": "2020-12-12T06:31:38.541929",
+            "last_retested_at_epoch": 1607754698.541929,
+            "last_retested_at_iso": "2020-12-12T06:31:38.541929",
             "status": "ACTIVE"
         },
         "wd.com": {
@@ -29267,6 +29491,13 @@
             "included_at_iso": "2020-11-20T09:03:21.646469",
             "last_retested_at_epoch": 1605863001.646469,
             "last_retested_at_iso": "2020-11-20T09:03:21.646469",
+            "status": "ACTIVE"
+        },
+        "wodociagi.slupsk.pl": {
+            "included_at_epoch": 1607754696.579031,
+            "included_at_iso": "2020-12-12T06:31:36.579031",
+            "last_retested_at_epoch": 1607754696.579031,
+            "last_retested_at_iso": "2020-12-12T06:31:36.579031",
             "status": "ACTIVE"
         },
         "wodzislaw.com.pl": {

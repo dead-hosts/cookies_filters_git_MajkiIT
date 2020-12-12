@@ -312,6 +312,12 @@
         "server": "whois.dns.pl",
         "state": "future"
     },
+    "advantim.com.pl": {
+        "epoch": 1633392000.0,
+        "expiration_date": "05-oct-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "advatus.pl": {
         "epoch": 1637107200.0,
         "expiration_date": "17-nov-2021",
@@ -618,6 +624,12 @@
     "alufelgi.sklep.pl": {
         "epoch": 1670371200.0,
         "expiration_date": "07-dec-2022",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
+    "alusy.pl": {
+        "epoch": 1638662400.0,
+        "expiration_date": "05-dec-2021",
         "server": "whois.dns.pl",
         "state": "future"
     },
@@ -973,6 +985,12 @@
     "atomic.com": {
         "epoch": 1620259200.0,
         "expiration_date": "06-may-2021",
+        "state": "future"
+    },
+    "atrakcje.com.pl": {
+        "epoch": 1636934400.0,
+        "expiration_date": "15-nov-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "atrakcyjny-kredyt.pl": {
@@ -2063,6 +2081,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "budmatauto.pl": {
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "bugbird.pl": {
         "epoch": 1620259200.0,
         "expiration_date": "06-may-2021",
@@ -2611,6 +2635,12 @@
     "confronter.pl": {
         "epoch": 1655596800.0,
         "expiration_date": "19-jun-2022",
+        "state": "future"
+    },
+    "contentorganica.pl": {
+        "epoch": 1635552000.0,
+        "expiration_date": "30-oct-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "contentstream.pl": {
@@ -4880,6 +4910,12 @@
         "expiration_date": "30-dec-2020",
         "state": "future"
     },
+    "federacjarolna.pl": {
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "fedex.com": {
         "epoch": 1574985600,
         "expiration_date": "29-nov-2019",
@@ -6304,6 +6340,12 @@
         "expiration_date": "16-jun-2022",
         "state": "future"
     },
+    "gryf.pl": {
+        "epoch": 1696982400.0,
+        "expiration_date": "11-oct-2023",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "grzegorz-michalek.pl": {
         "epoch": 1621900800.0,
         "expiration_date": "25-may-2021",
@@ -6797,6 +6839,12 @@
     "idhosting.pl": {
         "epoch": 1637107200.0,
         "expiration_date": "17-nov-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
+    "iel.pl": {
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "server": "whois.dns.pl",
         "state": "future"
     },
@@ -8000,6 +8048,12 @@
         "expiration_date": "29-dec-2020",
         "state": "future"
     },
+    "kofh.pl": {
+        "epoch": 1639699200.0,
+        "expiration_date": "17-dec-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "kokos.pl": {
         "epoch": 1646524800.0,
         "expiration_date": "06-mar-2022",
@@ -8913,6 +8967,12 @@
     "limanowa.in": {
         "epoch": 1624406400.0,
         "expiration_date": "23-jun-2021",
+        "state": "future"
+    },
+    "limpol.com": {
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "linkedin.com": {
@@ -10753,6 +10813,12 @@
         "expiration_date": "13-aug-2022",
         "state": "future"
     },
+    "mycielin.pl": {
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "myheritage.pl": {
         "epoch": 1659744000.0,
         "expiration_date": "06-aug-2022",
@@ -11412,6 +11478,12 @@
     "nowyteatr.org": {
         "epoch": 1629590400.0,
         "expiration_date": "22-aug-2021",
+        "state": "future"
+    },
+    "nowytomysl.pl": {
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "npa.pl": {
@@ -13147,6 +13219,12 @@
         "expiration_date": "31-may-2026",
         "state": "future"
     },
+    "posilkiwchorobie.pl": {
+        "epoch": 1733788800.0,
+        "expiration_date": "10-dec-2024",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "post-it.pl": {
         "epoch": 1625788800.0,
         "expiration_date": "09-jul-2021",
@@ -14364,6 +14442,12 @@
         "expiration_date": "26-aug-2021",
         "state": "future"
     },
+    "romeo.net.pl": {
+        "epoch": 1623456000.0,
+        "expiration_date": "12-jun-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "rondel.pl": {
         "epoch": 1628380800.0,
         "expiration_date": "08-aug-2021",
@@ -14431,6 +14515,12 @@
         "epoch": 1611878400.0,
         "expiration_date": "29-jan-2021",
         "server": "whois.dns.pl",
+        "state": "future"
+    },
+    "rs-handmade.com": {
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "rudaslaska.com.pl": {
@@ -14719,6 +14809,12 @@
     "seg.org.pl": {
         "epoch": 1629936000.0,
         "expiration_date": "26-aug-2021",
+        "state": "future"
+    },
+    "seirp.elblag.pl": {
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "sejny.net": {
@@ -16197,6 +16293,12 @@
         "server": "whois.dns.pl",
         "state": "future"
     },
+    "szkolnapolisa.pl": {
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "szlot.pl": {
         "epoch": 1615939200.0,
         "expiration_date": "17-mar-2021",
@@ -17450,6 +17552,18 @@
         "expiration_date": "16-mar-2021",
         "state": "future"
     },
+    "vasco.info.pl": {
+        "epoch": 1637712000.0,
+        "expiration_date": "24-nov-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
+    "vbhelp.pl": {
+        "epoch": 1640304000.0,
+        "expiration_date": "24-dec-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "vcarbon.pl": {
         "epoch": 1638489600.0,
         "expiration_date": "03-dec-2021",
@@ -17657,6 +17771,12 @@
     "vw-group.pl": {
         "epoch": 1610496000.0,
         "expiration_date": "13-jan-2021",
+        "state": "future"
+    },
+    "vwmp.com.pl": {
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "wabrzezno.com": {
@@ -18142,6 +18262,12 @@
     "wodociagi-kalisz.pl": {
         "epoch": 1607126400.0,
         "expiration_date": "05-dec-2020",
+        "state": "future"
+    },
+    "wodociagi.slupsk.pl": {
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "wodzislaw.com.pl": {
