@@ -1150,6 +1150,12 @@
         "expiration_date": "05-oct-2028",
         "state": "future"
     },
+    "avatec.pl": {
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "avatradepolska.pl": {
         "epoch": 1577059200,
         "expiration_date": "23-dec-2019",
@@ -4373,6 +4379,12 @@
         "expiration_date": "19-aug-2021",
         "state": "future"
     },
+    "energiarecykling.pl": {
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "energoekspert.com.pl": {
         "epoch": 1638662400.0,
         "expiration_date": "05-dec-2021",
@@ -5669,6 +5681,12 @@
         "server": "whois.dns.pl",
         "state": "future"
     },
+    "gbpszebnie.pl": {
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "gbritain.net": {
         "epoch": 1633478400.0,
         "expiration_date": "06-oct-2021",
@@ -5953,6 +5971,12 @@
     "glucholazy.pl": {
         "epoch": 1638921600.0,
         "expiration_date": "08-dec-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
+    "gmina-aleksandrow.pl": {
+        "epoch": 1633132800.0,
+        "expiration_date": "02-oct-2021",
         "server": "whois.dns.pl",
         "state": "future"
     },
@@ -8923,6 +8947,12 @@
         "expiration_date": "07-mar-2024",
         "state": "future"
     },
+    "lgd-wieruszow.pl": {
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "liber.pl": {
         "epoch": 1614556800.0,
         "expiration_date": "01-mar-2021",
@@ -9678,6 +9708,12 @@
     "mcksokol.pl": {
         "epoch": 1608076800.0,
         "expiration_date": "16-dec-2020",
+        "state": "future"
+    },
+    "mcm-milicz.pl": {
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "mdkgal.edu.pl": {
@@ -12371,6 +12407,12 @@
         "server": "whois.dns.pl",
         "state": "future"
     },
+    "pcc.org.pl": {
+        "epoch": 1640908800.0,
+        "expiration_date": "31-dec-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "pch24.info": {
         "epoch": 1625702400.0,
         "expiration_date": "08-jul-2021",
@@ -12594,6 +12636,12 @@
     "pis.org.pl": {
         "epoch": 1624838400.0,
         "expiration_date": "28-jun-2021",
+        "state": "future"
+    },
+    "piwkolo.info": {
+        "epoch": 1617062400.0,
+        "expiration_date": "30-mar-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "pizza-express.pl": {
@@ -14070,6 +14118,12 @@
     "rajapack.pl": {
         "epoch": 1609286400.0,
         "expiration_date": "30-dec-2020",
+        "state": "future"
+    },
+    "rakszawa.pl": {
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "rakuten.tv": {
@@ -15628,6 +15682,12 @@
     "spolem.olawa.pl": {
         "epoch": 1633737600.0,
         "expiration_date": "09-oct-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
+    "spolemkatowice.pl": {
+        "epoch": 1636070400.0,
+        "expiration_date": "05-nov-2021",
         "server": "whois.dns.pl",
         "state": "future"
     },
@@ -17722,6 +17782,12 @@
         "expiration_date": "07-feb-2021",
         "state": "future"
     },
+    "vmr.pl": {
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "vmware.com": {
         "epoch": 1611878400.0,
         "expiration_date": "29-jan-2021",
@@ -18186,6 +18252,12 @@
         "server": "whois.dns.pl",
         "state": "future"
     },
+    "wit.com.pl": {
+        "epoch": 1639180800.0,
+        "expiration_date": "11-dec-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "wittchen.com": {
         "epoch": 1606867200.0,
         "expiration_date": "02-dec-2020",
@@ -18596,6 +18668,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "yachtguru.pl": {
+        "epoch": 1637452800.0,
+        "expiration_date": "21-nov-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "yagi.pl": {
         "epoch": 1626393600.0,
         "expiration_date": "16-jul-2021",
@@ -18635,6 +18713,12 @@
     "yoy.tv": {
         "epoch": 1618704000.0,
         "expiration_date": "18-apr-2021",
+        "state": "future"
+    },
+    "zaadoptujrzeke.pl": {
+        "epoch": 1616889600.0,
+        "expiration_date": "28-mar-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "zabart.com": {
@@ -19083,6 +19167,12 @@
     "zsme.pl": {
         "epoch": 1615939200.0,
         "expiration_date": "17-mar-2021",
+        "state": "future"
+    },
+    "zsp-chelmza.pl": {
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "zsp2.edu.pl": {
