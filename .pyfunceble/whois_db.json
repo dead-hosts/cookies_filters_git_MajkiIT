@@ -6664,8 +6664,9 @@
         "state": "future"
     },
     "home.kpmg": {
-        "epoch": 1607817600.0,
-        "expiration_date": "13-dec-2020",
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
+        "server": "whois.nic.kpmg",
         "state": "future"
     },
     "home.pl": {
@@ -6689,8 +6690,9 @@
         "state": "future"
     },
     "horizon.tv": {
-        "epoch": 1607817600.0,
-        "expiration_date": "13-dec-2020",
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
+        "server": "tvwhois.verisign-grs.com",
         "state": "future"
     },
     "horrortube.fun": {
@@ -6785,8 +6787,9 @@
         "state": "future"
     },
     "hurtownia-24.pl": {
-        "epoch": 1608422400.0,
-        "expiration_date": "20-dec-2020",
+        "epoch": 1639958400.0,
+        "expiration_date": "20-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "hurtownia-kosmetyczna.org": {
@@ -6877,8 +6880,9 @@
         "state": "future"
     },
     "ideau.pl": {
-        "epoch": 1607299200.0,
-        "expiration_date": "07-dec-2020",
+        "epoch": 1638835200.0,
+        "expiration_date": "07-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "idg.com.pl": {
@@ -6931,8 +6935,9 @@
         "state": "future"
     },
     "ign.org.pl": {
-        "epoch": 1606089600.0,
-        "expiration_date": "23-nov-2020",
+        "epoch": 1637625600.0,
+        "expiration_date": "23-nov-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "ignacyloyola.pl": {
@@ -7032,8 +7037,9 @@
         "state": "future"
     },
     "inagent.pl": {
-        "epoch": 1606867200.0,
-        "expiration_date": "02-dec-2020",
+        "epoch": 1638403200.0,
+        "expiration_date": "02-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "inarisc.pl": {
@@ -7076,8 +7082,9 @@
         "state": "future"
     },
     "info24.rzeszow.pl": {
-        "epoch": 1606262400.0,
-        "expiration_date": "25-nov-2020",
+        "epoch": 1637798400.0,
+        "expiration_date": "25-nov-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "infoaudio.pl": {
@@ -7234,8 +7241,9 @@
         "state": "future"
     },
     "interhotel.pl": {
-        "epoch": 1606262400.0,
-        "expiration_date": "25-nov-2020",
+        "epoch": 1637798400.0,
+        "expiration_date": "25-nov-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "interia.pl": {
@@ -7369,13 +7377,15 @@
         "state": "future"
     },
     "irebu.pl": {
-        "epoch": 1607990400.0,
-        "expiration_date": "15-dec-2020",
+        "epoch": 1797292800.0,
+        "expiration_date": "15-dec-2026",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "isms.pl": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "isok.gov.pl": {
@@ -7419,8 +7429,9 @@
         "state": "future"
     },
     "iturek.net": {
-        "epoch": 1607731200.0,
-        "expiration_date": "12-dec-2020",
+        "epoch": 1639267200.0,
+        "expiration_date": "12-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "itvwisla.tv": {
@@ -7441,8 +7452,9 @@
         "state": "future"
     },
     "iwanowice.pl": {
-        "epoch": 1607558400.0,
-        "expiration_date": "10-dec-2020",
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "ixon.cloud": {
@@ -7666,8 +7678,9 @@
         "state": "future"
     },
     "jelonka.com": {
-        "epoch": 1607644800.0,
-        "expiration_date": "11-dec-2020",
+        "epoch": 1639180800.0,
+        "expiration_date": "11-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "jestemfit.pl": {
@@ -7750,8 +7763,9 @@
         "state": "future"
     },
     "k-mag.pl": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "kabam.com": {
@@ -8423,8 +8437,9 @@
         "state": "future"
     },
     "krokdozdrowia.com": {
-        "epoch": 1607990400.0,
-        "expiration_date": "15-dec-2020",
+        "epoch": 1639526400.0,
+        "expiration_date": "15-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "kropka.audio": {
@@ -8495,8 +8510,9 @@
         "state": "future"
     },
     "ksero-tecza.pl": {
-        "epoch": 1606262400.0,
-        "expiration_date": "25-nov-2020",
+        "epoch": 1637798400.0,
+        "expiration_date": "25-nov-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "ksiaz-wlkp.pl": {
@@ -8724,8 +8740,9 @@
         "state": "future"
     },
     "lancia.pl": {
-        "epoch": 1607212800.0,
-        "expiration_date": "06-dec-2020",
+        "epoch": 1638748800.0,
+        "expiration_date": "06-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "languagetool.org": {
@@ -8876,8 +8893,9 @@
         "state": "future"
     },
     "leier.pl": {
-        "epoch": 1608163200.0,
-        "expiration_date": "17-dec-2020",
+        "epoch": 1639699200.0,
+        "expiration_date": "17-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "leifheitsklep.pl": {
@@ -8930,8 +8948,9 @@
         "state": "future"
     },
     "lesnydwor.net.pl": {
-        "epoch": 1606176000.0,
-        "expiration_date": "24-nov-2020",
+        "epoch": 1637712000.0,
+        "expiration_date": "24-nov-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "lessmess.storage": {
@@ -9008,8 +9027,9 @@
         "state": "future"
     },
     "lightbox.pl": {
-        "epoch": 1606435200.0,
-        "expiration_date": "27-nov-2020",
+        "epoch": 1669507200.0,
+        "expiration_date": "27-nov-2022",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "limango-outlet.pl": {
@@ -9393,8 +9413,9 @@
         "state": "future"
     },
     "madreklama.com": {
-        "epoch": 1607212800.0,
-        "expiration_date": "06-dec-2020",
+        "epoch": 1638748800.0,
+        "expiration_date": "06-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mag-sklep.pl": {
@@ -9494,8 +9515,9 @@
         "state": "future"
     },
     "mamadha.pl": {
-        "epoch": 1606953600.0,
-        "expiration_date": "03-dec-2020",
+        "epoch": 1638489600.0,
+        "expiration_date": "03-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "mamaplus.pl": {
@@ -9944,8 +9966,9 @@
         "state": "future"
     },
     "mercedes-benz.com": {
-        "epoch": 1607385600.0,
-        "expiration_date": "08-dec-2020",
+        "epoch": 1891382400.0,
+        "expiration_date": "08-dec-2029",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mercedes-benz.pl": {
@@ -9970,8 +9993,9 @@
         "state": "future"
     },
     "merlin.pl": {
-        "epoch": 1606435200.0,
-        "expiration_date": "27-nov-2020",
+        "epoch": 1617753600.0,
+        "expiration_date": "07-apr-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "meskiegacie.pl": {
@@ -10019,8 +10043,9 @@
         "state": "future"
     },
     "metis.pl": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1669766400.0,
+        "expiration_date": "30-nov-2022",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "metpartner.pl": {
@@ -10422,13 +10447,15 @@
         "state": "future"
     },
     "mojbytom.pl": {
-        "epoch": 1605916800.0,
-        "expiration_date": "21-nov-2020",
+        "epoch": 1637452800.0,
+        "expiration_date": "21-nov-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "mojchorzow.pl": {
-        "epoch": 1605916800.0,
-        "expiration_date": "21-nov-2020",
+        "epoch": 1637452800.0,
+        "expiration_date": "21-nov-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "moje-dzialdowo.pl": {
@@ -10443,8 +10470,9 @@
         "state": "future"
     },
     "mojegliwice.pl": {
-        "epoch": 1605916800.0,
-        "expiration_date": "21-nov-2020",
+        "epoch": 1637452800.0,
+        "expiration_date": "21-nov-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "mojehobby.pl": {
@@ -10633,8 +10661,9 @@
         "state": "future"
     },
     "motorbiker.pl": {
-        "epoch": 1606867200.0,
-        "expiration_date": "02-dec-2020",
+        "epoch": 1638403200.0,
+        "expiration_date": "02-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "motorola.com": {
@@ -10799,8 +10828,9 @@
         "state": "future"
     },
     "musicexpert.pl": {
-        "epoch": 1607126400.0,
-        "expiration_date": "05-dec-2020",
+        "epoch": 1638662400.0,
+        "expiration_date": "05-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "musicexpress.pl": {
@@ -11019,8 +11049,9 @@
         "state": "future"
     },
     "nastopy.pl": {
-        "epoch": 1607472000.0,
-        "expiration_date": "09-dec-2020",
+        "epoch": 1639008000.0,
+        "expiration_date": "09-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "nasz-gabinet.pl": {
@@ -11126,8 +11157,9 @@
         "state": "future"
     },
     "nefal.tv": {
-        "epoch": 1606003200.0,
-        "expiration_date": "22-nov-2020",
+        "epoch": 1637539200.0,
+        "expiration_date": "22-nov-2021",
+        "server": "tvwhois.verisign-grs.com",
         "state": "future"
     },
     "nekodancer.com": {
@@ -11413,8 +11445,9 @@
         "state": "future"
     },
     "nokaut.pl": {
-        "epoch": 1606780800.0,
-        "expiration_date": "01-dec-2020",
+        "epoch": 1686441600.0,
+        "expiration_date": "11-jun-2023",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "nokia.com": {
@@ -11608,8 +11641,9 @@
         "state": "future"
     },
     "obpon.pl": {
-        "epoch": 1608163200.0,
-        "expiration_date": "17-dec-2020",
+        "epoch": 1639699200.0,
+        "expiration_date": "17-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "ochnik.com": {
@@ -11688,8 +11722,9 @@
         "state": "future"
     },
     "oees.pl": {
-        "epoch": 1606262400.0,
-        "expiration_date": "25-nov-2020",
+        "epoch": 1637798400.0,
+        "expiration_date": "25-nov-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "oemautomatic.pl": {
@@ -11703,8 +11738,9 @@
         "state": "future"
     },
     "ofertypromocje.pl": {
-        "epoch": 1606348800.0,
-        "expiration_date": "26-nov-2020",
+        "epoch": 1637884800.0,
+        "expiration_date": "26-nov-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "off-road.pl": {
@@ -11738,8 +11774,9 @@
         "state": "future"
     },
     "ogloszenioteka.pl": {
-        "epoch": 1607990400.0,
-        "expiration_date": "15-dec-2020",
+        "epoch": 1639526400.0,
+        "expiration_date": "15-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "ogloszeniowa.net": {
@@ -12030,8 +12067,9 @@
         "state": "future"
     },
     "origin.com": {
-        "epoch": 1607040000.0,
-        "expiration_date": "04-dec-2020",
+        "epoch": 1638576000.0,
+        "expiration_date": "04-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "originals24.pl": {
@@ -12078,8 +12116,9 @@
         "state": "future"
     },
     "ose.gov.pl": {
-        "epoch": 1607385600.0,
-        "expiration_date": "08-dec-2020",
+        "epoch": 1638921600.0,
+        "expiration_date": "08-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "oskolaf.pl": {
@@ -12311,8 +12350,9 @@
         "state": "future"
     },
     "parfumclub.pl": {
-        "epoch": 1606953600.0,
-        "expiration_date": "03-dec-2020",
+        "epoch": 1638489600.0,
+        "expiration_date": "03-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "parkerpen.com": {
@@ -12427,8 +12467,9 @@
         "state": "future"
     },
     "pb.pl": {
-        "epoch": 1606608000.0,
-        "expiration_date": "29-nov-2020",
+        "epoch": 1669680000.0,
+        "expiration_date": "29-nov-2022",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "pbg-sa.pl": {
@@ -12660,8 +12701,9 @@
         "state": "future"
     },
     "pinterest.com": {
-        "epoch": 1606348800.0,
-        "expiration_date": "26-nov-2020",
+        "epoch": 1669420800.0,
+        "expiration_date": "26-nov-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pipelife.com": {
@@ -12709,8 +12751,9 @@
         "state": "future"
     },
     "pkn.net.pl": {
-        "epoch": 1606348800.0,
-        "expiration_date": "26-nov-2020",
+        "epoch": 1637884800.0,
+        "expiration_date": "26-nov-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "pkobp.pl": {
@@ -12719,8 +12762,9 @@
         "state": "future"
     },
     "pkopte.pl": {
-        "epoch": 1606262400.0,
-        "expiration_date": "25-nov-2020",
+        "epoch": 1637798400.0,
+        "expiration_date": "25-nov-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "pkotfi.pl": {
@@ -12874,8 +12918,9 @@
         "state": "future"
     },
     "poczytaj.pl": {
-        "epoch": 1607126400.0,
-        "expiration_date": "05-dec-2020",
+        "epoch": 1638662400.0,
+        "expiration_date": "05-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "pod-okapnikiem.com": {
@@ -12920,8 +12965,9 @@
         "state": "future"
     },
     "podrozezmamaitata.com": {
-        "epoch": 1607990400.0,
-        "expiration_date": "15-dec-2020",
+        "epoch": 1639526400.0,
+        "expiration_date": "15-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pogodynka.pl": {
@@ -13015,13 +13061,15 @@
         "state": "future"
     },
     "polityka.pl": {
-        "epoch": 1606262400.0,
-        "expiration_date": "25-nov-2020",
+        "epoch": 1640476800.0,
+        "expiration_date": "26-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "politykainsight.pl": {
-        "epoch": 1608249600.0,
-        "expiration_date": "18-dec-2020",
+        "epoch": 1639785600.0,
+        "expiration_date": "18-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "polki.pl": {
@@ -13051,8 +13099,9 @@
         "state": "future"
     },
     "polopiryna.pl": {
-        "epoch": 1607299200.0,
-        "expiration_date": "07-dec-2020",
+        "epoch": 1670371200.0,
+        "expiration_date": "07-dec-2022",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "polpharma.pl": {
@@ -13263,8 +13312,9 @@
         "state": "future"
     },
     "portalmorski.pl": {
-        "epoch": 1608336000.0,
-        "expiration_date": "19-dec-2020",
+        "epoch": 1639872000.0,
+        "expiration_date": "19-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "portalodo.com": {
@@ -13317,8 +13367,9 @@
         "state": "future"
     },
     "postronienatury.pl": {
-        "epoch": 1606953600.0,
-        "expiration_date": "03-dec-2020",
+        "epoch": 1638489600.0,
+        "expiration_date": "03-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "potworek.com": {
@@ -13459,8 +13510,9 @@
         "state": "future"
     },
     "pragma.pl": {
-        "epoch": 1607817600.0,
-        "expiration_date": "13-dec-2020",
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "pragroup.pl": {
@@ -13563,8 +13615,9 @@
         "state": "future"
     },
     "prk24.pl": {
-        "epoch": 1608336000.0,
-        "expiration_date": "19-dec-2020",
+        "epoch": 1639872000.0,
+        "expiration_date": "19-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "prochnik.com": {
@@ -13872,13 +13925,14 @@
         "state": "future"
     },
     "pupillo.pl": {
-        "epoch": 1607472000.0,
-        "expiration_date": "09-dec-2020",
+        "epoch": 1639008000.0,
+        "expiration_date": "09-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "puratos.pl": {
-        "epoch": 1607558400.0,
-        "expiration_date": "10-dec-2020",
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
         "server": "whois.dns.pl",
         "state": "future"
     },
@@ -13914,8 +13968,9 @@
         "state": "future"
     },
     "pz.gov.pl": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "pzip.pl": {
@@ -14275,8 +14330,9 @@
         "state": "future"
     },
     "recticelinsulation.com": {
-        "epoch": 1607040000.0,
-        "expiration_date": "04-dec-2020",
+        "epoch": 1638576000.0,
+        "expiration_date": "04-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "redbullmobile.pl": {
@@ -14600,8 +14656,9 @@
         "state": "future"
     },
     "rp.pl": {
-        "epoch": 1606867200.0,
-        "expiration_date": "02-dec-2020",
+        "epoch": 1638403200.0,
+        "expiration_date": "02-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "rpo-swietokrzyskie.pl": {
@@ -14650,8 +14707,9 @@
         "state": "future"
     },
     "rymer.org": {
-        "epoch": 1607558400.0,
-        "expiration_date": "10-dec-2020",
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "rynek-turystyczny.pl": {
@@ -14702,8 +14760,9 @@
         "state": "future"
     },
     "sadowocowy.pl": {
-        "epoch": 1606953600.0,
-        "expiration_date": "03-dec-2020",
+        "epoch": 1638489600.0,
+        "expiration_date": "03-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "sagameble-sklep.pl": {
@@ -14751,8 +14810,9 @@
         "state": "future"
     },
     "samnaprawiam.com": {
-        "epoch": 1608163200.0,
-        "expiration_date": "17-dec-2020",
+        "epoch": 1639699200.0,
+        "expiration_date": "17-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "samouczek.info": {
@@ -14766,8 +14826,9 @@
         "state": "future"
     },
     "samsung.com": {
-        "epoch": 1606521600.0,
-        "expiration_date": "28-nov-2020",
+        "epoch": 1764288000.0,
+        "expiration_date": "28-nov-2025",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sandecja.org": {
@@ -15571,8 +15632,9 @@
         "state": "future"
     },
     "solid-szkolenia.pl": {
-        "epoch": 1607731200.0,
-        "expiration_date": "12-dec-2020",
+        "epoch": 1639267200.0,
+        "expiration_date": "12-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "solidarni2010.pl": {
@@ -16264,8 +16326,9 @@
         "state": "future"
     },
     "swiony.pl": {
-        "epoch": 1605916800.0,
-        "expiration_date": "21-nov-2020",
+        "epoch": 1637452800.0,
+        "expiration_date": "21-nov-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "swmarcin-jarocin.com": {
@@ -16736,8 +16799,9 @@
         "state": "future"
     },
     "telewizjarepublika.pl": {
-        "epoch": 1608336000.0,
-        "expiration_date": "19-dec-2020",
+        "epoch": 1639872000.0,
+        "expiration_date": "19-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "telewizjaswiatlowodowa.pl": {
@@ -17042,8 +17106,9 @@
         "state": "future"
     },
     "traftu.pl": {
-        "epoch": 1606003200.0,
-        "expiration_date": "22-nov-2020",
+        "epoch": 1637539200.0,
+        "expiration_date": "22-nov-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "trakt.tv": {
@@ -17130,8 +17195,9 @@
         "state": "future"
     },
     "trizer.pl": {
-        "epoch": 1607990400.0,
-        "expiration_date": "15-dec-2020",
+        "epoch": 1639526400.0,
+        "expiration_date": "15-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "trojmiasto.pl": {
@@ -17171,8 +17237,8 @@
         "state": "future"
     },
     "trustmate.io": {
-        "epoch": 1606003200.0,
-        "expiration_date": "22-nov-2020",
+        "epoch": 1637539200.0,
+        "expiration_date": "22-nov-2021",
         "server": "whois.nic.io",
         "state": "future"
     },
@@ -17246,8 +17312,9 @@
         "state": "future"
     },
     "turio.com.pl": {
-        "epoch": 1608076800.0,
-        "expiration_date": "16-dec-2020",
+        "epoch": 1639612800.0,
+        "expiration_date": "16-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "turysta.org": {
@@ -17299,8 +17366,9 @@
         "state": "future"
     },
     "tvp.info": {
-        "epoch": 1606867200.0,
-        "expiration_date": "02-dec-2020",
+        "epoch": 1638403200.0,
+        "expiration_date": "02-dec-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "tvp.pl": {
@@ -17457,8 +17525,9 @@
         "state": "future"
     },
     "tylkohity.pl": {
-        "epoch": 1607385600.0,
-        "expiration_date": "08-dec-2020",
+        "epoch": 1638921600.0,
+        "expiration_date": "08-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "tyniec.tv": {
@@ -17535,8 +17604,9 @@
         "state": "future"
     },
     "unifiedfactory.com": {
-        "epoch": 1608336000.0,
-        "expiration_date": "19-dec-2020",
+        "epoch": 1639872000.0,
+        "expiration_date": "19-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "unileverfoodsolutions.pl": {
@@ -17576,8 +17646,9 @@
         "state": "future"
     },
     "ups-zasilacze.pl": {
-        "epoch": 1607299200.0,
-        "expiration_date": "07-dec-2020",
+        "epoch": 1638835200.0,
+        "expiration_date": "07-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "urzedow.pl": {
@@ -18106,8 +18177,9 @@
         "state": "future"
     },
     "westwingnow.pl": {
-        "epoch": 1608249600.0,
-        "expiration_date": "18-dec-2020",
+        "epoch": 1639785600.0,
+        "expiration_date": "18-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "wgospodarce.pl": {
@@ -18137,8 +18209,9 @@
         "state": "future"
     },
     "wholandii.pl": {
-        "epoch": 1608076800.0,
-        "expiration_date": "16-dec-2020",
+        "epoch": 1639612800.0,
+        "expiration_date": "16-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "wiara.pl": {
@@ -18300,8 +18373,9 @@
         "state": "future"
     },
     "wittchen.com": {
-        "epoch": 1606867200.0,
-        "expiration_date": "02-dec-2020",
+        "epoch": 1638403200.0,
+        "expiration_date": "02-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "wix.com": {
@@ -18315,8 +18389,9 @@
         "state": "future"
     },
     "wizaz.pl": {
-        "epoch": 1608422400.0,
-        "expiration_date": "20-dec-2020",
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "wizja.net": {
@@ -18373,8 +18448,9 @@
         "state": "future"
     },
     "wodociagi-kalisz.pl": {
-        "epoch": 1607126400.0,
-        "expiration_date": "05-dec-2020",
+        "epoch": 1638662400.0,
+        "expiration_date": "05-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "wodociagi.slupsk.pl": {
@@ -18519,8 +18595,9 @@
         "state": "future"
     },
     "wsse-poznan.pl": {
-        "epoch": 1606262400.0,
-        "expiration_date": "25-nov-2020",
+        "epoch": 1637798400.0,
+        "expiration_date": "25-nov-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "wste.edu.pl": {
@@ -18963,8 +19040,9 @@
         "state": "future"
     },
     "zdrowiewkrakowie.pl": {
-        "epoch": 1606089600.0,
-        "expiration_date": "23-nov-2020",
+        "epoch": 1637625600.0,
+        "expiration_date": "23-nov-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "zdunskawola24.pl": {
@@ -19174,8 +19252,8 @@
         "state": "future"
     },
     "zosiaikevin.pl": {
-        "epoch": 1606348800.0,
-        "expiration_date": "26-nov-2020",
+        "epoch": 1637884800.0,
+        "expiration_date": "26-nov-2021",
         "server": "whois.dns.pl",
         "state": "future"
     },
@@ -19277,8 +19355,9 @@
         "state": "future"
     },
     "zygzaksnow.pl": {
-        "epoch": 1607817600.0,
-        "expiration_date": "13-dec-2020",
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "zysk.com.pl": {
