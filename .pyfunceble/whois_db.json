@@ -252,8 +252,8 @@
         "state": "future"
     },
     "adeste.org": {
-        "epoch": 1608422400.0,
-        "expiration_date": "20-dec-2020",
+        "epoch": 1639958400.0,
+        "expiration_date": "20-dec-2021",
         "server": "whois.pir.org",
         "state": "future"
     },
@@ -3182,7 +3182,8 @@
     "designbyanka.com": {
         "epoch": 1608336000.0,
         "expiration_date": "19-dec-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "devilpage.pl": {
         "epoch": 1641686400.0,
@@ -3454,8 +3455,9 @@
         "state": "future"
     },
     "domnet.pl": {
-        "epoch": 1608422400.0,
-        "expiration_date": "20-dec-2020",
+        "epoch": 1639958400.0,
+        "expiration_date": "20-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "domnowoczesny.com": {
@@ -5754,8 +5756,9 @@
         "state": "future"
     },
     "ge.com": {
-        "epoch": 1608422400.0,
-        "expiration_date": "20-dec-2020",
+        "epoch": 1639958400.0,
+        "expiration_date": "20-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "gearbest.com": {
@@ -5790,8 +5793,9 @@
         "state": "future"
     },
     "genetico.pl": {
-        "epoch": 1608336000.0,
-        "expiration_date": "19-dec-2020",
+        "epoch": 1639872000.0,
+        "expiration_date": "19-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "geoblog.pl": {
@@ -5979,8 +5983,9 @@
         "state": "future"
     },
     "glosregionu.pl": {
-        "epoch": 1608422400.0,
-        "expiration_date": "20-dec-2020",
+        "epoch": 1639958400.0,
+        "expiration_date": "20-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "glovoapp.com": {
@@ -10024,8 +10029,9 @@
         "state": "future"
     },
     "metro2033.pl": {
-        "epoch": 1608336000.0,
-        "expiration_date": "19-dec-2020",
+        "epoch": 1610928000.0,
+        "expiration_date": "18-jan-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "metrointernet.pl": {
