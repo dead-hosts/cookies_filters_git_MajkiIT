@@ -1035,8 +1035,9 @@
         "state": "future"
     },
     "aukso.pl": {
-        "epoch": 1608508800.0,
-        "expiration_date": "21-dec-2020",
+        "epoch": 1640044800.0,
+        "expiration_date": "21-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "aura.pl": {
@@ -2898,13 +2899,15 @@
         "state": "future"
     },
     "daciajaworzno.pl": {
-        "epoch": 1608595200.0,
-        "expiration_date": "22-dec-2020",
+        "epoch": 1640131200.0,
+        "expiration_date": "22-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "daciakatowice.pl": {
-        "epoch": 1608595200.0,
-        "expiration_date": "22-dec-2020",
+        "epoch": 1640131200.0,
+        "expiration_date": "22-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "daciaswietochlowice.pl": {
@@ -3180,10 +3183,10 @@
         "state": "future"
     },
     "designbyanka.com": {
-        "epoch": 1608336000.0,
-        "expiration_date": "19-dec-2020",
+        "epoch": 1639872000.0,
+        "expiration_date": "19-dec-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "devilpage.pl": {
         "epoch": 1641686400.0,
@@ -3461,8 +3464,9 @@
         "state": "future"
     },
     "domnowoczesny.com": {
-        "epoch": 1608508800.0,
-        "expiration_date": "21-dec-2020",
+        "epoch": 1640044800.0,
+        "expiration_date": "21-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "domodi.pl": {
@@ -4785,8 +4789,8 @@
         "state": "future"
     },
     "expolinia.pl": {
-        "epoch": 1608422400.0,
-        "expiration_date": "20-dec-2020",
+        "epoch": 1639958400.0,
+        "expiration_date": "20-dec-2021",
         "server": "whois.dns.pl",
         "state": "future"
     },
@@ -5863,8 +5867,9 @@
         "state": "future"
     },
     "giercownia.pl": {
-        "epoch": 1608508800.0,
-        "expiration_date": "21-dec-2020",
+        "epoch": 1640044800.0,
+        "expiration_date": "21-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "gigabyte.pl": {
@@ -7146,8 +7151,9 @@
         "state": "future"
     },
     "ingtechpoland.com": {
-        "epoch": 1608508800.0,
-        "expiration_date": "21-dec-2020",
+        "epoch": 1640044800.0,
+        "expiration_date": "21-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "inianie.pl": {
@@ -15860,8 +15866,9 @@
         "state": "future"
     },
     "sprzetjezdziecki.com": {
-        "epoch": 1608595200.0,
-        "expiration_date": "22-dec-2020",
+        "epoch": 1640131200.0,
+        "expiration_date": "22-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "spsk2-szczecin.pl": {
@@ -15924,8 +15931,9 @@
         "state": "future"
     },
     "stalowka.net": {
-        "epoch": 1608508800.0,
-        "expiration_date": "21-dec-2020",
+        "epoch": 1766275200.0,
+        "expiration_date": "21-dec-2025",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "staltech.biz": {
@@ -18564,8 +18572,9 @@
         "state": "future"
     },
     "wsiecihistorii.pl": {
-        "epoch": 1608508800.0,
-        "expiration_date": "21-dec-2020",
+        "epoch": 1640044800.0,
+        "expiration_date": "21-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "wsieciprawdy.pl": {
