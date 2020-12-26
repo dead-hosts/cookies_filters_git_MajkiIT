@@ -577,10 +577,10 @@
             "status": "ACTIVE"
         },
         "agro-bis.eu": {
-            "included_at_epoch": 1606360308.213801,
-            "included_at_iso": "2020-11-26T03:11:48.213801",
-            "last_retested_at_epoch": 1608602149.172206,
-            "last_retested_at_iso": "2020-12-22T01:55:49.172206",
+            "included_at_epoch": 1608946078.832439,
+            "included_at_iso": "2020-12-26T01:27:58.832439",
+            "last_retested_at_epoch": 1608946078.832439,
+            "last_retested_at_iso": "2020-12-26T01:27:58.832439",
             "status": "ACTIVE"
         },
         "agropolska.pl": {
@@ -1403,10 +1403,10 @@
             "status": "ACTIVE"
         },
         "artrage.pl": {
-            "included_at_epoch": 1606360308.272604,
-            "included_at_iso": "2020-11-26T03:11:48.272604",
-            "last_retested_at_epoch": 1608602172.604692,
-            "last_retested_at_iso": "2020-12-22T01:56:12.604692",
+            "included_at_epoch": 1608946078.891492,
+            "included_at_iso": "2020-12-26T01:27:58.891492",
+            "last_retested_at_epoch": 1608946078.891492,
+            "last_retested_at_iso": "2020-12-26T01:27:58.891492",
             "status": "ACTIVE"
         },
         "arturgierada.eu": {
@@ -5372,10 +5372,10 @@
             "status": "ACTIVE"
         },
         "dkms.pl": {
-            "included_at_epoch": 1606360309.208209,
-            "included_at_iso": "2020-11-26T03:11:49.208209",
-            "last_retested_at_epoch": 1606360309.268362,
-            "last_retested_at_iso": "2020-11-26T03:11:49.268362",
+            "included_at_epoch": 1608946079.860835,
+            "included_at_iso": "2020-12-26T01:27:59.860835",
+            "last_retested_at_epoch": 1608946079.91883,
+            "last_retested_at_iso": "2020-12-26T01:27:59.918830",
             "status": "ACTIVE"
         },
         "dkpraga.pl": {
@@ -7738,10 +7738,10 @@
             "status": "ACTIVE"
         },
         "express.pl": {
-            "included_at_epoch": 1606360308.603742,
-            "included_at_iso": "2020-11-26T03:11:48.603742",
-            "last_retested_at_epoch": 1608602258.384345,
-            "last_retested_at_iso": "2020-12-22T01:57:38.384345",
+            "included_at_epoch": 1608946079.187975,
+            "included_at_iso": "2020-12-26T01:27:59.187975",
+            "last_retested_at_epoch": 1608946079.187975,
+            "last_retested_at_iso": "2020-12-26T01:27:59.187975",
             "status": "ACTIVE"
         },
         "expressochaczewski.pl": {
@@ -8347,10 +8347,10 @@
             "status": "ACTIVE"
         },
         "flowerstory.pl": {
-            "included_at_epoch": 1606360308.451476,
-            "included_at_iso": "2020-11-26T03:11:48.451476",
-            "last_retested_at_epoch": 1608602213.088186,
-            "last_retested_at_iso": "2020-12-22T01:56:53.088186",
+            "included_at_epoch": 1608946079.069094,
+            "included_at_iso": "2020-12-26T01:27:59.069094",
+            "last_retested_at_epoch": 1608946079.069094,
+            "last_retested_at_iso": "2020-12-26T01:27:59.069094",
             "status": "ACTIVE"
         },
         "fly-sky.pl": {
@@ -9887,10 +9887,10 @@
             "status": "ACTIVE"
         },
         "gorazdze.pl": {
-            "included_at_epoch": 1606360308.722987,
-            "included_at_iso": "2020-11-26T03:11:48.722987",
-            "last_retested_at_epoch": 1608602284.300526,
-            "last_retested_at_iso": "2020-12-22T01:58:04.300526",
+            "included_at_epoch": 1608946079.305587,
+            "included_at_iso": "2020-12-26T01:27:59.305587",
+            "last_retested_at_epoch": 1608946079.305587,
+            "last_retested_at_iso": "2020-12-26T01:27:59.305587",
             "status": "ACTIVE"
         },
         "gorke.eu": {
@@ -9964,17 +9964,17 @@
             "status": "ACTIVE"
         },
         "gotowkadlaciebie.com": {
-            "included_at_epoch": 1606360308.392399,
-            "included_at_iso": "2020-11-26T03:11:48.392399",
-            "last_retested_at_epoch": 1608602175.947019,
-            "last_retested_at_iso": "2020-12-22T01:56:15.947019",
+            "included_at_epoch": 1608946079.009961,
+            "included_at_iso": "2020-12-26T01:27:59.009961",
+            "last_retested_at_epoch": 1608946079.009961,
+            "last_retested_at_iso": "2020-12-26T01:27:59.009961",
             "status": "ACTIVE"
         },
         "gotowkadlafirm.pl": {
-            "included_at_epoch": 1606360308.333339,
-            "included_at_iso": "2020-11-26T03:11:48.333339",
-            "last_retested_at_epoch": 1608602175.795332,
-            "last_retested_at_iso": "2020-12-22T01:56:15.795332",
+            "included_at_epoch": 1608946078.951427,
+            "included_at_iso": "2020-12-26T01:27:58.951427",
+            "last_retested_at_epoch": 1608946078.951427,
+            "last_retested_at_iso": "2020-12-26T01:27:58.951427",
             "status": "ACTIVE"
         },
         "gotujmy.pl": {
@@ -14794,10 +14794,10 @@
             "status": "ACTIVE"
         },
         "lurker.pl": {
-            "included_at_epoch": 1606360308.784598,
-            "included_at_iso": "2020-11-26T03:11:48.784598",
-            "last_retested_at_epoch": 1606360308.784598,
-            "last_retested_at_iso": "2020-11-26T03:11:48.784598",
+            "included_at_epoch": 1608946079.422831,
+            "included_at_iso": "2020-12-26T01:27:59.422831",
+            "last_retested_at_epoch": 1608946079.422831,
+            "last_retested_at_iso": "2020-12-26T01:27:59.422831",
             "status": "ACTIVE"
         },
         "luszczyce.pl": {
@@ -14927,10 +14927,10 @@
             "status": "ACTIVE"
         },
         "madlen.pl": {
-            "included_at_epoch": 1606360308.512958,
-            "included_at_iso": "2020-11-26T03:11:48.512958",
-            "last_retested_at_epoch": 1608602237.053845,
-            "last_retested_at_iso": "2020-12-22T01:57:17.053845",
+            "included_at_epoch": 1608946079.128304,
+            "included_at_iso": "2020-12-26T01:27:59.128304",
+            "last_retested_at_epoch": 1608946079.128304,
+            "last_retested_at_iso": "2020-12-26T01:27:59.128304",
             "status": "ACTIVE"
         },
         "madreklama.com": {
@@ -16054,10 +16054,10 @@
             "status": "ACTIVE"
         },
         "micros.com.pl": {
-            "included_at_epoch": 1606360308.844737,
-            "included_at_iso": "2020-11-26T03:11:48.844737",
-            "last_retested_at_epoch": 1606360308.844737,
-            "last_retested_at_iso": "2020-11-26T03:11:48.844737",
+            "included_at_epoch": 1608946079.481287,
+            "included_at_iso": "2020-12-26T01:27:59.481287",
+            "last_retested_at_epoch": 1608946079.481287,
+            "last_retested_at_iso": "2020-12-26T01:27:59.481287",
             "status": "ACTIVE"
         },
         "microsoft.com": {
@@ -18217,10 +18217,10 @@
             "status": "ACTIVE"
         },
         "nowaosada.pl": {
-            "included_at_epoch": 1606360308.663196,
-            "included_at_iso": "2020-11-26T03:11:48.663196",
-            "last_retested_at_epoch": 1608602260.063867,
-            "last_retested_at_iso": "2020-12-22T01:57:40.063867",
+            "included_at_epoch": 1608946079.247068,
+            "included_at_iso": "2020-12-26T01:27:59.247068",
+            "last_retested_at_epoch": 1608946079.247068,
+            "last_retested_at_iso": "2020-12-26T01:27:59.247068",
             "status": "ACTIVE"
         },
         "nowaostroleka.pl": {
@@ -20625,10 +20625,10 @@
             "status": "ACTIVE"
         },
         "platan.pl": {
-            "included_at_epoch": 1606360308.904313,
-            "included_at_iso": "2020-11-26T03:11:48.904313",
-            "last_retested_at_epoch": 1606360308.904313,
-            "last_retested_at_iso": "2020-11-26T03:11:48.904313",
+            "included_at_epoch": 1608946079.539059,
+            "included_at_iso": "2020-12-26T01:27:59.539059",
+            "last_retested_at_epoch": 1608946079.539059,
+            "last_retested_at_iso": "2020-12-26T01:27:59.539059",
             "status": "ACTIVE"
         },
         "platanhouse.com.pl": {
@@ -21339,10 +21339,10 @@
             "status": "ACTIVE"
         },
         "poradykomputerowe.pl": {
-            "included_at_epoch": 1606360309.025827,
-            "included_at_iso": "2020-11-26T03:11:49.025827",
-            "last_retested_at_epoch": 1606360309.391856,
-            "last_retested_at_iso": "2020-11-26T03:11:49.391856",
+            "included_at_epoch": 1608946079.598052,
+            "included_at_iso": "2020-12-26T01:27:59.598052",
+            "last_retested_at_epoch": 1608946080.066372,
+            "last_retested_at_iso": "2020-12-26T01:28:00.066372",
             "status": "ACTIVE"
         },
         "poradypodatkowe.pl": {
@@ -21997,10 +21997,10 @@
             "status": "ACTIVE"
         },
         "promemoria-zg.com": {
-            "included_at_epoch": 1606360308.964206,
-            "included_at_iso": "2020-11-26T03:11:48.964206",
-            "last_retested_at_epoch": 1606360308.964206,
-            "last_retested_at_iso": "2020-11-26T03:11:48.964206",
+            "included_at_epoch": 1608946079.364499,
+            "included_at_iso": "2020-12-26T01:27:59.364499",
+            "last_retested_at_epoch": 1608946079.364499,
+            "last_retested_at_iso": "2020-12-26T01:27:59.364499",
             "status": "ACTIVE"
         },
         "promib.pl": {
