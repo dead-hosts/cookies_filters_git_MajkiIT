@@ -1972,6 +1972,12 @@
         "server": "whois.dns.pl",
         "state": "future"
     },
+    "brgl.pl": {
+        "epoch": 1614384000.0,
+        "expiration_date": "27-feb-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "bricomarche.pl": {
         "epoch": 1633305600.0,
         "expiration_date": "04-oct-2021",
@@ -4038,6 +4044,12 @@
         "server": "whois.dns.pl",
         "state": "future"
     },
+    "edefinicje.pl": {
+        "epoch": 1621814400.0,
+        "expiration_date": "24-may-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "edeklaracje.info": {
         "epoch": 1612137600.0,
         "expiration_date": "01-feb-2021",
@@ -5890,6 +5902,12 @@
     "ginekolog-darlowo.pl": {
         "epoch": 1611446400.0,
         "expiration_date": "24-jan-2021",
+        "state": "future"
+    },
+    "ginlong.com": {
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "giorre.com": {
@@ -14077,6 +14095,12 @@
         "expiration_date": "02-may-2021",
         "state": "future"
     },
+    "rachunkowosc.com.pl": {
+        "epoch": 1637107200.0,
+        "expiration_date": "17-nov-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "racjonalista.pl": {
         "epoch": 1620432000.0,
         "expiration_date": "08-may-2021",
@@ -17721,6 +17745,12 @@
         "expiration_date": "13-jun-2020",
         "state": "future"
     },
+    "vaillant.pl": {
+        "epoch": 1617062400.0,
+        "expiration_date": "30-mar-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "vanced.app": {
         "epoch": 1636329600.0,
         "expiration_date": "08-nov-2021",
@@ -18781,6 +18811,12 @@
     "xiaomi.com": {
         "epoch": 1626912000.0,
         "expiration_date": "22-jul-2021",
+        "state": "future"
+    },
+    "xn--szukamksiki-4kb16m.pl": {
+        "epoch": 1640908800.0,
+        "expiration_date": "31-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "xtb.com": {
