@@ -264,3 +264,9 @@ dentalcare.pl,pampers.pl                                                        
 developer.android.com,tensorflow.org                                                                 INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 dia.com.pl,pkfpolska.pl,pkfszkolenia.pl                                                              INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 dieta.pl,jestemfit.pl                                                                                INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+.js                                                                                                  INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+.js|                                                                                                 INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+.pl                                                                                                  INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+nike.scriptloade                                                                                     INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+wpjslib-chunk-consent-form.js                                                                        INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+wpjslib-chunk-notification.js                                                                        INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
