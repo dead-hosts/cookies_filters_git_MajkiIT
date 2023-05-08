@@ -1,0 +1,22 @@
+{
+    "counter": {
+        "CSC Corporate Domains, Inc.": 1,
+        "Key-Systems GmbH": 3,
+        "Net-Chinese Co., Ltd.": 2,
+        "NetArt Registrar Sp. z o.o.": 1,
+        "OVH": 1,
+        "OVH sas": 2,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
+        "total": 11
+    },
+    "percentage": {
+        "CSC Corporate Domains, Inc.": 9.090909090909092,
+        "Key-Systems GmbH": 27.272727272727273,
+        "Net-Chinese Co., Ltd.": 18.181818181818183,
+        "NetArt Registrar Sp. z o.o.": 9.090909090909092,
+        "OVH": 9.090909090909092,
+        "OVH sas": 18.181818181818183,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 9.090909090909092,
+        "total": 100.00000000000001
+    }
+}
