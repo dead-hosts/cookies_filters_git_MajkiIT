@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-.eu,AVAILABILITY,origin.list,2023-07-24 05:11:19.045779
-.info,AVAILABILITY,origin.list,2023-07-24 05:11:19.177189
-.net,AVAILABILITY,origin.list,2023-07-24 05:11:19.214913
-.org,AVAILABILITY,origin.list,2023-07-24 05:11:19.895662
-.com,AVAILABILITY,origin.list,2023-07-24 05:11:19.898218
 "cepelia.com.pl,kultura-regionow.pl,mcksokol.pl,muzeum.sacz.pl,sandecja.org,sandecja.tv",AVAILABILITY,origin.list,2023-07-25 05:11:08.698215
 "ck-czestochowa.pl,jamyoni.org.pl,makeupmyday.pl,polityka-spoleczna.lubuskie.pl,polskie-cmentarze.pl,powiat-zielonogorski.pl,relpol.pl",AVAILABILITY,origin.list,2023-07-25 05:11:09.162486
 "copernicuscenter.edu.pl,copernicusfestival.com,filozofiawnauce.pl,naukaireligia.pl",AVAILABILITY,origin.list,2023-07-25 05:11:09.333193
@@ -269,3 +264,8 @@ nike.scriptloade,AVAILABILITY,origin.list,2023-07-25 05:11:24.757656
 "ciechocinek.biz,gniewkowo.eu,kantor.aliorbank.pl,ki24.info,nizanskie.info",AVAILABILITY,origin.list,2023-07-25 05:12:04.216141
 "cechradomsko.pl,mebleciesielski.eu,meblegal.com.pl,wiktor.d2.pl",AVAILABILITY,origin.list,2023-07-25 05:12:04.455495
 "contentstream.pl,niezlasztuka.net",AVAILABILITY,origin.list,2023-07-25 05:12:04.593391
+.eu,AVAILABILITY,origin.list,2023-07-26 05:10:43.217514
+.info,AVAILABILITY,origin.list,2023-07-26 05:10:43.492431
+.net,AVAILABILITY,origin.list,2023-07-26 05:10:44.753749
+.org,AVAILABILITY,origin.list,2023-07-26 05:10:44.969483
+.com,AVAILABILITY,origin.list,2023-07-26 05:10:45.277025
