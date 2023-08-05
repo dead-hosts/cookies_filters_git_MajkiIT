@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-.eu,AVAILABILITY,origin.list,2023-08-03 05:10:30.659021
-.info,AVAILABILITY,origin.list,2023-08-03 05:10:30.800078
-.net,AVAILABILITY,origin.list,2023-08-03 05:10:31.204577
-.org,AVAILABILITY,origin.list,2023-08-03 05:10:31.235982
-.com,AVAILABILITY,origin.list,2023-08-03 05:10:31.332771
 "cepelia.com.pl,kultura-regionow.pl,mcksokol.pl,muzeum.sacz.pl,sandecja.org,sandecja.tv",AVAILABILITY,origin.list,2023-08-04 05:10:14.077641
 "ck-czestochowa.pl,jamyoni.org.pl,makeupmyday.pl,polityka-spoleczna.lubuskie.pl,polskie-cmentarze.pl,powiat-zielonogorski.pl,relpol.pl",AVAILABILITY,origin.list,2023-08-04 05:10:14.172762
 "copernicuscenter.edu.pl,copernicusfestival.com,filozofiawnauce.pl,naukaireligia.pl",AVAILABILITY,origin.list,2023-08-04 05:10:14.188598
@@ -269,3 +264,8 @@ nike.scriptloade,AVAILABILITY,origin.list,2023-08-04 05:10:25.653471
 "ciam.pl,szczecin.eu",AVAILABILITY,origin.list,2023-08-04 05:10:48.661091
 "bip.gok-nozdrzec.pl,bip.gzeas-nozdrzec.pl,gops-nozdrzec.bip7.pl",AVAILABILITY,origin.list,2023-08-04 05:10:48.694193
 "contentstream.pl,niezlasztuka.net",AVAILABILITY,origin.list,2023-08-04 05:10:48.707318
+.eu,AVAILABILITY,origin.list,2023-08-05 05:10:14.587451
+.info,AVAILABILITY,origin.list,2023-08-05 05:10:15.265646
+.net,AVAILABILITY,origin.list,2023-08-05 05:10:15.325248
+.org,AVAILABILITY,origin.list,2023-08-05 05:10:15.465865
+.com,AVAILABILITY,origin.list,2023-08-05 05:10:15.741135
