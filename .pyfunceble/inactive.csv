@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-.eu,AVAILABILITY,origin.list,2023-08-21 05:10:12.140335
-.info,AVAILABILITY,origin.list,2023-08-21 05:10:12.386271
-.net,AVAILABILITY,origin.list,2023-08-21 05:10:12.561087
-.org,AVAILABILITY,origin.list,2023-08-21 05:10:12.805333
-.com,AVAILABILITY,origin.list,2023-08-21 05:10:12.842845
 "cepelia.com.pl,kultura-regionow.pl,mcksokol.pl,muzeum.sacz.pl,sandecja.org,sandecja.tv",AVAILABILITY,origin.list,2023-08-22 05:10:08.268942
 consentmanager.mgr.consensu.org,AVAILABILITY,origin.list,2023-08-22 05:10:08.516424
 "ck-czestochowa.pl,jamyoni.org.pl,makeupmyday.pl,polityka-spoleczna.lubuskie.pl,polskie-cmentarze.pl,powiat-zielonogorski.pl,relpol.pl",AVAILABILITY,origin.list,2023-08-22 05:10:08.689921
@@ -270,3 +265,8 @@ nike.scriptloade,AVAILABILITY,origin.list,2023-08-22 05:10:17.170707
 "bip.gok-nozdrzec.pl,bip.gzeas-nozdrzec.pl,gops-nozdrzec.bip7.pl",AVAILABILITY,origin.list,2023-08-22 05:10:34.737040
 "cechradomsko.pl,mebleciesielski.eu,meblegal.com.pl,wiktor.d2.pl",AVAILABILITY,origin.list,2023-08-22 05:10:34.751441
 "ciechocinek.biz,gniewkowo.eu,kantor.aliorbank.pl,ki24.info,nizanskie.info",AVAILABILITY,origin.list,2023-08-22 05:10:34.763998
+.eu,AVAILABILITY,origin.list,2023-08-23 05:09:41.504908
+.info,AVAILABILITY,origin.list,2023-08-23 05:09:41.649134
+.net,AVAILABILITY,origin.list,2023-08-23 05:09:41.677262
+.org,AVAILABILITY,origin.list,2023-08-23 05:09:41.944211
+.com,AVAILABILITY,origin.list,2023-08-23 05:09:42.110229
