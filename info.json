@@ -18,6 +18,11 @@
     "ping": [
         "@MajkiIT"
     ],
+    "platform_container_id": null,
+    "platform_description": "Imported from Dead-Hosts legacy infrastructure.",
+    "platform_optout": false,
+    "platform_remote_source_id": null,
+    "platform_shortname": "cookies_filters_git_majkiit",
     "raw_link": "https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/cookies_filters/adblock_cookies.txt",
     "repo": "dead-hosts/cookies_filters_git_MajkiIT",
     "start_datetime": "2020-12-28T01:27:28.333847",
